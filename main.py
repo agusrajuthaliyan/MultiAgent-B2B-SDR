@@ -27,10 +27,15 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-    "https://openai.com",
-    "https://deepmostai.com",
-    "https://stripe.com",
-    "https://www.ibm.com"
+    "https://asana.com",
+    "https://www.shopify.com",
+    "https://www.datadoghq.com",
+    "https://www.zendesk.com",
+    "https://www.snowflake.com",
+    "https://www.notion.so",
+    "https://www.docusign.com",
+    "https://www.mongodb.com",
+    "https://www.twilio.com"
 ]
 # ---------------------
 

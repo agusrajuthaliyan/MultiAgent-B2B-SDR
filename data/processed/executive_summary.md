@@ -1,25 +1,25 @@
 
 # 📊 DeepMost Agentic SDR - Executive Summary
-**Generated:** 2026-02-09 00:39
+**Generated:** 2026-02-10 12:00
 
 ---
 
 ## 🎯 Key Metrics
-- **Total Simulations:** 6
-- **Overall Success Rate:** 50.0%
-- **Average Score:** 4.17/10
-- **Median Conversation Length:** 374 words
+- **Total Simulations:** 11
+- **Overall Success Rate:** 27.3%
+- **Average Score:** 3.64/10
+- **Median Conversation Length:** 428 words
 
 ## 📈 Performance Insights
 
 ### What Works (Success Patterns)
 
-- **Optimal Talk Ratio:** 1.44 (vs 1.82 in failures)
+- **Optimal Talk Ratio:** 1.44 (vs 1.99 in failures)
 - **Avg Turns in Wins:** 3.3 turns
 - **Buyer Engagement:** 49 words/turn in successful calls
 
 ### Top Objection Types
-- **Unknown:** 5 occurrences (40% success rate)
+- **Unknown:** 10 occurrences (20% success rate)
 - **Price:** 1 occurrences (100% success rate)
 
 ## 🚀 Recommendations

@@ -1,0 +1,68 @@
+{
+  "simulation_id": "c3cdb142-475d-4812-9791-3a992897de7b",
+  "timestamp": "2026-02-10T12:05:04.938057",
+  "target_url": "https://www.zendesk.com",
+  "company_context": "Transform Customer & Employee Service with AI Agents | Zendesk India Skip to main content CX Trends Digital Event Hear from AI experts and CX leaders and learn how to lead with AI Register now Zendesk AI Agents Zendesk AI Agents Resolve customer and employee conversations across any channel AI agents Copilot Zendesk AI AI research Trust and security Products Zendesk for customer service The complete AI-powered solution Features AI agents Copilot Ticketing Messaging and live chat Help centre Voice Quality assurance Data privacy and protection Workforce management Enhance your workflows Zendesk for employee service Featured Zendesk for contact centre Zendesk Platform Integrations Solutions Business Enterprise Small business Startups Industries Retail Financial services Education Government Manufacturing Software Healthcare Telecommunications Contact Professional Services Resources Trust and security Events and webinars Customer stories Blog CX Trends What’s new with Zendesk API and developers Partners Professional services Zendesk help centre Community Pricing Company About us Press Events Careers Inclusion & belonging Sustainability Legal Language English (US) English (UK) Español Español (LATAM) Português Français Deutsch Italiano Nederlands Dansk Svenska English (Australia) English (India) English (Singapore) 日本語 한국어 繁體中文 (台灣) 繁體中文 (香港特區) Contact Contact Sales Zendesk help centre Try it for free Sign in Deliver beautifully simple service with Zendesk AI agents Powering over 10,000 AI customers and counting Use your work email to smoothly connect customer emails and existing apps, and also invite team members. Try it for free I agree to Zendesk contacting me with marketing-related communications. By submitting, I agree to Zendesk's Privacy Notice . Trusted by 100,000+ companies Report Zendesk named a Leader in the 2025 Gartner® Magic Quadrant™ for the CRM Customer Engagement Centre Recognised for innovation, vision, and consistent execution in AI-powered service Read the report Perfect the customer experience “Most businesses are sitting on a data gold mine within their customer profiles. We use Zendesk...to get data on customer interactions that no one else is collecting.” Gershwin Exeter Vice President of Global Services Read customer story “With Zendesk AI, I’m seeing an exciting opportunity to streamline and be more efficient. That will allow our team to have more time to work on projects of importance to the business, be it driving revenue or new sales channels.” Ian Hunt Director of CX at Liberty London Read customer story “Zendesk’s integration capabilities, flexibility, and feature depth allow me to be creative with how we’re using it. And they let us scale in really interesting and powerful ways.” Laurie Leduc Head of Community Support Read customer story “The workflows we built in Zendesk Suite allowed us to achieve or exceed customer expectations in handling urgent issues.” Caitlin Wood Vice President of Customer Operations Read custom",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi [CTO Name], this is [SDR Name] calling from DeepData AI. I'm reaching out because I saw Zendesk India's focus on transforming customer and employee service with AI agents, and it got me thinking about the data challenges that often underpin such initiatives. Are you the right person to speak with about how Zendesk India handles its vast amounts of customer data for AI training and analysis?",
+      "word_count": 67,
+      "char_count": 396
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "[CTO Name]: Yes, that's me. And while we are indeed leveraging AI, I'm not sure I see an immediate need for an external data processing solution. We have our own data engineering teams and infrastructure in place. What exactly does DeepData AI do that we can't already achieve internally, and more importantly, why should I spend my time on this call?",
+      "word_count": 61,
+      "char_count": 351
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a fair question, [CTO Name]. Many companies, especially those at the forefront of AI adoption like Zendesk India, face a common bottleneck: the sheer volume and complexity of data required to train effective AI models. Our platform, DeepData AI, specializes in accelerating and optimizing that entire data pipeline – from ingestion and cleaning to enrichment and feature engineering – specifically for AI and machine learning applications. We're not just another ETL tool; we're built to address the unique demands of AI data readiness.",
+      "word_count": 84,
+      "char_count": 543
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "[CTO Name]: \"AI data readiness.\" That sounds like a lot of buzzwords. We've been doing data processing for years. We have robust data lakes, pipelines, and we're constantly refining our models. What specific \"bottleneck\" are you claiming we have that our existing solutions and team can't handle? And frankly, the effort to integrate a new external tool, even for data processing, is significant.",
+      "word_count": 63,
+      "char_count": 396
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the hesitation, and I appreciate your existing infrastructure. The distinction, [CTO Name], lies in the *speed* and *scalability* at which we can prepare data for *advanced AI applications*. For instance, many teams find that the traditional methods, while functional, become a significant drag on the iteration speed of their AI models. DeepData AI uses proprietary algorithms to identify and rectify data anomalies, enrich datasets with external context, and generate synthetic data for edge cases – all in a fraction of the time it typically takes. This allows your data scientists to focus on building and refining models, rather than being bogged down in data wrangling.",
+      "word_count": 107,
+      "char_count": 688
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "[CTO Name]: Speed and scalability are always good, but at what cost? And you mentioned \"proprietary algorithms\" – can you give me a concrete example of how your solution would outperform our current stack in a scenario relevant to Zendesk's customer service AI? For example, say we're training an AI agent to understand nuanced customer sentiment in support tickets. How does DeepData AI specifically improve that process beyond what our current tools can do?",
+      "word_count": 74,
+      "char_count": 459
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 258,
+    "total_buyer_words": 198,
+    "avg_seller_words_per_turn": 86.0,
+    "avg_buyer_words_per_turn": 66.0,
+    "word_ratio_seller_buyer": 1.3,
+    "total_conversation_length": 456
+  }
+}
