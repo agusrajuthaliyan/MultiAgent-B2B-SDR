@@ -1,0 +1,61 @@
+{
+  "simulation_id": "95ad97c9-57ab-4b61-9b4a-dc6d03b938dd",
+  "timestamp": "2026-02-08T13:04:30.400820",
+  "target_url": "https://openai.com",
+  "company_context": "Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "\"Hi Mr. Thompson, my name is Alex from DeepData AI. I'm calling because we've been helping companies like yours, particularly CTOs, significantly reduce the time and resources spent on complex data processing and integration while dramatically improving data accuracy. Do you have a quick 30 seconds to hear how?\"",
+      "word_count": 49,
+      "char_count": 313
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "\"Alex, thanks for the call, but I'm actually in the middle of something critical right now. We're pretty set on our data stack and have a robust team managing it. What specifically is this about that warrants my immediate attention?\"",
+      "word_count": 40,
+      "char_count": 233
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "\"Understood, Mr. Thompson, and I appreciate you even taking my call. My apologies for the timing. Many CTOs I speak with have invested heavily in custom ETL, but still struggle with scaling data ingestion, integrating disparate or messy data sources, or keeping up with data governance mandates. Are those areas your team has completely optimized, or do you still face some bottlenecks there?\"",
+      "word_count": 63,
+      "char_count": 393
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "\"Look, we've built our pipelines in-house, and yes, it's a constant effort, but we have control. 'DeepData AI' sounds like another black-box solution that promises magic. Our data security and compliance requirements are extremely stringent. How could an AI solution handle that better or more securely than our own engineers?\"",
+      "word_count": 50,
+      "char_count": 327
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "\"That's a very valid concern, and 'black box' solutions are exactly what we aim to differentiate from. DeepData AI isn't about replacing your engineers; it's about augmenting them. Our platform uses explainable AI models to intelligently automate the *most tedious* parts of data prep, like schema inference across disparate sources or identifying PII for compliance, while keeping your team in full control and visibility. It integrates with your existing infrastructure, enhancing your data governance, not replacing it. Would you be open to a brief 15-minute screen share next week? I could quickly demo how our platform specifically tackles a compliance-focused data integration scenario, which might resonate with your team's challenges.\"",
+      "word_count": 110,
+      "char_count": 743
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 2,
+    "total_seller_words": 222,
+    "total_buyer_words": 90,
+    "avg_seller_words_per_turn": 74.0,
+    "avg_buyer_words_per_turn": 45.0,
+    "word_ratio_seller_buyer": 2.47,
+    "total_conversation_length": 312
+  }
+}

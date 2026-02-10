@@ -1,0 +1,75 @@
+{
+  "simulation_id": "43290c94-50b8-418e-b69a-fe7a0f601def",
+  "timestamp": "2026-02-08T13:04:57.026424",
+  "target_url": "https://deepmostai.com",
+  "company_context": "DeepMost Perseus | AI Sales Coach Zero-Exposure AI Architecture Your AI Sales Tool Could Be a Lawsuit. We built AI that helps during the call, without creating legal exposure after it. Request Demo Download The Hidden Risk. Every AI sales tool uploads your conversations to someone else's server. Subpoena received for sales conversation recordings... The Subpoena. What exists on their servers can be requested in court. DeepMost Architecture Nothing uploaded. Nothing stored remotely. Nothing to subpoena. The DeepMost Way. AI assistance without the legal exposure. By design. 100% Offline Hardware-Bound No Voiceprints BIPA Safe Zero Exposure. The safest AI architecture for sales conversations. ↓ Scroll to explore Zero Exposure by Design. Not through policies. Not through promises. Through architecture. 100% Offline Nothing leaves your machine. Ever. No cloud endpoints, no external APIs, no uploads. Hardware-Bound Cryptographically tied to your device. Non-transferable. No Voiceprints Zero biometric identifiers created or stored. BIPA-safe. Non-Subpoenable What doesn't exist on someone else's server can't be subpoenaed. Your conversations stay yours. Built for Decision Makers. CIO / IT No cloud risk Hardware-bound IT-approved Legal No biometrics BIPA/GDPR safe Non-subpoenable Sales Real-time AI assist Post-call insights Zero liability Ready to Eliminate AI Risk? If you're evaluating AI tools, this is a conversation worth having before it becomes a problem. Contact Sales Download for Windows",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Alex from DeepData AI. Hope I'm catching you at an okay time, Dr. Reed. My reason for reaching out is that we help tech companies like yours unlock deeper insights from their internal operational data, often without needing an army of data scientists.",
+      "word_count": 43,
+      "char_count": 251
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Alex, always great to hear from another AI vendor. Let me guess, you've got a brilliant AI that's going to transform everything, and all I need to do is upload all my sensitive corporate data to your cloud, right? We're currently dealing with a minefield of AI tools that are creating potential legal exposure just by existing.",
+      "word_count": 57,
+      "char_count": 327
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand that sentiment, Dr. Reed, and honestly, it's a huge problem in the industry right now. You're right to be wary. DeepData AI is a bit different though; we're focused on processing your structured and unstructured operational data – things like system logs, customer support tickets, internal documents – not sales conversations. But the principle of data privacy is absolutely central to our design.",
+      "word_count": 66,
+      "char_count": 422
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Okay, so not sales conversations, but you still want my operational data. How is that any different? Are you telling me your architecture is 100% offline? Hardware-bound? Nothing leaves our machine or network, ever? Because anything less than that still creates a subpoena risk, and we're looking at solutions that fundamentally prevent that exposure by design, not just policy.",
+      "word_count": 59,
+      "char_count": 378
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "You're hitting on a critical point that many vendors sidestep. While DeepData AI isn't an 'offline only, hardware-bound' solution in the exact same way a zero-exposure AI sales coach might be – because our goal is processing *volumes* of diverse operational data – we've designed our architecture to give you maximum data sovereignty. We offer secure on-premise or private cloud deployments where *you* control the environment and data residency. No shared tenant data, advanced encryption with customer-managed keys, and strict access controls are fundamental.",
+      "word_count": 84,
+      "char_count": 561
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Hmm. So you're saying my data isn't just pooled with everyone else's on a vendor-controlled server, waiting for a legal request? You offer true data sovereignty, where it lives within our own secure perimeter? That's definitely a conversation worth having if it mitigates the kind of external subpoena risk we're actively trying to avoid with other AI solutions.",
+      "word_count": 58,
+      "char_count": 362
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Exactly, Dr. Reed. Our goal is to empower you with insights *without* compromising your security posture or creating new legal liabilities. It's about data processing that works *for* you, within your rules. Would you be open to a brief 15-minute follow-up call next week to demonstrate how our architecture achieves this and discuss how it aligns with your internal data governance?",
+      "word_count": 61,
+      "char_count": 383
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Success\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Positive",
+    "parsed": {
+      "score": 5,
+      "outcome": "Success",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Positive"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 254,
+    "total_buyer_words": 174,
+    "avg_seller_words_per_turn": 63.5,
+    "avg_buyer_words_per_turn": 58.0,
+    "word_ratio_seller_buyer": 1.46,
+    "total_conversation_length": 428
+  }
+}

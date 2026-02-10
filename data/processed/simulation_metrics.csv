@@ -1,0 +1,7 @@
+simulation_id,timestamp,target_url,context_length,num_turns,seller_total_words,buyer_total_words,seller_avg_words_per_turn,buyer_avg_words_per_turn,seller_max_words,buyer_max_words,seller_min_words,buyer_min_words,word_ratio_seller_buyer,total_conversation_length,score,outcome_binary,outcome_label,objection_type
+95ad97c9-57ab-4b61-9b4a-dc6d03b938dd,2026-02-08T13:04:30.400820,https://openai.com,41,2,222,90,74.0,45.0,110,50,49,40,2.47,312,3,0,Pending,Unknown
+43290c94-50b8-418e-b69a-fe7a0f601def,2026-02-08T13:04:57.026424,https://deepmostai.com,1510,3,254,174,63.5,58.0,84,59,43,57,1.46,428,5,1,Success,Unknown
+752c57c7-3f4b-4f17-860e-174c717bb689,2026-02-08T13:05:17.121356,https://stripe.com,3000,3,282,159,94.0,53.0,117,60,74,45,1.77,441,5,1,Success,Unknown
+968daf59-917c-4a45-a46f-6eee2b9edd86,2026-02-08T13:05:36.891932,https://www.ibm.com,3000,3,287,169,95.67,56.33,115,67,75,47,1.7,456,3,0,Pending,Unknown
+c7efa28d-4f2a-4a00-ac29-3d570b602488,2026-02-08T23:18:43.442043,https://www.salesforce.com/in/,3000,4,181,140,45.25,35.0,57,50,21,0,1.29,321,0,0,Error,Unknown
+7b97d187-c4d2-45f7-befa-b00dfed4e88a,2026-02-08T23:24:18.907347,https://www.zoho.com/,3000,4,163,149,40.75,37.25,51,48,21,33,1.09,312,9,1,Success,Price
