@@ -1,0 +1,75 @@
+{
+  "simulation_id": "be9b60d5-a54e-456f-a413-54b55dc1eec5",
+  "timestamp": "2026-02-11T15:29:56.395644",
+  "target_url": "https://www.sap.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.sap.com/\" on this server. Reference #18.76a2dfad.1770803990.472ca092 https://errors.edgesuite.net/18.76a2dfad.1770803990.472ca092",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours unlock insights from their data. I came across your company and noticed you're using SAP, but I saw that you're experiencing some access issues. Can you tell me a bit more about what's going on with that?",
+      "word_count": 59,
+      "char_count": 328
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're having some problems with access permissions on our SAP server. But to be honest, I'm not sure how that's relevant to your product. We've got a lot on our plate right now, and I'm not looking to add any new vendors to the mix.",
+      "word_count": 47,
+      "char_count": 246
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, but bear with me for a minute. Our solution can actually help alleviate some of the pain points you're experiencing with SAP. By integrating with your existing SAP system, DeepData AI can help you process and analyze large datasets more efficiently, which could potentially reduce the load on your server and mitigate some of those access issues. Have you considered how much time and resources your team is spending on data processing and analysis currently?",
+      "word_count": 80,
+      "char_count": 500
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(pauses) Okay, I'll give you that. We do spend a lot of time on data processing. But we've already invested heavily in our SAP system, and I'm not convinced that adding another solution on top of it is the best use of our resources. What makes DeepData AI so special that it's worth the additional cost and complexity?",
+      "word_count": 58,
+      "char_count": 318
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair question. What sets us apart is our AI-powered engine that can handle complex data processing tasks at scale, without requiring significant infrastructure upgrades or additional headcount. We've seen companies like yours achieve significant ROI by reducing manual data processing time by up to 70% and improving data accuracy by up to 90%. I'd love to schedule a follow-up conversation to dive deeper into how DeepData AI can address your specific pain points and provide a customized demo. Would you be open to that?",
+      "word_count": 86,
+      "char_count": 531
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(hesitates) Okay, fine. I'll give you 30 minutes next week. But I'm warning you, I'm going to be tough to convince. And if this is just a sales pitch, you're wasting your time. I need to see real value and a clear understanding of how this integrates with our existing SAP system.",
+      "word_count": 52,
+      "char_count": 280
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand. I'll make sure to come prepared with specific examples and a tailored demo that speaks to your needs. I'm looking forward to our conversation next week and exploring how DeepData AI can help your team achieve their goals. Thank you for considering our solution, and I'll talk to you soon.",
+      "word_count": 53,
+      "char_count": 314
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Success\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Success",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 278,
+    "total_buyer_words": 157,
+    "avg_seller_words_per_turn": 69.5,
+    "avg_buyer_words_per_turn": 52.33,
+    "word_ratio_seller_buyer": 1.77,
+    "total_conversation_length": 435
+  }
+}

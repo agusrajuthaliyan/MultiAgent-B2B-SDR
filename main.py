@@ -1,17 +1,18 @@
 """
 Batch Processing Pipeline for DeepMost Agentic SDR
+====================================================
 
-This script runs the sales simulation on multiple target sites
-and saves all data for analysis.
+Runs the sales simulation on multiple target sites and saves
+all data for analysis. Works with any LLM provider (Groq/Gemini)
+configured via LLM_PROVIDER in .env
 """
 
 import os
 import sys
-import io
 import pandas as pd
 import time
 from src.scraper import simple_scraper
-from src.agent_logic import generate_synthetic_call, analyze_call
+from src.agent_logic import generate_synthetic_call, analyze_call, get_provider_info
 from src.data_manager import data_manager
 
 # Handle Unicode output for Windows
@@ -27,16 +28,21 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-    "https://asana.com",
-    "https://www.shopify.com",
-    "https://www.datadoghq.com",
-    "https://www.zendesk.com",
-    "https://www.snowflake.com",
-    "https://www.notion.so",
-    "https://www.docusign.com",
-    "https://www.mongodb.com",
-    "https://www.twilio.com"
+    "https://www.microsoft.com",
+    "https://www.oracle.com",
+    "https://www.sap.com",
+    "https://www.workday.com",
+    "https://www.servicenow.com",
+    "https://www.tableau.com",
+    "https://www.databricks.com",
+    "https://www.splunk.com",
+    "https://www.twilio.com",
+    "https://www.docusign.com"
 ]
+
+# Dynamic inter-site delay based on provider
+_provider_info = get_provider_info()
+INTER_SITE_DELAY = 3 if _provider_info["provider"] == "groq" else 10
 # ---------------------
 
 
@@ -46,7 +52,9 @@ def run_pipeline():
     Saves data using the data manager for comprehensive analysis.
     """
     dataset = []
-    print(f"[START] Starting Agentic Pipeline on {len(TARGET_SITES)} targets...", flush=True)
+    info = get_provider_info()
+    print(f"[START] Agentic Pipeline | Provider: {info['provider'].upper()} | Model: {info['model']}", flush=True)
+    print(f"[START] Processing {len(TARGET_SITES)} targets...", flush=True)
 
     for idx, site in enumerate(TARGET_SITES, 1):
         print(f"\n[{idx}/{len(TARGET_SITES)}] Processing: {site}", flush=True)
@@ -56,7 +64,7 @@ def run_pipeline():
         
         if context:
             # Step 2: Generate Conversation
-            print("   ...Simulating Agents", flush=True)
+            print(f"   ...Simulating Agents ({info['provider'].upper()})", flush=True)
             dialogue = generate_synthetic_call(context)
             
             if dialogue:
@@ -92,19 +100,16 @@ Feedback: Auto-generated from batch pipeline. Sentiment: {sentiment}"""
                 })
                 print(f"   [SUCCESS] {outcome} ({sentiment})", flush=True)
                 
-                # Rate Limit Safety (Free Tier)
-                # Each site uses ~2 API calls (generate + analyze).
-                # The per-call delay is handled inside _generate_content,
-                # but we add extra buffer between sites to be safe.
+                # Rate Limit Safety
                 if idx < len(TARGET_SITES):
-                    print(f"   [WAIT] Pausing 10s before next site (rate-limit safety)...", flush=True)
-                    time.sleep(10)
+                    print(f"   [WAIT] Pausing {INTER_SITE_DELAY}s before next site...", flush=True)
+                    time.sleep(INTER_SITE_DELAY)
             else:
                 print("   [FAILED] Failed to generate dialogue.", flush=True)
         else:
             print("   [FAILED] Failed to get context.", flush=True)
 
-    # Save Results (legacy format)
+    # Save Results
     if dataset:
         df = pd.DataFrame(dataset)
         output_path = "data/processed/sales_dataset.csv"

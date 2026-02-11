@@ -1,0 +1,68 @@
+{
+  "simulation_id": "00ee0e8c-e04c-4a8d-bd35-f79164cf4f8c",
+  "timestamp": "2026-02-11T15:30:20.494219",
+  "target_url": "https://www.tableau.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.tableau.com/\" on this server. Reference #18.6c01c045.1770804017.7c96ed5 https://errors.edgesuite.net/18.6c01c045.1770804017.7c96ed5",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a company that specializes in data processing solutions. I came across your company and noticed that you're using Tableau for data visualization, but I saw that you're experiencing some access issues with their website. I was wondering if you're experiencing any similar issues with your internal data management.",
+      "word_count": 61,
+      "char_count": 378
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're having some trouble with accessing Tableau's site, but that's not really a concern for me right now. We've got more pressing issues to deal with. What makes you think we need a data processing solution like DeepData AI?",
+      "word_count": 41,
+      "char_count": 239
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from my research, it seems like your company is dealing with a large amount of data from various sources. Our solution can help you streamline your data management process, reduce errors, and increase efficiency. We've worked with similar companies in the past and have seen significant improvements in their data analysis capabilities. I'd love to schedule a demo to show you how DeepData AI can help.",
+      "word_count": 67,
+      "char_count": 408
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure we need another data processing solution. We've already invested a lot in our current infrastructure, and I'm not convinced that DeepData AI can offer anything significantly better. What sets you apart from other solutions on the market?",
+      "word_count": 41,
+      "char_count": 262
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair question. Our AI-powered engine is able to handle large volumes of data much faster and more accurately than traditional solutions. We've also developed a proprietary algorithm that can identify and fix data quality issues in real-time, which can save your team a significant amount of time and resources. Additionally, our solution is highly scalable and can integrate seamlessly with your existing infrastructure, including Tableau.",
+      "word_count": 67,
+      "char_count": 448
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still skeptical) I'll be honest, I'm not impressed by buzzwords like \"AI-powered\" and \"proprietary algorithm\". Can you give me some concrete numbers on how DeepData AI has helped other companies in terms of cost savings or efficiency gains? And what kind of support and training do you offer to ensure a smooth implementation?",
+      "word_count": 53,
+      "char_count": 327
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 195,
+    "total_buyer_words": 135,
+    "avg_seller_words_per_turn": 65.0,
+    "avg_buyer_words_per_turn": 45.0,
+    "word_ratio_seller_buyer": 1.44,
+    "total_conversation_length": 330
+  }
+}

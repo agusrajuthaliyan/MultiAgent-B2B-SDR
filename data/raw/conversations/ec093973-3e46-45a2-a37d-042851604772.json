@@ -1,0 +1,75 @@
+{
+  "simulation_id": "ec093973-3e46-45a2-a37d-042851604772",
+  "timestamp": "2026-02-11T15:29:47.844109",
+  "target_url": "https://www.oracle.com",
+  "company_context": "fw_error_www This site is experiencing technical difficulty. We are aware of the issue and are working as quickly as possible to correct the issue. We apologize for any inconvenience this may have caused. To speak with an Oracle sales representative: 1.800.ORACLE1. To contact Oracle Corporate Headquarters from anywhere in the world: 1.650.506.7000. To get technical support in the United States: 1.800.633.0738. Incident Number: 0.47952317.1770803984.45352a59",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. I came across your company while researching organizations that could benefit from our data processing solution. I saw that your website is currently experiencing technical difficulties, and I wanted to see if our solution could help prevent similar issues in the future.",
+      "word_count": 54,
+      "char_count": 330
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, I don't have time for this. We're in the middle of resolving a critical issue with our website, and I'm not interested in hearing about some new product or service. What makes you think your solution can even help us?",
+      "word_count": 42,
+      "char_count": 231
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you're busy, and I apologize for the timing. However, our solution, DeepData AI, is specifically designed to help companies like yours process and analyze large amounts of data in real-time, which can help identify and prevent technical issues like the one you're experiencing. We've had success with similar companies in the past, and I'd love to discuss how our solution can help you.",
+      "word_count": 66,
+      "char_count": 404
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I've heard that before. Every vendor claims their solution can solve all our problems. What makes DeepData AI different, and how do I know it's not just another sales pitch?",
+      "word_count": 31,
+      "char_count": 185
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair question. What sets us apart is our proprietary AI-powered engine that can handle massive amounts of data and provide actionable insights in real-time. We've also had success with companies in similar industries, such as XYZ Corporation, where we were able to reduce their downtime by 30% and improve their overall system performance. I'd be happy to provide a case study or set up a demo to show you how our solution can work for your company.",
+      "word_count": 79,
+      "char_count": 458
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still skeptical) I'm not convinced. We've already invested heavily in our current infrastructure, and I'm not sure I want to rip and replace everything. What kind of ROI can I expect from implementing DeepData AI, and how long would it take to see results?",
+      "word_count": 44,
+      "char_count": 257
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about investment and ROI. Our solution is designed to be flexible and can integrate with your existing infrastructure, so you don't have to start from scratch. In terms of ROI, our average customer sees a return on investment within 6-12 months, with some customers seeing results as soon as 3-4 months. I'd be happy to provide a customized ROI analysis for your company and discuss how we can help you achieve your goals. Would you be open to a follow-up conversation next week to discuss further?",
+      "word_count": 90,
+      "char_count": 525
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 289,
+    "total_buyer_words": 117,
+    "avg_seller_words_per_turn": 72.25,
+    "avg_buyer_words_per_turn": 39.0,
+    "word_ratio_seller_buyer": 2.47,
+    "total_conversation_length": 406
+  }
+}

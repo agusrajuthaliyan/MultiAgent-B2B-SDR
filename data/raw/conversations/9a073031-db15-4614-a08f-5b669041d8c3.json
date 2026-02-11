@@ -1,0 +1,75 @@
+{
+  "simulation_id": "9a073031-db15-4614-a08f-5b669041d8c3",
+  "timestamp": "2026-02-11T15:29:41.832053",
+  "target_url": "https://www.microsoft.com",
+  "company_context": "Microsoft Thank you for your patience We are currently experiencing high demand. Please wait and try again later. All external to Microsoft Health Beacon traffic should be routed to: http://www.msftncsi.com/ncsi.txt ID: 18.94d70b17.1770803978.ee57859b",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure and gain valuable insights. I came across your company and thought our solution could be a great fit. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 57,
+      "char_count": 331
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, I don't have a lot of time for sales calls. We're currently experiencing some issues with our external traffic routing to Microsoft, and I'm trying to troubleshoot that. What makes you think your solution is relevant to us?",
+      "word_count": 40,
+      "char_count": 237
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand you're busy, and I apologize for the timing. However, I'd like to propose that our solution could actually help alleviate some of the issues you're experiencing with data processing and routing. Our AI-powered engine can handle large volumes of data and provide real-time insights, which could help you identify and resolve issues like the one you're experiencing with Microsoft. Can I ask, what specific challenges are you facing with your current data processing setup?",
+      "word_count": 76,
+      "char_count": 484
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure I want to invest in another solution that promises the world. We've tried a few data processing tools in the past, and they've all underdelivered. What makes DeepData AI different, and how do I know it will integrate with our existing infrastructure?",
+      "word_count": 46,
+      "char_count": 275
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair concern. DeepData AI is built on a scalable and flexible architecture that allows for seamless integration with existing systems. We've worked with several companies in similar industries, and our solution has consistently delivered significant improvements in data processing efficiency and insight generation. I'd be happy to provide some case studies and references if you're interested. Additionally, we offer a free trial period to allow you to test our solution in your environment and see the value for yourself.",
+      "word_count": 81,
+      "char_count": 533
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(somewhat intrigued) Okay, I'll listen. But I need to see some concrete evidence that your solution can handle our specific use case. Can you walk me through how DeepData AI would address our Microsoft routing issue, and what kind of support you offer to ensure a smooth implementation?",
+      "word_count": 48,
+      "char_count": 286
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. Our solution can be configured to handle specific routing requirements, and our support team is available 24/7 to ensure a seamless onboarding process. I can also offer to set up a customized demo to show you how DeepData AI can address your specific pain points. Would you be open to a follow-up conversation next week to discuss further?",
+      "word_count": 59,
+      "char_count": 351
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 273,
+    "total_buyer_words": 134,
+    "avg_seller_words_per_turn": 68.25,
+    "avg_buyer_words_per_turn": 44.67,
+    "word_ratio_seller_buyer": 2.04,
+    "total_conversation_length": 407
+  }
+}

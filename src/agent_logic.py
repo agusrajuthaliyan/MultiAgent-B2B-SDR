@@ -1,48 +1,120 @@
-from google import genai
+"""
+Agent Logic Module — Unified Multi-Provider Edition
+=====================================================
+
+Supports both Gemini and Groq as LLM backends.
+Provider is selected via the LLM_PROVIDER env var in .env
+
+Providers & Free Tier Limits:
+  Groq   : 30 RPM | 14,400 RPD | 40,000 TPM  (recommended)
+  Gemini : 15 RPM |  1,000 RPD
+
+Usage:
+  Set LLM_PROVIDER=groq   in .env for Groq   (default)
+  Set LLM_PROVIDER=gemini in .env for Gemini
+"""
+
 import os
 import time
 import random
 from dotenv import load_dotenv
 
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
-
-# Initialize the new GenAI client
-client = genai.Client(api_key=api_key)
 
 # ---------------------------------------------------------------
-# MODEL SELECTION  (Free-Tier Optimized)
+# PROVIDER SELECTION
 # ---------------------------------------------------------------
-# gemini-2.5-flash      : 10 RPM | 20 RPD  (extremely limited)
-# gemini-2.5-flash-lite : 15 RPM | 1000 RPD (50x more daily quota)
-#
-# We default to flash-lite for free-tier friendliness.
-# Switch to 'gemini-2.5-flash' if you have a paid plan.
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "groq").lower().strip()
+
 # ---------------------------------------------------------------
-MODEL_ID = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+# PROVIDER: GROQ
+# ---------------------------------------------------------------
+if LLM_PROVIDER == "groq":
+    from groq import Groq
 
-# Rate-limit configuration (tuned for free tier)
-_RATE_LIMIT_CONFIG = {
-    "gemini-2.5-flash":      {"delay_between_calls": 7.0,  "rpm": 10},
-    "gemini-2.5-flash-lite": {"delay_between_calls": 4.5,  "rpm": 15},
-}
-_cfg = _RATE_LIMIT_CONFIG.get(MODEL_ID, {"delay_between_calls": 5.0, "rpm": 10})
-DELAY_BETWEEN_CALLS = _cfg["delay_between_calls"]
+    _api_key = os.getenv("GROQ_API_KEY")
+    _client = Groq(api_key=_api_key)
 
-# Track the timestamp of the last API call for pacing
+    # Model selection — free tier
+    # llama-3.3-70b-versatile : Best quality, 30 RPM / 14,400 RPD
+    # llama-3.1-8b-instant    : Ultra fast, lighter tasks
+    # mixtral-8x7b-32768      : Good balance
+    MODEL_ID = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+
+    _RATE_LIMIT_CONFIG = {
+        "llama-3.3-70b-versatile":  {"delay": 2.5, "rpm": 30},
+        "llama-3.1-8b-instant":     {"delay": 2.0, "rpm": 30},
+        "mixtral-8x7b-32768":       {"delay": 2.5, "rpm": 30},
+    }
+    _cfg = _RATE_LIMIT_CONFIG.get(MODEL_ID, {"delay": 2.5, "rpm": 30})
+    DELAY_BETWEEN_CALLS = _cfg["delay"]
+
+    def _call_llm(prompt: str) -> str:
+        """Send a prompt to Groq and return the text response."""
+        response = _client.chat.completions.create(
+            model=MODEL_ID,
+            messages=[
+                {"role": "system", "content": "You are a helpful AI assistant for sales simulation and analysis."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.7,
+            max_tokens=2048,
+        )
+        return response.choices[0].message.content.strip()
+
+# ---------------------------------------------------------------
+# PROVIDER: GEMINI
+# ---------------------------------------------------------------
+elif LLM_PROVIDER == "gemini":
+    from google import genai
+
+    _api_key = os.getenv("GEMINI_API_KEY")
+    _client = genai.Client(api_key=_api_key)
+
+    # Model selection — free tier
+    # gemini-2.5-flash      : 10 RPM | 20 RPD  (extremely limited)
+    # gemini-2.5-flash-lite : 15 RPM | 1000 RPD (50x more daily quota)
+    MODEL_ID = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
+
+    _RATE_LIMIT_CONFIG = {
+        "gemini-2.5-flash":      {"delay": 7.0, "rpm": 10},
+        "gemini-2.5-flash-lite": {"delay": 4.5, "rpm": 15},
+    }
+    _cfg = _RATE_LIMIT_CONFIG.get(MODEL_ID, {"delay": 5.0, "rpm": 10})
+    DELAY_BETWEEN_CALLS = _cfg["delay"]
+
+    def _call_llm(prompt: str) -> str:
+        """Send a prompt to Gemini and return the text response."""
+        response = _client.models.generate_content(
+            model=MODEL_ID,
+            contents=prompt
+        )
+        return response.text.strip()
+
+else:
+    raise ValueError(
+        f"Unknown LLM_PROVIDER: '{LLM_PROVIDER}'. "
+        f"Set LLM_PROVIDER to 'groq' or 'gemini' in your .env file."
+    )
+
+print(f"[CONFIG] Provider: {LLM_PROVIDER.upper()} | Model: {MODEL_ID} | Delay: {DELAY_BETWEEN_CALLS}s", flush=True)
+
+# ---------------------------------------------------------------
+# RATE-LIMITED CONTENT GENERATION (shared by both providers)
+# ---------------------------------------------------------------
 _last_call_time = 0.0
-
-print(f"[CONFIG] Model: {MODEL_ID} | Delay: {DELAY_BETWEEN_CALLS}s between calls", flush=True)
 
 
 def _generate_content(prompt: str, max_retries: int = 4) -> str:
     """
     Generate content with automatic rate-limit handling.
-    
+
     Features:
     - Inter-call delay to stay under RPM
-    - Exponential backoff on 429 / Resource Exhausted errors
+    - Exponential backoff on 429 / rate-limit errors
     - Jitter to avoid thundering-herd with concurrent usage
+
+    Works identically for both Groq and Gemini.
     """
     global _last_call_time
 
@@ -55,23 +127,18 @@ def _generate_content(prompt: str, max_retries: int = 4) -> str:
 
         try:
             _last_call_time = time.time()
-            response = client.models.generate_content(
-                model=MODEL_ID,
-                contents=prompt
-            )
-            return response.text.strip()
+            return _call_llm(prompt)
 
         except Exception as e:
             error_str = str(e).lower()
 
-            # Detect rate-limit / quota errors
             is_rate_limit = any(kw in error_str for kw in [
                 "429", "resource exhausted", "rate limit",
-                "quota", "too many requests", "resourceexhausted"
+                "quota", "too many requests", "rate_limit_exceeded",
+                "resourceexhausted"
             ])
 
             if is_rate_limit and attempt < max_retries - 1:
-                # Exponential backoff: 15s, 30s, 60s, ... + jitter
                 backoff = min(15 * (2 ** attempt), 120) + random.uniform(1, 5)
                 print(
                     f"   [RATE LIMIT] Hit rate limit (attempt {attempt + 1}/{max_retries}). "
@@ -86,6 +153,10 @@ def _generate_content(prompt: str, max_retries: int = 4) -> str:
     print("   [Error] All retries exhausted.", flush=True)
     return ""
 
+
+# ---------------------------------------------------------------
+# PUBLIC API  (same interface regardless of provider)
+# ---------------------------------------------------------------
 
 def generate_synthetic_call(context: str) -> str:
     """
@@ -113,7 +184,7 @@ def analyze_call(dialogue: str) -> tuple:
     """
     Analyze a sales call dialogue and return sentiment and outcome.
     Used by main.py for batch processing.
-    
+
     Returns:
         tuple: (sentiment, outcome)
     """
@@ -130,11 +201,10 @@ def analyze_call(dialogue: str) -> tuple:
     OUTCOME: [Success/Failure/Pending]
     """
     result = _generate_content(prompt)
-    
-    # Parse the result
+
     sentiment = "Neutral"
     outcome = "Pending"
-    
+
     try:
         for line in result.split('\n'):
             if 'SENTIMENT:' in line.upper():
@@ -143,16 +213,18 @@ def analyze_call(dialogue: str) -> tuple:
                 outcome = line.split(':')[1].strip()
     except:
         pass
-    
+
     return sentiment, outcome
 
 
 class SalesSimulation:
+    """Multi-turn sales simulation engine. Works with any LLM provider."""
+
     def __init__(self, company_context):
         self.context = company_context
         self.history = []
         self.max_turns = 6
-        
+
     def _get_buyer_response(self, last_seller_msg):
         """The Buyer Agent: Skeptical, busy, protective of budget."""
         prompt = f"""
@@ -184,21 +256,17 @@ class SalesSimulation:
 
     def run_turn(self, turn_number):
         """Executes ONE turn of conversation (Seller -> Buyer)."""
-        
-        # 1. Seller Speaks first or responds
         if turn_number == 0:
             seller_msg = "Hi, this is Alex from DeepData AI. I noticed your company is scaling fast\u2014are you currently struggling with data processing costs?"
         else:
-            # Get last buyer message
             last_buyer = self.history[-1][1]
             seller_msg = self._get_seller_response(last_buyer)
-            
+
         self.history.append(("Seller", seller_msg))
-        
-        # 2. Buyer Responds
+
         buyer_msg = self._get_buyer_response(seller_msg)
         self.history.append(("Buyer", buyer_msg))
-        
+
         return seller_msg, buyer_msg
 
     def analyze_result(self):
@@ -218,3 +286,12 @@ class SalesSimulation:
         if result:
             return result
         return "Score: 0\nOutcome: Error"
+
+
+def get_provider_info() -> dict:
+    """Return current provider configuration for display in UI."""
+    return {
+        "provider": LLM_PROVIDER,
+        "model": MODEL_ID,
+        "delay": DELAY_BETWEEN_CALLS,
+    }

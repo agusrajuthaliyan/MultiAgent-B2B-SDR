@@ -18,6 +18,8 @@ import os
 import json
 import csv
 import uuid
+import time as _time
+from contextlib import contextmanager
 from datetime import datetime
 from typing import Dict, List, Any, Optional
 import pandas as pd
@@ -31,6 +33,40 @@ CONVERSATIONS_DIR = os.path.join(RAW_DIR, "conversations")
 # Ensure directories exist
 for dir_path in [DATA_DIR, RAW_DIR, PROCESSED_DIR, CONVERSATIONS_DIR]:
     os.makedirs(dir_path, exist_ok=True)
+
+
+@contextmanager
+def _safe_open(filepath, mode='a', retries=5, delay=0.5, **kwargs):
+    """
+    Open a file with automatic retry on PermissionError.
+
+    On Windows, CSV files can be temporarily locked by other processes
+    (Excel, another Python reader, antivirus scanning, etc.). This wrapper
+    retries the open() call a few times before giving up.
+    """
+    last_err = None
+    for attempt in range(retries):
+        try:
+            f = open(filepath, mode, **kwargs)
+            try:
+                yield f
+            finally:
+                f.close()
+            return
+        except PermissionError as e:
+            last_err = e
+            if attempt < retries - 1:
+                print(
+                    f"   [FILE LOCK] {os.path.basename(filepath)} is locked "
+                    f"(attempt {attempt + 1}/{retries}), retrying in {delay}s...",
+                    flush=True,
+                )
+                _time.sleep(delay)
+    raise PermissionError(
+        f"Could not write to {filepath} after {retries} attempts. "
+        f"Make sure the file is not open in Excel or another program. "
+        f"Original error: {last_err}"
+    )
 
 
 class SimulationDataManager:
@@ -49,7 +85,7 @@ class SimulationDataManager:
         """Create CSV files with headers if they don't exist."""
         # Master simulations CSV
         if not os.path.exists(self.master_csv_path):
-            with open(self.master_csv_path, 'w', newline='', encoding='utf-8') as f:
+            with _safe_open(self.master_csv_path, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 writer.writerow([
                     'simulation_id', 'timestamp', 'target_url', 'company_context_length',
@@ -61,7 +97,7 @@ class SimulationDataManager:
         
         # Turns CSV (for turn-level analysis)
         if not os.path.exists(self.turns_csv_path):
-            with open(self.turns_csv_path, 'w', newline='', encoding='utf-8') as f:
+            with _safe_open(self.turns_csv_path, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 writer.writerow([
                     'simulation_id', 'turn_number', 'speaker', 'message',
@@ -70,7 +106,7 @@ class SimulationDataManager:
         
         # Metrics CSV (for ML-ready features)
         if not os.path.exists(self.metrics_csv_path):
-            with open(self.metrics_csv_path, 'w', newline='', encoding='utf-8') as f:
+            with _safe_open(self.metrics_csv_path, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 writer.writerow([
                     'simulation_id', 'timestamp', 'target_url',
@@ -240,7 +276,7 @@ class SimulationDataManager:
             }
         }
         
-        with open(filepath, 'w', encoding='utf-8') as f:
+        with _safe_open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         
         return filename
@@ -251,7 +287,7 @@ class SimulationDataManager:
         parsed_analysis: Dict, metrics: Dict, conversation_file: str
     ):
         """Append a row to the master simulations CSV."""
-        with open(self.master_csv_path, 'a', newline='', encoding='utf-8') as f:
+        with _safe_open(self.master_csv_path, 'a', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
             writer.writerow([
                 simulation_id,
@@ -275,7 +311,7 @@ class SimulationDataManager:
         conversation_history: List[tuple]
     ):
         """Append individual turns to the turns CSV."""
-        with open(self.turns_csv_path, 'a', newline='', encoding='utf-8') as f:
+        with _safe_open(self.turns_csv_path, 'a', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
             for i, (role, message) in enumerate(conversation_history):
                 writer.writerow([
@@ -297,7 +333,7 @@ class SimulationDataManager:
         outcome_label = parsed_analysis['outcome']
         outcome_binary = 1 if 'success' in outcome_label.lower() else 0
         
-        with open(self.metrics_csv_path, 'a', newline='', encoding='utf-8') as f:
+        with _safe_open(self.metrics_csv_path, 'a', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
             writer.writerow([
                 simulation_id,
