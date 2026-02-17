@@ -1,0 +1,68 @@
+{
+  "simulation_id": "e2a41ce2-af1c-4adc-8777-b86948cfc842",
+  "timestamp": "2026-02-17T17:53:04.190217",
+  "target_url": "https://www.akamai.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.akamai.com/\" on this server. Reference #18.bcbc5668.1771330981.74e4079 https://errors.edgesuite.net/18.bcbc5668.1771330981.74e4079",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure and improve performance. I came across your company and noticed you're using Akamai, but I saw that you're experiencing some access denied errors. Can you tell me a bit more about what's going on with that?",
+      "word_count": 62,
+      "char_count": 365
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're getting those errors sporadically, but our team is on top of it. We've been using Akamai for years and it's been working fine for the most part. What makes you think your solution can help us with this?",
+      "word_count": 41,
+      "char_count": 222
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that Akamai is a great CDN, but our solution can actually help you identify and resolve the root cause of those access denied errors. DeepData AI uses machine learning to analyze your data traffic and detect patterns that might be causing the issues. We've seen similar companies reduce their error rates by up to 90% after implementing our solution. Would you be open to exploring how our solution can help you?",
+      "word_count": 73,
+      "char_count": 425
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure I'm convinced. We've got a team of experienced engineers who are already working on this. What makes you think your solution is going to be able to do something that our team can't? And what's the cost of implementing your solution? I'm not looking to add more expenses to our budget.",
+      "word_count": 55,
+      "char_count": 309
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. Our solution is designed to augment your existing team, not replace them. We've worked with many companies who have similar setups to yours, and our solution has been able to identify issues that their internal teams missed. As for cost, we offer a customized pricing model that's based on your specific usage and needs. I'd be happy to set up a demo and show you how our solution can work for you, and then we can discuss pricing. Would you be available for a 30-minute demo next week?",
+      "word_count": 93,
+      "char_count": 525
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(hesitates) I suppose it couldn't hurt to take a look. But I'm going to need to see some concrete evidence that your solution can actually deliver on its promises. And I'll need to loop in our engineering team to make sure they're on board with whatever we decide to do. Can you send over some case studies or testimonials from similar companies that you've worked with?",
+      "word_count": 66,
+      "char_count": 370
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 228,
+    "total_buyer_words": 162,
+    "avg_seller_words_per_turn": 76.0,
+    "avg_buyer_words_per_turn": 54.0,
+    "word_ratio_seller_buyer": 1.41,
+    "total_conversation_length": 390
+  }
+}

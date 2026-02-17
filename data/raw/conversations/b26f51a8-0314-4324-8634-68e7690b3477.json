@@ -1,0 +1,75 @@
+{
+  "simulation_id": "b26f51a8-0314-4324-8634-68e7690b3477",
+  "timestamp": "2026-02-17T17:53:30.994808",
+  "target_url": "https://www.adp.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.adp.com/\" on this server. Reference #18.6cbc5668.1771331008.86d6382 https://errors.edgesuite.net/18.6cbc5668.1771331008.86d6382",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure. I came across your company and noticed that you're using ADP for payroll processing. I'd love to discuss how our solution can help you streamline your data workflow.",
+      "word_count": 54,
+      "char_count": 325
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Ah, another sales call. What makes you think we need your solution? We've been using ADP for years and it's worked fine for us. What's the value proposition of DeepData AI?",
+      "word_count": 32,
+      "char_count": 184
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, but our solution is designed to complement existing systems like ADP. We've worked with several companies in the industry who were facing similar challenges with data silos and inefficiencies. Our AI-powered engine can help you automate data processing, reduce errors, and provide real-time insights. For instance, one of our clients was able to reduce their data processing time by 30% and increase their accuracy by 25%.",
+      "word_count": 71,
+      "char_count": 463
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(still skeptical) That sounds too good to be true. We've tried other data processing solutions before, and they've always required significant IT resources to implement and maintain. How does DeepData AI differ from those solutions, and what kind of support do you offer?",
+      "word_count": 43,
+      "char_count": 271
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about implementation and maintenance. Our solution is designed to be cloud-based and scalable, so you don't need to worry about heavy IT lifting. We also offer comprehensive support, including onboarding, training, and ongoing customer success management. Our average implementation time is around 6-8 weeks, and we provide dedicated support to ensure a smooth transition. Would you be open to a demo to see how our solution can address your specific pain points?",
+      "word_count": 76,
+      "char_count": 490
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(somewhat interested) Okay, I'm willing to listen. But I have to warn you, our IT team is very particular about security and compliance. How does DeepData AI ensure the security and integrity of our data, especially given the access denied error we're experiencing with ADP?",
+      "word_count": 45,
+      "char_count": 274
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Security and compliance are top priorities for us. Our solution is built on a secure, SOC 2-compliant infrastructure, and we adhere to the highest standards of data encryption and access controls. We've also worked with companies in regulated industries, such as finance and healthcare, to ensure our solution meets their stringent compliance requirements. I'd be happy to provide more information on our security protocols and compliance certifications during the demo. Would you like to schedule a demo for this week or next?",
+      "word_count": 82,
+      "char_count": 527
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 283,
+    "total_buyer_words": 120,
+    "avg_seller_words_per_turn": 70.75,
+    "avg_buyer_words_per_turn": 40.0,
+    "word_ratio_seller_buyer": 2.36,
+    "total_conversation_length": 403
+  }
+}
