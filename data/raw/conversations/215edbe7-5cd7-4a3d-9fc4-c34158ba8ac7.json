@@ -1,0 +1,75 @@
+{
+  "simulation_id": "215edbe7-5cd7-4a3d-9fc4-c34158ba8ac7",
+  "timestamp": "2026-02-17T17:49:31.991124",
+  "target_url": "https://www.rubrik.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.rubrik.com/\" on this server. Reference #18.a4c333b8.1771330769.23fdd32 https://errors.edgesuite.net/18.a4c333b8.1771330769.23fdd32",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. I came across your company while researching innovative tech firms, and I noticed you're using Rubrik for data management. I'd love to introduce you to our solution, which can help optimize your data processing and reduce costs. Can you spare a few minutes to discuss?",
+      "word_count": 57,
+      "char_count": 327
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're happy with our current setup. What makes you think we need something new? And how did you even get my number?",
+      "word_count": 24,
+      "char_count": 129
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I apologize if this call is unexpected. I found your contact information through a industry directory. Regarding your current setup, I've worked with several companies who were satisfied with their existing solutions, but after implementing DeepData AI, they saw significant improvements in data processing efficiency and cost savings. Our AI-powered engine can help you uncover hidden insights and automate tasks, freeing up your team to focus on higher-value projects. Would you be open to exploring how our solution can complement your existing infrastructure?",
+      "word_count": 83,
+      "char_count": 563
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure I buy into the whole \"AI-powered\" hype. We've tried similar solutions before, and they didn't deliver on their promises. What makes DeepData AI different, and how can you guarantee it will work for us?",
+      "word_count": 38,
+      "char_count": 226
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, and I appreciate your willingness to consider alternative solutions. DeepData AI is different because it's specifically designed for enterprises like yours, with complex data environments. Our solution has been tested and proven in various industries, with an average ROI of 300% within the first year. I'd be happy to provide case studies and references from our existing clients. Additionally, we offer a pilot program that allows you to test our solution in a controlled environment, so you can see the value for yourself before making any commitments.",
+      "word_count": 92,
+      "char_count": 596
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) I suppose it couldn't hurt to take a look. But I need to warn you, our IT team is very protective of our current infrastructure, and it'll take a lot to convince them to adopt something new. What kind of support and resources do you offer to ensure a smooth implementation and integration with our existing systems?",
+      "word_count": 59,
+      "char_count": 332
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand the concerns of your IT team, and I appreciate your transparency. We have a dedicated implementation team that works closely with our clients to ensure seamless integration with their existing infrastructure. We also provide comprehensive training and support to ensure your team is comfortable using our solution. I'd be happy to set up a call with our implementation team to discuss the details and answer any questions your IT team may have. Would that be something you'd be interested in exploring further?",
+      "word_count": 85,
+      "char_count": 534
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 317,
+    "total_buyer_words": 121,
+    "avg_seller_words_per_turn": 79.25,
+    "avg_buyer_words_per_turn": 40.33,
+    "word_ratio_seller_buyer": 2.62,
+    "total_conversation_length": 438
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "simulation_id": "50915744-e3b2-47ae-ba6d-4922051a1882",
+  "timestamp": "2026-02-17T17:50:10.098364",
+  "target_url": "https://www.toasttab.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data management setup?",
+      "word_count": 41,
+      "char_count": 233
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're not really in the market for any new solutions right now. We've got a team of engineers who handle our data processing, and it's working just fine. What makes you think we need something like DeepData AI?",
+      "word_count": 40,
+      "char_count": 224
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you may have a existing setup, but our solution has been able to help similar companies increase their data processing efficiency by up to 30% and reduce costs by up to 25%. We've also had success in helping companies like yours uncover new insights and revenue streams through our advanced analytics capabilities. Would you be open to exploring how DeepData AI could potentially help your team?",
+      "word_count": 69,
+      "char_count": 413
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) Those sound like pretty lofty claims. How do you plan on integrating with our existing systems, and what kind of resources would we need to dedicate to implementing your solution? We can't afford to disrupt our current operations.",
+      "word_count": 39,
+      "char_count": 242
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution is designed to be highly flexible and can integrate with a wide range of systems, including those that are custom-built. We've also developed a comprehensive onboarding process that requires minimal resources from your team. In fact, one of our current customers was able to get up and running with DeepData AI in just a few weeks. I'd be happy to set up a demo to show you how it works and answer any technical questions you may have.",
+      "word_count": 84,
+      "char_count": 473
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still skeptical) Okay, fine. I'll take a look. But like I said, we're not really in the market for anything new right now. You'll need to convince me that this is worth our time and investment. What kind of support and maintenance do you offer, and what are the costs associated with your solution?",
+      "word_count": 54,
+      "char_count": 299
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 194,
+    "total_buyer_words": 133,
+    "avg_seller_words_per_turn": 64.67,
+    "avg_buyer_words_per_turn": 44.33,
+    "word_ratio_seller_buyer": 1.46,
+    "total_conversation_length": 327
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "simulation_id": "492629f8-844f-4350-8f14-2be09b1e4967",
+  "timestamp": "2026-02-17T17:50:02.616272",
+  "target_url": "https://www.qualtrics.com",
+  "company_context": "Qualtrics XM: The Leading Experience Management Software - Qualtrics Skip to main content The full keynote lineup is here—and spots are filling fast. Register now Customer Experience Intelligence_ Understand every customer. Act when it counts. Turn customer experience into a revenue driver with AI that identifies at-risk customers and delivers the actions to keep them — before they churn. Request Demo Learn more Why Qualtrics_ Three powerful suites for optimizing Qualtrics experiences across your business xm for Customer Experience Software to drive better experiences across every digital and physical touchpoint Watch Demo LEARN MORE XM FOR Employee Experience Software to engage teams, improve manager effectiveness and make informed people decisions WATCH DEMO Learn More XM FOR Strategy & Research Software to design products people love, increase market share, and accelerate growth WATCH DEMO LEARN MORE THE XM PLATFORM_ All-in experience management, amplified with trusted AI LEARN MORE You’re in good company CASE STUDY_ “ Qualtrics is modernizing how we listen to customers, analyze their feedback and resolve pain points WATCH NOW CASE STUDY_ “ The guest feedback we get from Qualtrics is pivotal to what we do from the products to the experience WATCH DEMO CASE STUDY_ “ The link between our testing, design, and development teams allows us to build breakthrough products WATCH NOW CASE STUDY_ “ We need to continue to raise the bar, and in true Porsche fashion, we are with Qualtrics WATCH DEMO CASE STUDY_ “ Partnering with Qualtrics we can get feedback into the hands of doctors to make a difference for patients WATCH DEMO XM Resources_ Explore Experience Management X4 2026 – The Experience Management Summit Register now Qualtrics demo center—See XM in action WATCH DEMO 2026 Global Employee Experience Trends DOWNLOAD NOW 2026 Global Market Research Trends Report DOWNLOAD NOW 2026 Consumer Experience Trends Report DOWNLOAD NOW Jump-start your research programs with Qualtrics today BUY NOW The World’s #1 XM Platform 3M frontline users 2B conversations analyzed 2X leader in IDC analyst reports #1 XM platform 20,000 customers 100+ countries around the world use Qualtrics THE FUTURE OF XM_ Discover how AI is transforming the XM landscape with our latest innovative products and next generation AI features. Manager Assist Manager Assist Customer Care Assist WATCH DEMO Reimagining XM with AI WATCH NOW Qualtrics AI: Unlock insights from Customer and Employee Interactions WATCH NOW Frontline Locations Assist WATCH DEMO Conversational Feedback WATCH DEMO Text Analytics Insights & Recommendations WATCH DEMO × Play Video close × Play Video close Request demo Thank you. We'll be in touch shortly. First Name Last Name Company Job Title Email Phone Number - Select - Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Bela",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company, Qualtrics, and was impressed with the work you're doing in experience management. I wanted to reach out and explore how our data processing solution can help you optimize your operations.",
+      "word_count": 49,
+      "char_count": 294
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Ah, another sales call. What makes you think we need a data processing solution? We're already using various tools to manage our customer experience data.",
+      "word_count": 26,
+      "char_count": 166
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand your skepticism, but our solution is designed to handle large volumes of complex data, which is typical in experience management. We've worked with similar companies in the past and have seen significant improvements in data analysis and decision-making. I'd love to schedule a demo to show you how DeepData AI can help you uncover new insights and automate your data workflows.",
+      "word_count": 63,
+      "char_count": 391
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(objection) I'm not sure we need another tool to add to our tech stack. We're already investing in various software solutions, and I'm concerned about integration and compatibility issues. How does your solution integrate with our existing systems?",
+      "word_count": 38,
+      "char_count": 248
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a valid concern. Our solution is designed to be flexible and adaptable, with APIs and connectors that allow seamless integration with popular tools and platforms. We've also worked with companies that use similar systems to yours, and we've developed pre-built connectors to simplify the integration process. I can provide you with some case studies and references from our existing customers who have successfully integrated our solution with their systems.",
+      "word_count": 70,
+      "char_count": 465
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(objection) I'm still not convinced. What kind of ROI can we expect from implementing your solution? We need to prioritize investments that will drive significant revenue growth or cost savings.",
+      "word_count": 30,
+      "char_count": 194
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand. Our solution has been shown to deliver significant ROI through improved data analysis, reduced manual processing time, and enhanced decision-making. In fact, one of our customers in the experience management space saw a 25% reduction in manual data processing time and a 15% increase in revenue growth after implementing our solution. I can provide you with a customized ROI analysis and proposal based on your specific needs and goals.",
+      "word_count": 72,
+      "char_count": 461
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(somewhat interested) Okay, I'm willing to listen. But I need to see some concrete examples and data to support your claims. Can you send me some information and schedule a follow-up call to discuss further?",
+      "word_count": 35,
+      "char_count": 207
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely. I'll send you some case studies, whitepapers, and a customized proposal outlining how DeepData AI can help Qualtrics achieve its goals. I'll also schedule a follow-up call for next week to discuss your specific needs and answer any questions you may have. Thank you for considering DeepData AI, and I look forward to speaking with you again soon.",
+      "word_count": 59,
+      "char_count": 358
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 313,
+    "total_buyer_words": 129,
+    "avg_seller_words_per_turn": 62.6,
+    "avg_buyer_words_per_turn": 32.25,
+    "word_ratio_seller_buyer": 2.43,
+    "total_conversation_length": 442
+  }
+}
