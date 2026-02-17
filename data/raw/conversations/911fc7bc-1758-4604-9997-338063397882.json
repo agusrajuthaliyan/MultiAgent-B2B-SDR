@@ -1,0 +1,75 @@
+{
+  "simulation_id": "911fc7bc-1758-4604-9997-338063397882",
+  "timestamp": "2026-02-18T02:35:04.770324",
+  "target_url": "https://www.informatica.com",
+  "company_context": "AI Powered Cloud Data Management | Informatica Skip to main content Get AI-ready at the MDM & Data Governance Summit. Save My Spot 2026 Gartner ® Magic Quadrant ™ for Data and Analytics Governance Platforms 15 vendors assessed — Informatica is named a Leader get report Salesforce Completes Acquisition of Informatica see what's next Everybody’s ready for AI except your data ™ Informatica helps you realize business value faster by managing the entire lifecycle of your data — from ensuring data health and trust to supporting enterprise use cases with AI-powered cloud data management. see how Leading Brands Component Leading brands unlock value with trusted, AI-powered data Citizens Bank's cloud MDM modernization pays off Read the Story 85% faster data onboarding 99.95% uptime and elastic scale Petmate fetches a winning cloud data strategy Read the Story 92% faster data integration Automated order-to-cash process Holiday Inn Club Vacations finds customer data paradise Read the Story <4 month cloud migration 7+ systems consolidated SUBARU shifts data integration into high gear Read the Story 400 data catalogs completed Improved data quality and traceability MABE breaks regional silos to drive AI success Read the Story $200K+ saved with higher data quality Shorter AI development lifecycles Informatica Intelligent Data Management Cloud ™ Powered by CLAIRE ® AI, the Intelligent Data Management Cloud ™ simplifies data access, automates labor-intensive tasks and ensures AI-readiness, enterprise-level scalability, security and compliance — all while delivering measurable return on data investments and flexible, consumption-based pricing. Informatica Cloud Metadata System of Intelligence Intelligent Data Management Cloud TM Intelligent Data Management Cloud Intelligent Data Management Cloud TM Copilots • Agents • GPT Integrated Data & AI Services DATA CATALOG DATA INTEGRATION API & APP INTEGRATION AI AGENT ENGINEERING DATA QUALITY & OBSERVABILITY MDM & 360 APPLICATIONS GOVERNANCE, ACCESS & PRIVACY DATA MARKETPLACE Metadata System of Intelligence Multi-Cloud & Hybrid 50,000+ Metadata-Aware Connections Global Scale Security & Compliance Flexible Pricing One solution for the entire lifecycle of data explore the platform Drive better AI with better data Deliver trusted data for analytics and AI learn more Let CLAIRE do the heavy lifting learn more Your one-stop, AI-powered data solution for any use case Analytics and Business Intelligence learn more Application Modernization learn more Business Process Automation learn more Cloud Modernization learn more Customer Experience Optimization learn more Generative AI learn more Regulatory Compliance & ESG learn more Supply Chain Optimization learn more A Leader in 5 Gartner ® Magic Quadrant ™ reports Recognized for data quality, data and analytics governance, data integration, iPaaS and metadata management Augmented data quality solutions Improve data quality and insight discovery. view report Data and analytics gover",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative with DeepData AI. I came across your company while researching organizations that are invested in data management and governance. I understand that you're currently using Informatica for your data management needs, but I'd like to introduce you to our solution that can help you further optimize your data processing and analytics capabilities.",
+      "word_count": 63,
+      "char_count": 407
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Another sales call. What makes you think we need another data management solution? We've just implemented Informatica and are still in the process of getting everything set up. What can you offer that they can't?",
+      "word_count": 36,
+      "char_count": 220
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, and I'm not here to replace Informatica. However, our solution, DeepData AI, is a complementary tool that can help you process and analyze your data more efficiently. We've worked with companies that use Informatica and have seen significant improvements in data quality, integration, and analytics. Our AI-powered engine can help you automate labor-intensive tasks, such as data cataloging and integration, and provide real-time insights that can inform your business decisions.",
+      "word_count": 75,
+      "char_count": 520
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(still skeptical) That sounds like a lot of marketing fluff. How does it actually work, and what kind of ROI can we expect? We've invested a lot in Informatica, and I'm not sure we're ready to add another tool to our stack.",
+      "word_count": 42,
+      "char_count": 223
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I'd be happy to walk you through a demo and show you some case studies from similar companies. But to give you a brief overview, our solution uses machine learning algorithms to identify patterns and anomalies in your data, and then provides recommendations for improvement. We've seen companies like Citizens Bank and Petmate achieve significant reductions in data onboarding time and improvements in data quality. In terms of ROI, we've seen our customers achieve an average of 25% reduction in data management costs and a 30% increase in analytics productivity.",
+      "word_count": 90,
+      "char_count": 564
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(somewhat intrigued) Okay, I'll give you 10 minutes to show me what you've got. But if this is just a sales pitch, I'm hanging up. I need to see something concrete that can help us address our current data management challenges.",
+      "word_count": 41,
+      "char_count": 228
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand. Let me just share my screen with you, and I'll walk you through a demo of our solution. (shares screen) As you can see, our platform provides a unified view of your data assets, and allows you to easily catalog, integrate, and analyze your data. We've also integrated with popular data sources like Salesforce and Informatica, so you can easily connect your existing systems to our platform. (starts demo)",
+      "word_count": 72,
+      "char_count": 431
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 300,
+    "total_buyer_words": 119,
+    "avg_seller_words_per_turn": 75.0,
+    "avg_buyer_words_per_turn": 39.67,
+    "word_ratio_seller_buyer": 2.52,
+    "total_conversation_length": 419
+  }
+}

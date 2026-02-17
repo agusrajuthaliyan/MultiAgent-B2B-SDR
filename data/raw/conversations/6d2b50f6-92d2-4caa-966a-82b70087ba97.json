@@ -1,0 +1,89 @@
+{
+  "simulation_id": "6d2b50f6-92d2-4caa-966a-82b70087ba97",
+  "timestamp": "2026-02-18T02:36:54.696303",
+  "target_url": "https://www.heroku.com",
+  "company_context": "The AI PaaS for Deploying, Managing, and Scaling Apps Search overlay panel for performing site-wide searches Search For: Close Boost Performance & Scale with Postgres Advanced. Join Pilot Now! Search Open Search Popup Account menu Login Sign Up The AI PaaS For Deploying, Managing, and Scaling Apps Heroku tackles the toil — patching and upgrading, 24/7 ops and security, build systems, failovers, and more. Stay focused on building great data-driven applications. Get Started Now Explore the Heroku Platform A streamlined platform for building AI applications and agents Heroku makes it easy to build with AI, without the complexity of managing your own AI services. Access leading AI models and build faster with Managed Inference and Agents, and extend your AI with Model Context Protocol (MCP). Heroku Managed Inference and Agents Access leading models with minimal setup – heroku ai:models:create is all you need. Heroku Managed Inference and Agents helps you quickly build and deploy AI applications and agents, providing a unified platform that connects your application, AI, data, and tools. Model Context Protocol (MCP) on Heroku Extend your AI agents with tools and APIs using the open Model Context Protocol. Easily host and scale MCP servers on Heroku to enhance your agents with a broad ecosystem of tools, or your own custom logic. pgvector for Heroku Postgres Build full retrieval augmented generation (RAG) applications or leverage vector similarity search with pgvector on Heroku Postgres. Seamlessly store and query embeddings alongside your app data using the same trusted Heroku database experience. Learn more about Heroku AI Powerful platform, unparalleled ecosystem Don’t reinvent the wheel. Heroku’s 150+ third-party add-ons and 380+ open source buildpacks provide a rich ecosystem of preintegrated extensions and services Officially supported languages Node.js Ruby Java PHP Python Go Scala Clojure .NET In addition to our officially supported languages, you can use any language that runs on Linux with Heroku via a third-party buildpack. All Heroku Buildpacks Developers CTOs Teams Startups Enterprises Agencies Students Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and scale apps. Deliver your unique apps, your own way. Whether you’re building a simple prototype or a business-critical product, Heroku’s fully-managed platform gives you the simplest path to delivering apps quickly — using the tools and languages you already love! Get Started Now Explore Heroku Solutions A powerful and innovative feature set Built for developers, by developers. Heroku Runtime Heroku runs your apps inside dynos — smart containers which execute on a reliable, fully managed runtime environment. Heroku Postgres Heroku’s trusted, secure, and scalable fully managed PostgreSQL database as a service, optimized for developers. Heroku Key-Value Store The Redis you love with a more robust developer experience, fully managed and delivered as a service by He",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company and was impressed with the work you're doing in AI application development. I wanted to reach out to you today to discuss how our data processing solution can help you scale your operations more efficiently.",
+      "word_count": 54,
+      "char_count": 313
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Okay, what makes you think we need another data processing solution? We're already using Heroku and it's working fine for us. What can DeepData AI do that Heroku can't?",
+      "word_count": 30,
+      "char_count": 176
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you're already invested in Heroku, and it's a great platform for deploying and managing apps. However, our solution is specifically designed for large-scale data processing and can handle complex workloads more efficiently. With DeepData AI, you can process and analyze vast amounts of data in real-time, which can be a game-changer for your AI application development. We've seen our clients achieve up to 30% faster processing times and 25% cost savings by switching to our solution.",
+      "word_count": 79,
+      "char_count": 503
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) That sounds too good to be true. How do you plan to integrate with our existing Heroku setup, and what kind of support do you offer? We can't afford to have our developers spending weeks trying to integrate a new solution.",
+      "word_count": 42,
+      "char_count": 234
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. Our solution is designed to be plug-and-play, and we have a dedicated team of experts who will work closely with your developers to ensure a seamless integration. We also offer 24/7 support and a comprehensive documentation portal to help your team get up to speed quickly. Additionally, we have a number of pre-built connectors for popular platforms like Heroku, so you can get started right away.",
+      "word_count": 71,
+      "char_count": 437
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still skeptical) Okay, I'll listen. But how do you handle security and compliance? We're dealing with sensitive customer data, and we can't compromise on that.",
+      "word_count": 25,
+      "char_count": 160
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Security and compliance are top priorities for us. Our solution is built with enterprise-grade security features, including encryption, access controls, and auditing. We're also compliant with major regulatory frameworks, such as GDPR and HIPAA. We can provide you with a detailed security and compliance overview, and our team can work with your security experts to ensure that our solution meets your standards.",
+      "word_count": 62,
+      "char_count": 413
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(thoughtfully) Alright, I'm willing to consider it. But what kind of costs are we looking at? We're on a tight budget, and I need to make sure that any new solution we bring in is going to provide a clear ROI.",
+      "word_count": 41,
+      "char_count": 209
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "We offer a flexible pricing model that scales with your needs. Our pricing is based on the amount of data processed, and we offer discounts for large volumes. I can provide you with a customized pricing quote based on your specific requirements. We also offer a free trial, so you can test our solution and see the benefits for yourself before committing to a purchase. Would you like me to send over some more information and schedule a follow-up call to discuss further?",
+      "word_count": 83,
+      "char_count": 472
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 349,
+    "total_buyer_words": 138,
+    "avg_seller_words_per_turn": 69.8,
+    "avg_buyer_words_per_turn": 34.5,
+    "word_ratio_seller_buyer": 2.53,
+    "total_conversation_length": 487
+  }
+}

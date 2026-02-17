@@ -28,7 +28,7 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-"https://www.zscaler.com", "https://www.akamai.com", "https://www.fortinet.com", "https://www.wrike.com", "https://squareup.com", "https://www.adp.com", "https://www.braze.com", "https://amplitude.com", "https://www.squarespace.com", "https://www.paychex.com"
+"https://www.alteryx.com", "https://www.qlik.com", "https://www.informatica.com", "https://www.netapp.com", "https://www.purestorage.com", "https://www.juniper.net", "https://www.arista.com", "https://www.f5.com", "https://www.citrix.com", "https://www.nutanix.com", "https://www.commvault.com", "https://www.veeam.com", "https://www.solarwinds.com", "https://www.manageengine.com", "https://www.jetbrains.com", "https://www.postman.com", "https://www.sentry.io", "https://www.vercel.com", "https://www.netlify.com", "https://www.heroku.com"
 ]
 
 # Dynamic inter-site delay based on provider

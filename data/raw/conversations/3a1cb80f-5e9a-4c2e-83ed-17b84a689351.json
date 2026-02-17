@@ -1,0 +1,75 @@
+{
+  "simulation_id": "3a1cb80f-5e9a-4c2e-83ed-17b84a689351",
+  "timestamp": "2026-02-18T02:36:28.874250",
+  "target_url": "https://www.postman.com",
+  "company_context": "Postman: The World's Leading API Platform | Sign Up for Free Where the world builds APIs Unify API design, testing, documentation, monitoring, and discovery on one platform that integrates with the rest of your stack, including every major gateway and Git solution. Sign Up for Free Download the desktop app for Your browser does not support the video tag. Powering the world's leading API teams Postman brings every API, team, and workspace together onto one governed platform. Explore Platform DESIGN Design APIs your teams can build on Define APIs collaboratively with built-in support for standards like OpenAPI and GraphQL. Postman makes it easy to model requests, document behavior, and align teams before a single line of code is written. Explore Spec Hub → BUILD Deliver reliable APIs, together Organize your API requests, collaborate seamlessly across teams, and automate workflows visually in one connected workspace. Go from idea to working API without switching tools or losing context. Explore Collections → TEST Test with consistency across every environment Automate functional, integration, and regression testing across your API ecosystem. Integrations with CI/CD pipelines ensure every release meets your organization’s standards. Explore Collection Runner → OBSERVE Monitor every API with clarity and confidence Track every endpoint and validate performance across your API ecosystem. With built-in monitoring and actionable insights, Postman helps teams ensure reliability, uptime, and SLA compliance before issues impact users. Explore Monitors → Loading... Explore our use cases Discover how Postman can support your workflows across the API lifecycle. See all solutions→ Test Automation AI API Governance API Security Connect Postman to your favorite tools Postman seamlessly integrates with the critical systems your teams use every day, from Git and CI/CD to project management and team chat. Discover integrations → Sign Up for Free Watch a Demo Talk to Sales Our team has deep experience supporting organizations with their API programs. Get in touch with us to set up a demo or explore ways Postman can help you achieve your API goals. Your browser does not support the video tag. This form requires JavaScript to function. Please enable JavaScript for the best experience on this site. This form is prevented from loading because JavaScript is disabled. Please enable JavaScript for the best experience on this site. Enterprise-ready for modern API programs 98% 300M 1M Learn More",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company, and I was impressed with the work you're doing with APIs. I wanted to reach out and see if our data processing solution could help you streamline your operations.",
+      "word_count": 48,
+      "char_count": 269
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Ah, another sales call. What makes you think we need a data processing solution? We're already using Postman for our API management, and it's working fine for us.",
+      "word_count": 29,
+      "char_count": 174
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that Postman is a great tool for API management, but our solution, DeepData AI, is designed to help with the data processing and analysis that happens behind the scenes. We've worked with other companies in the industry who were using Postman, and our solution was able to help them reduce data processing time by up to 70%. I'd love to discuss how our solution could complement your existing workflow.",
+      "word_count": 71,
+      "char_count": 415
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(still skeptical) I'm not sure I see the value in that. We're already using other tools for data analysis, and I'm not convinced that your solution would be worth the investment. What makes DeepData AI so special?",
+      "word_count": 37,
+      "char_count": 213
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our solution uses machine learning algorithms to automate data processing and provide real-time insights. This allows our customers to make data-driven decisions faster and more accurately. Additionally, our solution integrates seamlessly with Postman, so you wouldn't have to change your existing workflow. We've had great success with other customers in the industry, and I'd be happy to provide some case studies if you're interested.",
+      "word_count": 64,
+      "char_count": 437
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(somewhat interested) Okay, I'll listen. But I need to see some concrete numbers and examples of how your solution has helped other companies. And I'm still not convinced that it's worth the cost. Can you provide some pricing information and a demo of your solution?",
+      "word_count": 45,
+      "char_count": 266
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. I'd be happy to provide some case studies and pricing information. We offer a customized pricing plan based on the specific needs of each customer. As for a demo, I can schedule a call with one of our solution engineers to walk you through our platform and show you how it can integrate with your existing workflow. Would you be available for a demo next week?",
+      "word_count": 67,
+      "char_count": 372
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 250,
+    "total_buyer_words": 111,
+    "avg_seller_words_per_turn": 62.5,
+    "avg_buyer_words_per_turn": 37.0,
+    "word_ratio_seller_buyer": 2.25,
+    "total_conversation_length": 361
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "simulation_id": "72929ead-2bb1-4b9a-b3e2-ebf9e3e57dbf",
+  "timestamp": "2026-02-18T02:34:41.009725",
+  "target_url": "https://www.qlik.com",
+  "company_context": "Qlik Data Integration, Data Quality, and Analytics Solutions Support Back Community Customer Support Customer Portal Onboarding Product Documentation Training Company Back Company Leadership Corporate Responsibility Diversity, Equality, Inclusion, and Belonging Academic Program Partners Careers Newsroom Global Offices Login Back Qlik Back Qlik Cloud Community Support Portal Qlik Learning Partner Hub Talend Back Talend Cloud Community Support Portal Qlik Learning Partner Hub Why Qlik? Back Why Qlik Turn your data into real business outcomes Back Why Qlik? Discover how Qlik delivers trusted data at speed and scale to power your AI initiatives. Learn More Agentic AI Qlik's agentic experience unifies your data, agents, assistants, and platforms. Learn More Technology Partners and Integrations Extend the value of Qlik data integration and analytics Back Integrations & Connectors Connect and combine data from hundreds of sources Learn More Featured Technology Partners AWS Google Microsoft Snowflake SAP Databricks Cloudera Products Back Data Integration Back Data Integration and Quality Deliver trusted data across your organization, so you move faster on data driven projects, make smarter decisions, and run more efficiently. Learn More Core Capabilities Data Foundation for AI Open Lakehouse Data Movement Data Quality and Governance Data Streaming Data Products Data Transformation Application and API Integration Data Warehouse Automation SAP Solutions Pricing Try for Free Data Sources and Targets Access and integrate the data you need to deliver greater business outcomes Qlik MCP Server Qlik Services Qlik Roadmap Analyst Report 2026 Gartner® Magic Quadrant™ for Augmented Data Quality Solutions Read Report Analytics & AI Back Qlik Cloud Analytics Inform every decision through AI-powered insight Learn More Core Capabilities Agentic AI AI Assistant Predictive AI Anomaly Detection Visualizations and Dashboards Reporting Embedded Analytics Automation and Orchestration Data Preparation Data Products Pricing Try for Free Data Sources Connect and combine data from hundreds of sources to fuel your ever-evolving analytics needs Qlik MCP Server Qlik Services Qlik Roadmap Annual Conference Like our keynote speaker, find your different at Qlik Connect! Register Now All Products Back All Analytics & AI Products Qlik Cloud Analytics® All the power of Qlik analytics solutions in a cloud-based SaaS deployment Qlik Sense® (On-prem) Seamless integration of data from multiple systems Qlik Answers® GenAI-driven answers from unstructured content Qlik Automate™ Automatically trigger informed action on most SaaS applications Qlik Predict™ Forecast business trends and act faster with explainable predictive AI All Data Integration and Quality Products Qlik Talend® Cloud Get a trusted data foundation to power your AI, ML, and analytics Talend® Data Fabric Unify, integrate, and govern disparate data environments Qlik Compose® for Data Lakes Automate your data pipelines to create an",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data integration and analytics. I came across your company, and I noticed you're currently using Qlik for your data needs. Can you tell me a little bit about your current data processing workflow and any challenges you're facing?",
+      "word_count": 62,
+      "char_count": 370
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're using Qlik, and it's been... adequate. But to be honest, we're not really getting the insights we need from our data. It's taking our team too long to process and analyze, and we're starting to fall behind on our decision-making. What makes you think DeepData AI can help us?",
+      "word_count": 52,
+      "char_count": 295
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd like to address them. DeepData AI is designed to handle large volumes of data and provide real-time insights, which can help you make faster and more informed decisions. Our solution is also scalable, so it can grow with your company's needs. We've had success with similar companies in the past, and I'd love to discuss how we can help you overcome your current challenges. Can I ask, what specific pain points are you experiencing with Qlik?",
+      "word_count": 82,
+      "char_count": 479
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) Look, we've invested a lot in Qlik, and I'm not sure I want to add another tool to our stack. How is DeepData AI going to integrate with our existing infrastructure, and what kind of support can you offer to ensure a smooth transition? We can't afford to have our team spending weeks or months learning a new system.",
+      "word_count": 60,
+      "char_count": 328
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a valid concern. DeepData AI is designed to be highly integratable, and we have pre-built connectors for many popular data sources, including Qlik. Our implementation team will work closely with your team to ensure a seamless transition, and we offer comprehensive training and support to get your team up and running quickly. We also have a flexible pricing model that can be tailored to your company's specific needs. I'd be happy to set up a demo to show you how DeepData AI can work in conjunction with Qlik to enhance your data processing capabilities.",
+      "word_count": 95,
+      "char_count": 564
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still skeptical) Okay, I'll consider it. But can you tell me, what kind of ROI can we expect from implementing DeepData AI? We need to be able to justify the cost to our stakeholders, and I need to be convinced that it's worth the investment.",
+      "word_count": 45,
+      "char_count": 243
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. We've had customers see an average ROI of 300% within the first year of implementation, and we've helped companies like yours reduce their data processing time by up to 70%. I can share some case studies and testimonials with you, and we can work together to create a customized ROI analysis to help you justify the investment to your stakeholders. Would you like me to send over some information and schedule a follow-up call to discuss further?",
+      "word_count": 78,
+      "char_count": 458
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 317,
+    "total_buyer_words": 157,
+    "avg_seller_words_per_turn": 79.25,
+    "avg_buyer_words_per_turn": 52.33,
+    "word_ratio_seller_buyer": 2.02,
+    "total_conversation_length": 474
+  }
+}
