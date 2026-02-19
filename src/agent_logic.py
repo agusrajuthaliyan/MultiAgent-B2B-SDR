@@ -171,50 +171,75 @@ def generate_synthetic_call(context: str) -> str:
     
     The SDR is selling 'DeepData AI' - a data processing solution.
     
-    Generate 4-6 turns of dialogue. Format each line as:
+    Generate 5-7 turns of dialogue. Format each line as:
     SELLER: [message]
     BUYER: [message]
     
-    Make the conversation realistic with objections and responses.
+    IMPORTANT RULES:
+    - Make the conversation realistic with objections (Price, Timing, Competitors, Authority, Integration).
+    - The conversation MUST end with a CLEAR OUTCOME from the BUYER — either:
+      (a) The buyer AGREES to book a demo/meeting (Success), OR
+      (b) The buyer firmly REJECTS/DECLINES the offer (Failure).
+    - Do NOT end the conversation with an open question or vague "let me think about it".
+    - The final line must be from the BUYER with a definitive decision.
+    - Aim for roughly 50% success and 50% failure outcomes across different calls.
     """
     return _generate_content(prompt)
 
 
 def analyze_call(dialogue: str) -> tuple:
     """
-    Analyze a sales call dialogue and return sentiment and outcome.
+    Analyze a sales call dialogue and return detailed results.
     Used by main.py for batch processing.
 
     Returns:
-        tuple: (sentiment, outcome)
+        tuple: (sentiment, outcome, score, key_objection, feedback)
     """
     prompt = f"""
-    Analyze this sales call transcript and provide:
-    1. Sentiment: Positive, Neutral, or Negative
-    2. Outcome: Success (meeting booked), Failure (rejected), or Pending (follow-up needed)
+    Act as a Sales Coach. Analyze this sales call transcript carefully:
     
-    Transcript:
     {dialogue}
     
-    Respond in exactly this format (one word each):
-    SENTIMENT: [Positive/Neutral/Negative]
-    OUTCOME: [Success/Failure/Pending]
+    Determine the outcome based on what ACTUALLY happened in the conversation:
+    - Success: The buyer agreed to a meeting, demo, trial, or next step
+    - Failure: The buyer rejected, declined, or ended the conversation negatively
+    - Pending: ONLY if the conversation genuinely ended without any resolution
+    
+    Return strictly in this format (no extra text):
+    Score: [1-10]
+    Outcome: [Success/Failure/Pending]
+    Key_Objection: [Price/Timing/Authority/Competitors/Integration/None]
+    Sentiment: [Positive/Neutral/Negative]
+    Feedback: [1 sentence of actionable advice for the seller]
     """
     result = _generate_content(prompt)
 
     sentiment = "Neutral"
     outcome = "Pending"
+    score = 5
+    key_objection = "Unknown"
+    feedback = ""
 
     try:
         for line in result.split('\n'):
-            if 'SENTIMENT:' in line.upper():
-                sentiment = line.split(':')[1].strip()
-            elif 'OUTCOME:' in line.upper():
-                outcome = line.split(':')[1].strip()
-    except:
+            line_stripped = line.strip()
+            if line_stripped.upper().startswith('SENTIMENT:'):
+                sentiment = line_stripped.split(':', 1)[1].strip()
+            elif line_stripped.upper().startswith('OUTCOME:'):
+                outcome = line_stripped.split(':', 1)[1].strip()
+            elif line_stripped.upper().startswith('SCORE:'):
+                score_str = line_stripped.split(':', 1)[1].strip()
+                if '/' in score_str:
+                    score_str = score_str.split('/')[0]
+                score = int(score_str.strip())
+            elif line_stripped.upper().startswith('KEY_OBJECTION:') or line_stripped.upper().startswith('KEY OBJECTION:'):
+                key_objection = line_stripped.split(':', 1)[1].strip()
+            elif line_stripped.upper().startswith('FEEDBACK:'):
+                feedback = line_stripped.split(':', 1)[1].strip()
+    except Exception:
         pass
 
-    return sentiment, outcome
+    return sentiment, outcome, score, key_objection, feedback
 
 
 class SalesSimulation:

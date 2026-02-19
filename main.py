@@ -28,7 +28,12 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-"https://www.alteryx.com", "https://www.qlik.com", "https://www.informatica.com", "https://www.netapp.com", "https://www.purestorage.com", "https://www.juniper.net", "https://www.arista.com", "https://www.f5.com", "https://www.citrix.com", "https://www.nutanix.com", "https://www.commvault.com", "https://www.veeam.com", "https://www.solarwinds.com", "https://www.manageengine.com", "https://www.jetbrains.com", "https://www.postman.com", "https://www.sentry.io", "https://www.vercel.com", "https://www.netlify.com", "https://www.heroku.com"
+"https://www.linode.com", "https://www.vultr.com", "https://www.hetzner.com", "https://www.ovhcloud.com", "https://www.nginx.com",
+"https://www.apache.org", "https://www.mysql.com", "https://www.postgresql.org", "https://www.jenkins.io", "https://www.docker.com",
+"https://www.kubernetes.io", "https://www.terraform.io", "https://www.ansible.com", "https://www.gitlab.com", "https://www.bitbucket.org",
+"https://www.confluence.com", "https://www.basecamp.com", "https://www.crunchbase.com", "https://www.glassdoor.com", "https://www.builtwith.com",
+"https://www.g2.com", "https://www.capterra.com", "https://www.trustradius.com", "https://www.similarweb.com", "https://www.statista.com",
+"https://www.deel.com", "https://www.gusto.com", "https://www.rippling.com", "https://www.lattice.com", "https://www.cultureamp.com"
 ]
 
 # Dynamic inter-site delay based on provider
@@ -59,17 +64,17 @@ def run_pipeline():
             dialogue = generate_synthetic_call(context)
             
             if dialogue:
-                # Step 3: Analyze
-                sentiment, outcome = analyze_call(dialogue)
+                # Step 3: Analyze (now returns full analysis)
+                sentiment, outcome, score, key_objection, feedback = analyze_call(dialogue)
                 
                 # Parse dialogue into conversation history format
                 conversation_history = parse_dialogue(dialogue)
                 
-                # Create analysis result in expected format
-                analysis_result = f"""Score: {5 if outcome == 'Success' else 3}
+                # Create analysis result from LLM analysis
+                analysis_result = f"""Score: {score}
 Outcome: {outcome}
-Key_Objection: Unknown
-Feedback: Auto-generated from batch pipeline. Sentiment: {sentiment}"""
+Key_Objection: {key_objection}
+Feedback: {feedback} Sentiment: {sentiment}"""
                 
                 # Save using data manager
                 try:

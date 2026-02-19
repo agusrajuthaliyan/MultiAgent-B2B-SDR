@@ -1,0 +1,75 @@
+{
+  "simulation_id": "c7683f17-1447-4088-ad02-53f5593bdf4b",
+  "timestamp": "2026-02-19T15:15:22.630865",
+  "target_url": "https://www.ovhcloud.com",
+  "company_context": "Cloud Computing & Web Hosting | OVHcloud India OVHcloud Promotions Asia-Pacific Special Enjoy free setup fees on selected Kimsufi and Rise Dedicated Servers in Asia-Pacific with no commitment and say goodbye to noisy neighbours Limited time only until 26 Feb Explore Offers Multi-zone resilience Anything but standard: Managed Kubernetes Service Build modern applications without the complexity of managing Kubernetes clusters with MKS Standard so that you can focus on writing code instead of managing infrastructure. Now also available in India (1AZ) location Start your free trial Engineered For Value, Built For More Experience optimum balance of enterprise grade performance, efficiency and affordability for small to medium businesses with Advance Dedicated Servers. Promotion: Free setup fees on selected servers Explore Advance Maximum Power. Minimum Surprises. Experience cutting-edge performance with dedicated server hosting in India . Enjoy rock-solid pricing in ₹ and eliminate the cost and complexity of foreign exchange fluctuations. Explore now Dedicated Servers Promotions Advance-1 (2024) Hosted in Asia-Pacific for low latency and fast response times AMD EPYC 4244P - 6c/12t - 3.8GHz/5.1GHz DDR5 ECC On-Die Superfast 25Gbps Private Network Free setup fees, no commitments Shop Advance Public Cloud Object Storage S3-compatible, secure and cost-effective Object Storage Highly scalable storage for your data Simple and transparent pricing, API calls included Now in India location Launch your first project with ₹18000 free credit Available in Mumbai location Try now Public Cloud New Compute Instances (Gen 3) Highly scalable & leading price to performance based on AMD platform Up to 64vCores, 512GB RAM, 20Gbps Optimised for General Purpose (B3), Compute (C3) or Memory (R3) workloads Up to 55% discount with a saving plan Now in India location Try now with Free credits Bulk search for domain names Search Multiple search Transfer your domain name .in ₹616 ex. GST/year .com ₹791 ex. GST/year .io ₹5,245 ₹3,183 ex. GST/year .biz ₹1,480 ex. GST/year Explore solutions specially designed for a wide range of activities Choose an infrastructure Versatile dedicated servers for SMEs Dedicated servers for building clusters Premium customisable dedicated servers Virtual private servers at a competitive price Opt for an Enterprise solution Private Cloud Disaster recovery plans Migrating from your datacentre to the cloud Connection between your physical servers and a secure cloud Certified solutions for hosting sensitive data Managed VMware virtualisation solution Start your cloud project Pay as you go Compute solutions Storage solutions Managed Kubernetes Service Managed Databases Data Analytics Data Platform AI & Machine Learning Gérez votre présence en ligne Trouvez et réservez vos noms de domaine Créez un site web ou une boutique en ligne OVHcloud Partners and Customers How OVHcloud can help you Deploy a big data and analytics platform in less than an hour. Get start",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Rohan and I'm a Sales Development Representative at DeepData AI. I came across OVHcloud India and was impressed with the work you're doing in cloud computing and web hosting. I'd like to introduce our data processing solution, DeepData AI, which can help optimize your data management and analytics.",
+      "word_count": 52,
+      "char_count": 314
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, another data processing solution. What makes yours special? We already have a robust infrastructure in place with OVHcloud, and I'm not sure we need another vendor.",
+      "word_count": 28,
+      "char_count": 180
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, sir. However, our solution is designed to integrate seamlessly with existing infrastructure, including cloud providers like OVHcloud. DeepData AI uses AI-powered algorithms to automate data processing, reducing manual errors and increasing efficiency. We've seen significant ROI for our clients in the cloud computing industry.",
+      "word_count": 49,
+      "char_count": 368
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(still skeptical) That sounds like a lot of hype. We've tried similar solutions before, and they've never lived up to their promises. What kind of support and customization can you offer to ensure this solution meets our specific needs?",
+      "word_count": 39,
+      "char_count": 236
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd be happy to address them. We offer dedicated support and customization options to ensure our solution aligns with your business goals. Our team will work closely with you to understand your specific requirements and provide tailored implementation and support. We also have a free trial option, which allows you to test our solution risk-free before committing to a purchase.",
+      "word_count": 65,
+      "char_count": 411
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(somewhat interested) Okay, I'll listen. But I need to know more about the pricing and how it compares to our current costs. We're always looking for ways to optimize our budget, and if your solution can help us reduce costs, I might be willing to consider it.",
+      "word_count": 47,
+      "char_count": 260
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, sir. Our pricing is transparent and competitive. We offer a tiered pricing model based on data volume and processing requirements. I can provide you with a customized quote and a detailed comparison with your current costs. Additionally, our solution can help you reduce costs associated with manual data processing, infrastructure, and maintenance. Would you like me to send over some case studies and a pricing sheet for your review?",
+      "word_count": 70,
+      "char_count": 447
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 236,
+    "total_buyer_words": 114,
+    "avg_seller_words_per_turn": 59.0,
+    "avg_buyer_words_per_turn": 38.0,
+    "word_ratio_seller_buyer": 2.07,
+    "total_conversation_length": 350
+  }
+}

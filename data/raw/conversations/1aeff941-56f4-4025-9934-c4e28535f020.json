@@ -1,0 +1,68 @@
+{
+  "simulation_id": "1aeff941-56f4-4025-9934-c4e28535f020",
+  "timestamp": "2026-02-19T15:17:08.330717",
+  "target_url": "https://www.g2.com",
+  "company_context": "g2.com Please enable JS and disable any ad blocker",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. I came across your company on G2 and noticed that you're currently using a few different data processing tools. I wanted to introduce you to our solution, which can help streamline your data workflow and improve efficiency. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 62,
+      "char_count": 353
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we've been looking at a few different options, but I'm not convinced that any of them can really deliver on their promises. What makes DeepData AI so special? We've got a complex data infrastructure and I'm not looking to add another tool to the mix unless it's going to have a significant impact.",
+      "word_count": 54,
+      "char_count": 307
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism. DeepData AI is unique in that it uses machine learning algorithms to automate data processing tasks, which can help reduce manual errors and increase processing speed. We've seen companies like yours achieve up to 30% reduction in data processing time and a 25% decrease in errors. Would you be open to exploring how our solution could specifically address your company's pain points?",
+      "word_count": 67,
+      "char_count": 425
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure I buy into the whole 'machine learning' hype. We've tried using AI-powered tools before and they've been more trouble than they're worth. How do I know that DeepData AI is going to be any different? And what kind of support do you offer to ensure a smooth implementation?",
+      "word_count": 51,
+      "char_count": 284
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair concern. Our solution is designed to be highly customizable and adaptable to your specific use case. We also offer dedicated onboarding and support to ensure a seamless integration with your existing infrastructure. In fact, we've had several customers in similar industries who have seen significant ROI from implementing our solution. I'd be happy to set up a call with one of our customer success managers to walk you through a case study and answer any technical questions you may have.",
+      "word_count": 83,
+      "char_count": 504
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Okay, I'm willing to listen. But I need to see some concrete evidence that your solution can deliver on its promises. Can you send over some case studies and technical specs so I can review them with my team? And what's the typical implementation timeline and cost for a company of our size?",
+      "word_count": 53,
+      "char_count": 291
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 212,
+    "total_buyer_words": 158,
+    "avg_seller_words_per_turn": 70.67,
+    "avg_buyer_words_per_turn": 52.67,
+    "word_ratio_seller_buyer": 1.34,
+    "total_conversation_length": 370
+  }
+}

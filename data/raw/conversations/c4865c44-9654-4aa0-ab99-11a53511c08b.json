@@ -1,0 +1,68 @@
+{
+  "simulation_id": "c4865c44-9654-4aa0-ab99-11a53511c08b",
+  "timestamp": "2026-02-19T15:17:14.116412",
+  "target_url": "https://www.capterra.com",
+  "company_context": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access capterra.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9d04d7692f40d96b • Your IP: Click to reveal 103.183.82.16 • Performance & security by Cloudflare",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure. I came across your company while researching on Capterra, but I noticed you're having some issues with Cloudflare blocking your access. Are you experiencing any data security or accessibility challenges that I can help with?",
+      "word_count": 61,
+      "char_count": 384
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're having some issues with Cloudflare, but I'm not sure how that's relevant to your product. We're a tech company, and data security is a top priority for us. What makes you think your solution can help us?",
+      "word_count": 40,
+      "char_count": 223
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand your skepticism, but our solution is designed to work in tandem with existing security protocols like Cloudflare. We've helped numerous companies streamline their data processing while maintaining top-notch security. For instance, our AI-powered engine can help identify and mitigate potential security threats in real-time. Would you like to hear more about how we've helped similar companies in the past?",
+      "word_count": 61,
+      "char_count": 419
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(still skeptical) Look, I appreciate the pitch, but we've tried several data processing solutions before, and they've all promised the world but failed to deliver. What makes DeepData AI different? And how do you plan to integrate with our existing infrastructure without disrupting our operations?",
+      "word_count": 45,
+      "char_count": 298
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns, and I'm glad you asked. Our solution is built on a modular architecture that allows for seamless integration with existing systems, including Cloudflare. We've also developed a proprietary algorithm that learns your company's specific data patterns and adapts to your unique needs. I'd be happy to set up a demo to show you exactly how it works and address any specific pain points you're experiencing. Would that be something you'd be open to?",
+      "word_count": 78,
+      "char_count": 483
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(somewhat interested) Okay, fine. I'll give you 15 minutes to show me what you've got. But if this is just another sales pitch, I'm hanging up. Can you send me a calendar invite for the demo, and make sure it's at a time that works for my schedule? And one more thing - can you provide any case studies or references from companies similar to ours?",
+      "word_count": 66,
+      "char_count": 348
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Pending\nKey_Objection: Unknown\nFeedback: Auto-generated from batch pipeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Auto-generated from batch pipeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 200,
+    "total_buyer_words": 151,
+    "avg_seller_words_per_turn": 66.67,
+    "avg_buyer_words_per_turn": 50.33,
+    "word_ratio_seller_buyer": 1.32,
+    "total_conversation_length": 351
+  }
+}
