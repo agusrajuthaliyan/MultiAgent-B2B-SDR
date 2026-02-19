@@ -1,0 +1,82 @@
+{
+  "simulation_id": "d042d62f-3da8-4de1-a67e-0049b109c68e",
+  "timestamp": "2026-02-19T16:37:21.914465",
+  "target_url": "https://www.g2.com",
+  "company_context": "g2.com Please enable JS and disable any ad blocker",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. Can I speak with you about your current data processing challenges?",
+      "word_count": 41,
+      "char_count": 252
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, great, another data processing solution. What makes yours so special? We already have a few vendors in place for this.",
+      "word_count": 22,
+      "char_count": 134
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand that you have existing solutions, but our AI-powered engine allows for faster and more accurate data processing, which can lead to significant cost savings and improved decision-making. I'd love to discuss how our solution can complement or even replace your current vendors. Can you tell me a bit more about your current data processing workflow?",
+      "word_count": 58,
+      "char_count": 371
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(hesitant) Look, I don't have a lot of time for this, but I suppose we do have some pain points with our current vendors. They're expensive and sometimes the data isn't as accurate as we'd like. But we're in the middle of budget planning right now, and I'm not sure if we have the resources to take on a new solution.",
+      "word_count": 61,
+      "char_count": 317
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand budget constraints, and I appreciate your honesty. However, our solution has been shown to pay for itself through the cost savings it provides. I'd be happy to provide some case studies and ROI analyses to help make a stronger business case. Would you be open to a quick demo to see how our solution can address your specific pain points?",
+      "word_count": 63,
+      "char_count": 362
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(firmly) I appreciate the offer, but like I said, we're not in a position to take on a new solution right now. We're locked into a contract with one of our current vendors, and I don't have the budget authority to make any changes. I think we'll have to pass on this for now.",
+      "word_count": 54,
+      "char_count": 275
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand, and I respect your decision. If you're willing, I'd like to send you some information via email and check in with you in a few months to see if your priorities have shifted. Maybe we can revisit the conversation at that time?",
+      "word_count": 44,
+      "char_count": 239
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(definitively) No, that's okay. I think we're all set. We appreciate the outreach, but we're not interested in pursuing this further at this time. Thank you for your understanding.",
+      "word_count": 29,
+      "char_count": 180
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 206,
+    "total_buyer_words": 166,
+    "avg_seller_words_per_turn": 51.5,
+    "avg_buyer_words_per_turn": 41.5,
+    "word_ratio_seller_buyer": 1.24,
+    "total_conversation_length": 372
+  }
+}

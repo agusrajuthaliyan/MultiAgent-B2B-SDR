@@ -82,7 +82,8 @@ Feedback: {feedback} Sentiment: {sentiment}"""
                         target_url=site,
                         company_context=context,
                         conversation_history=conversation_history,
-                        analysis_result=analysis_result
+                        analysis_result=analysis_result,
+                        source="batch_v2"
                     )
                     print(f"   [SAVED] ID: {sim_id[:8]}...", flush=True)
                 except Exception as e:

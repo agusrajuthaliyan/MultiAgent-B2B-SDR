@@ -1,0 +1,82 @@
+{
+  "simulation_id": "eeeda8cd-ac1a-47a2-a843-f3765fdb5b5b",
+  "timestamp": "2026-02-19T15:36:53.206385",
+  "target_url": "https://www.g2.com",
+  "company_context": "g2.com Please enable JS and disable any ad blocker",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. I came across your company on G2 and noticed you're currently using a few different tools to manage your data. Can you tell me a little bit about your current setup?",
+      "word_count": 59,
+      "char_count": 328
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're using a combination of tools, but to be honest, it's been a struggle to get the insights we need. We're wasting a lot of time and resources trying to get our data in order. What makes DeepData AI think you can do any better?",
+      "word_count": 47,
+      "char_count": 244
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand the pain points you're facing. Our solution uses AI-powered algorithms to automate data processing, allowing you to get insights faster and make more informed decisions. We've had success with similar companies in your industry, and I think we could really help you streamline your operations. Would you be open to a demo to see how it works?",
+      "word_count": 60,
+      "char_count": 366
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I don't know...we're already invested in our current tools and I'm not sure I want to add another vendor to the mix. Plus, I've heard similar pitches from other companies like yours. What makes you think you're any different from the competition?",
+      "word_count": 43,
+      "char_count": 258
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but I can assure you that our solution is unique in its ability to handle complex data sets and provide real-time insights. We've also had great success with integrating our solution with existing tools, so you wouldn't have to rip and replace anything. And, we're offering a free trial to test our solution and see the value for yourself. Would you be willing to at least take a look?",
+      "word_count": 73,
+      "char_count": 413
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(firmly) Look, I appreciate the pitch, but we're not in a position to take on any new vendors or solutions right now. We're in the middle of a major project and can't afford to divert resources to something new. Maybe check back in 6 months, but for now, I'm going to have to decline.",
+      "word_count": 54,
+      "char_count": 284
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand, and I appreciate your honesty. I'll make sure to follow up in 6 months to see if your priorities have shifted. Thank you for your time today, and I wish you all the best with your current project.",
+      "word_count": 41,
+      "char_count": 221
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thanks, Alex. Appreciate the understanding. (hangs up)",
+      "word_count": 7,
+      "char_count": 54
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have asked more questions to understand the buyer's current project and potential future needs to identify potential opportunities for a pilot or proof-of-concept trial. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have asked more questions to understand the buyer's current project and potential future needs to identify potential opportunities for a pilot or proof-of-concept trial. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 233,
+    "total_buyer_words": 151,
+    "avg_seller_words_per_turn": 58.25,
+    "avg_buyer_words_per_turn": 37.75,
+    "word_ratio_seller_buyer": 1.54,
+    "total_conversation_length": 384
+  }
+}

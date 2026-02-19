@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b28ea7f4-bde6-422b-b5e3-49aed46a85c1",
+  "timestamp": "2026-02-19T15:35:25.547295",
+  "target_url": "https://www.mysql.com",
+  "company_context": "fw_error_www This site is experiencing technical difficulty. We are aware of the issue and are working as quickly as possible to correct the issue. We apologize for any inconvenience this may have caused. To speak with an Oracle sales representative: 1.800.ORACLE1. To contact Oracle Corporate Headquarters from anywhere in the world: 1.650.506.7000. To get technical support in the United States: 1.800.633.0738. Incident Number: 0.54392017.1771495523.1f17807",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management. I saw that your company is currently experiencing some technical difficulties with your website, and I wanted to see if our solution could help alleviate some of those issues.",
+      "word_count": 55,
+      "char_count": 331
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, we're aware of the issue. But I'm not sure how a data processing solution is going to help us with our website being down. And to be honest, we're in the middle of trying to resolve this issue, so I don't have a lot of time to talk.",
+      "word_count": 50,
+      "char_count": 246
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand, and I apologize for the timing. However, our solution can actually help prevent issues like this in the future by providing real-time monitoring and analytics. We've worked with several companies in similar situations and have been able to help them reduce downtime by up to 30%. Would you be open to learning more about how our solution could help?",
+      "word_count": 62,
+      "char_count": 374
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure...we already have a few solutions in place for data management, and I'm not convinced that yours would be any better. Plus, I'd have to get approval from our procurement team, and that's always a lengthy process. What makes your solution so special that it would be worth the hassle and cost?",
+      "word_count": 55,
+      "char_count": 317
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd be happy to provide a customized demo to show you how our solution can integrate with your existing systems and provide a significant ROI. We've also had success with companies in your industry, and I can provide case studies and references if you'd like. In terms of cost, we offer a tiered pricing model that can be tailored to your company's specific needs.",
+      "word_count": 69,
+      "char_count": 396
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) Okay, fine...I'll listen to what you have to say. But if this is just going to be a sales pitch, then I'm not interested. And I need to know that your solution can integrate with our existing Oracle systems, because that's what we're using currently.",
+      "word_count": 47,
+      "char_count": 267
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, our solution is compatible with Oracle, and we've had success with integrating with their systems in the past. I'd like to schedule a demo with you and our technical team to show you exactly how our solution can work with your existing infrastructure. Would you be available for a 30-minute demo next Wednesday or Thursday?",
+      "word_count": 56,
+      "char_count": 335
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(firmly) You know what, I think we'll pass. We've already got a lot on our plate with this website issue, and I don't think we're ready to take on a new solution right now. Maybe reach out to us in a few months and we can reconsider, but for now, I think we're going to have to decline.",
+      "word_count": 58,
+      "char_count": 286
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have been more empathetic to the buyer's current situation and potentially offered a lighter-touch engagement, such as a brief exploratory call or a simple email follow-up, rather than pushing for a demo. Sentiment: Negative",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have been more empathetic to the buyer's current situation and potentially offered a lighter-touch engagement, such as a brief exploratory call or a simple email follow-up, rather than pushing for a demo. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 242,
+    "total_buyer_words": 210,
+    "avg_seller_words_per_turn": 60.5,
+    "avg_buyer_words_per_turn": 52.5,
+    "word_ratio_seller_buyer": 1.15,
+    "total_conversation_length": 452
+  }
+}

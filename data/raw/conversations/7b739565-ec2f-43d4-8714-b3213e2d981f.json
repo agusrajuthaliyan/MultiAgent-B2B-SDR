@@ -1,0 +1,82 @@
+{
+  "simulation_id": "7b739565-ec2f-43d4-8714-b3213e2d981f",
+  "timestamp": "2026-02-19T16:18:49.479984",
+  "target_url": "https://www.terraform.io",
+  "company_context": "Terraform | HashiCorp Developer HashiConf 2025 Don't miss the live stream of HashiConf Day 2 happening now View live stream Terraform Search ⌘/ctrl Command or control key K K key Sign in Sign up Theme Automate Infrastructure on Any Cloud Install Tutorials Documentation What is Terraform? Terraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently. This includes low-level components like compute instances, storage, and networking; and high-level components like DNS entries and SaaS features. Learn more Get Started Follow a code-complete, hands-on tutorial to learn the Terraform basics with your favorite infrastructure provider. Amazon Web Services Azure HCP Terraform Google Cloud Platform Oracle Cloud Docker HCP Terraform Automate your infrastructure provisioning at any scale Try HCP Terraform for free Sandbox Terraform sandbox The Terraform sandbox contains preinstalled tools and services for you to experiment with Terraform. Best Practices Terraform style guide Learn recommended style conventions for Terraform configuration and workflows. Phases of Terraform adoption Design your Terraform workflows for scale. Featured Documentation Configuration Language Describe infrastructure in Terraform configuration language. Terraform CLI Learn Terraform's CLI-based workflows. HCP Terraform Collaborate with your team to provision infrastructure. Popular Use Cases 25min Deploy federated multi-cloud Kubernetes clusters Use Terraform to provision Kubernetes clusters in the Azure and AWS clouds, deploy Consul Helm charts enabling Consul federation, and deploy an example application on both clusters. Terraform Consul 25min Create preview environments with Terraform, GitHub Actions, and Vercel Configure HCP Terraform and GitHub Actions to create frontend and backend preview environments for your application. Dynamically create and destroy preview environments by opening, merging and closing pull requests. Terraform 43min Build a golden image pipeline with HCP Packer Create a golden image pipeline with HCP Packer. Build an application image on the base with Packer and provision it on AWS with Terraform. Terraform Packer Get Certified 3 tutorials Prepare for the Terraform Associate 004 Certification Exam Prepare for the Terraform Associate exam. Choose to follow an in-depth guide or to review select exam topics depending on the kind of preparation support you need. Then review sample questions to learn what to expect on exam day. Terraform 3 tutorials Prepare for the Terraform Authoring and Operations Professional Certification Exam Prepare for your Terraform Professional certification exam. Choose to follow an in-depth guide, or review select exam topics depending on the kind of preparation support you need. Terraform",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their infrastructure and improve efficiency. I saw that you're using Terraform and I thought our solution could be a great fit. Can I take a minute to explain how it works?",
+      "word_count": 54,
+      "char_count": 305
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Okay, fine. But make it quick. We're in the middle of a big project and I don't have a lot of time to spare. What makes you think your solution is relevant to us?",
+      "word_count": 35,
+      "char_count": 170
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand your time is valuable. Our solution integrates seamlessly with Terraform, allowing you to automate data processing and reduce manual errors. We've seen companies like yours achieve significant cost savings and improved productivity. Would you like to hear some specific examples?",
+      "word_count": 43,
+      "char_count": 304
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure I'm interested in hearing examples. We already have a data processing solution in place and it's working fine for us. What makes yours better?",
+      "word_count": 28,
+      "char_count": 167
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand you have an existing solution, but our AI-powered engine can handle complex data sets and provide real-time insights that might not be possible with your current setup. We've also seen our solution reduce data processing time by up to 50%. I'd love to show you a demo and see if it can address any specific pain points you're experiencing.",
+      "word_count": 61,
+      "char_count": 352
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(firmly) Look, I appreciate the offer, but we're not looking to switch solutions right now. We're locked into a contract with our current provider and it's not a priority for us to explore other options. Maybe send me an email with some more information and I'll review it when I have time.",
+      "word_count": 52,
+      "char_count": 290
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand. I'll send you an email with some more information, but I want to make sure you're aware that we're offering a free trial period that can help you test our solution without any commitment. Would you be open to discussing this further with our technical team to see if it's something that could work for you in the future?",
+      "word_count": 62,
+      "char_count": 345
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(definitively) No, thank you. Like I said, we're not interested in exploring other options right now. We've got our hands full with our current project and I don't see us changing our data processing solution anytime soon. Please just send me the email and I'll review it when I have time. But I think it's unlikely we'll be moving forward with DeepData AI.",
+      "word_count": 63,
+      "char_count": 357
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 220,
+    "total_buyer_words": 178,
+    "avg_seller_words_per_turn": 55.0,
+    "avg_buyer_words_per_turn": 44.5,
+    "word_ratio_seller_buyer": 1.24,
+    "total_conversation_length": 398
+  }
+}

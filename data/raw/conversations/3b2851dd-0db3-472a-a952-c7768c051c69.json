@@ -1,0 +1,82 @@
+{
+  "simulation_id": "3b2851dd-0db3-472a-a952-c7768c051c69",
+  "timestamp": "2026-02-19T15:37:47.250207",
+  "target_url": "https://www.gusto.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 43,
+      "char_count": 258
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're already using a few different tools to manage our data. I'm not sure we're in the market for something new. What makes DeepData AI so special?",
+      "word_count": 29,
+      "char_count": 162
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism. However, our AI-powered solution can help reduce data processing time by up to 70% and provide more accurate results. We've seen significant success with similar companies in your industry. I'd love to schedule a demo to show you exactly how it works.",
+      "word_count": 47,
+      "char_count": 292
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(pauses) I'm not sure that's worth the investment. We're on a tight budget this quarter, and I'm not convinced that your solution would be worth the cost. Plus, we'd have to integrate it with our existing systems, which is always a headache.",
+      "word_count": 42,
+      "char_count": 241
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about budget and integration. However, our solution is designed to be flexible and can integrate with a wide range of systems. As for the cost, we offer a tiered pricing model that can accommodate different budgets. I'd be happy to discuss a customized plan that fits your needs.",
+      "word_count": 52,
+      "char_count": 306
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(firmly) Honestly, I'm just not convinced that this is the right time for us to be exploring new data processing solutions. We're in the middle of a major project and can't afford to take on anything new right now. And even if we were interested, I'm not sure I'm the right person to be making this decision – I'd have to run it by our CEO.",
+      "word_count": 66,
+      "char_count": 340
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand your priorities, and I respect your decision. However, I'd like to offer one last thing – we've had great success with companies in similar situations, and I'd be happy to provide a case study or referral to help build a stronger business case for when the time is right.",
+      "word_count": 52,
+      "char_count": 295
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(decisively) Thank you, Alex, but I think we're going to have to pass on DeepData AI for now. I appreciate the offer, but we just can't take on anything new at this time.",
+      "word_count": 33,
+      "char_count": 170
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller could have asked more questions to understand the buyer's current project and potential future needs, potentially identifying a better time to follow up and re-engage. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller could have asked more questions to understand the buyer's current project and potential future needs, potentially identifying a better time to follow up and re-engage. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 194,
+    "total_buyer_words": 170,
+    "avg_seller_words_per_turn": 48.5,
+    "avg_buyer_words_per_turn": 42.5,
+    "word_ratio_seller_buyer": 1.14,
+    "total_conversation_length": 364
+  }
+}

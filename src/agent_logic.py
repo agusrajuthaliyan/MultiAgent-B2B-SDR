@@ -178,11 +178,16 @@ def generate_synthetic_call(context: str) -> str:
     IMPORTANT RULES:
     - Make the conversation realistic with objections (Price, Timing, Competitors, Authority, Integration).
     - The conversation MUST end with a CLEAR OUTCOME from the BUYER — either:
-      (a) The buyer AGREES to book a demo/meeting (Success), OR
-      (b) The buyer firmly REJECTS/DECLINES the offer (Failure).
+      (a) The buyer AGREES to book a demo/meeting (Success — this should be RARE, ~15-20% of calls), OR
+      (b) The buyer firmly REJECTS/DECLINES the offer (Failure — this is the MOST COMMON outcome, ~80-85% of calls).
+    - REALISTIC B2B SALES: Most cold outreach calls FAIL. The buyer usually says no.
+      Common failure patterns: "We're not interested right now", "We already have a solution",
+      "Send me an email and I'll review it" (polite brush-off), "This isn't a priority for us",
+      "I don't have budget authority for this", "We're locked into a contract".
+    - Success should only happen when the SDR handles objections exceptionally well AND 
+      the buyer has a genuine need that aligns with the product.
     - Do NOT end the conversation with an open question or vague "let me think about it".
     - The final line must be from the BUYER with a definitive decision.
-    - Aim for roughly 50% success and 50% failure outcomes across different calls.
     """
     return _generate_content(prompt)
 

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "e73b0d5d-091b-45f7-8427-40ea18c9b720",
+  "timestamp": "2026-02-19T16:07:50.572974",
+  "target_url": "https://www.mysql.com",
+  "company_context": "fw_error_www This site is experiencing technical difficulty. We are aware of the issue and are working as quickly as possible to correct the issue. We apologize for any inconvenience this may have caused. To speak with an Oracle sales representative: 1.800.ORACLE1. To contact Oracle Corporate Headquarters from anywhere in the world: 1.650.506.7000. To get technical support in the United States: 1.800.633.0738. Incident Number: 0.54392017.1771497350.1f63f19",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. I came across your company and noticed that you're experiencing some technical difficulties with your website. I understand that's not ideal, especially when it comes to handling large amounts of data. Our solution helps companies like yours process and manage their data more efficiently. Can I ask, are you currently using any data processing solutions?",
+      "word_count": 67,
+      "char_count": 414
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're in the middle of trying to resolve this Oracle issue. I don't have time to talk about new solutions right now. We've already got a team working on it and I'm not sure we need anything else.",
+      "word_count": 40,
+      "char_count": 209
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand the urgency of resolving your current issue. However, our solution, DeepData AI, is designed to prevent such issues from happening in the future by providing real-time data processing and analytics. It might be worth exploring once you've resolved your immediate problem. Would you be open to a quick discussion on how it could benefit your company in the long run?",
+      "word_count": 63,
+      "char_count": 389
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(firmly) I appreciate the offer, but we've already invested heavily in Oracle. I'm not sure we're looking to add another vendor to our stack, especially not right now. Our priority is getting our site back up and running smoothly.",
+      "word_count": 39,
+      "char_count": 230
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your commitment to Oracle, and our solution can actually complement your existing infrastructure. It's designed to work with various data systems, including Oracle. I'd love to show you how it can enhance your data management capabilities without replacing what you already have. Would you consider a demo once your immediate issues are resolved?",
+      "word_count": 55,
+      "char_count": 359
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(polite but firm) Thank you for the offer, but I think we'll have to pass. We're not looking to add any new solutions at this time, and even if we were, I'm not the right person to make that decision. You should reach out to our procurement department, but honestly, I wouldn't hold out much hope.",
+      "word_count": 56,
+      "char_count": 297
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand, and I appreciate your honesty. If our paths cross again in the future, perhaps we can discuss further. In the meantime, I wish you the best of luck in resolving your current technical issues.",
+      "word_count": 36,
+      "char_count": 205
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you, but we're not interested in DeepData AI at this time. Please don't follow up.",
+      "word_count": 16,
+      "char_count": 88
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 221,
+    "total_buyer_words": 151,
+    "avg_seller_words_per_turn": 55.25,
+    "avg_buyer_words_per_turn": 37.75,
+    "word_ratio_seller_buyer": 1.46,
+    "total_conversation_length": 372
+  }
+}

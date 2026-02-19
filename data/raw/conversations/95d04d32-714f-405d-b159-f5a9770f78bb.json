@@ -1,0 +1,82 @@
+{
+  "simulation_id": "95d04d32-714f-405d-b159-f5a9770f78bb",
+  "timestamp": "2026-02-19T15:34:57.025713",
+  "target_url": "https://www.hetzner.com",
+  "company_context": "Günstige Dedicated Server, Cloud & Hosting aus Deutschland THIS WEBSITE USES COOKIES We want you to have the best possible user experience on our website. We use cookies to analyze how visitors like you use our website, so we can make improvements. And we use cookies to make sure that the website functions normally. For more info, see our privacy policy . You can edit your cookie settings there at any time. Allow all cookies Allow necessary cookies × Choose your location settings Language Deutsch English Currency € EUR $ USD Country (VAT) Country (VAT) All others Australia Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Norway Poland Portugal Romania Singapore Slovakia Slovenia South Africa Spain Sweden Switzerland Ukraine United Kingdom USA Save settings Dedicated Servers Server Auction Dedicated Servers Server Auction Save money with refurbished servers Catch your refurbished dedicated servers in our server auction with decreasing prices and zero setup costs. Find your cheap server Scroll Down Product overview Server Auction Prices drop & excitement mounts. Place bids in our Server Auction! Starting at 31 35 Overview Dedicated Server Dedicated root servers to meet any need. Top performance with an excellent connection. Starting at 37.3 42 Overview Cloud A little money gets you lots of cloud. Flexible cloud servers with high-end-hardware. Starting at 3.49 4.09 Overview Managed Servers Stress-free server connection. We‘ll take care of the technical stuff. Starting at 34 38 Overview Web hosting The quick and cheap way to your own homepage. Prices for beginners and businesses. Starting at 1.6 2 Overview Storage Share Easily store and share files. Access your data at any time and from any place with Storage Share. Starting at 4.29 5 Overview Storage Boxes Access your storage from everywhere and at any time via PC, smartphone, and tablet. Starting at 3.2 4 Overview Colocation State-of-the-art infrastructure for your project. A range of colocation racks to choose from. Starting at 100.00 111.00 Overview Custom Solutions Because your business isn’t one size fits all. Get the tailored setup and hardware you need. on demand Overview You need Support? Click here Server auction The clock is ticking! It's this easy: 1. Enter your desired hardware specification. 2. Compare offers. 3. Keep an eye on price changes. 4. Snap up your offer. But, don't wait too long or somebody else might beat you to the bargain. Reduction in: For more information, see our Server Auction Server auction News / Press News Show all 11. December 2025 More AI: The new GPU-Server GEX131 sets standards for performance and price If you want to take your AI workloads, 3D rendering, or complex image editing to the next level, you need two vital tools: a strong graphics card and a powerful… Show more 4. November 2025 EMAS certification as a strong sign of sustainability Ou",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure. I came across your company, Günstige Dedicated Server, and noticed you offer a range of hosting services. Can you tell me a bit about your current data processing setup?",
+      "word_count": 55,
+      "char_count": 329
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're using a combination of in-house solutions and some third-party tools. But to be honest, we're not entirely satisfied with the performance. What makes DeepData AI so special?",
+      "word_count": 30,
+      "char_count": 188
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Our AI-powered engine can help reduce latency and increase throughput, resulting in significant cost savings and improved customer experience. We've seen our clients achieve up to 30% reduction in data processing costs. I'd love to schedule a demo to show you how it works.",
+      "word_count": 44,
+      "char_count": 273
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're currently in the middle of a major infrastructure overhaul. I'm not sure if we have the bandwidth to take on another project right now. Plus, I've heard similar claims from other vendors. What sets you apart from, say, Google Cloud or AWS?",
+      "word_count": 47,
+      "char_count": 274
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "While those are great platforms, our solution is specifically designed for companies with complex data infrastructures like yours. We offer a more tailored approach, with dedicated support and customization options. And, we're more cost-effective than the big cloud players. I understand your concerns about timing, but our implementation process is relatively quick and can be done in phases to minimize disruption.",
+      "word_count": 61,
+      "char_count": 416
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I'm still not convinced. Our CIO is very particular about integrating new solutions with our existing systems. Can you guarantee seamless integration with our current setup?",
+      "word_count": 29,
+      "char_count": 186
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. We've worked with numerous companies in the hosting and cloud space, and our API is designed to be highly adaptable. We can provide a customized integration plan and dedicated support to ensure a smooth onboarding process. I'd like to offer a complimentary assessment of your current infrastructure to identify potential areas of improvement.",
+      "word_count": 54,
+      "char_count": 354
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alright, I've heard enough. To be frank, I'm not convinced that DeepData AI is the right fit for us at this time. We're going to have to pass on the demo and focus on our current priorities. Maybe we can revisit this conversation in a few months, but for now, I'm afraid the answer is no.",
+      "word_count": 56,
+      "char_count": 288
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have provided more specific examples or case studies of successful integrations with similar companies to address the buyer's concerns about seamless integration with their existing systems. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have provided more specific examples or case studies of successful integrations with similar companies to address the buyer's concerns about seamless integration with their existing systems. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 214,
+    "total_buyer_words": 162,
+    "avg_seller_words_per_turn": 53.5,
+    "avg_buyer_words_per_turn": 40.5,
+    "word_ratio_seller_buyer": 1.32,
+    "total_conversation_length": 376
+  }
+}

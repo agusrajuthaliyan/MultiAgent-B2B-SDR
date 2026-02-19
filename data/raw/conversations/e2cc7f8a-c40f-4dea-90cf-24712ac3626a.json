@@ -1,0 +1,82 @@
+{
+  "simulation_id": "e2cc7f8a-c40f-4dea-90cf-24712ac3626a",
+  "timestamp": "2026-02-19T16:50:11.555880",
+  "target_url": "https://www.gusto.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. Can I speak with the technical decision-maker, please?",
+      "word_count": 38,
+      "char_count": 239
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "This is John, the CTO. What's this about?",
+      "word_count": 8,
+      "char_count": 41
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Great to connect with you, John. Our solution, DeepData AI, uses machine learning to automate data processing, reducing manual errors and increasing efficiency. We've seen significant ROI for our clients in the industry. I'd love to explore if this could be a good fit for your team.",
+      "word_count": 47,
+      "char_count": 283
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we need another data solution. We're currently using a competitor's product and it's working fine for now. What makes DeepData AI so special?",
+      "word_count": 26,
+      "char_count": 154
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's completely understandable, John. What sets us apart is our ability to handle complex data sets and provide real-time analytics. Our clients have seen an average of 30% reduction in data processing time. I'd be happy to show you a demo and see if it aligns with your current pain points.",
+      "word_count": 51,
+      "char_count": 293
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we're in the middle of budget planning for the next quarter. I don't think we can consider any new solutions at this time. Plus, I'm not sure if our team would be able to integrate another tool into our existing infrastructure.",
+      "word_count": 46,
+      "char_count": 255
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns, John. However, I'd like to address the integration point - our solution is designed to be flexible and can integrate with most existing systems. As for the budget, I'd be happy to discuss potential ROI and how DeepData AI can help you save resources in the long run. Would you be open to a quick 15-minute call next week to explore further?",
+      "word_count": 67,
+      "char_count": 379
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, Alex, but I think we're going to have to pass on this for now. We're not looking to add any new vendors to our portfolio at this time, and like I said, our current solution is working fine. Please don't follow up, we're not interested.",
+      "word_count": 49,
+      "char_count": 266
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 203,
+    "total_buyer_words": 129,
+    "avg_seller_words_per_turn": 50.75,
+    "avg_buyer_words_per_turn": 32.25,
+    "word_ratio_seller_buyer": 1.57,
+    "total_conversation_length": 332
+  }
+}

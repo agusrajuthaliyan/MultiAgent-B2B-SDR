@@ -92,7 +92,7 @@ class SimulationDataManager:
                     'num_turns', 'total_seller_words', 'total_buyer_words',
                     'avg_seller_turn_length', 'avg_buyer_turn_length',
                     'score', 'outcome', 'key_objection', 'feedback',
-                    'conversation_file'
+                    'conversation_file', 'source'
                 ])
         
         # Turns CSV (for turn-level analysis)
@@ -116,7 +116,8 @@ class SimulationDataManager:
                     'seller_max_words', 'buyer_max_words',
                     'seller_min_words', 'buyer_min_words',
                     'word_ratio_seller_buyer', 'total_conversation_length',
-                    'score', 'outcome_binary', 'outcome_label', 'objection_type'
+                    'score', 'outcome_binary', 'outcome_label', 'objection_type',
+                    'source'
                 ])
     
     def save_simulation(
@@ -124,7 +125,8 @@ class SimulationDataManager:
         target_url: str,
         company_context: str,
         conversation_history: List[tuple],
-        analysis_result: str
+        analysis_result: str,
+        source: str = "interactive"
     ) -> str:
         """
         Save a complete simulation with all associated data.
@@ -134,6 +136,7 @@ class SimulationDataManager:
             company_context: The scraped company information
             conversation_history: List of (speaker, message) tuples
             analysis_result: The AI analysis of the call
+            source: Origin of simulation ('batch_v2', 'interactive', etc.)
             
         Returns:
             simulation_id: UUID of the saved simulation
@@ -157,7 +160,8 @@ class SimulationDataManager:
         # Append to master CSV
         self._append_to_master_csv(
             simulation_id, timestamp, target_url, company_context,
-            conversation_history, parsed_analysis, metrics, conversation_file
+            conversation_history, parsed_analysis, metrics, conversation_file,
+            source
         )
         
         # Append conversation turns
@@ -166,7 +170,7 @@ class SimulationDataManager:
         # Append ML-ready metrics
         self._append_metrics_to_csv(
             simulation_id, timestamp, target_url, company_context,
-            metrics, parsed_analysis
+            metrics, parsed_analysis, source
         )
         
         print(f"[DATA] Simulation {simulation_id[:8]}... saved successfully", flush=True)
@@ -284,7 +288,8 @@ class SimulationDataManager:
     def _append_to_master_csv(
         self, simulation_id: str, timestamp: str, target_url: str,
         company_context: str, conversation_history: List[tuple],
-        parsed_analysis: Dict, metrics: Dict, conversation_file: str
+        parsed_analysis: Dict, metrics: Dict, conversation_file: str,
+        source: str = "interactive"
     ):
         """Append a row to the master simulations CSV."""
         with _safe_open(self.master_csv_path, 'a', newline='', encoding='utf-8') as f:
@@ -303,7 +308,8 @@ class SimulationDataManager:
                 parsed_analysis['outcome'],
                 parsed_analysis['key_objection'],
                 parsed_analysis['feedback'],
-                conversation_file
+                conversation_file,
+                source
             ])
     
     def _append_turns_to_csv(
@@ -326,7 +332,8 @@ class SimulationDataManager:
     
     def _append_metrics_to_csv(
         self, simulation_id: str, timestamp: str, target_url: str,
-        company_context: str, metrics: Dict, parsed_analysis: Dict
+        company_context: str, metrics: Dict, parsed_analysis: Dict,
+        source: str = "interactive"
     ):
         """Append ML-ready metrics to the metrics CSV."""
         # Convert outcome to binary for classification
@@ -354,7 +361,8 @@ class SimulationDataManager:
                 parsed_analysis['score'],
                 outcome_binary,
                 outcome_label,
-                parsed_analysis['key_objection']
+                parsed_analysis['key_objection'],
+                source
             ])
     
     def load_all_simulations(self) -> pd.DataFrame:

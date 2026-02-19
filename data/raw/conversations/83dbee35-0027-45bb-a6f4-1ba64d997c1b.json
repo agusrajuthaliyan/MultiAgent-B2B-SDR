@@ -1,0 +1,82 @@
+{
+  "simulation_id": "83dbee35-0027-45bb-a6f4-1ba64d997c1b",
+  "timestamp": "2026-02-19T15:37:09.366606",
+  "target_url": "https://www.trustradius.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can I speak with you about your current data processing challenges?",
+      "word_count": 39,
+      "char_count": 230
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, I don't have a lot of time. We're already using a few different tools to manage our data, and I'm not sure we need another solution. What makes DeepData AI so special?",
+      "word_count": 34,
+      "char_count": 181
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism. Our AI-powered engine allows for faster and more accurate data processing, which can lead to significant cost savings and improved insights. We've seen companies like yours reduce their data processing time by up to 70%. Would you be open to exploring how DeepData AI could help your team?",
+      "word_count": 53,
+      "char_count": 330
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(pauses) I'm not sure... we just implemented a new system a few months ago, and I'm not sure our team is ready to take on another integration. Plus, I've heard that your solution is pretty pricey. How does your pricing compare to what we're currently paying?",
+      "word_count": 46,
+      "char_count": 258
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about integration and pricing. Our solution is designed to be flexible and can integrate with your existing systems. As for pricing, we offer a tiered pricing model that's competitive with other solutions on the market. We've also had companies see a significant ROI within the first few months of using our solution. I'd be happy to schedule a demo to show you how DeepData AI can specifically address your challenges and provide a customized pricing quote.",
+      "word_count": 80,
+      "char_count": 485
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(firmly) Look, I appreciate the offer, but I don't think we're in a position to take on another project right now. We're in the middle of budgeting for next quarter, and I don't think we have the bandwidth to consider a new solution. I think we'll have to pass on the demo.",
+      "word_count": 52,
+      "char_count": 273
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand, and I appreciate your honesty. If you change your mind or have any questions in the future, please don't hesitate to reach out.",
+      "word_count": 26,
+      "char_count": 152
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I think we're good. We'll stick with what we have for now. Thanks for understanding, and I wish you the best of luck with your sales efforts.",
+      "word_count": 28,
+      "char_count": 145
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have asked more questions to understand the buyer's current pain points and budgeting process to potentially identify a future opportunity or a different decision-maker to follow up with. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have asked more questions to understand the buyer's current pain points and budgeting process to potentially identify a future opportunity or a different decision-maker to follow up with. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 198,
+    "total_buyer_words": 160,
+    "avg_seller_words_per_turn": 49.5,
+    "avg_buyer_words_per_turn": 40.0,
+    "word_ratio_seller_buyer": 1.24,
+    "total_conversation_length": 358
+  }
+}
