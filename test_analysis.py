@@ -1,53 +1,47 @@
-
-import os
+"""Quick test: run 5 dialogues and check the outcome distribution."""
 import sys
-import traceback
+if sys.platform == 'win32' and hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
-print("Script started.", flush=True)
+from dotenv import load_dotenv
+load_dotenv()
 
-try:
-    from src.agent_logic import analyze_call, _generate_content
-    print("Imports successful.", flush=True)
-except Exception as e:
-    print(f"Import failed: {e}", flush=True)
-    traceback.print_exc()
-    sys.exit(1)
+from src.agent_logic import generate_synthetic_call, analyze_call, get_provider_info
+import time
 
-sample_dialogue = """
-SELLER: Hi, I'm calling from DeepData AI.
-BUYER: I'm not interested.
-SELLER: But we can save you money.
-BUYER: Okay, tell me more.
-SELLER: We integrate with your stack.
-BUYER: Sounds good.
-SELLER: Great, how is Tuesday?
-"""
+info = get_provider_info()
+print(f"Provider: {info['provider']} | Model: {info['model']}")
+print("=" * 60)
 
-print("Testing analyze_call...", flush=True)
-try:
-    result = analyze_call(sample_dialogue)
-    print(f"Result: {result}", flush=True)
-except Exception as e:
-    print(f"Analysis failed: {e}", flush=True)
-    traceback.print_exc()
+context = "TechFlow Inc is a SaaS company with 150 employees building project management tools. They process large amounts of user analytics data using outdated ETL pipelines. Annual data spend is $80K."
 
-print("\n--- Raw LLM Check ---", flush=True)
-prompt = f"""
-Analyze this sales call transcript and provide:
-1. Sentiment: Positive, Neutral, or Negative
-2. Outcome: Success (meeting booked), Failure (rejected), or Pending (follow-up needed)
+results = []
+for i in range(5):
+    print(f"\n--- Test {i+1}/5 ---")
+    dialogue = generate_synthetic_call(context)
+    
+    if dialogue:
+        # Get last buyer line
+        lines = [l.strip() for l in dialogue.strip().split('\n') if l.strip() and l.strip().startswith('BUYER:')]
+        last_buyer = lines[-1] if lines else "N/A"
+        print(f"Last BUYER: {last_buyer[:100]}...")
+        
+        sentiment, outcome, score, objection, feedback = analyze_call(dialogue)
+        print(f"Result: {outcome} | Score: {score} | Objection: {objection} | Sentiment: {sentiment}")
+        results.append(outcome)
+    else:
+        print("FAILED to generate")
+        results.append("ERROR")
+    
+    time.sleep(1)
 
-Transcript:
-{sample_dialogue}
-
-Respond in exactly this format (one word each):
-SENTIMENT: [Positive/Neutral/Negative]
-OUTCOME: [Success/Failure/Pending]
-"""
-
-try:
-    raw_response = _generate_content(prompt)
-    print(f"Raw Response:\n'{raw_response}'", flush=True) # Quotes to see empty string
-except Exception as e:
-    print(f"Raw Generation failed: {e}", flush=True)
-    traceback.print_exc()
+print(f"\n{'=' * 60}")
+print(f"Results: {results}")
+successes = results.count("Success")
+failures = results.count("Failure")
+pending = results.count("Pending")
+print(f"Success: {successes} | Failure: {failures} | Pending: {pending}")

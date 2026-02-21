@@ -162,7 +162,43 @@ def generate_synthetic_call(context: str) -> str:
     """
     Generate a synthetic sales call dialogue based on company context.
     Used by main.py for batch processing.
+    
+    Uses randomization to control outcome distribution:
+    - 20% Success (buyer agrees to demo/meeting)
+    - 80% Failure (buyer rejects)
+    This is more reliable than asking the LLM to self-regulate percentages.
     """
+    import random
+    
+    # Decide outcome BEFORE generating — gives us precise distribution control
+    is_success = random.random() < 0.20  # 20% success rate
+    
+    if is_success:
+        outcome_instruction = """
+    OUTCOME: This call should end in SUCCESS.
+    - The buyer starts skeptical but the SDR addresses their concerns effectively.
+    - The buyer agrees to a follow-up demo, trial, or meeting.
+    - The final BUYER line should clearly accept (e.g., "Alright, let's schedule that demo" 
+      or "Okay, I'll give you 30 minutes next week").
+    - The SDR should demonstrate excellent objection handling to earn this win."""
+    else:
+        # Randomize the failure reason for variety
+        failure_type = random.choice([
+            'The buyer says they already have a solution and are happy with it.',
+            'The buyer says this is not a priority right now and they are too busy.',
+            'The buyer does not have budget authority and cannot approve new tools.',
+            'The buyer is locked into a contract with a competitor.',
+            'The buyer gives a polite but firm "send me an email" brush-off and declines.',
+            'The buyer expresses interest but ultimately says the price is too high.',
+            'The buyer says they need to check with their team but clearly is not interested.',
+        ])
+        outcome_instruction = f"""
+    OUTCOME: This call should end in FAILURE.
+    - Failure reason: {failure_type}
+    - The buyer should raise realistic objections throughout the conversation.
+    - The final BUYER line must be a clear, definitive rejection or decline.
+    - Make the rejection realistic — not rude, but firm."""
+
     prompt = f"""
     Generate a realistic B2B sales call dialogue between a Sales Development Representative (SDR) 
     and a skeptical CTO at a company with this context:
@@ -175,19 +211,13 @@ def generate_synthetic_call(context: str) -> str:
     SELLER: [message]
     BUYER: [message]
     
+    {outcome_instruction}
+    
     IMPORTANT RULES:
-    - Make the conversation realistic with objections (Price, Timing, Competitors, Authority, Integration).
-    - The conversation MUST end with a CLEAR OUTCOME from the BUYER — either:
-      (a) The buyer AGREES to book a demo/meeting (Success — this should be RARE, ~15-20% of calls), OR
-      (b) The buyer firmly REJECTS/DECLINES the offer (Failure — this is the MOST COMMON outcome, ~80-85% of calls).
-    - REALISTIC B2B SALES: Most cold outreach calls FAIL. The buyer usually says no.
-      Common failure patterns: "We're not interested right now", "We already have a solution",
-      "Send me an email and I'll review it" (polite brush-off), "This isn't a priority for us",
-      "I don't have budget authority for this", "We're locked into a contract".
-    - Success should only happen when the SDR handles objections exceptionally well AND 
-      the buyer has a genuine need that aligns with the product.
-    - Do NOT end the conversation with an open question or vague "let me think about it".
-    - The final line must be from the BUYER with a definitive decision.
+    - Include realistic objections (Price, Timing, Competitors, Authority, Integration).
+    - Do NOT end with an open question or vague "let me think about it".
+    - The final line MUST be from the BUYER with a definitive decision.
+    - Make the conversation feel natural and realistic.
     """
     return _generate_content(prompt)
 
