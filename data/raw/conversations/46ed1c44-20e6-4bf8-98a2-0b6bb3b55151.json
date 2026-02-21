@@ -1,0 +1,82 @@
+{
+  "simulation_id": "46ed1c44-20e6-4bf8-98a2-0b6bb3b55151",
+  "timestamp": "2026-02-21T15:48:26.348756",
+  "target_url": "https://www.onfido.com",
+  "company_context": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access entrust.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9d1579abeefd7887 • Your IP: Click to reveal 103.182.167.28 • Performance & security by Cloudflare",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflows. I came across your company, Entrust, and noticed that you're currently experiencing some security issues with your website, specifically with Cloudflare. I think our solution could help alleviate some of those pain points.",
+      "word_count": 59,
+      "char_count": 377
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah, we've been having some issues with Cloudflare. But I'm not sure if we're in the market for a new data processing solution right now. What makes DeepData AI different from what we're currently using?",
+      "word_count": 36,
+      "char_count": 208
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle large amounts of data much more efficiently than traditional solutions. We've seen companies like yours reduce their data processing time by up to 50%. And with our scalable architecture, you can easily integrate it with your existing infrastructure. We've had success with similar companies in the security space, and I think we could bring significant value to Entrust.",
+      "word_count": 64,
+      "char_count": 410
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I have to be honest, our budget for new tools is pretty tight right now. We just implemented a new security platform last quarter, and I'm not sure if we can justify the cost of another solution. Plus, I'd need to run it by our IT team to see if it's even compatible with our current systems.",
+      "word_count": 61,
+      "char_count": 321
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand budget constraints can be a challenge. However, I'd like to propose a pilot program that would allow you to test our solution with a small subset of your data. This would give you a better understanding of the ROI and help you make a more informed decision. We've had great success with pilots in the past, and I think it could be a great way to demonstrate the value of DeepData AI.",
+      "word_count": 75,
+      "char_count": 407
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not the one who makes the purchasing decisions for new tools. Our CFO is the one who approves new budgets, and I'm not sure if they'd be willing to allocate funds for another data processing solution. Plus, we're in the middle of our annual budget planning, so it's not a good time to bring in new vendors.",
+      "word_count": 63,
+      "char_count": 338
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand. Can I at least send you some more information about DeepData AI and the pilot program I mentioned earlier? Maybe you could pass it along to your CFO and we could discuss further?",
+      "word_count": 36,
+      "char_count": 198
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I don't think that would be necessary. Like I said, our budget is tight, and we're not looking to bring in new vendors at this time. I appreciate your understanding, and I wish you the best of luck with your sales efforts, but I'm going to have to decline.",
+      "word_count": 49,
+      "char_count": 256
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 234,
+    "total_buyer_words": 209,
+    "avg_seller_words_per_turn": 58.5,
+    "avg_buyer_words_per_turn": 52.25,
+    "word_ratio_seller_buyer": 1.12,
+    "total_conversation_length": 443
+  }
+}

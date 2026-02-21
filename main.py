@@ -28,7 +28,7 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-"https://www.6sense.com", "https://www.demandbase.com", "https://www.cognism.com", "https://www.lusha.com", "https://www.seamless.ai", "https://www.uplead.com", "https://www.lead411.com", "https://www.clearbit.com", "https://www.bombora.com", "https://www.advent.com", "https://www.adyen.com", "https://www.plaid.com", "https://www.ramp.com", "https://www.airwallex.com", "https://www.revolut.com", "https://www.fiserv.com", "https://www.dynatrace.com", "https://www.newrelic.com", "https://www.datadoghq.com", "https://www.grafana.com", "https://www.elastic.co", "https://www.pennylane.com", "https://www.bigcommerce.com","https://www.woocommerce.com", "https://www.wix.com", "https://www.squarespace.com", "https://www.webflow.com", "https://www.morpheusdata.com", "https://www.digitalocean.com"
+"https://www.auth0.com", "https://www.segment.com", "https://www.fivetran.com", "https://www.dbtlabs.com", "https://www.airtable.com", "https://www.notion.so", "https://www.loom.com", "https://www.gitlab.com", "https://www.bitbucket.org", "https://www.circleci.com", "https://www.pagerduty.com", "https://www.victorops.com", "https://www.sumologic.com", "https://www.logz.io", "https://www.fastly.com", "https://www.akamai.com", "https://www.veriff.com", "https://www.onfido.com", "https://www.brex.com", "https://www.navan.com"
 ]
 
 # Dynamic inter-site delay based on provider
