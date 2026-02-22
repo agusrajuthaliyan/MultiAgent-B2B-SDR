@@ -28,7 +28,7 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-"https://www.paloaltonetworks.com", "https://www.fortinet.com", "https://www.sentinelone.com", "https://www.darktrace.com", "https://www.checkpoint.com", "https://www.trellix.com", "https://www.databricks.com", "https://www.palantir.com", "https://www.cloudera.com", "https://www.starburst.io", "https://www.dataiku.com", "https://www.workday.com", "https://www.servicenow.com", "https://www.oracle.com", "https://www.microsoft.com", "https://www.blueyonder.com", "https://www.kinaxis.com", "https://www.fourkites.com", "https://www.project44.com", "https://www.coupa.com", "https://www.o9solutions.com", "https://www.anaplan.com", "https://www.manh.com", "https://www.infor.com", "https://www.epicor.com", "https://www.rippling.com", "https://www.bamboohr.com", "https://www.darwinbox.com", "https://www.uipath.com", "https://www.automationanywhere.com"
+"https://www.6sense.com", "https://www.gong.io", "https://www.chorus.ai", "https://www.salesloft.com", "https://www.outreach.io", "https://www.leandata.com", "https://www.insightly.com", "https://www.pipedrive.com", "https://www.copper.com", "https://www.activecampaign.com", "https://www.sendinblue.com", "https://www.klaviyo.com", "https://www.attentive.com", "https://www.bamboohr.com", "https://www.hibob.com", "https://www.personio.com", "https://www.papayaglobal.com", "https://www.checkr.com", "https://www.lattice.com", "https://www.cultureamp.com"
 ]
 
 # Dynamic inter-site delay based on provider
