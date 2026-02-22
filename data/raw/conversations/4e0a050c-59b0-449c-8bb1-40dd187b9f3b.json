@@ -1,0 +1,96 @@
+{
+  "simulation_id": "4e0a050c-59b0-449c-8bb1-40dd187b9f3b",
+  "timestamp": "2026-02-23T01:17:51.355400",
+  "target_url": "https://www.project44.com",
+  "company_context": "Decision Intelligence Platform | project44 Skip to Content Skip to Menu Skip to Footer Meet industry leaders at decision44 in Chicago & Amsterdam Register now Menu Search 简体中文 English Français Deutsch 日本語 Español Login Demo Movement. The Decision Intelligence Platform for the modern supply chain. Don’t react to your supply chain. Control it. With real-time visibility and actionable insights, you’ll always know what’s coming—and what to do next. All on one powerful platform powered by Supply Chain AI. Get a demo Contact sales U.S. Imports from China Drop 35% Year-Over-Year Despite Traditional Lunar New Year Stockpiling Learn more Decision Intelligence Platform Transportation Management Next-gen, multi-modal TMS for fast freight procurement and execution. Consolidate orders, optimize modes, tender & book, and access real-time analytics, mini-bids, and financial insights to reduce costs and improve decision-making Learn more Visibility Gain real-time inventory visibility across all modes and geographies. Eliminate blind spots, reduce operational risk, and proactively manage disruptions to avoid costly fines and delays Learn more Yard Management Simplify yard and facility operations through orchestration, real-time data, and IoT. Reduce driver wait times, eliminate manual work across the gate, dock, and yard, and maximize asset utilization from a unified view Learn more eCommerce Logistics Master the last mile and boost your bottom line with real-time visibility, issue resolution, and delivery insights. Reduce WISMO calls, improve CSAT, and drive brand loyalty with a better delivery experience Learn more Collaboration AI Disruption Navigator Exception Management Connect. See. Act. Automate. Ditch complexity. Embrace simplicity. Meet Movement. It’s powerful. It’s intuitive. It puts you in the driver’s seat to move your supply chain forward. See how it works Built for outcomes Do more with a platform designed to boost productivity, lower costs, create value, and deliver on your commitments. Elevate CX 26% improvement in on-time in full — $9.4B Swiss medical device and eyecare device company 20% increase in net promoter score — $153B US home Improvement retailer 54% decrease in “where is my order” requests — $9B US office supplies retailer Decrease costs $16M cost avoidance during Baltimore Bridge collapse — $29B US automotive company 99% reduction in D&D fees — $5.6B US global spirits company $8M reduction in detention & demurrage — $52B US footwear and apparel retailer Improve cash flow 13% reduction in safety stock — $58B UK CPG company $12M in annual savings with 1 day safety stock reduction — $307B Japanese automotive manufacturer 20% reduction in supply on hand — $1.6B US CPG and agricultural cooperative company Increase efficiency 86% reduction in gate wait time — $16B Canadian automotive parts retailer 100% increase in productivity without requiring additional headcount — $42B Canadian global automotive parts manufacturer 72% faster time to exce",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, this is Alex from DeepData AI. I came across project44 and was impressed with the work you're doing in supply chain management. I'd love to explore how our data processing solution can help optimize your operations.",
+      "word_count": 37,
+      "char_count": 219
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, another sales call. What makes you think we need your solution? We already have a robust system in place.",
+      "word_count": 21,
+      "char_count": 121
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand your skepticism, but our solution has helped similar companies in the industry reduce costs and improve decision-making by up to 30%. I'd like to discuss how our AI-powered data processing can complement your existing system and provide more actionable insights.",
+      "word_count": 42,
+      "char_count": 275
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(objection) I'm not sure we have the budget for this. We've already allocated our budget for the year, and I'm not sure we can fit in another expense.",
+      "word_count": 28,
+      "char_count": 150
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand budget constraints. However, our solution has a rapid ROI, typically within 6-9 months. We've also had success with flexible pricing models that can work within your existing budget. I'd be happy to discuss this further and provide some case studies.",
+      "word_count": 43,
+      "char_count": 274
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(objection) I'm also concerned about integration. We have a lot of custom-built systems, and I don't want to add another layer of complexity.",
+      "word_count": 23,
+      "char_count": 141
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "That's a valid concern. Our solution is designed to be highly adaptable and has been integrated with a wide range of systems, including custom-built ones. We've also developed a comprehensive onboarding process to ensure a seamless integration. I can offer a trial or a proof-of-concept to demonstrate how our solution can work with your existing systems.",
+      "word_count": 56,
+      "char_count": 355
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(objection) I'm not sure I have the authority to make a decision on this. I'd need to involve our procurement team and other stakeholders.",
+      "word_count": 24,
+      "char_count": 138
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand the need for stakeholder involvement. I'd be happy to provide any necessary information or support to facilitate the decision-making process. In fact, I can offer a demo tailored to your specific needs and invite your procurement team and other stakeholders to join.",
+      "word_count": 44,
+      "char_count": 279
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo. I'll invite our procurement team and other stakeholders to join. If your solution can really deliver the benefits you're promising, I'm willing to consider it.",
+      "word_count": 30,
+      "char_count": 194
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Integration\nFeedback: The seller could have further strengthened the conversation by asking more probing questions to understand the buyer's specific pain points and tailor the solution more closely to their needs. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Integration",
+      "feedback": "The seller could have further strengthened the conversation by asking more probing questions to understand the buyer's specific pain points and tailor the solution more closely to their needs. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 222,
+    "total_buyer_words": 126,
+    "avg_seller_words_per_turn": 44.4,
+    "avg_buyer_words_per_turn": 25.2,
+    "word_ratio_seller_buyer": 1.76,
+    "total_conversation_length": 348
+  }
+}

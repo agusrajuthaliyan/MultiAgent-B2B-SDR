@@ -1,0 +1,82 @@
+{
+  "simulation_id": "2e560e4d-9107-44c8-ada4-73f236b999fa",
+  "timestamp": "2026-02-23T00:47:32.004958",
+  "target_url": "https://www.onfido.com",
+  "company_context": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access entrust.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9d20d2d759c85fb9 • Your IP: Click to reveal 103.184.238.178 • Performance & security by Cloudflare",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflows. I came across your company, Entrust, and noticed you've been experiencing some security issues with your website, specifically with Cloudflare. Can you tell me a bit about your current data processing setup and if you're experiencing any pain points?",
+      "word_count": 65,
+      "char_count": 405
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Ah, yeah. We've been having some issues with Cloudflare, but to be honest, we're not really looking to bring in any new solutions right now. We're in the middle of a big project and our plate is pretty full. What makes you think we need a new data processing solution?",
+      "word_count": 51,
+      "char_count": 276
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that timing can be a challenge. However, our solution has been able to help similar companies reduce their data processing time by up to 50% and improve their overall security posture. We've also had success with companies in the security industry, such as yours. I'd love to schedule a demo to show you how DeepData AI can help. Would you be open to a quick call next week?",
+      "word_count": 70,
+      "char_count": 387
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're really busy right now. And to be honest, we've already looked at a few other solutions, including one from Palantir. Their pricing was a bit steep for us, but we're still considering it. How does your pricing compare to theirs?",
+      "word_count": 49,
+      "char_count": 274
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive with Palantir, and we offer a more scalable solution that can grow with your company. We also have a more streamlined integration process, which can reduce the upfront costs. I'd be happy to provide a custom quote for your company. Additionally, we have a few case studies from similar companies that I can share with you to demonstrate our ROI.",
+      "word_count": 64,
+      "char_count": 372
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(interrupting) Look, I appreciate the pitch, but like I said, we're just not prioritizing this right now. We've got a lot on our plate, and our current data processing setup, while not perfect, is getting the job done. I'm not sure we're willing to take on the risk and cost of implementing a new solution, especially when we're not sure if it will integrate seamlessly with our existing systems.",
+      "word_count": 69,
+      "char_count": 396
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Can I at least send you some information and follow up in a few months to see if your priorities have shifted?",
+      "word_count": 31,
+      "char_count": 169
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that's necessary. We appreciate the outreach, but we're going to have to pass on DeepData AI for now. We've got too much on our plate, and this just isn't a priority for us. Thank you for understanding.",
+      "word_count": 41,
+      "char_count": 220
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more thoroughly addressed the buyer's concerns about timing and current project priorities, and potentially offered a more flexible or phased implementation approach to alleviate these concerns. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more thoroughly addressed the buyer's concerns about timing and current project priorities, and potentially offered a more flexible or phased implementation approach to alleviate these concerns. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 230,
+    "total_buyer_words": 210,
+    "avg_seller_words_per_turn": 57.5,
+    "avg_buyer_words_per_turn": 52.5,
+    "word_ratio_seller_buyer": 1.1,
+    "total_conversation_length": 440
+  }
+}

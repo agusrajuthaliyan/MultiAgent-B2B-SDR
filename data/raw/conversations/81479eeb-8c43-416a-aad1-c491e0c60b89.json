@@ -1,0 +1,82 @@
+{
+  "simulation_id": "81479eeb-8c43-416a-aad1-c491e0c60b89",
+  "timestamp": "2026-02-23T01:16:53.841097",
+  "target_url": "https://www.dataiku.com",
+  "company_context": "Dataiku | The Universal AI Platform™ en de ja Join Dataiku Learning Center Sign in Product Discover Dataiku Where everyone can create and consume AI Dataiku Key Capabilities Plugins and Connectors Plans and Editions Build With Dataiku GenAI & Agents Machine Learning Analytics & Insights Data Prep for AI Deploy & Monitor With Dataiku AI Governance AI Engineering Operations AI Ecosystem Get An End-to-End Demo of Dataiku in 3 Minutes ACCESS DEMO NOW Solutions Dataiku For Your Industry Banking Life Sciences Manufacturing Telecommunications Insurance Retail & CPG Public Sector Utilities & Energy Healthcare Dataiku For Your Department Marketing Logistics & Supply Chain Finance & Audit Dataiku Offers for Every Team Dataiku for Data Analytics Dataiku for AI & Machine Learning Dataiku for Enterprise AI Dataiku Solutions Catalog Easily tailor marketing strategies for maximum ROI with this plug-and-play template. CHECK OUT THE DATAIKU SOLUTION Stories Dataiku AI Stories Turning analytics, AI, and agents into measurable impact. Dataiku Customer Stories Explore Dataiku AI Stories Dataiku in Action Frontrunner Awards GenAI & Agents AI Gov & Architecture Analytics Modernization Use Cases Watch a Web Series AI Agents Builders Governing AI Agents AI and Us Center of Excellence The Dataiku Conference Live Prologis Productionalized 12x More AI & ML Projects SEE HOW THEY DID IT WITH DATAIKU Company Join Dataiku We're hiring, join the adventure Engineering at Dataiku About Dataiku Customers Analyst Recognition Dataiku for the Future Press Releases Media Kit Meet Dataiku at an Event Live Dataiku Demos Dataiku Summit Events Calendar The 2025 Gartner Magic Quadrant for Data Science and ML Platforms GET A COMPLIMENTARY COPY Partners Find a Dataiku Partner Work with our expert Partners Service Partners Technology Alliances Partner With Dataiku Featured Partners AWS Databricks Deloitte Snowflake Dataiku + Deloitte Boost Rolls-Royce’s Efficiency DISCOVER THE FULL STORY START FREE TRIAL CONTACT US Contact Us START FREE TRIAL The Universal AI Platform™ Unite human expertise and AI reasoning to power trusted intelligence at scale. Start your free trial See it in action Trusted by Customers , Partners & the AI Ecosystem Dataiku Is a Leader for the Fourth Time Get the Gartner Report Transforming Rolls-Royce Operations SEE HOW: DATAIKU + DELOITTE Building Agentic Applications at Scale READ THE O’REILLY TECH GUIDE Build Analytics, Models, & Agents in One Place GenAI & Agents GenAI & Agents Move beyond POCs. Build enterprise-grade AI agents and GenAI use cases at scale. Dataiku provides everything, from a secure LLM gateway to development, evaluation, and governance tools. EXPLORE Machine Learning Machine Learning From a guided approach with AutoML to cutting-edge techniques and full code, use Dataiku to build and evaluate machine learning (ML) models faster — all with the highest standards of explainability. EXPLORE Analytics & Insights Analytics & Insights Upgrade your BI and sel",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and improve decision-making. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 42,
+      "char_count": 259
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party software. It's been working okay, but I'm not sure we're getting the most out of it. What makes DeepData AI different from what's already out there?",
+      "word_count": 39,
+      "char_count": 233
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to be highly scalable and customizable, so it can adapt to the specific needs of your business. We've also got a strong focus on AI-driven insights, which can help you uncover hidden trends and patterns in your data. I'd love to schedule a demo to show you more.",
+      "word_count": 53,
+      "char_count": 293
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We're already looking at a few other solutions, including Dataiku, and I'm not convinced that DeepData AI would be the best fit for us. Plus, we're in the middle of a major project right now, so I'm not sure we have the bandwidth to take on something new.",
+      "word_count": 53,
+      "char_count": 286
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that you're busy, but I think DeepData AI could really help you drive efficiency and cost savings in the long run. And while Dataiku is a great platform, our solution is more focused on the specific needs of data processing, so it might be a better fit for your use case. Can I ask, who else is involved in the decision-making process for this kind of project?",
+      "word_count": 69,
+      "char_count": 373
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Honestly, it's a team effort, but I'm the one who would need to sign off on it. And like I said, we're just not prioritizing this right now. We've got too many other fires to put out, and this isn't something that's keeping me up at night. I appreciate the pitch, but I don't think we're going to move forward with DeepData AI.",
+      "word_count": 63,
+      "char_count": 327
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand. Can I at least send over some more information and follow up with you in a few months to see if your priorities have shifted?",
+      "word_count": 28,
+      "char_count": 145
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that's necessary. We'll have to pass on DeepData AI for now. Thanks for reaching out, but we're just not in a position to take on something new at this time.",
+      "word_count": 34,
+      "char_count": 175
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's current project priorities and explored potential ways to integrate DeepData AI into their existing workflow to alleviate their current bandwidth concerns. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's current project priorities and explored potential ways to integrate DeepData AI into their existing workflow to alleviate their current bandwidth concerns. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 192,
+    "total_buyer_words": 189,
+    "avg_seller_words_per_turn": 48.0,
+    "avg_buyer_words_per_turn": 47.25,
+    "word_ratio_seller_buyer": 1.02,
+    "total_conversation_length": 381
+  }
+}

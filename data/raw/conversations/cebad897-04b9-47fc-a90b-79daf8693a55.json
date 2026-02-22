@@ -1,0 +1,82 @@
+{
+  "simulation_id": "cebad897-04b9-47fc-a90b-79daf8693a55",
+  "timestamp": "2026-02-23T00:45:53.195842",
+  "target_url": "https://www.starburst.io",
+  "company_context": "Data Lakehouse Platform Built With Trino | Starburst The Open Lakehouse Data Platform for Analytics, Apps, and AI Unify data, context, and governance so agents answer, act, and adapt - faster. Watch Datanova On-Demand Contact Sales ~300 M+ AI Queries Served since Feb. 2025 50+ Connectors to access all data 10x Faster query performance ~300 M+ AI Queries Served since Feb. 2025 50+ Connectors to access all data 10x Faster query performance Trusted by hundreds of leading data teams around the globe Starburst is the data platform for agents and AI – empowering teams to discover, trust, and act on data with built-in governance and context. Trusted Access Everywhere Unify access to every system—cloud, on-prem, or hybrid—without moving data. Agents and teams get governed access to what matters, so AI starts on solid ground. From Questions to Action Go beyond dashboards. Starburst powers conversational queries, AI search, and context-rich responses so insights and actions happen instantly across workflows and teams. Accelerate Safe Deployment Every answer, every action, every workflow comes with governance, lineage, and security attached. Deploy AI faster, safer, and with confidence it will scale. Get started with our fully managed data platform, Starburst Galaxy, in just a few clicks. Just connect your data and GO! Have more questions? Our team of technical experts is here to help you on your path to AI-ready, future-proof architecture. Try Galaxy Now Contact Sales Deploy How And Where You Need Full managed in the cloud Starburst Galaxy End-to-end cloud data platform for apps & AI from data ingestion to data sharing to AI agents. arrow_forward Self-managed, deployed anywhere Starburst Enterprise On-premises and hybrid data platform for apps and AI to bring your data into the lakehouse and AI era. arrow_forward Powered by Starburst Dell Data Analytics Engine Modern on-premises storage, SQL engine, and compute for on-prem and hybrid lakehouses. arrow_forward See the Starburst Data Lakehouse in Action Compare Starburst innovations vs other platforms vs Cloud data warehouses arrow_forward 6.3x faster SQL 12.7x cost savings 10x more data sources More deployment models with on-premises, hybrid, and air-gapped 3x more data catalog vs Lakehouses Fully open with native support for Apache Iceberg, Delta Lake, Apache Hudi, and Apache Hive 41% savings on SQL analytics 5x more data sources 2x more deployment models with on-premises, hybrid, and air-gapped ANSI SQL engine built with enhanced Trino 80% savings on near real-time analytics vs Data Lakes Thousands of concurrent users 10x cost savings 11.5x faster SQL More deployment models with on-premises, hybrid, and air-gapped 3x more data catalogs Get started today 6.3x faster SQL 12.7x cost savings 10x more data sources More deployment models with on-premises, hybrid, and air-gapped 3x more data catalog Fully open with native support for Apache Iceberg, Delta Lake, Apache Hudi, and Apache Hive 41% savings on SQL ana",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. We're a data processing solution that helps companies like yours unify their data and get faster query performance. I came across your company, Starburst, and was impressed with the work you're doing with your lakehouse data platform. Can you tell me a little bit about your current data processing challenges?",
+      "word_count": 64,
+      "char_count": 389
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're always looking for ways to improve our data processing capabilities, but we've made significant investments in our current infrastructure. What makes DeepData AI unique, and how does it compare to what we're already using?",
+      "word_count": 37,
+      "char_count": 237
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution is built with Trino and has 50+ connectors to access all data, providing 10x faster query performance. We've also served over 300 million AI queries since February 2025. I think our solution could really help you accelerate your data processing and improve your overall analytics capabilities.",
+      "word_count": 52,
+      "char_count": 331
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but I have to say that we're in the middle of a major project right now, and I'm not sure we have the bandwidth to evaluate new tools. Plus, our current solution is working well enough, even if it's not perfect. What kind of pricing are we talking about for DeepData AI?",
+      "word_count": 57,
+      "char_count": 302
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer a tiered pricing structure based on the number of users and data volume. I'd be happy to provide you with a custom quote, but I can tell you that our average customer sees a significant ROI within the first 6-12 months of using our solution.",
+      "word_count": 52,
+      "char_count": 282
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, I don't have the authority to approve new tools or budgets. I'm just the CTO, and our CFO is the one who makes those decisions. Even if I were interested, I'd have to go through a lengthy evaluation and approval process, which would take several months. I think it's best if we pass on this for now.",
+      "word_count": 65,
+      "char_count": 341
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand, and I appreciate your honesty. Is there anything I can provide to help facilitate the evaluation process or make it easier for you to present DeepData AI to your CFO?",
+      "word_count": 32,
+      "char_count": 180
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, thank you. I think we're going to have to decline. We're just not in a position to take on new tools or vendors at this time, and I don't see that changing in the near future. Thank you for reaching out, but I think we'll have to pass on DeepData AI.",
+      "word_count": 52,
+      "char_count": 254
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have asked about the buyer's decision-making process and involved the CFO earlier in the conversation to potentially overcome the authority objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have asked about the buyer's decision-making process and involved the CFO earlier in the conversation to potentially overcome the authority objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 200,
+    "total_buyer_words": 211,
+    "avg_seller_words_per_turn": 50.0,
+    "avg_buyer_words_per_turn": 52.75,
+    "word_ratio_seller_buyer": 0.95,
+    "total_conversation_length": 411
+  }
+}

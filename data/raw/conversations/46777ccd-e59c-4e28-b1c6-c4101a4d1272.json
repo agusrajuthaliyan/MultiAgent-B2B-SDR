@@ -1,0 +1,82 @@
+{
+  "simulation_id": "46777ccd-e59c-4e28-b1c6-c4101a4d1272",
+  "timestamp": "2026-02-23T00:47:03.582084",
+  "target_url": "https://www.deel.com",
+  "company_context": "Deel | Global Payroll, Compliance, HR Solutions | HRIS Hire, manage, pay, & equip anyone, anywhere. Payroll, HR, IT, and immigration for every worker type. All in one platform from one trusted partner. Speak to sales Ramp “ We partnered with Deel to help customers stay in sync as their employee roster grows, all while providing a seamless customer experience. ” — Dave Pulito, Head of Partnerships, Ramp ElevenLabs “ Deel enables us to hire and support exceptional talent anywhere. ” — Mati Staniszewski, CEO, ElevenLabs Robinhood “ Deel is a game changer. ” — Shiv Verma, SVP of Finance 480+ hrs Saved monthly on IT admin 100% compliant offboarding + IT asset retrieval Trusted by 40,000+ companies from startups to enterprise 175 STORIES Read about real results WHAT DEEL DOES The Global People Platform Deel Payroll Local and global payroll, your way. Learn More Deel HR One HR system for every worker. Learn More Deel IT Devices and support, anywhere. Learn More Deel Benefits Easily set up plans, handle enrollment, sync deductions, and more. Learn More Deel Hire Hire anywhere in days, fully compliant. Learn More Deel Mobility Visas handled in-house, end to end. Learn More Deel Speed Accomplish more in less time Deel Payroll Deel HR Deel IT Deel Hire Today Set up payroll countries and owners Hours later Configure pay rules, approvals, and cutoffs Tomorrow Everyone gets paid on time Today Set up payroll countries and owners Hours later Configure pay rules, approvals, and cutoffs Tomorrow Everyone gets paid on time One modern experience for today's workforce 150+ currencies supported, including crypto, for centralized compliant payroll. Learn more Actionable AI for approving hiring, payroll, IT flows on Deel. More scaling, not headcount. Learn more 2,000+ local experts combined with in-house compliance logic and real-time AI. Book a demo 150+ currencies supported, including crypto, for centralized compliant payroll. Learn more Actionable AI for approving hiring, payroll, IT flows on Deel. More scaling, not headcount. 2,000+ local experts combined with in-house compliance logic and real-time AI. Built on in-house infrastructure, with single payroll engines, owned entities, and more. Learn more TESTIMONIALS Our customer reviews Discover the insights from customers regarding their experiences with Deel. Your browser does not support the video tag. See how the Revolut team has hired 150+ workers and relocated 10+ people through Deel. Learn more Your browser does not support the video tag. By embedding Deel into their platform, Cocoroco automated every hire, contract, and payment through a single, fully branded experience. Check out more on how Deel’s become the perfect product partner for Cocoroco. Learn more Your browser does not support the video tag. Cal.com wins in the competitive global market with Deel. From wiring money by hand to running a borderless company on one platform, see how Cal.com uses Deel to hire, pay, and support a global team — without bor",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data management and gain valuable insights. I saw that Deel is a global payroll and HR solutions company, and I thought our solution could really help you optimize your data workflows.",
+      "word_count": 55,
+      "char_count": 325
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah, we're always looking for ways to improve our data management. But we've got a pretty complex system in place already, with a lot of different tools and platforms integrated. What makes DeepData AI think they can come in and make a difference?",
+      "word_count": 44,
+      "char_count": 252
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to be highly adaptable and scalable, so we can integrate with your existing systems and help you get more out of your data. We've worked with companies in the HR and payroll space before, and we've seen some really impressive results. For example, one of our clients was able to reduce their data processing time by over 50% after implementing our solution.",
+      "word_count": 67,
+      "char_count": 388
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I'm not sure we're in the market for a new data processing solution right now. We're in the middle of a big IT overhaul, and I'm not sure we have the bandwidth to take on another project. Plus, I'd need to get buy-in from our CFO, who's pretty skeptical of new vendor relationships.",
+      "word_count": 57,
+      "char_count": 311
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand, and I appreciate your honesty. We've worked with companies in similar situations before, and we're happy to provide a customized demo to show you how our solution can fit into your existing workflows. We can also provide case studies and references from other companies in your industry. As for the pricing, we're very competitive, and I think we can offer a solution that fits within your budget. Our pricing starts at $50,000 per year, with discounts available for larger implementations.",
+      "word_count": 83,
+      "char_count": 515
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Hmm, that's a bit steeper than I was expecting. We're a company that's very mindful of our expenses, and I'm not sure we can justify that kind of spend. Plus, I'd need to compare it to what our current vendors are offering. We've got a relationship with a company that provides similar services, and I'm not sure we're ready to switch.",
+      "word_count": 61,
+      "char_count": 335
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your willingness to consider our solution. I can offer a customized pricing plan that takes into account your specific needs and budget. I can also provide a detailed comparison of our solution versus your current vendor, to help you make a more informed decision.",
+      "word_count": 51,
+      "char_count": 309
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass. The price is just too high for us, and I don't think we can justify the ROI. We'll stick with our current vendors for now, and revisit this conversation in the future if our needs change. Thanks for reaching out, though, and I wish you the best of luck with your sales efforts.",
+      "word_count": 66,
+      "char_count": 342
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's price concerns and potentially offered a more flexible pricing plan or a pilot project to demonstrate the value of the solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's price concerns and potentially offered a more flexible pricing plan or a pilot project to demonstrate the value of the solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 256,
+    "total_buyer_words": 228,
+    "avg_seller_words_per_turn": 64.0,
+    "avg_buyer_words_per_turn": 57.0,
+    "word_ratio_seller_buyer": 1.12,
+    "total_conversation_length": 484
+  }
+}

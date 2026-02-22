@@ -1,0 +1,82 @@
+{
+  "simulation_id": "04c61545-47f5-4ad5-8834-37f8f9938f6f",
+  "timestamp": "2026-02-23T00:44:16.230451",
+  "target_url": "https://www.clari.com",
+  "company_context": "Enterprise Revenue Orchestration | Clari You currently have JavaScript disabled in your web browser, please enable JavaScript to view our website as intended. Here are the instructions of how to enable JavaScript in your browser . Ready to Get Real About Revenue? Learn How × See Clari in action The Predictive Revenue System See and Act on Every Revenue Signal End-to-end pipeline coverage, with AI agents monitoring every deal at every stage across all sales motions. Take a Platform Tour Discover Why Clari See the proof behind the numbers: Download the Forrester Study Global Enterprises Run Revenue with Clari Managing $5T in revenue for 1,500+ customers See customer stories Run Every Revenue Workflow Solutions for every revenue team member. Power every workflow in one platform. Run revenue end-to-end. Pipeline Management & Prospecting Sales Engagement & Productivity Forecasting & Revenue Insights Customer Retention & Growth Pipeline Management & Prospecting Pipeline Management & Prospecting See where pipeline is real, where it’s at risk, and where to go next — so sellers can prospect with purpose and close with confidence. Explore Pipeline Management & Prospecting Sales Engagement & Productivity Sales Engagement & Productivity Sellers focus on what matters, guided by AI-assisted deal signals, clear next steps, and automated follow-through. Managers get real-time visibility to coach in the moment and scale what works. Explore Sales Engagement & Productivity Forecasting & Revenue Insights Forecasting & Revenue Insights See every revenue signal in one view — from CRM to ERP to email — delivering forecasts you can trust, explain, and defend in the boardroom. Explore Forecasting & Revenue Insights Customer Retention & Growth Customer Retention & Growth Make your customer base a growth engine — spot churn risk early, uncover upsell opportunities, and align Sales, Customer Success, and Marketing to take action. Explore Customer Retention & Growth Turn Revenue Data into Action with Revenue Context Orchestrate revenue by powering AI with the context from every signal, cadence, and workflow so your execution matches how your business operates. Explore the Clari Platform Take a tour Learn how Clari’s AI & Agents help customers drive productivity, predictability & profitability. Clari’s AI and predictive capabilities have been a game-changer. Our CEO and top executives rely on Clari to predict outcomes, while our field teams focus and execute with greater confidence. Paty Hanna VP of Field Strategy and Operations, Okta Clari’s AI capabilities enable us to understand where we're winning and why. The insights and analytics available at the click of a button are truly impressive. David Lee Head of Revenue Operations, Checkout.com Clari’s AI has helped our business grow by over 70% in bookings year-over-year. The accuracy of our forecasts has increased tenfold, consistently landing within 3–4% every quarter for the last two years. David Schloss Chief Revenue Offic",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their revenue operations. I came across your company, Clari, and was impressed with the work you're doing in enterprise revenue orchestration. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 57,
+      "char_count": 348
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're actually pretty set with our current solution. We've been using a competitor's platform for a while now, and it's been meeting our needs. What makes DeepData AI think they can do better?",
+      "word_count": 35,
+      "char_count": 202
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine is able to process large amounts of data much faster and more accurately than traditional solutions. We've seen our customers achieve significant reductions in manual labor and increase their forecasting accuracy. I'd love to set up a demo to show you exactly how it works.",
+      "word_count": 49,
+      "char_count": 301
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure we're in the market for a new solution right now. We've got a contract with our current provider that still has a year left on it, and I'm not sure our team is ready to take on the integration process. Plus, I've heard that DeepData AI is on the pricier side – can you tell me more about your pricing model?",
+      "word_count": 69,
+      "char_count": 348
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive with other solutions on the market, and we offer a tiered structure to fit the needs of different-sized companies. As for integration, we've got a dedicated team that can help make the transition as smooth as possible. And while I understand the concern about the contract, I'd argue that the benefits of switching to DeepData AI could far outweigh the costs of terminating your current contract early.",
+      "word_count": 71,
+      "char_count": 429
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I understand where you're coming from, but I've got to prioritize our existing relationships and contracts. We've invested a lot of time and money into our current solution, and I'm not convinced that DeepData AI would be able to provide enough value to justify the switch. Not to mention, our CFO is pretty strict about staying within budget, and I don't think we could absorb the cost of transitioning to a new platform right now.",
+      "word_count": 75,
+      "char_count": 432
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Can I ask, would you be open to revisiting this conversation in a year when your contract is up for renewal? We've got a lot of exciting developments in the pipeline, and I think we could really help Clari take their revenue operations to the next level.",
+      "word_count": 56,
+      "char_count": 313
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the follow-up, Alex, but I think we're going to have to pass on DeepData AI for now. We're locked into our current contract, and even when it's up for renewal, I'm not sure we'll be looking to switch. Our current provider has been doing a good job, and I don't see a compelling reason to change. I wish you the best of luck with your sales efforts, but I think we're going to have to decline.",
+      "word_count": 78,
+      "char_count": 405
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have explored alternative solutions or potential workarounds to address the buyer's contract timeline concerns earlier in the conversation to potentially overcome the timing objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have explored alternative solutions or potential workarounds to address the buyer's contract timeline concerns earlier in the conversation to potentially overcome the timing objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 233,
+    "total_buyer_words": 257,
+    "avg_seller_words_per_turn": 58.25,
+    "avg_buyer_words_per_turn": 64.25,
+    "word_ratio_seller_buyer": 0.91,
+    "total_conversation_length": 490
+  }
+}

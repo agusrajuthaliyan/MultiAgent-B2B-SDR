@@ -1,0 +1,96 @@
+{
+  "simulation_id": "2301b9c9-b54f-478c-9266-64c830fe1fda",
+  "timestamp": "2026-02-23T01:18:16.870480",
+  "target_url": "https://www.manh.com",
+  "company_context": "Retail and Supply Chain Management Software Solutions | Manhattan Associates Don't miss out - registration for Momentum 2026 is now LIVE. Secure your spot: Register Here NEW - Demo Series Careers Find a Partner View a Demo Change Location Back to Main Menu Americas (2) Back to Location & Language Brazil Latin America Europe (6) Back to Location & Language France Germany Italy United Kingdom Netherlands Spain Asia (5) Back to Location & Language Australia China India Japan Singapore Change Location Login Search Please type a query Featured Topics View latest industry guide for Retailers Learn how we have one app for everything point of sale Get the latest insights into supply chain commerce Gartner Magic Quadrant for WMS Manhattan is a 17-time Leader in Gartner’s Magic Quadrant for WMS, recognized for its cloud-native, microservices-based warehouse management solutions. Platform & AI Back to Main Menu Manhattan Active® Technology AI Agents Agent Foundry Proactive Transforming Customer Service with Agentic AI for Retail Manhattan Active Maven for customer service makes it more convenient, compelling, and satisfying for customers to get automated assistance through chat. Transforming Customer Service with Agentic AI for Retail Manhattan Active Maven for customer service makes it more convenient, compelling, and satisfying for customers to get automated assistance through chat. Solutions Back to Main Menu Omnichannel Commerce B2B Commerce Supply Chain Execution Supply Chain Planning View All Solutions Gartner Magic Quadrant for WMS Manhattan is a 17-time Leader in Gartner’s Magic Quadrant for WMS, recognized for its cloud-native, microservices-based warehouse management solutions. Gartner Magic Quadrant for WMS Manhattan is a 17-time Leader in Gartner’s Magic Quadrant for WMS, recognized for its cloud-native, microservices-based warehouse management solutions. Back to Solutions Overview Order Management Point of Sale Customer Service & Engagement Agentic AI Chatbot for Customer Service Store Inventory & Fulfillment Back to Solutions B2B Promising & Fulfillment Back to Solutions Overview Warehouse Management Labor Management Transportation Management Yard Management Manhattan SCALE Carrier Management Back to Solutions Overview Demand Forecasting Replenishment Allocation Unified Business Planning Industries Back to Main Menu Consumer Goods Food & Beverage Grocery Manufacturing Medical & Pharmaceutical Retail Trucking / Carrier Management Wholesale Third-Party Logistics Maximize Freshness and Minimize Costs with Manhattan Active® Supply Chain Groceries are an essential human need, and grocers need to distribute products and food items to their customers, fast and without fail. But without a unified warehouse and transportation platform, orchestrating efficiency with high visibility can be hard to deliver. Learn how Manhattan Active® Supply Chain handles the most complex grocery supply chain networks in the world. Maximize Freshness and Minimize Costs wi",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm a Sales Development Representative at DeepData AI. I came across Manhattan Associates and was impressed with the work you're doing in retail and supply chain management. I'd love to introduce you to our data processing solution that can help optimize your operations.",
+      "word_count": 49,
+      "char_count": 296
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Ah, another data processing solution. What makes yours so special? We already have a few vendors in place, and I'm not sure we're looking to add another one.",
+      "word_count": 29,
+      "char_count": 169
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, but our solution, DeepData AI, uses machine learning algorithms to provide real-time insights and automate decision-making. It can help you streamline your supply chain and improve customer satisfaction. I'd love to give you a quick overview and see if it's something that could benefit your team.",
+      "word_count": 51,
+      "char_count": 338
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(concerned) I'm not sure we have the budget for this right now. We've already allocated our budget for the year, and I don't think we can fit in another expensive solution.",
+      "word_count": 31,
+      "char_count": 172
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand budget constraints can be a challenge. However, our solution is designed to provide a significant ROI. In fact, our existing customers have seen an average reduction of 15% in operational costs. I'd be happy to provide a customized ROI analysis to show you how DeepData AI can benefit your business. Additionally, we offer flexible pricing plans to fit your needs.",
+      "word_count": 62,
+      "char_count": 377
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) Okay, I'm listening. But how does your solution integrate with our existing systems? We have a lot of custom-built software, and I don't want to have to deal with integration headaches.",
+      "word_count": 33,
+      "char_count": 202
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our solution is designed to be highly adaptable and can integrate with a wide range of systems, including custom-built software. We have a dedicated integration team that works closely with our customers to ensure a seamless onboarding process. In fact, we've already integrated with several Manhattan Associates customers, so we're familiar with your systems.",
+      "word_count": 54,
+      "char_count": 360
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(slightly more interested) Alright, I'll give you 30 minutes next week to demo your solution and show me how it can integrate with our systems. But I need to see some concrete examples and ROI projections before I consider moving forward.",
+      "word_count": 41,
+      "char_count": 238
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "That sounds great! I'll send over a calendar invite for next week. I'll also make sure to provide some case studies and ROI projections ahead of time so you can review them. I'm looking forward to showing you the value of DeepData AI.",
+      "word_count": 43,
+      "char_count": 234
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo.",
+      "word_count": 5,
+      "char_count": 34
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Price\nFeedback: The seller could have further emphasized the potential long-term cost savings and ROI of the solution to more effectively address the buyer's budget concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Price",
+      "feedback": "The seller could have further emphasized the potential long-term cost savings and ROI of the solution to more effectively address the buyer's budget concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 259,
+    "total_buyer_words": 139,
+    "avg_seller_words_per_turn": 51.8,
+    "avg_buyer_words_per_turn": 27.8,
+    "word_ratio_seller_buyer": 1.86,
+    "total_conversation_length": 398
+  }
+}

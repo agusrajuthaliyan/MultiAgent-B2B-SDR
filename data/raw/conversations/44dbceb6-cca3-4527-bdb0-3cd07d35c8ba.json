@@ -1,0 +1,82 @@
+{
+  "simulation_id": "44dbceb6-cca3-4527-bdb0-3cd07d35c8ba",
+  "timestamp": "2026-02-23T00:45:03.241320",
+  "target_url": "https://www.braze.com",
+  "company_context": "Braze Customer Engagement Platform Rewrite the rules of customer engagement with AI From cross-channel messaging and journey orchestration to Al-powered decisioning and optimization, Braze is a customer engagement platform that empowers brands to Be Absolutely Engaging.™ Contact Sales Start a Free Trial When technology moves fast, marketers move faster AI is everywhere—turn it into advantage. With Braze and BrazeAI™, you create faster, test smarter, and keep customer engagement personal at every step. Braze Data Platform BrazeAI™ Cross-Channel Engagement Braze Data Platform Bring your data together, then put it to work Unify and activate your data in real time as fuel for BrazeAI™ to help anticipate customer behavior and to deliver relevant, impactful experiences—all without relying on technical teams. Braze Data Platform BrazeAI™ Add BrazeAI™ to your dream team Drive smarter, faster, more meaningful engagement—powered by composable predictive , generative , and agentic intelligence —that adapts to every touchpoint powered by Braze. BrazeAI™ Put AI decisioning behind every move 1:1 personalization is finally here. Make the best decisions for each customer and optimize the KPIs that matter most. BrazeAI Decisioning Studio™ Cross-channel Make every interaction feel human Bring your messaging together and deliver consistent, responsive experiences across every channel, from one platform. Cross-Channel Messaging The only customer engagement platform you’ll ever need Bring data together, power it with AI, and deliver personalized customer experiences, at scale. See How Braze Works Understand your audience with Segment Builder Understand your audience with Segment Builder Your brand has a message, how you deliver it matters. Hear from brands who are using Braze to find a voice that is now finding its way to customers. Read all Case Studies Increase Lifetime Value Simplify Architecture Break Down Silos Grow Brand Love We’ve been really impressed with how Braze has enabled us to advance our customer communication strategies across email, SMS and mobile channels. The cross-channel integrations and targeting capabilities continue to be crucial. Victoria Mitchell Manager of CRM Channel Strategy at Pizza Hut 21% Increase in revenue 30% Increase in transactions With Braze, we’ve been able to ensure that our customers have meaningful access to individually tailored updates on the products they order. That, in turn, makes it possible for us to provide a better, more personalized brand experience to the people who depend on us, while also significantly reducing the burden on our support team. Jason Feldman Global Director, Digital Communications, BEES/Anheuser Busch-InBev 15% Decrease in order support and product info request tickets opened We brought in Braze to level up our customer engagement game, and we’re extremely happy with the results so far. Braze has helped us leverage the data that we already have and drive both engagement and acquisition at the spee",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. We're a leading provider of data processing solutions that help businesses like yours make better decisions with their data. How are you today?",
+      "word_count": 37,
+      "char_count": 222
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. I'm John, the CTO here. We're actually in the middle of a big project right now, so I'm a bit busy. What can you tell me about DeepData AI that might be relevant to what we're doing?",
+      "word_count": 41,
+      "char_count": 206
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely. DeepData AI is a cutting-edge data processing platform that enables companies to unify their data, gain insights, and drive business outcomes. We've seen great success with similar companies in the industry, and I think our solution could really help you optimize your data strategy. Can you tell me a bit more about your current data infrastructure and what challenges you're facing?",
+      "word_count": 62,
+      "char_count": 396
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "We're currently using Braze for our customer engagement, and it's been working well for us. One of the challenges we're facing is integrating all our different data sources, but Braze's data platform has been helping us with that. I'm not sure if we need another solution right now. What makes DeepData AI different from what we're already using?",
+      "word_count": 58,
+      "char_count": 346
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a great question. While Braze is a great platform for customer engagement, DeepData AI is more focused on the data processing and analytics side. Our solution can help you get more out of your data, and provide more advanced insights and recommendations. We've also had success with companies who are using Braze, and our solution can actually complement what you're already doing. In terms of pricing, we're very competitive with other solutions on the market.",
+      "word_count": 76,
+      "char_count": 468
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I appreciate the offer, but I think we're locked into a contract with Braze for the next year or so. We've also invested a lot of time and resources into implementing their platform, so switching to a new solution would be a big undertaking. I'm not sure if it would be worth it for us to explore another option right now.",
+      "word_count": 64,
+      "char_count": 335
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. However, I'd like to discuss some potential ROI and cost savings that our solution could bring to your company. Maybe we could schedule a follow-up call to discuss further and see if there's a way we could work together?",
+      "word_count": 48,
+      "char_count": 279
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the follow-up, but I think we're going to have to pass on DeepData AI for now. Our contract with Braze is pretty comprehensive, and we're not looking to add any new vendors or solutions to our stack at this time. Thank you for reaching out, but I think we'll have to decline.",
+      "word_count": 54,
+      "char_count": 288
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more effectively highlighted the unique value proposition of DeepData AI and how it can complement the buyer's existing solution with Braze to overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more effectively highlighted the unique value proposition of DeepData AI and how it can complement the buyer's existing solution with Braze to overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 223,
+    "total_buyer_words": 217,
+    "avg_seller_words_per_turn": 55.75,
+    "avg_buyer_words_per_turn": 54.25,
+    "word_ratio_seller_buyer": 1.03,
+    "total_conversation_length": 440
+  }
+}

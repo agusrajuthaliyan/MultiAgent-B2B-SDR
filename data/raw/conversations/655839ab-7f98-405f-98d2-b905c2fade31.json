@@ -1,0 +1,82 @@
+{
+  "simulation_id": "655839ab-7f98-405f-98d2-b905c2fade31",
+  "timestamp": "2026-02-23T00:44:43.263506",
+  "target_url": "https://www.qualified.com",
+  "company_context": "Welcome to the era of agentic marketing Sign In Schedule a Demo Welcome to the era of agentic marketing. Engage and convert inbound buyers at scale with Piper, the #1 AI SDR agent. Schedule a Demo By providing your email, you agree Qualified may use your information for personalization and advertising as set forth in our Privacy Policy. Unmute LOVED BY the world’s leading brands Watch the launch event to see the world’s first AI SDR superagent in action. Test Drive Piperx Watch On Demand Keynote: Introducing PiperX The next generation of Piper has arrived. Discover how Piper has evolved into an AI SDR superagent who can nurture and convert buyers 24x7. Product Demonstration See PiperX come to life as she has face-to-face conversations, nurtures buyers down the funnel, and generates pipeline at scale. Hey marketers, here's an AI SDR agent that works for you. For decades, marketers have juggled clunky systems and limited SDR bandwidth to convert inbound buyers—leaving too much pipeline on the table. Now, the agentic marketing funnel changes everything. Piper the AI SDR Agent engages your buyers at every touchpoint, from initial interest to meeting booked. One AI SDR superagent that’s on a mission to generate you pipeline. Designed with a rich set of capabilities, Piper intelligently engages buyers along their journey and works towards her goal of pipeline generation. See Product Piper the AI SDR Agent Talk to Piper... Book a meeting Meet with your best buyers, face to face. Greet and guide your best website visitors along their buying journey using text, voice, and video. Send timely email nurture and follow-up. Send bespoke emails with the right message at the right time, maximizing engagement. Provide a seamless conversion experience. No other AI SDR agent works so seamlessly across channels. Piper works the website and email inbox and does a smooth handoff between the two. Goodbye friction, hello pipeline. The results speak for themselves. Hired by over 500 companies, Piper the AI SDR Agent is boosting pipeline and efficiency for marketers around the world. see Customers Asana increased pipeline by 22% with Piper the AI SDR Agent. Shannon Duffy Chief Marketing Officer Watch the Video Box scales inbound pipeline with 24x7 AI SDR agent coverage. Tricia Gellman Chief Marketing Officer Watch the Video Greenhouse generated $27M in pipeline and booked 2,000 qualified meetings. Kristina Finseth Sr. Growth Marketing Manager Watch the Video Quantum Metric unlocked 100X ROI. Alexi Hatch, VP of Marketing Watch the Video Demandbase increased pipeline by 2X. Hannah Jordan, Director Digital Marketing Watch the Video Rightsline increased meetings booked by 4X. Melanie Nelson, Chief Marketing Officer Watch the Video SaaStr fuels inbound efficiency with Piper the AI SDR Agent Jason Lemkin, Chief Executive Officer Watch the Video Vanilla generated $5M in pipeline and increased meetings booked by 2X. Jim Sinai, Chief Marketing Officer Watch the Video Crunchbase in",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 43,
+      "char_count": 258
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party services. It's been working okay, but I'm always open to exploring new solutions. What makes DeepData AI unique?",
+      "word_count": 31,
+      "char_count": 197
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution uses AI-powered algorithms to automate data processing tasks, reducing manual errors and increasing efficiency. We've seen our clients achieve significant cost savings and improved decision-making capabilities. I'd love to schedule a demo to show you how it works.",
+      "word_count": 41,
+      "char_count": 283
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure if now is the right time for us to be looking at new tools. We're in the middle of our budget cycle, and I'm not sure if we have the resources to dedicate to implementing a new solution. Plus, I've heard that AI-powered solutions can be pretty pricey.",
+      "word_count": 51,
+      "char_count": 264
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about budget and timing. However, our solution is actually designed to be cost-effective and scalable. We offer flexible pricing plans to fit different business needs, and our implementation process is relatively quick and seamless. As for competitors, we've had great success in helping companies like yours achieve significant ROI.",
+      "word_count": 54,
+      "char_count": 371
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but I'm still not convinced. We're also exploring other options, including some open-source solutions that might be more cost-effective. And to be honest, I'm not even sure if I'm the right person to be talking to about this. I'm the CTO, but our CFO is the one who typically handles budget approvals.",
+      "word_count": 55,
+      "char_count": 320
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you're exploring other options, and I'd be happy to provide a comparison of our solution to open-source alternatives. However, I think it's worth noting that our solution offers a level of support and expertise that might not be available with open-source options. As for budget approval, I'd be happy to schedule a follow-up conversation with your CFO to discuss the financial benefits of our solution.",
+      "word_count": 68,
+      "char_count": 421
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I think we're going to have to pass on this for now. As I mentioned, I don't have the budget authority to approve new tools, and I don't think it's worth pursuing further without a clear understanding of our budget priorities. I appreciate the pitch, but I think we're going to have to decline.",
+      "word_count": 54,
+      "char_count": 294
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have more aggressively pursued involving the CFO in the conversation or scheduling a follow-up conversation with them to address budget concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have more aggressively pursued involving the CFO in the conversation or scheduling a follow-up conversation with them to address budget concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 206,
+    "total_buyer_words": 191,
+    "avg_seller_words_per_turn": 51.5,
+    "avg_buyer_words_per_turn": 47.75,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 397
+  }
+}

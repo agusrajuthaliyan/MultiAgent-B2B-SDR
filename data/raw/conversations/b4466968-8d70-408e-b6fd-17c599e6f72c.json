@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b4466968-8d70-408e-b6fd-17c599e6f72c",
+  "timestamp": "2026-02-23T01:17:22.400324",
+  "target_url": "https://www.microsoft.com",
+  "company_context": "Microsoft Thank you for your patience We are currently experiencing high demand. Please wait and try again later. All external to Microsoft Health Beacon traffic should be routed to: http://www.msftncsi.com/ncsi.txt ID: 18.1643c717.1771789638.3b475a18",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. Can you tell me a bit about your current data processing workflow?",
+      "word_count": 42,
+      "char_count": 251
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're pretty swamped right now. Our team is dealing with some issues related to Microsoft's Health Beacon traffic, and I don't have a lot of time to discuss new tools. What makes you think we need your solution?",
+      "word_count": 40,
+      "char_count": 225
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you're busy, but I'd like to highlight how DeepData AI can help reduce your team's workload. Our solution can automate data processing tasks, freeing up your team to focus on higher-priority projects. We've had success with similar companies in the past, and I'd love to explore how we can help you.",
+      "word_count": 54,
+      "char_count": 317
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) Automation sounds great, but we've already invested in some internal tools and processes. I'm not sure we're looking to rip and replace what we have right now. Plus, I'm not sure about the cost – we're on a tight budget this quarter.",
+      "word_count": 43,
+      "char_count": 245
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about cost and integration. However, our solution is designed to be flexible and can integrate with your existing tools. As for pricing, we offer a tiered model that can fit different budgets. We've also had companies see significant ROI within the first few months of implementation.",
+      "word_count": 51,
+      "char_count": 322
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(firmly) I appreciate the pitch, but I'm not the right person to be making decisions about new tools or budget allocations. Our procurement process is pretty strict, and I'd need to get approval from our CFO and IT department. To be honest, even if I wanted to move forward, I don't think we'd be able to make a decision on this within the next quarter.",
+      "word_count": 65,
+      "char_count": 353
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the challenges with procurement and budget cycles. Would it be possible to schedule a follow-up conversation in a few months to revisit the opportunity and see if the landscape has changed?",
+      "word_count": 33,
+      "char_count": 202
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(definitively) I don't think that would be necessary. We're not in a position to consider new tools at this time, and I don't foresee that changing in the near future. I appreciate your understanding, and I wish you the best of luck with your sales efforts, but I'm going to have to decline any further discussion about DeepData AI.",
+      "word_count": 59,
+      "char_count": 332
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have more effectively qualified the buyer's decision-making authority and budget earlier in the conversation to avoid investing time in a pitch that was unlikely to succeed. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have more effectively qualified the buyer's decision-making authority and budget earlier in the conversation to avoid investing time in a pitch that was unlikely to succeed. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 180,
+    "total_buyer_words": 207,
+    "avg_seller_words_per_turn": 45.0,
+    "avg_buyer_words_per_turn": 51.75,
+    "word_ratio_seller_buyer": 0.87,
+    "total_conversation_length": 387
+  }
+}

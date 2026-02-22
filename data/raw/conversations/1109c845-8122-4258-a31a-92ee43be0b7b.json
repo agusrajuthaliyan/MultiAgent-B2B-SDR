@@ -1,0 +1,82 @@
+{
+  "simulation_id": "1109c845-8122-4258-a31a-92ee43be0b7b",
+  "timestamp": "2026-02-23T00:47:51.767150",
+  "target_url": "https://www.wiz.io",
+  "company_context": "Wiz: #1 Cloud Security Software for Modern Cloud Protection Wiz Pricing Get a demo Get a demo Protect Everything You Build and Run in the Cloud Use the Wiz Cloud Security Platform to build faster in the cloud, enabling security, dev and devops to work together in a self-service model built for the scale and speed of your cloud development. Work Email * First Name * Last Name * Country Phone Number * Company * Keep me updated about Wiz product releases, industry news, and events (You can unsubscribe at any time) Subscribe me to the Wiz blog digest emails Submit For information about how Wiz handles your personal data, please see our Privacy Policy . Your work email here Get a demo Trusted by more than 50% of Fortune 100 companies The reviews are in Customers rate Wiz #1 in cloud security 747 Reviews See all reviews See all reviews Shift happens The switch to cloud creates a new world of security challenges A new set of problems requires a new set of solutions Introducing Wiz Cloud Security Platform A Unified Platform One Cloud Operating Model to Run Faster, Safely Break siloes between your engineering and security teams for continuous security improvement Explore the platform Secure Cloud Development Unified visibility and security across code, CI/CD, and cloud environments Learn more Manage Security Posture Agentless visibility & risk prioritization that proactively reduces the attack surface Learn more Respond to Cloud Threats Runtime protection & threat detection and response born for cloud Learn more siloed tools cost you time Protecting Your Cloud Environments Requires a Unified, Cloud Native Platform. Wiz connects to every cloud environment, scans every layer, and covers every aspect of your cloud security - including elements that normally require installing agents. Its comprehensive approach has all of these cloud security solutions built in. When Wiz says it's critical — it actually is. See for yourself See for yourself Wiz security graph Block your most critical attack paths and protect your sensitive assets The Wiz Security Graph provides straightforward, context-driven insights into critical exposure. Wiz secures the AI frontier Most frontier AI labs rely on Wiz to secure their cloud, AI workloads, and the data powering next-generation innovation. Visibility AI Native Risk AI Posture Runtime & Response Visibility Continuously discover AI models, agents, MCP servers, and services across cloud and SaaS. AI Native Risk Identify AI-specific risks — from sensitive data exposure and guardrails to exposed endpoints. AI Posture Understand real AI risk by connecting context across infrastructure, identity, data, and AI. Runtime & Response Detect and respond to AI runtime threats, from data exposure to malicious agent actions. Visibility Continuously discover AI models, agents, MCP servers, and services across cloud and SaaS. AI Native Risk Identify AI-specific risks — from sensitive data exposure and guardrails to exposed endpoints. AI Posture ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company, Wiz, and was impressed with the work you're doing in cloud security. I'd like to introduce our data processing solution, which I believe could help optimize your operations.",
+      "word_count": 47,
+      "char_count": 280
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm the CTO here at Wiz. We're always looking for ways to improve our processes, but I have to say, we're pretty set on our current data processing tools. What makes DeepData AI unique?",
+      "word_count": 40,
+      "char_count": 220
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered solution can handle large volumes of data much faster and more accurately than traditional methods. It can also integrate with a wide range of systems, including cloud-based platforms like yours. I think it could really help you streamline your data analysis and improve your security posture.",
+      "word_count": 49,
+      "char_count": 314
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. We do have a significant amount of data to process, but we've invested heavily in our current infrastructure. I'm not sure if we're ready to rip and replace our existing tools. Plus, I'm concerned about the cost - we're trying to keep our expenses in check. What kind of pricing are we talking about?",
+      "word_count": 56,
+      "char_count": 307
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about cost. Our pricing is competitive, and we offer flexible plans to fit different business needs. For a company like Wiz, I think our enterprise plan would be the best fit, which starts at $50,000 per year. However, I'd be happy to discuss a customized quote based on your specific requirements.",
+      "word_count": 56,
+      "char_count": 336
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steep for us right now. We're in the middle of our budget cycle, and I'm not sure if we can allocate that kind of funds. Additionally, I'm worried about the integration process - we have a lot of custom-built tools and I don't want to disrupt our workflows. Have you worked with companies like ours before?",
+      "word_count": 59,
+      "char_count": 319
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Yes, we have experience working with similar companies in the cloud security space. Our integration process is designed to be seamless, and we have a dedicated support team to ensure a smooth transition. I'd be happy to provide some case studies and references from our existing customers.",
+      "word_count": 47,
+      "char_count": 289
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate that, Alex, but I think we're going to have to pass on DeepData AI for now. It's not that I don't think your solution is interesting, but we just don't have the budget or the bandwidth to take on a new project like this. Please send me an email with some more information, and we can revisit this conversation in the future, but for now, I think we're going to have to decline.",
+      "word_count": 75,
+      "char_count": 390
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have provided more tailored pricing options or a clearer ROI analysis to alleviate the buyer's budget concerns and potentially salvage the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have provided more tailored pricing options or a clearer ROI analysis to alleviate the buyer's budget concerns and potentially salvage the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 199,
+    "total_buyer_words": 230,
+    "avg_seller_words_per_turn": 49.75,
+    "avg_buyer_words_per_turn": 57.5,
+    "word_ratio_seller_buyer": 0.87,
+    "total_conversation_length": 429
+  }
+}

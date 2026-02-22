@@ -1,0 +1,82 @@
+{
+  "simulation_id": "dbca9efb-16b8-4331-96eb-5e7beb6e77bc",
+  "timestamp": "2026-02-23T01:17:57.463422",
+  "target_url": "https://www.coupa.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data management process?",
+      "word_count": 41,
+      "char_count": 235
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're struggling to keep up with the amount of data we're generating. Our current solution is outdated and can't handle the volume. But we've been looking at a few different options, including some open-source solutions that seem promising. What makes DeepData AI different from those?",
+      "word_count": 46,
+      "char_count": 295
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. While open-source solutions can be cost-effective, they often require a lot of customization and maintenance, which can be time-consuming and costly in the long run. DeepData AI is a comprehensive solution that's easy to integrate and provides real-time insights, which can help you make better decisions faster. We've had success with similar companies in your industry.",
+      "word_count": 60,
+      "char_count": 396
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but I have to say, we're on a pretty tight budget right now. We're trying to prioritize our spending and I'm not sure if this is something we can afford. Can you tell me more about the pricing?",
+      "word_count": 43,
+      "char_count": 225
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is tiered based on the amount of data you're processing. For a company of your size, I'd estimate the cost would be around $50,000 per year. However, I want to emphasize that our solution can help you save money in the long run by reducing the need for manual data processing and providing more accurate insights.",
+      "word_count": 59,
+      "char_count": 337
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's still a pretty significant investment for us. And to be honest, I'm not sure if our team has the bandwidth to implement a new solution right now. We're in the middle of a major project and I don't want to disrupt that. Plus, I've heard good things about your competitor, DataMax. How do you compare to them?",
+      "word_count": 58,
+      "char_count": 314
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about timing and budget. As for DataMax, we've actually had companies switch to us from them because our solution is more user-friendly and provides more advanced analytics capabilities. I'd be happy to provide a custom demo and show you how DeepData AI can address your specific pain points.",
+      "word_count": 52,
+      "char_count": 319
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but after considering it, I think the price is just too high for us. We're going to have to explore other options that fit better within our budget. Thank you for your time, Alex, but I think we'll have to pass on DeepData AI for now.",
+      "word_count": 50,
+      "char_count": 258
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more aggressive in addressing the buyer's pricing concerns and potentially offered a more flexible pricing plan or a pilot project to build trust and demonstrate the value of DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more aggressive in addressing the buyer's pricing concerns and potentially offered a more flexible pricing plan or a pilot project to build trust and demonstrate the value of DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 212,
+    "total_buyer_words": 197,
+    "avg_seller_words_per_turn": 53.0,
+    "avg_buyer_words_per_turn": 49.25,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 409
+  }
+}

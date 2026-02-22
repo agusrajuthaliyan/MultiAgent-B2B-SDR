@@ -28,7 +28,7 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-"https://www.auth0.com", "https://www.segment.com", "https://www.fivetran.com", "https://www.dbtlabs.com", "https://www.airtable.com", "https://www.notion.so", "https://www.loom.com", "https://www.gitlab.com", "https://www.bitbucket.org", "https://www.circleci.com", "https://www.pagerduty.com", "https://www.victorops.com", "https://www.sumologic.com", "https://www.logz.io", "https://www.fastly.com", "https://www.akamai.com", "https://www.veriff.com", "https://www.onfido.com", "https://www.brex.com", "https://www.navan.com"
+"https://www.paloaltonetworks.com", "https://www.fortinet.com", "https://www.sentinelone.com", "https://www.darktrace.com", "https://www.checkpoint.com", "https://www.trellix.com", "https://www.databricks.com", "https://www.palantir.com", "https://www.cloudera.com", "https://www.starburst.io", "https://www.dataiku.com", "https://www.workday.com", "https://www.servicenow.com", "https://www.oracle.com", "https://www.microsoft.com", "https://www.blueyonder.com", "https://www.kinaxis.com", "https://www.fourkites.com", "https://www.project44.com", "https://www.coupa.com", "https://www.o9solutions.com", "https://www.anaplan.com", "https://www.manh.com", "https://www.infor.com", "https://www.epicor.com", "https://www.rippling.com", "https://www.bamboohr.com", "https://www.darwinbox.com", "https://www.uipath.com", "https://www.automationanywhere.com"
 ]
 
 # Dynamic inter-site delay based on provider
@@ -44,11 +44,27 @@ def run_pipeline():
     """
     dataset = []
     info = get_provider_info()
+    
+    # Check for already processed URLs to avoid duplicates
+    existing_urls = set()
+    master_csv_path = "data/processed/simulations_master.csv"
+    if os.path.exists(master_csv_path):
+        try:
+            df_existing = pd.read_csv(master_csv_path)
+            if 'target_url' in df_existing.columns:
+                existing_urls = set(df_existing['target_url'].dropna().tolist())
+        except Exception as e:
+            print(f"[WARNING] Could not read existing URLs: {e}")
+            
+    # Filter targets that were already processed
+    targets_to_process = [site for site in TARGET_SITES if site not in existing_urls]
+    skipped_count = len(TARGET_SITES) - len(targets_to_process)
+    
     print(f"[START] Agentic Pipeline | Provider: {info['provider'].upper()} | Model: {info['model']}", flush=True)
-    print(f"[START] Processing {len(TARGET_SITES)} targets...", flush=True)
+    print(f"[START] Total targets: {len(TARGET_SITES)} | Skipped: {skipped_count} | To process: {len(targets_to_process)}", flush=True)
 
-    for idx, site in enumerate(TARGET_SITES, 1):
-        print(f"\n[{idx}/{len(TARGET_SITES)}] Processing: {site}", flush=True)
+    for idx, site in enumerate(targets_to_process, 1):
+        print(f"\n[{idx}/{len(targets_to_process)}] Processing: {site}", flush=True)
         
         # Step 1: Scrape
         context = simple_scraper(site)
@@ -93,7 +109,7 @@ Feedback: {feedback} Sentiment: {sentiment}"""
                 print(f"   [SUCCESS] {outcome} ({sentiment})", flush=True)
                 
                 # Rate Limit Safety
-                if idx < len(TARGET_SITES):
+                if idx < len(targets_to_process):
                     print(f"   [WAIT] Pausing {INTER_SITE_DELAY}s before next site...", flush=True)
                     time.sleep(INTER_SITE_DELAY)
             else:

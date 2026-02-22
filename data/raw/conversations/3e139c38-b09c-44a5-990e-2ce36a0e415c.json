@@ -1,0 +1,82 @@
+{
+  "simulation_id": "3e139c38-b09c-44a5-990e-2ce36a0e415c",
+  "timestamp": "2026-02-23T01:17:16.446473",
+  "target_url": "https://www.oracle.com",
+  "company_context": "fw_error_www This site is experiencing technical difficulty. We are aware of the issue and are working as quickly as possible to correct the issue. We apologize for any inconvenience this may have caused. To speak with an Oracle sales representative: 1.800.ORACLE1. To contact Oracle Corporate Headquarters from anywhere in the world: 1.650.506.7000. To get technical support in the United States: 1.800.633.0738. Incident Number: 0.1643c717.1771789632.3b47472d",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management. I saw that your company is currently experiencing some technical difficulties with your website, and I wanted to see if our solution could help alleviate some of those issues.",
+      "word_count": 55,
+      "char_count": 331
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're aware of the issue and our team is working on it. But I have to say, we're pretty locked into our current data processing solution with Oracle. What makes you think DeepData AI can do better?",
+      "word_count": 39,
+      "char_count": 206
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered solution can handle large amounts of data much more efficiently than traditional solutions, and our pricing is very competitive. We've seen companies like yours reduce their data processing costs by up to 30% after switching to DeepData AI.",
+      "word_count": 41,
+      "char_count": 261
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we can consider right now. We just renewed our contract with Oracle a few months ago, and we're not looking to make any changes to our data processing infrastructure for at least another year. Plus, I'm not sure our team has the bandwidth to integrate a new solution right now.",
+      "word_count": 55,
+      "char_count": 307
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that integration can be a concern, but our solution is actually designed to be pretty seamless. We've worked with companies that have similar setups to yours, and we've been able to integrate our solution with minimal disruption. As for the contract, I'd be happy to discuss potential options for transitioning over to DeepData AI, even if it's just a pilot project to start.",
+      "word_count": 65,
+      "char_count": 388
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're just not in a position to make any changes right now. And to be honest, even if we were, I'm not sure we'd be willing to pay the premium that your solution requires. We've got a good relationship with Oracle and we're comfortable with the level of service they provide.",
+      "word_count": 59,
+      "char_count": 316
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Can I at least send over some more information about DeepData AI and see if there's anything that might change your mind in the future?",
+      "word_count": 34,
+      "char_count": 194
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, thank you. I think we're all set. We appreciate the outreach, but we're going to have to decline. Our contract with Oracle is non-negotiable for the next 12 months, and we can't consider any alternative solutions until that contract is up for renewal.",
+      "word_count": 44,
+      "char_count": 255
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more thoroughly researched the buyer's current contract and potential renewal timeline before initiating the call to better tailor their approach and avoid immediate rejection. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more thoroughly researched the buyer's current contract and potential renewal timeline before initiating the call to better tailor their approach and avoid immediate rejection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 195,
+    "total_buyer_words": 197,
+    "avg_seller_words_per_turn": 48.75,
+    "avg_buyer_words_per_turn": 49.25,
+    "word_ratio_seller_buyer": 0.99,
+    "total_conversation_length": 392
+  }
+}
