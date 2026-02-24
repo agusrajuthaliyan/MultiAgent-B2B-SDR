@@ -1,0 +1,82 @@
+{
+  "simulation_id": "ac8fe4d7-a8a4-4c3b-b5e1-126d3dd75918",
+  "timestamp": "2026-02-24T13:28:49.706842",
+  "target_url": "https://www.dell.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.dell.com/\" on this server. Reference #18.1743c717.1771919923.b63c668e https://errors.edgesuite.net/18.1743c717.1771919923.b63c668e",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi David, this is Sarah calling from DeepData AI. I hope I'm not catching you at a bad time. I'm reaching out because I noticed your company has been expanding its cloud infrastructure quite significantly over the past year.",
+      "word_count": 39,
+      "char_count": 224
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(Sighs audibly) Sarah, you're busy. What is this about? And how did you know about our cloud expansion?",
+      "word_count": 18,
+      "char_count": 103
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand your time is valuable, David. We track public infrastructure investments and noticed a significant uptick in your Azure spend. At DeepData AI, we help companies like yours optimize that spend and unlock deeper insights from their data, especially as volumes grow. We've seen some remarkable results for similar organizations in reducing data processing costs by up to 30%.",
+      "word_count": 60,
+      "char_count": 385
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Thirty percent, huh? That's a bold claim. We've got our own internal teams and a pretty robust data warehousing solution in place. Frankly, we're not actively looking to bring in third-party data processing tools right now. We've got a lot on our plate with existing projects.",
+      "word_count": 46,
+      "char_count": 276
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I appreciate that, David. And it sounds like you have a strong foundation. Many of our clients were in a similar position, finding that while their existing solutions were good, they weren't agile enough to handle the sheer volume and complexity of new data sources, leading to escalating costs. DeepData AI integrates seamlessly with existing cloud environments, it’s not a rip-and-replace.",
+      "word_count": 61,
+      "char_count": 391
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Seamless integration is always a selling point, but the reality is usually more complex and expensive than advertised. And \"unlocking deeper insights\" is a bit of a buzzword for us. We're more concerned with core functionality and, frankly, budget. What kind of investment are we talking about for a solution like this?",
+      "word_count": 52,
+      "char_count": 319
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "The investment is highly scalable, David, and it's designed to deliver a strong ROI by reducing your current cloud processing overhead. We typically see a payback period of less than six months. We could schedule a brief 15-minute discovery call to explore if there's a potential fit, and I can share some anonymized case studies specific to your industry.",
+      "word_count": 59,
+      "char_count": 356
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Look, Sarah, I appreciate you calling and the explanation. But as I mentioned, we're heads down on other initiatives. This isn't a priority for us at the moment, and I need to ensure any new vendor engagement is aligned with our current strategic roadmap. We’ll reach out if that changes in the future.",
+      "word_count": 53,
+      "char_count": 302
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have focused more on understanding the buyer's specific pain points and less on a generic pitch, even when met with initial resistance. Sentiment: Negative",
+    "parsed": {
+      "score": 3,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have focused more on understanding the buyer's specific pain points and less on a generic pitch, even when met with initial resistance. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 219,
+    "total_buyer_words": 169,
+    "avg_seller_words_per_turn": 54.75,
+    "avg_buyer_words_per_turn": 42.25,
+    "word_ratio_seller_buyer": 1.3,
+    "total_conversation_length": 388
+  }
+}
