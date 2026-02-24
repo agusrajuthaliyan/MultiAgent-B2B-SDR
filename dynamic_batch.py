@@ -40,20 +40,19 @@ INTER_SITE_DELAY = 3 if _provider_info["provider"] == "groq" else 10
 def fetch_new_urls(count: int, existing_urls: set) -> list:
     """Uses the LLM to generate `count` new unique company URLs."""
     
-    # Pass up to ~200 existing URLs to give the LLM context of what to avoid.
+    # Pass the existing URLs to give the LLM context of what to avoid.
     avoid_list = list(existing_urls)
-    random.shuffle(avoid_list)
-    avoid_list_str = ",\n".join(avoid_list[:200])
+    avoid_list_str = "\n- ".join(avoid_list)
     
     prompt = f"""Act as a B2B lead generation expert.
-Generate a list of exactly {count + 5} unique URLs for real B2B technology, SaaS, cloud, enterprise software, or industrial companies.
+Generate a list of exactly {count + 10} unique URLs for relatively small, rising, or lesser-known B2B technology, SaaS, cloud, enterprise software, or industrial companies. Do NOT output giant tech conglomerates.
 Make sure they are real companies with active websites, and include a diverse mix of large and mid-size companies.
 
 Provide ONLY a valid JSON array of strings containing the URLs, and nothing else. No markdown formatting, no explanations!
 Ensure all URLs start with 'https://www.'.
 
-Do NOT include any of the following URLs:
-{avoid_list_str}
+CRITICAL: Do NOT include any of the following URLs. I will fail the task if any of these are outputted:
+- {avoid_list_str}
 """
     
     response = _generate_content(prompt)
