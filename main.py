@@ -28,7 +28,7 @@ os.makedirs("data/processed", exist_ok=True)
 
 # --- CONFIGURATION ---
 TARGET_SITES = [
-"https://www.6sense.com", "https://www.gong.io", "https://www.chorus.ai", "https://www.salesloft.com", "https://www.outreach.io", "https://www.leandata.com", "https://www.insightly.com", "https://www.pipedrive.com", "https://www.copper.com", "https://www.activecampaign.com", "https://www.sendinblue.com", "https://www.klaviyo.com", "https://www.attentive.com", "https://www.bamboohr.com", "https://www.hibob.com", "https://www.personio.com", "https://www.papayaglobal.com", "https://www.checkr.com", "https://www.lattice.com", "https://www.cultureamp.com"
+"https://www.ansys.com", "https://www.bentley.com", "https://www.autodesk.com", "https://www.3ds.com", "https://www.ptc.com", "https://www.honeywell.com", "https://www.schneider-electric.com", "https://www.emerson.com", "https://www.rockwellautomation.com", "https://www.siemens.com", "https://www.teradyne.com", "https://www.zebra.com", "https://www.trimble.com", "https://www.paccar.com", "https://www.cummins.com", "https://www.john-deere.com", "https://www.caterpillar.com", "https://www.flexport.com", "https://www.convoy.com", "https://www.gopuff.com"
 ]
 
 # Dynamic inter-site delay based on provider
