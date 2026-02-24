@@ -1,0 +1,82 @@
+{
+  "simulation_id": "f8e4fef5-ffe4-4819-98a8-00515316ca1c",
+  "timestamp": "2026-02-24T14:45:19.483892",
+  "target_url": "https://www.corel.com",
+  "company_context": "Corel Professional graphics software for designers on a deadline CorelDRAW Graphics Suite Your all-in-one vector illustration, layout, and photo editing toolbox for endless creativity with no time wasted. Try free Learn more Available for Windows and Mac Unleash your imagination with Corel Painter Stunningly realistic painting software. Learn more PaintShop Pro The ultimate toolset to edit, enhance, and correct photos. Learn more VideoStudio Transform video with fun and easy video editing software. Learn more WordPerfect The trusted office suite that helps you get the job done. Learn more View all products \"I have been using CorelDRAW Graphics Suite for many years. When I'm creating packaging designs, logos, illustrations or even my prize-winning vector art, I am confident the results I achieve are first class. It's easy and fun to use and I'm always learning new ways to create using CorelDRAW.\" Cat Soper \"I instantly fell in love with the way Painter handles blending digital mediums and the vast library of brushes it offers to do so.\" Christina Yen \"VideoStudio has given me the tools to be the creator that I did not know I could be.\" Angela Phillips \"This software [Pinnacle] blows my mind. It’s a borderline professional tool at a fraction of the price.\" A. Antonio Become a partner Accelerate your business growth and better address the needs of your customers with our innovative and flexible solutions. Learn more You’re in good company Test drive popular software products for FREE, no credit card required! Learn more",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflow and gain valuable insights. I saw that your company uses CorelDRAW Graphics Suite, and I think our solution could complement your design workflow by automating data-related tasks.",
+      "word_count": 53,
+      "char_count": 334
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We do use CorelDRAW. But I'm not sure how a data processing solution would fit into our workflow. We're a design-focused company, and most of our data is related to customer information and sales. What makes you think your solution would be a good fit for us?",
+      "word_count": 49,
+      "char_count": 268
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great point. Our solution can actually help you analyze customer data and sales trends, which could inform your design decisions and help you create more targeted marketing materials. For example, we've worked with other design companies to help them automate report generation and data visualization, freeing up more time for creative work.",
+      "word_count": 54,
+      "char_count": 350
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see what you mean. But we're currently in the middle of a big project, and I'm not sure we have the bandwidth to implement a new solution right now. Plus, I'd need to run this by our CFO, and I'm not sure she'd be on board with the cost. What's the pricing for DeepData AI?",
+      "word_count": 56,
+      "char_count": 275
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing starts at $5,000 per year, with discounts available for larger teams or longer-term commitments. We also offer a free trial, so you can test out the solution and see the value for yourself before making a commitment.",
+      "word_count": 39,
+      "char_count": 228
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "$5,000 per year is a bit steep for us, to be honest. We're a smaller company, and our budget is tight. I'd need to see some serious ROI before I could justify that kind of expense. And what about integration with our existing systems? We use a custom CRM, and I'd need to make sure your solution would play nice with that.",
+      "word_count": 62,
+      "char_count": 322
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns. We do have an API that allows for custom integrations, so we could work with your team to integrate with your CRM. And I'd be happy to provide some case studies and ROI analysis to help make the business case for our solution.",
+      "word_count": 47,
+      "char_count": 254
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. The price is just too high, and I'm not convinced that the benefits would outweigh the costs. Maybe if you had a more tiered pricing structure or a more basic version of the solution, we might be interested, but for now, I'm going to have to say no.",
+      "word_count": 66,
+      "char_count": 337
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should consider offering more flexible pricing options or a basic version of the solution to cater to smaller companies with tighter budgets. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should consider offering more flexible pricing options or a basic version of the solution to cater to smaller companies with tighter budgets. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 193,
+    "total_buyer_words": 233,
+    "avg_seller_words_per_turn": 48.25,
+    "avg_buyer_words_per_turn": 58.25,
+    "word_ratio_seller_buyer": 0.83,
+    "total_conversation_length": 426
+  }
+}

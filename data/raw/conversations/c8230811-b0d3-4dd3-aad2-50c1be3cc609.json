@@ -1,0 +1,82 @@
+{
+  "simulation_id": "c8230811-b0d3-4dd3-aad2-50c1be3cc609",
+  "timestamp": "2026-02-24T14:38:29.936710",
+  "target_url": "https://www.wrike.com",
+  "company_context": "AI-powered enterprise work management software | Wrike Have you tried Wrike’s AI agents ? Save up to 10 hours per week per user on mundane tasks. Contact Sales EN English Dansk Deutsch Español Français Bahasa Indonesia Italiano Bahasa Melayu Nederlands Norsk Polski Português (BR) Svenska Русский 日本語 한국어 中文 (简体) 中文 (繁體) Log in Try Wrike for free Enter your business email Try Wrike for free Try for free Try for free One platform to streamline all workflows Explore AI‑powered features for human‑led projects. Try Wrike for free Discover Wrike in 3 minutes TRUSTED BY 20,000+ HAPPY CUSTOMERS WORLDWIDE Wrike is where work flows Modern work is full of barriers. In Wrike, work has the freedom to flow. Easily build, connect, automate, and scale your workflows with Wrike. Ideate & align Plan & resource Execute the work Report & analyze Learn & adapt Ideate & align A powerful ideation hub for any size team Wrike enables you to envision work, easily capture the information you need to kick-start projects, and bring multiple teams into the same place for game-changing visual collaboration. Request Forms Visual Collaboration Wrike’s AI﻿ Plan & resource Optimal visibility across projects and departments All the project details and updates you need, all in one place with 360° visibility. Connect cross-functional teams and easily allocate resources as needed. Gantt Charts Resource Management Integrations Execute the work Intuitive features that accelerate delivery Assign work in minutes, communicate in real time, and spot potential problems before they delay results. Wrike keeps your teams on track and on time, saving you from hours of emails and meetings in the process. Task Management Proofing & Approvals Mobile Apps Report & analyze AI-driven analytics to empower data-driven decisions Wrike’s advanced analytics use your data to help you make decisions throughout projects and tasks, and after they’re completed. View real-time reports in visual dashboards, and use our AI tools to predict risk and allocate resources. Dashboards Advanced Analytics Time Tracking Learn & adapt Improved workflows, impressive results Capture and integrate information that will help you improve future processes and optimize workflows for better results — and a more engaged team. Integrate mission-critical data into your workflows and accelerate delivery with Wrike. Automation Datahub Custom Item Types Try Wrike for free See all features New: Save 10 hours per week with AI agents Create, deploy, and manage AI agents specifically tailored to your processes — without writing code. Wrike AI agents can tackle risk monitoring and protection, auto-resource assignment, status update summaries, and more. Try AI agents For teams of all shapes and sizes Teams of 20 or 20,000 thrive with Wrike because it’s adaptable to any size team, in any industry. Create workflows that provide 360° visibility and seamless collaboration. Operations Wrike enables marketing, business, and product operations teams t",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their workflow and increase productivity. Can you tell me a little bit about your current data management process?",
+      "word_count": 41,
+      "char_count": 249
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hi Alex. We're actually using Wrike right now, and it's been working out pretty well for us. What makes DeepData AI different from what we're already using?",
+      "word_count": 28,
+      "char_count": 160
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you're using Wrike! However, our solution is more focused on data processing and automation, which can help reduce manual labor and increase efficiency. We've seen our clients save up to 10 hours per week per user on mundane tasks. Would you like to hear more about how it works?",
+      "word_count": 54,
+      "char_count": 305
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure if we need to switch from Wrike right now. We've invested quite a bit of time and money into implementing it, and our team is already familiar with the platform. How does your pricing compare to what we're currently paying?",
+      "word_count": 43,
+      "char_count": 236
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the size and needs of your company. However, I understand that switching costs can be a concern. We do offer a free trial and implementation support to help make the transition smoother. Have you experienced any limitations or pain points with Wrike that we could potentially address?",
+      "word_count": 58,
+      "char_count": 351
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Actually, one of the things that's been on our radar is integration with our existing tools. We use a lot of specialized software, and we need to make sure that any new solution we bring in can integrate seamlessly. How does DeepData AI handle integration, and do you have any experience with our specific toolset?",
+      "word_count": 55,
+      "char_count": 314
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We have a robust API and have integrated with a wide range of tools in the past. However, I'd need to check on the specific tools you're using to confirm compatibility. I can definitely follow up with you on that. In the meantime, I'd like to schedule a demo to show you how DeepData AI can address some of the challenges you're facing.",
+      "word_count": 63,
+      "char_count": 336
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI for now. We're happy with Wrike, and the cost and effort of switching to a new solution just isn't justified at this time. Thank you for reaching out, and I wish you the best of luck with your sales efforts.",
+      "word_count": 57,
+      "char_count": 292
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more aggressively highlighted the unique benefits and value proposition of DeepData AI to overcome the buyer's satisfaction with their current solution, Wrike. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more aggressively highlighted the unique benefits and value proposition of DeepData AI to overcome the buyer's satisfaction with their current solution, Wrike. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 183,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 45.75,
+    "word_ratio_seller_buyer": 1.18,
+    "total_conversation_length": 399
+  }
+}

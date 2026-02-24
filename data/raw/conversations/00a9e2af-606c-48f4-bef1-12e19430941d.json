@@ -1,0 +1,82 @@
+{
+  "simulation_id": "00a9e2af-606c-48f4-bef1-12e19430941d",
+  "timestamp": "2026-02-24T14:39:22.838978",
+  "target_url": "https://www.bullhorn.com",
+  "company_context": "AI-Powered Online Recruitment Software for Agencies | Bullhorn Skip to main content Products Pricing Resources Marketplace Company Get started Log In Products Products ATS/CRM Amplify Search & Match Automation Reporting & Analytics Middle Office Onboarding Pricing Platform Bullhorn Platform All-in-one recruitment platform. Bullhorn Recruitment Cloud Built on Salesforce. By size For small agencies Midsize Enterprise By industry Professional Clerical & light industrial Healthcare Executive search Introducing Bullhorn Amplify Amplify is a new kind of AI solution that works like your top performers—at scale—so you can extend your reach, move faster, and improve the quality of every search, screen, and submission. Read more Pricing Resources Data & research Bullhorn Insights Access proprietary labor market and hiring intelligence. SIA | Bullhorn Staffing Indicator Track weekly trends in US temporary staffing. Hiring outlook Gain insights into the current state of the labor market Job market trends Follow the U.S. job market trajectory from millions of job postings. GRID Learn what recruitment think about the latest trend in recruitment Additional resources Success stories Staffing blog Guides & playbooks Events & webinars Engage conference series Customer resources Customer support Bullhorn learning Developer & API documentation Customer blog Your source for today’s recruitment intelligence Explore insights Marketplace Marketplace View all partners Intro to Marketplace Explore how to build your customized tech stack. Bullhorn Marketplace Partner Engagement Hub Our customers can choose from a wide array of solutions to help create better business outcomes. Become a partner Are you a supplier to the recruitment space? Join the Marketplace today. Bullhorn Ventures Discover how we accelerate growth in the recruitment tech ecosystem. Visit the Bullhorn Marketplace Bullhorn’s marketplace of 300+ pre-integrated technology partners gives staffing agencies the tools they need to build a unique, future-proof solution. Learn more Company Company About Bullhorn More than 10,000 companies rely on Bullhorn’s cloud-based platform to power their staffing processes. News and press Read the latest press releases and announcements. Careers Join Bullhorn's fast-growing, global team and help us put the world to work. Contact us Want to learn how Bullhorn can help your business? Join the team Bullhorn’s core purpose is to create an incredible customer experience, and we believe that starts with creating an incredible employee experience Learn more Log In Bullhorn ATS & CRM Bullhorn Automation Formerly Herefish Bullhorn Time & Expense Bullhorn Connexys Fast Forward Salesforce Solutions Bullhorn Jobscience Bullhorn Connexys Bullhorn Onboarding Formerly Able Languages North America United Kingdom Asia Pacific Europe Germany Netherlands France Run with the bold. Fearless staffing leaders are transforming the future with Amplify Hear their stories Schedule a demo Meet the pione",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps recruitment agencies like yours streamline their workflow and make more informed decisions. I came across Bullhorn and saw that you're using their platform. Can you tell me a bit about your current data management process?",
+      "word_count": 54,
+      "char_count": 325
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We do use Bullhorn, and it's been working well for us so far. However, I'm not sure we're in the market for another data processing solution. We've recently invested in some internal tools to help with data analysis. What makes DeepData AI unique compared to what we already have in place?",
+      "word_count": 53,
+      "char_count": 298
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. What sets us apart is our AI-powered engine that can handle large volumes of data and provide real-time insights. We've seen significant results with our existing clients, including a 30% reduction in time spent on data analysis. I'd love to schedule a demo to show you how it can benefit your team.",
+      "word_count": 55,
+      "char_count": 333
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure we're ready to take on another vendor at this time. We're in the middle of our budgeting cycle, and I'm not sure if we have the resources to allocate to a new solution. Additionally, I'd need to discuss this with our procurement team to see if it aligns with our current strategy.",
+      "word_count": 60,
+      "char_count": 321
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand the budgeting constraints. We do offer flexible pricing plans and can work with you to find a solution that fits your needs. As for procurement, I'd be happy to provide any necessary documentation or support to help move the process forward. Can I ask, are you the sole decision-maker when it comes to adopting new technologies, or is there someone else I should be speaking with?",
+      "word_count": 69,
+      "char_count": 404
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm the CTO, so I do have a significant say in our technology investments. However, I still need to run this by our CFO and ensure it aligns with our overall business objectives. To be honest, I'm not convinced that DeepData AI is the right fit for us at this time. We've had some issues with integration in the past, and I'd need to see a clear plan for how your solution would work with our existing systems.",
+      "word_count": 78,
+      "char_count": 410
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your transparency. We do have experience with integrating our solution with other platforms, including Bullhorn. I can provide some case studies and technical documentation to alleviate any concerns you may have. Would you be open to a follow-up conversation to discuss this further?",
+      "word_count": 50,
+      "char_count": 328
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the follow-up, but I think it's best if you just send me an email with some more information about DeepData AI. I'll take a look and discuss it with our team, but I don't think we'll be moving forward with this at this time. Thank you for reaching out, and I wish you the best of luck with your sales efforts.",
+      "word_count": 63,
+      "char_count": 322
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have been more prepared to address the buyer's integration concerns with specific examples and technical documentation to alleviate doubts and build trust. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have been more prepared to address the buyer's integration concerns with specific examples and technical documentation to alleviate doubts and build trust. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 228,
+    "total_buyer_words": 254,
+    "avg_seller_words_per_turn": 57.0,
+    "avg_buyer_words_per_turn": 63.5,
+    "word_ratio_seller_buyer": 0.9,
+    "total_conversation_length": 482
+  }
+}

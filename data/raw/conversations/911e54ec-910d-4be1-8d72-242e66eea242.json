@@ -1,0 +1,96 @@
+{
+  "simulation_id": "911e54ec-910d-4be1-8d72-242e66eea242",
+  "timestamp": "2026-02-24T14:45:12.411079",
+  "target_url": "https://www.collibra.com",
+  "company_context": "Scale AI to production with Data Confidence™ | Collibra | Collibra Skip to content Gartner® recognizes Collibra as a Leader for the second consecutive year in the Magic Quadrant™ for Data and Analytics Governance Platforms Collibra is named a Leader in The Forrester Wave™: Data Governance Solutions, Q3 2025 and a Strong Performer in The Forrester Wave™: AI Governance Platforms, Q3 2025 . Collibra acquires Deasy Labs to extend unified governance platform to unstructured data Collibra announces acquisition of Raito and advancements in unified governance for data and AI Collibra Wins Fourth Consecutive Google Cloud Technology Partner of the Year Award for Data Governance Turn AI ambition into AI value with Data Confidence™ Deliver high-quality data and reliable AI at enterprise scale. Explore Collibra now See our latest innovations Your path to data success starts here Collibra provides solutions to meet your most challenging use cases. Deliver ROI with data products Unify ownership, business context, quality and policies to drive real results from data investments. Turn AI ambition into AI value Deliver agents, models and AI use cases with confidence, productionizing AI across your enterprise. Comply with regulations Automates risk reporting across every data source, no matter how complex your organization. Collibra Platform Observe data Observe data Observe data quality and support data remediation Organize data Organize data Find, understand and access data with business-led collaboration Govern data Govern data Build transparency and reduce compliance risk with an integrated view of data Govern AI use cases Govern AI Collaborate around and manage AI use cases Observe data quality and support data remediation Find, understand and access data with business-led collaboration Build transparency and reduce compliance risk with an integrated view of data Collaborate around and manage AI use cases Join platform demo Learn more Govern AI use cases Catalog, assess and monitor any AI use case for improved AI model performance and reduced data risk. Take a tour Start your AI journey Global leaders trust Collibra We've seen greater efficiency, leading to faster decision making. Share on: View McDonald's customer story Collibra helps us run a scalable and compliant data product architecture Share on: View SAP customer story Previous card View \"\" video View \"\" video Next card Customers achieve Data Confidence ™ with Collibra Collibra enables us to find, understand, curate and trust data, and to do so very quickly. Garth Gehlbach Garth Gehlbach Head of Governance We've seen greater efficiency, leading to faster decision making. Ashley Clark Ashley Clark Data Governance Manager One of the biggest benefits of Collibra has been to build a single, centralized foundation for overseeing our invaluable data assets. Pavel Ermakov Pavel Ermakov Sr. Director, Regional Head of Data Excellence With Collibra AI Governance, we aim to visualize any data set, track its AI mod",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours scale AI to production with data confidence. I saw that Collibra is a leader in data governance, and I thought our solution could complement your existing infrastructure.",
+      "word_count": 49,
+      "char_count": 295
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, great, another data processing solution. What makes you think we need something like that? We've already invested heavily in Collibra.",
+      "word_count": 22,
+      "char_count": 150
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, and I respect the investment you've made in Collibra. However, our solution is designed to work in tandem with existing data governance platforms, enhancing data quality and reliability for AI applications. We've seen significant ROI for our clients who use our solution in conjunction with Collibra.",
+      "word_count": 51,
+      "char_count": 341
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(concerned) I'm not sure we're ready to take on another project right now. We're in the middle of implementing some new AI initiatives, and I don't want to add any more complexity to the mix. Plus, I'm not sure if our team has the bandwidth to integrate another solution.",
+      "word_count": 49,
+      "char_count": 271
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about timing and integration. Our solution is designed to be lightweight and easy to integrate, with minimal disruption to your existing workflows. We've also developed a phased implementation approach that allows you to start small and scale up as needed. As for the cost, we offer flexible pricing models that can be tailored to your specific needs and budget.",
+      "word_count": 64,
+      "char_count": 400
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) I'm not sure...I'd have to run this by our procurement team, and they're always looking for the cheapest option. How does your pricing compare to some of the other solutions out there, like DataRobot or H2O.ai?",
+      "word_count": 38,
+      "char_count": 227
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "(addressing the pricing concern) Our pricing is competitive with other solutions in the market, and we offer a unique value proposition that focuses on data confidence and reliability. We've found that our clients see significant long-term cost savings by avoiding costly data rework and improving AI model accuracy. I'd be happy to provide a customized pricing proposal and ROI analysis to help you make a more informed decision.",
+      "word_count": 68,
+      "char_count": 430
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(somewhat convinced) Alright, I'll listen to what you have to say. But I need to see some concrete evidence that your solution can deliver the results you're promising. Can you show me some case studies or demos that demonstrate the value of your solution?",
+      "word_count": 44,
+      "char_count": 256
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "(smiling) Absolutely, I'd be happy to schedule a demo and provide some case studies that demonstrate the success our clients have seen with our solution. We can also discuss some potential trial or pilot projects that would allow you to test our solution in a low-risk environment.",
+      "word_count": 47,
+      "char_count": 281
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo for next week, and I'll make sure to have our procurement team on the call as well.",
+      "word_count": 22,
+      "char_count": 117
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Integration\nFeedback: The seller could have more effectively addressed the buyer's initial skepticism by providing specific examples or testimonials from existing Collibra users who have successfully integrated the DeepData AI solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Integration",
+      "feedback": "The seller could have more effectively addressed the buyer's initial skepticism by providing specific examples or testimonials from existing Collibra users who have successfully integrated the DeepData AI solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 279,
+    "total_buyer_words": 175,
+    "avg_seller_words_per_turn": 55.8,
+    "avg_buyer_words_per_turn": 35.0,
+    "word_ratio_seller_buyer": 1.59,
+    "total_conversation_length": 454
+  }
+}

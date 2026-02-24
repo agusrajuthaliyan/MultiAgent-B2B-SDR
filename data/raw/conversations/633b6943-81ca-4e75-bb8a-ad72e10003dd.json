@@ -1,0 +1,82 @@
+{
+  "simulation_id": "633b6943-81ca-4e75-bb8a-ad72e10003dd",
+  "timestamp": "2026-02-24T14:53:53.874977",
+  "target_url": "https://www.arcadia.io",
+  "company_context": "Project Not Found",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 41,
+      "char_count": 236
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're managing fine with our current setup. We've got a team that handles data processing internally, and it's working for us. What makes you think we need something like DeepData AI?",
+      "word_count": 32,
+      "char_count": 193
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you have a current setup, but our solution can help you process data up to 5 times faster and with greater accuracy. We've seen significant returns on investment for our clients. I'd love to schedule a demo to show you how it can benefit your company.",
+      "word_count": 49,
+      "char_count": 269
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to invest in right now. We're in the middle of a big project and our budget is pretty locked down. Plus, I've heard that implementing a new data processing solution can be a real headache in terms of integration with our existing systems.",
+      "word_count": 50,
+      "char_count": 282
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration, but I can assure you that our solution is designed to be seamless and easy to integrate. We've worked with companies similar to yours and have a dedicated support team to ensure a smooth onboarding process. As for budget, I'd be happy to discuss pricing and see if we can work something out that fits your needs.",
+      "word_count": 64,
+      "char_count": 369
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, even if the integration was easy, we're just not prioritizing this right now. We've got too many other pressing issues to deal with, and data processing, while important, isn't at the top of our list. And even if it was, I'm not sure we could justify the cost. Your competitor, DataPro, is also reaching out to us, and from what I've seen, their pricing is more competitive.",
+      "word_count": 75,
+      "char_count": 416
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that pricing is an important factor, and I can see why you'd consider DataPro. However, our solution offers more advanced AI capabilities that can provide deeper insights into your data. I'd like to offer you a customized trial to see the value DeepData AI can bring to your company, which might help in your decision-making process.",
+      "word_count": 58,
+      "char_count": 346
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate the effort, but like I said, this just isn't a priority for us right now. We're too busy with other projects, and even considering a trial would be a distraction. I think we'll have to pass on DeepData AI for the time being. Thank you for reaching out, but we're not moving forward with this at this time.",
+      "word_count": 61,
+      "char_count": 324
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 212,
+    "total_buyer_words": 218,
+    "avg_seller_words_per_turn": 53.0,
+    "avg_buyer_words_per_turn": 54.5,
+    "word_ratio_seller_buyer": 0.97,
+    "total_conversation_length": 430
+  }
+}

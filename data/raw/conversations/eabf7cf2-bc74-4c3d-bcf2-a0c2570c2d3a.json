@@ -1,0 +1,96 @@
+{
+  "simulation_id": "eabf7cf2-bc74-4c3d-bcf2-a0c2570c2d3a",
+  "timestamp": "2026-02-24T14:46:10.861506",
+  "target_url": "https://www.everlaw.com",
+  "company_context": "Everlaw | AI-Powered Cloud-Native Ediscovery Software for Legal Professionals skip to content Schedule a Meeting Everlaw Toggle Main Navigation Discover the difference with Everlaw Transform your approach to litigation and investigations with the world’s most advanced ediscovery software. Get Started Product Tour Play this video on Vimeo Deep Dive Analyze Millions of Documents to Find the Truth in Seconds Explore your entire corpus to pinpoint the truth that can shape your case. Deep Dive navigates your entire data set to surface specific insights with direct citations, giving you total confidence in the facts without the manual search. Proven reliability across sets of 10 million documents and more. Coding Suggestions Automate First-Pass Review Accelerate your review of new documents and perform rapid quality control, with performance on par or exceeding eyes-on review. Coding Suggestions delivers AI automation by instantly categorizing documents and providing clear rationales based on your specific coding sheet. Writing Assistant Draft More Persuasive Arguments Move seamlessly from discovery to first draft with a tireless AI thought partner that synthesizes your evidence and brainstorms case strategy in real time. Writing Assistant quickly compiles facts into cohesive narratives, freeing you to focus on the high-level legal work that drives results. Play this video on Vimeo See how legal teams are leveraging Deep Dive to interact with their data like never before. Learn More The Power to Do More Innovation Focus on substantive work while Everlaw solves the most complex legal challenges with elegant software. With rapid release cycles, thoughtful design, and an incredible user experience, Everlaw enables legal teams to do more than ever before. Scale Your Expertise Insights Capture near-instant insights in even the most complex ediscovery data with powerful analytics and machine learning tools, made accessible for all legal professionals. Empower Your Teams Ease of Use From lightning-fast uploads and document review to rapid searches and artificial intelligence, Everlaw’s advanced technology is powerful, yet easy to use. Transform Your Approach to Litigation and Investigations Ediscovery Bring simplicity to the complexity of ediscovery with cloud-native technology designed for the 21st century. link Early Case Assessment Quickly find what matters and remove the rest. Everlaw users slash documents promoted to active review by 74% with ECA. link Internal Investigations Leverage powerful discovery tech for faster response in cyber breaches, whistleblower actions, subpoenas, audits, and more. Link Trial Preparation Unlock the collaborative power of your team with comprehensive deposition and trial preparation tools. link Bracewell David Shargel Partner San Francisco DA's Office Herman Brown Chief Information Officer Adams & Reese Jennifer Perkins Litigation Support Specialist United Airlines Paul Noonan Managing Counsel of Ediscovery Play this video",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm a Sales Development Representative at DeepData AI. I came across Everlaw and was impressed with the work you're doing in ediscovery. I'd love to introduce you to our data processing solution that can help streamline your workflow.",
+      "word_count": 44,
+      "char_count": 259
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, another data processing solution. What makes yours so special? We're already using a few tools, and I'm not sure we need another one.",
+      "word_count": 25,
+      "char_count": 149
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism. However, our DeepData AI solution is built with AI-powered technology that can analyze millions of documents in seconds, providing near-instant insights. It can also automate first-pass review and provide coding suggestions, which can significantly reduce manual work and increase efficiency. I'd love to show you a demo to see how it can specifically benefit Everlaw.",
+      "word_count": 60,
+      "char_count": 409
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(concerned about integration) I'm not sure how well it would integrate with our existing systems. We've had issues with compatibility in the past, and I don't want to disrupt our current workflow.",
+      "word_count": 32,
+      "char_count": 196
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concern. Our solution is cloud-native and designed to be highly compatible with a wide range of systems. We've had success with similar companies in the ediscovery space, and I'd be happy to provide case studies or references. We also offer a trial period to test the integration and ensure it meets your needs.",
+      "word_count": 57,
+      "char_count": 340
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(objection about price) I'm concerned about the cost. We're on a tight budget, and I'm not sure we can afford another tool.",
+      "word_count": 22,
+      "char_count": 123
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that budget is always a consideration. However, our solution is designed to provide a significant return on investment by reducing manual work and increasing efficiency. We've seen companies like yours save thousands of dollars in review time and costs. I'd be happy to discuss pricing and provide a customized quote that fits your budget. We also offer flexible pricing plans to accommodate your needs.",
+      "word_count": 66,
+      "char_count": 416
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(objection about authority) I'm not sure I'm the right person to make this decision. I'd need to discuss it with our legal team and get their buy-in.",
+      "word_count": 27,
+      "char_count": 149
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I completely understand. I'd be happy to set up a meeting with your legal team to discuss the benefits and answer any questions they may have. In fact, I can offer a demo tailored to their specific needs and concerns. Would you be available for a follow-up meeting next week?",
+      "word_count": 50,
+      "char_count": 275
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo for next Wednesday. I'll invite our legal team, and we can discuss further.",
+      "word_count": 18,
+      "char_count": 109
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Authority\nFeedback: The seller could have more effectively handled the authority objection by asking about the decision-making process and the legal team's specific concerns earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Authority",
+      "feedback": "The seller could have more effectively handled the authority objection by asking about the decision-making process and the legal team's specific concerns earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 277,
+    "total_buyer_words": 124,
+    "avg_seller_words_per_turn": 55.4,
+    "avg_buyer_words_per_turn": 24.8,
+    "word_ratio_seller_buyer": 2.23,
+    "total_conversation_length": 401
+  }
+}

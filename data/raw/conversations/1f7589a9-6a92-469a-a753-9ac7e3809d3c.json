@@ -1,0 +1,82 @@
+{
+  "simulation_id": "1f7589a9-6a92-469a-a753-9ac7e3809d3c",
+  "timestamp": "2026-02-24T14:38:54.537188",
+  "target_url": "https://www.ukg.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 41,
+      "char_count": 233
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're currently using a combination of in-house tools and some third-party services. But to be honest, I'm not sure we're in the market for a new solution right now. Our budget for this quarter is already allocated, and I'm not sure we can fit in another project.",
+      "word_count": 49,
+      "char_count": 277
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand. However, our solution can actually help you save money in the long run by increasing efficiency and reducing manual errors. We've seen companies like yours save up to 30% on their data processing costs. Would you be open to hearing more about how we can help?",
+      "word_count": 49,
+      "char_count": 284
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure that's something we can prioritize right now. We're in the middle of implementing a new CRM system, and I don't want to add any more complexity to our tech stack. Plus, I've heard that your solution requires a significant amount of integration work, which is a concern for us.",
+      "word_count": 53,
+      "char_count": 301
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about integration, but I can assure you that our solution is designed to be flexible and adaptable to your existing systems. We've worked with companies that have similar tech stacks to yours, and we've been able to integrate seamlessly. As for the cost, we offer a tiered pricing model that can fit a variety of budgets. We also offer a free trial period to test out our solution and see the benefits for yourself.",
+      "word_count": 78,
+      "char_count": 442
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still skeptical) I appreciate the offer, but like I said, our budget is already allocated for this quarter. And to be honest, I'm not sure we're ready to commit to a new solution without doing a thorough evaluation of all our options. We've also been looking at some of your competitors, such as DataPro and AnalyticsInc, and we need to compare features and pricing before making a decision.",
+      "word_count": 68,
+      "char_count": 392
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you want to do your due diligence, and I respect that. However, I'd like to offer you a personalized demo of our solution to show you how it can address your specific pain points. Would you be available for a 30-minute call next week?",
+      "word_count": 47,
+      "char_count": 252
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(firmly) Alex, I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. I need to discuss this with my team, but to be honest, I don't think we're a good fit for your solution at this time. We have too many other priorities and initiatives that we need to focus on, and I don't see us moving forward with a new data processing solution in the near future.",
+      "word_count": 76,
+      "char_count": 386
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more effectively addressed the buyer's initial budget and timing concerns to potentially reschedule a follow-up conversation for a more opportune time. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more effectively addressed the buyer's initial budget and timing concerns to potentially reschedule a follow-up conversation for a more opportune time. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 215,
+    "total_buyer_words": 246,
+    "avg_seller_words_per_turn": 53.75,
+    "avg_buyer_words_per_turn": 61.5,
+    "word_ratio_seller_buyer": 0.87,
+    "total_conversation_length": 461
+  }
+}

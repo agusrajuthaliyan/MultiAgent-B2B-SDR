@@ -1,0 +1,96 @@
+{
+  "simulation_id": "1591928d-7ae1-4a8f-94c0-156b635bb521",
+  "timestamp": "2026-02-24T14:45:57.189447",
+  "target_url": "https://www.ellucian.com",
+  "company_context": "Unifying Campus Technology Solutions to Power Higher Ed | Ellucian Skip to main content Skip to content banner-4k Video Your browser does not support the video tag. Please try a different browser or download the video. Higher Education’s AI-Enriched Platform Infinite Possibilities Potential Request a Demo Watch Video Watch Video Skip to CTA content Ellucian Live 2026 - Register Now Session Scheduling is Live! Build your agenda now. Explore Sessions Industry Trusted Unmatched Expertise Lifelong Learning Student-First Innovation Partnering with ~3,000 customers across 50 countries, and serving over 21 million students, Ellucian offers the most advanced ERP, SIS, and AI-driven solution to power innovation for higher education. Video Your browser does not support the video tag. Please try a different browser or download the video. Today’s learners need flexible, personalized pathways that evolve with them. Equip students with the skills they need to meet the workforce’s changing demands now and in the future. Video Your browser does not support the video tag. Please try a different browser or download the video. Ellucian’s integrated ecosystem is designed to keep learners moving forward with the tools, insights, and proactive support to drive success throughout the student lifecycle. Video Your browser does not support the video tag. Please try a different browser or download the video. Featured content carousel Content Cards ~3,000 higher education institutions served 23 Years average customer tenure $1B+ invested in SaaS R&D 80% of customers have one Ellucian SaaS product 74% HBCUs served 63% of U.S. community colleges served 21M+ students served globally Olivet Nazarene Olivet Nazarene University 25% boost in new student enrollment with Ellucian CRM system MassArt Purple. MassArt live on Ellucian SaaS in 9 months colorado-school-of-mines Colorado School of Mines live on Ellucian SaaS in 16 months jsu Jacksonville State University 400% increase in financial aid files processed within the first month Augusta Uni Augusta University 16% immediate increase in scholarship applications Call to action Video Your browser does not support the video tag. Please try a different browser or download the video. Unlock Outcomes for Every Learner Banner and Colleague SaaS are now Ellucian Student supporting the end-to-end student lifecycle with tools, AI-driven engagement, and insights to deliver student success. Explore Ellucian Student Attract the Best-Fit Students With a Frictionless Process From personalized outreach to self-guided application tools, engage prospective students earlier and more effectively through multi-channel communications, cost clarity, and a frictionless application experience that drives measurable enrollment growth. Recruit and Apply Help Remove the #1 Barrier for Students — Financial Uncertainty Make it easier for students to stay enrolled with intelligent, real-time support, scholarship insights, and progress tracking. Deliver faster,",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, Dr. [Last Name], I'm [SDR Name] from DeepData AI. I came across Ellucian and was impressed with the work you're doing in higher education. I'd love to discuss how our data processing solution can help you streamline your operations and improve student outcomes.",
+      "word_count": 44,
+      "char_count": 265
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes, Ellucian. We're quite busy with our current initiatives, but I'll give you a few minutes. What makes you think your solution is relevant to our needs?",
+      "word_count": 28,
+      "char_count": 159
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-driven platform can help you process and analyze large amounts of data, providing valuable insights to inform your decision-making. We've had success with similar institutions in the higher ed space, and I think we could help you optimize your operations and improve student engagement.",
+      "word_count": 46,
+      "char_count": 299
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. We do have a lot of data, but we're currently invested in our own in-house solutions. I'm not sure we're looking to bring in another vendor, especially with the cost of implementation and integration. Can you tell me more about your pricing model and how it would fit into our existing infrastructure?",
+      "word_count": 54,
+      "char_count": 308
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is competitive, and we offer a tiered model to fit different institutional needs. As for integration, our platform is designed to be flexible and compatible with a range of systems, including ERPs and SISs. We've had success integrating with similar systems in the past, and I'm confident we could do the same with your existing infrastructure.",
+      "word_count": 59,
+      "char_count": 368
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the confidence, but I'm still concerned about the timing. We're in the midst of a major software upgrade, and I'm not sure we have the bandwidth to take on another project right now. Not to mention, we're already working with other vendors who offer similar solutions. How do you differentiate yourselves from the competition?",
+      "word_count": 56,
+      "char_count": 339
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your candor. We do differentiate ourselves through our AI-driven approach, which provides more nuanced and actionable insights than traditional data processing solutions. Additionally, our implementation process is designed to be efficient and minimally disruptive, so we could work with you to find a timeline that fits your needs.",
+      "word_count": 55,
+      "char_count": 377
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but to be honest, this just isn't a priority for us right now. We're too busy with our current initiatives, and I don't see us having the time or resources to devote to another project. I think we'll have to pass on DeepData AI for the time being.",
+      "word_count": 52,
+      "char_count": 271
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand, and I appreciate your honesty. If you're willing, I'd like to schedule a follow-up conversation for a few months down the line to check in and see if your priorities have shifted.",
+      "word_count": 34,
+      "char_count": 193
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we'll have to decline. We need to focus on our current priorities, and I don't see DeepData AI being a part of that in the near future. Thank you for your understanding, and I wish you the best of luck with your sales efforts.",
+      "word_count": 51,
+      "char_count": 262
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions to accommodate their current priorities and bandwidth limitations. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions to accommodate their current priorities and bandwidth limitations. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 238,
+    "total_buyer_words": 241,
+    "avg_seller_words_per_turn": 47.6,
+    "avg_buyer_words_per_turn": 48.2,
+    "word_ratio_seller_buyer": 0.99,
+    "total_conversation_length": 479
+  }
+}

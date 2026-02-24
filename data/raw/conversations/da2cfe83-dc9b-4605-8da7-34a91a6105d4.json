@@ -1,0 +1,82 @@
+{
+  "simulation_id": "da2cfe83-dc9b-4605-8da7-34a91a6105d4",
+  "timestamp": "2026-02-24T14:38:09.270524",
+  "target_url": "https://www.calendly.com",
+  "company_context": "Free Online Appointment Scheduling Software | Calendly English English Français Español Deutsch Português Talk to sales Trusted by more than 100,000 of the world’s leading organizations Calendly makes scheduling simple Calendly’s easy enough for individual users, and powerful enough to meet the needs of enterprise organizations — including 86% of the Fortune 500 companies. Sign up for free Connect your calendars Calendly connects up to six calendars to automate scheduling with real-time availability. Add your availability Keep invitees informed of your availability. Take control of your calendar with detailed availability settings, scheduling rules, buffers, and more. Connect conferencing tools Sync your video conferencing tools and set preferences for in-person meetings or calls. Customize your event types Choose from pre-built templates or quickly create custom event types for any meeting you need to schedule. Share your scheduling link Easily book meetings by embedding scheduling links on your website, landing pages, or emails. Connect Calendly to the tools you already use Boost productivity with 100+ integrations View all integrations Google suite Get your job done faster by connecting Calendly to Google Calendar, Meet, Analytics, and more. Microsoft suite Make your day easier with Calendly integrations for Microsoft Teams, Outlook, Azure SSO , and more. Pick the perfect plan for your team Billed yearly Billed monthly Billed yearly Free For personal use Always free Get started Standard Yearly For professionals and small teams $10 /seat/mo Save 16% Get started Teams Yearly Recommended plan For growing businesses $16 /seat/mo Save 20% Try for Free Enterprise For large companies Starts at $15k /yr Talk to sales Free For personal use Always free Get started Standard Yearly For professionals and small teams $10 /seat/mo Save 16% Get started Teams Yearly Recommended plan For growing businesses $16 /seat/mo Save 20% Try for Free Enterprise For large companies Starts at $15k /yr Talk to sales Learn more on our pricing page Discover how businesses grow with Calendly View customer stories 169 % return on investment Read now 160 % increase in customers reached Read now 20 % decrease in scheduling errors Read now 8 days reduction in time-to-hire Read now 26 % increase in website bookings Read now Built to keep your organization secure Keep your scheduling data secure with enterprise-grade admin management, security integrations, data governance, compliance audits, and privacy protections. Learn more Power up your scheduling Get started in seconds — for free. Start for free Get a demo",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflow and gain valuable insights. I came across your company and noticed you're using Calendly for appointment scheduling. How are you currently handling your data processing needs?",
+      "word_count": 52,
+      "char_count": 330
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're using a combination of in-house tools and some third-party services. It's been working okay so far, but we're always looking for ways to improve. What makes DeepData AI different from what's already out there?",
+      "word_count": 37,
+      "char_count": 225
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle large volumes of data quickly and accurately, and our integration with popular tools like Google Suite and Microsoft makes it easy to incorporate into your existing workflow. We've seen companies like yours reduce their data processing time by up to 50%. Would you like to hear more about how it works?",
+      "word_count": 57,
+      "char_count": 341
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I have to say, we're pretty happy with our current setup. What kind of pricing are we talking about here? We're a large company, so we'd need a solution that can scale with us.",
+      "word_count": 38,
+      "char_count": 205
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing varies depending on the size of the company and the specific needs of the project. For a company of your size, we'd likely be looking at a custom enterprise plan, which starts at around $50,000 per year. But like I said, we've seen companies like yours achieve significant ROI through improved efficiency and accuracy.",
+      "word_count": 56,
+      "char_count": 330
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was expecting. We've also been talking to some of your competitors, like Tableau and Power BI, and their pricing seems more in line with what we're looking for. Can you tell me what sets DeepData AI apart from those solutions?",
+      "word_count": 46,
+      "char_count": 254
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. While those solutions are certainly capable, they often require a lot of manual configuration and maintenance. Our AI-powered engine automates a lot of that process, saving you time and resources in the long run. Plus, our customer support team is available 24/7 to help with any issues that may arise.",
+      "word_count": 51,
+      "char_count": 314
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but to be honest, the price is just too high for us. We're not convinced that the benefits outweigh the cost, especially when compared to some of the other options out there. I think we're going to have to pass on DeepData AI for now.",
+      "word_count": 49,
+      "char_count": 258
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's price concerns and provide more tailored value propositions to justify the cost of DeepData AI's solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's price concerns and provide more tailored value propositions to justify the cost of DeepData AI's solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 170,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 42.5,
+    "word_ratio_seller_buyer": 1.27,
+    "total_conversation_length": 386
+  }
+}

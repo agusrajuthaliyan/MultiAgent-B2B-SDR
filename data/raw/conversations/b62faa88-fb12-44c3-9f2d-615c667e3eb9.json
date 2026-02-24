@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b62faa88-fb12-44c3-9f2d-615c667e3eb9",
+  "timestamp": "2026-02-24T14:49:55.641153",
+  "target_url": "https://www.applitools.com",
+  "company_context": "Applitools | AI-Automated Compliance Testing Skip to content Applitools named a Strong Performer in the Forrester Wave™: Autonomous Testing Platforms, Q4 2025 . Read the report . Applitools Open navigation panel AI END-TO-END TESTING Fast. Scalable. Reliable. Deterministic AI Tests That Never Hallucinate Applitools’ proprietary testing AI has been trained over a decade with 4 billion app screens to deliver human-like judgment at automated speed and scale. Our customers trust our AI with everything from keeping their sites, apps, and PDFs in compliance with strict regulations to validating full end-to-end flows for complex and dynamic applications. Functional ⋅ Visual ⋅ API ⋅ Accessibility ⋅ Cross-Browser/Device ⋅ Component Schedule A Demo START YOUR Free Trial Trusted by Leading Brands The All-In-One Platform to Help You Improve Quality While Reducing Costs Write fewer tests. With higher confidence. Catch more bugs across any UI. For superior user satisfaction. Eliminate tedious test maintenance. Release faster . Create Validate Execute Analyze Ready to revolutionize your test automation? Request a free trial to experience for yourself why nobody does test automation better than Applitools. Nobody. START YOUR FREE TRIAL Confidently Validate Your Most Important Experiences, Across Any Type of Screen or Device COMPONENTS Validate your UI components in every possible state and layout, shifting testing further left. Learn More WEBSITES Test your marketing sites, eCommerce drivers, or anywhere you need to communicate digitally. Learn More WEB APPLICATIONS Test your web applications, SaaS apps, and other B2B browser based applications. Learn More NATIVE MOBILE Test native mobile applications on iOS or Android devices. Learn More PDFS & DOCS Test the PDFs and other documents that make your business tick. Learn More Finally, the testing solution for every industry. Find out how Applitools can help you communicate rapidly, with extreme confidence. Pharmaceuticals Financial Services Healthcare Retail & eCommerce Technology Learn more about Pharmaceuticals Learn more about Financial Services Learn more about Healthcare Learn more about Retail & eCommerce Learn more about Technology Revolutionize the Way You Test & Ship Digital Experiences 9 x Increase in test creation speed 100 x Growth in test coverage 4 x Reduction in test maintenance 500 hrs Of manual testing saved every month 4 B+ User interfaces analyzed with Visual AI What Our Customers Are Saying About Applitools EVERSANA was able to speed up deployments by over 20x and transform their development practice with Autonomous. 20x faster deployments 100% Lifesaver “Our testing process transformed when we started using the Applitools Intelligent Testing Platform. Through this technology, we’ve been able to significantly accelerate all testing and deployments, transforming processes that would take days to just hours, allowing us to deliver faster and better results for clients.” EVERFI was able to save on",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and improve decision-making. I came across your company, Applitools, and was impressed with your work in AI-automated compliance testing. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 58,
+      "char_count": 365
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a competitor's solution, TestGrid, and we're pretty happy with it. What makes DeepData AI think they can offer something better?",
+      "word_count": 25,
+      "char_count": 159
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large volumes of data with high accuracy and speed. We've had success with similar companies in the industry, and I think we could help Applitools reduce costs and improve efficiency. Would you be open to exploring how DeepData AI could help you?",
+      "word_count": 49,
+      "char_count": 287
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We just renewed our contract with TestGrid a few months ago, and we're locked in for at least another year. I'm not sure it would be worth the hassle and cost to switch providers right now. Plus, I'd need to run any changes by our procurement team, and that's always a lengthy process.",
+      "word_count": 56,
+      "char_count": 299
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the concern about being locked into a contract, but I'd like to discuss how DeepData AI could offer a more cost-effective solution in the long run. We've had clients who have switched from TestGrid and seen significant savings. Additionally, our integration process is designed to be seamless and minimize disruption to your operations.",
+      "word_count": 55,
+      "char_count": 349
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but I'm still not convinced. TestGrid has been a reliable partner for us, and I'm not sure I want to risk disrupting our testing workflow. Not to mention, our team has already invested a lot of time and effort into learning their platform. I'm not sure it's worth starting over with a new solution, even if it is more cost-effective.",
+      "word_count": 64,
+      "char_count": 357
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. One thing I could offer is a free trial or pilot project to demonstrate the capabilities of DeepData AI and show how it could integrate with your existing workflow. This would give you a chance to see the benefits firsthand without making a full commitment.",
+      "word_count": 54,
+      "char_count": 316
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass. As I said, we're locked into a contract with TestGrid, and I don't see us making any changes to our data processing setup in the near future. Thank you for reaching out, but I think we'll have to decline your offer.",
+      "word_count": 54,
+      "char_count": 280
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about being locked into a contract and explored potential options for transitioning to DeepData AI during the remaining contract term. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about being locked into a contract and explored potential options for transitioning to DeepData AI during the remaining contract term. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 199,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 49.75,
+    "word_ratio_seller_buyer": 1.09,
+    "total_conversation_length": 415
+  }
+}

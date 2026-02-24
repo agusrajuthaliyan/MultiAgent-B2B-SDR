@@ -1,0 +1,82 @@
+{
+  "simulation_id": "18352967-2522-4ef7-b577-adfe732d7a9b",
+  "timestamp": "2026-02-24T14:44:48.622163",
+  "target_url": "https://www.apptio.com",
+  "company_context": "Trusted Technology Investment Decisions | Apptio Skip to content Contact Us Search Support Solutions IT Financial Management AI TCO & Usage Mainframe TCO Hybrid IT TCO Product TCO Cost Transparency IT Planning Showback & Chargeback Cloud Financial Management FinOps for AI Cloud Cost Management & Optimization Cloud Total Cost of Ownership Strategic Portfolio Management Strategic Planning Portfolio Budgeting Resource Management Program Management AI-Accelerated Financial Intelligence AI Investment Management AI-Powered Apptio Best Practice Frameworks Technology Business Management (TBM) FinOps Scaled Agile Framework (SAFe) Public Sector IT View All Solutions > Products IBM Apptio Take control of your IT investments with market-leading ITFM solutions Explore Apptio IBM Cloudability Track, analyze, and optimize your cloud spend. Explore Cloudability Cloudability Savings Automation Cloudability MSP IBM Kubecost Get the Kubernetes visibility you need Explore Kubecost IBM Targetprocess Align strategy, optimize investments, and deliver outcomes Explore Targetprocess The Financial Intelligence Layer Financial Intelligence turns islands of data into insights with AI-Powered Apptio and AI Investment Management ​ View All Products > Resources Explore Case Studies Resource Center Blog Kubernetes Guides Shows & Podcasts Customer Success Support Education Services Professional Services Connect Community User Groups Events & Webinars Analyst Report 2025 Gartner ® Magic Quadrant™ for Cloud Financial Management Tools IBM was positioned furthest in Vision and highest in Execution for IBM Cloudability on the Gartner® Magic Quadrant™ for Cloud Financial Management Tools. Read the Report Report Guiding Technology Investments: Insights for Business Leaders Insights from over 1,000 senior technology decision makers provide a strategic framework for maximizing the ROI of tech investments. Get the Report View Resources Overview > Company Culture & Careers Leadership Technology Business Management Trust Partners News Locations Join the Apptio Team > Join the more than 1,000 Apptians across the globe. Regardless of your specialty or location, we’ve got an opportunity for you. View Company Overview > Solutions IT Financial Management Cloud Financial Management Strategic Portfolio Management Financial Intelligence Public Sector IT View All Solutions Products IBM Apptio IBM Cloudability Cloudability Cloudability Savings Automation Cloudability MSP IBM Kubecost IBM Targetprocess View All Products Resources Explore Case Studies Resource Center Blog Kubernetes Guides Shows & Podcasts Customer Success Support Education Services Professional Services Connect Community Apptio User Groups Events & Webinars View Resources Overview Company Culture & Careers Leadership Technology Business Management Trust Partners News Locations View Company Overview Request a Demo Search Support Login Americas Europe & Middle East Asia-Pacific Request Your Demo IBM named a Leader for IBM Cloudability i",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative for DeepData AI. We're a data processing solution that helps companies like yours optimize their IT investments and improve cost transparency. I came across your company, Apptio, and was impressed with the work you're doing in IT financial management. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 62,
+      "char_count": 383
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. We're actually doing quite well with our current solutions, but I'm always open to exploring new technologies. However, I have to say that our current priorities are focused on integrating our recent acquisition of Cloudability, so I'm not sure if we're in the market for a new data processing solution right now.",
+      "word_count": 58,
+      "char_count": 348
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand, and congratulations on the acquisition. Integration can be a complex process. Our solution, DeepData AI, is actually designed to help companies like yours streamline their data processing and improve cost optimization. We've had success with similar companies in the past, and I think we could really help you drive more value from your IT investments. Would you be open to a quick demo to see how our solution could help?",
+      "word_count": 73,
+      "char_count": 447
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, our priorities are elsewhere right now. Plus, we're already invested in our own IT financial management solutions, such as Apptio and Cloudability. I'm not sure how your solution would integrate with our existing stack, and I'd need to see some pretty compelling ROI to consider switching or adding a new vendor.",
+      "word_count": 59,
+      "char_count": 353
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and integration is definitely a key consideration. We've actually worked with companies that use Apptio and Cloudability, and our solution can integrate seamlessly with those tools. In terms of ROI, we've seen our customers achieve significant cost savings and improved efficiency. I'd be happy to provide some case studies and references to demonstrate the value we can bring.",
+      "word_count": 62,
+      "char_count": 405
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Okay, I'd like to see those case studies. But to be honest, Alex, I'm still not convinced that we need a new data processing solution, and I'm concerned about the cost. We're a publicly traded company, and our budget for new initiatives is tightly controlled. What kind of pricing are we talking about for DeepData AI?",
+      "word_count": 56,
+      "char_count": 318
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our pricing is tiered, but for a company of your size, we're looking at around $200,000 per year, plus implementation costs. I know it's an investment, but like I said, our customers have seen significant ROI and improved cost optimization.",
+      "word_count": 40,
+      "char_count": 240
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your honesty, Alex, but $200,000 per year is just too rich for our blood. We've got a lot of other priorities and initiatives that we need to fund, and I just can't justify that kind of expense for a solution that, while interesting, isn't a must-have for us right now. I think we're going to have to pass on DeepData AI.",
+      "word_count": 63,
+      "char_count": 334
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's concerns about pricing and ROI, and potentially offered a more flexible pricing structure or a pilot program to mitigate the upfront cost. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's concerns about pricing and ROI, and potentially offered a more flexible pricing structure or a pilot program to mitigate the upfront cost. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 237,
+    "total_buyer_words": 236,
+    "avg_seller_words_per_turn": 59.25,
+    "avg_buyer_words_per_turn": 59.0,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 473
+  }
+}
