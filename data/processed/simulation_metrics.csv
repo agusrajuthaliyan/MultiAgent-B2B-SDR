@@ -278,3 +278,14 @@ df395452-1bee-462e-a139-73b911e2b45d,2026-02-26T12:37:14.373687,https://www.acum
 901570f2-c887-4a15-aec0-609ce9935365,2026-02-26T12:45:22.045280,https://www.census.com,493,4,214,226,53.5,56.5,59,72,42,35,0.95,440,5,0,Pending,Unknown,dynamic_batch
 a20d6e2e-7159-4f1c-945e-ab8230ce64b0,2026-02-26T12:54:51.671290,https://www.dreamdata.io,3000,4,269,235,67.25,58.75,82,66,55,54,1.14,504,5,0,Pending,Unknown,dynamic_batch
 dad783c0-f3b4-4fbf-af7a-fb66282f0f9c,2026-02-26T13:02:57.256664,https://www.fortifyedge.com,153,4,182,182,45.5,45.5,50,52,40,39,1.0,364,5,0,Pending,Unknown,dynamic_batch
+2487b789-7db3-49b7-96c0-fcf45772ac2d,2026-02-26T13:11:01.702124,https://www.brightgauge.com,3000,3,215,265,71.67,66.25,81,86,60,52,0.81,480,3,0,Failure,Timing,dynamic_batch
+31eab75d-8806-4c42-8993-cd8824cb1e0e,2026-02-26T13:11:18.110559,https://www.dataguard.com,3000,4,198,170,49.5,42.5,62,49,31,25,1.16,368,3,0,Failure,Price,dynamic_batch
+4d5e26a2-4999-4f88-b113-90bfc433e481,2026-02-26T13:11:46.024111,https://www.scaleft.com,3000,4,213,196,53.25,49.0,65,68,45,22,1.09,409,2,0,Failure,Timing,dynamic_batch
+0c3a34ca-f7c8-4348-9940-67646f4805fe,2026-02-26T13:12:04.071452,https://www.streamsets.com,3000,4,386,163,96.5,40.75,134,54,62,22,2.37,549,8,1,Success,Integration,dynamic_batch
+cf0d1a62-4cd2-4fd8-87cb-58319e25f375,2026-02-26T13:12:20.579578,https://www.virtana.com,2474,3,213,159,71.0,53.0,82,64,57,37,1.34,372,3,0,Failure,Timing,dynamic_batch
+25c57e42-5c75-484a-87b9-57ec80e1234b,2026-02-26T13:12:38.613920,https://www.vast.com,27,4,196,179,49.0,44.75,61,68,40,19,1.09,375,2,0,Failure,Authority,dynamic_batch
+a4c68e1c-b655-46d4-be10-1a066a4a1ddc,2026-02-26T13:12:55.661354,https://www.quanta.com,120,5,353,191,70.6,38.2,106,54,36,5,1.85,544,8,1,Success,Competitors,dynamic_batch
+239226cc-d74a-4533-90a5-df6c256ace19,2026-02-26T13:13:16.405892,https://www.zesty.io,266,4,291,223,72.75,55.75,91,65,54,50,1.3,514,2,0,Failure,Timing,dynamic_batch
+d8dfe2a4-f25f-4025-b576-3a2fe59cc13b,2026-02-26T13:13:54.974469,https://www.logicmonitor.com,3000,4,243,115,60.75,28.75,75,38,42,16,2.11,358,8,1,Success,Integration,dynamic_batch
+2013ecb4-f7ff-4915-95f8-f67f71035c52,2026-02-26T13:14:11.769405,https://www.albert.ai,3000,4,302,248,75.5,62.0,89,84,54,42,1.22,550,2,0,Failure,Competitors,dynamic_batch
+7f0e45ca-ac7d-448d-9894-107caf456d8a,2026-02-26T13:30:25.137339,https://www.cybereason.com,3000,4,365,182,91.25,45.5,120,57,55,35,2.01,547,8,1,Success,Competitors,dynamic_batch

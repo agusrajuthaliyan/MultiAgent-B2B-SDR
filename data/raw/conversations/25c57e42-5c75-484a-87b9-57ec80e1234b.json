@@ -1,0 +1,82 @@
+{
+  "simulation_id": "25c57e42-5c75-484a-87b9-57ec80e1234b",
+  "timestamp": "2026-02-26T13:12:38.613920",
+  "target_url": "https://www.vast.com",
+  "company_context": "403 Forbidden 403 Forbidden",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi [Buyer Name], this is [SDR Name] calling from DeepData AI. I'm reaching out because I saw on your company's recent announcement that you're looking to scale your data analytics capabilities. Is now a good time for a brief chat?",
+      "word_count": 40,
+      "char_count": 230
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "[Buyer Name] here. Scaling is always a goal, but we're pretty swamped right now. What exactly is DeepData AI?",
+      "word_count": 19,
+      "char_count": 109
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand being busy. DeepData AI is a platform designed to dramatically accelerate your data processing and analysis, allowing your teams to derive insights faster and more efficiently. We’re seeing companies reduce their processing times by up to 60%, freeing up valuable engineering resources.",
+      "word_count": 44,
+      "char_count": 299
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Sixty percent, huh? We already use [Competitor X] for a lot of our data pipelines. I'm not sure we need another tool, especially if it's going to be complex to integrate. What kind of lift are we talking about there?",
+      "word_count": 40,
+      "char_count": 216
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That’s a fair concern. Integration is typically straightforward; our platform is designed with open APIs and can connect with most existing data warehouses and tools. We also offer dedicated support for onboarding. But beyond integration, the real value lies in the speed and cost savings on data operations themselves, allowing you to potentially reallocate those engineering hours to higher-value strategic projects.",
+      "word_count": 61,
+      "char_count": 418
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Look, [SDR Name], I appreciate you calling and the overview. However, our budget for new software tools is locked down for the next fiscal year, and honestly, any major new initiative would need a much longer evaluation period and executive sponsorship that I’m not in a position to greenlight at this stage.",
+      "word_count": 52,
+      "char_count": 308
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I hear you. So, while budget might be a current constraint, if you were to look ahead, what would be the biggest bottleneck preventing you from considering a solution like DeepData AI in the future? Is it primarily the upfront investment, or are there other strategic priorities that would take precedence?",
+      "word_count": 51,
+      "char_count": 306
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "It's not just the budget, but it's a significant factor. More importantly, I don't have the authority to approve this kind of expenditure or even initiate a pilot program of this nature. My role is focused on the technical implementation and maintenance of our current stack, not on signing new contracts or allocating new capital. So, unfortunately, we won't be moving forward with DeepData AI at this time.",
+      "word_count": 68,
+      "char_count": 408
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have immediately qualified for budget and authority earlier in the call to avoid wasting time. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have immediately qualified for budget and authority earlier in the call to avoid wasting time. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 196,
+    "total_buyer_words": 179,
+    "avg_seller_words_per_turn": 49.0,
+    "avg_buyer_words_per_turn": 44.75,
+    "word_ratio_seller_buyer": 1.09,
+    "total_conversation_length": 375
+  }
+}
