@@ -1,0 +1,82 @@
+{
+  "simulation_id": "3d536743-08eb-44c5-b8cd-6b09f0d8086f",
+  "timestamp": "2026-02-26T12:33:19.140808",
+  "target_url": "https://www.avanan.com",
+  "company_context": "Email Protection Services - Harmony Email - Check Point Software Toggle Navigation Toggle Navigation Your browser does not support the video tag. Protect Your Inboxes with AI Build integrations, reach enterprise customers, and grow together. Get a Demo Free Trial An Email Security Leader Check Point named a leader in the 2025 Gartner Magic Quadrant for Email Security View Report Exploiting Trust in Collaboration: Microsoft Teams Vulnerabilities Uncovered Watch the Webinar AI Security Report 2025 Learn how attackers are leveraging AI to amplify attacks—and what you can do to stop them. View Report Benefits Your Company’s Inboxes—Protected by Advanced AI Powered by Check Point’s industry-leading AI, Harmony Email & Collaboration blocks threats before they reach the inbox, so your employees can do what they do best—work. Get a Demo Free Trial Your Company. Your Enforcement Policy. Connect in minutes via API and pick your enforcement mode—either way, our advanced AI ensures your company is protected from targeted threats. Full Security Wherever You Work Work doesn’t just live in the inbox; nor should your security. We offer full protection for collaboration and file-sharing apps to keep work flowing—securely. AI-Powered Threat Prevention Check Point’s ThreatCloud is made up of over 50+ unique AI engines, delivering accurate and fast verdicts across all threat types. 99.9 % Malware Prevention 99.7 % Phishing Prevention 65K+ Customers How We Help Keep Data Flowing—Securely Prevent Data Leakage Data Loss Prevention (DLP) Business moves at the speed of data. Data in the wrong hands can be costly. With Data Loss Prevention, you’ll gain visibility and control of all your sensitive data, moving your business forward. See how Langham Hospitality Group uses Harmony Email to keep its customer data secure. Read case study Free Up Your SOC’s Time Reduce SOC Overload Your SOC team is overwhelmed chasing email threats, while still having to manage all their other risks. Harmony Email saves the SOC time allowing them to focus on the most critical attacks. See how World Wide Technology reduced email-related threats by 80%. Read case study Get Started Today Find the Harmony Email & Collaboration package that’s right for your business. Pick Your Package Platform Integration Protect Your SaaS Apps with a Click Integrate your favorite collaboration apps for full security wherever your work gets done. \"Harmony Email & Collaboration is one of those technical solutions that is basically a must for anybody in cyber security that cares about email and collaboration security.\" Milinko Milincic, Information Security Architect, Fast Pace Health MS Office 365 G Suite Slack Teams Dropbox Box ShareFile Customers See What Our Customers Say 90% Reduction in phishing attacks \"Our goal is to make our environment secure, and Check Point not only protects our critical infrastructure but also provides us peace of mind.\" Ishak Alajbeovic Head of IT, Sarajevogas Read case study “Our Harmon",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management. I came across your company, Check Point Software, and was impressed with your work in email security. I think our solution could complement your existing offerings.",
+      "word_count": 52,
+      "char_count": 320
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for the call, Alex. I'm the CTO here. We're always looking for ways to improve our data management, but I have to say, our plate is pretty full with our current email security projects. What makes you think your solution is a good fit for us?",
+      "word_count": 48,
+      "char_count": 253
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered data processing can help you gain more insights from your data, which in turn can enhance your email security offerings. For example, we've seen companies like yours use our solution to better identify and prevent phishing attacks. Plus, our integration process is relatively straightforward and can be done in a matter of weeks.",
+      "word_count": 56,
+      "char_count": 350
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but I'm concerned about the cost. We've already invested heavily in our ThreatCloud platform, and I'm not sure we have the budget for another data processing solution. Can you tell me more about your pricing model?",
+      "word_count": 41,
+      "char_count": 246
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is based on the amount of data being processed, and we offer a tiered pricing structure to accommodate different company sizes. We've found that our solution can actually help companies like yours save money in the long run by reducing the need for manual data analysis and improving overall efficiency.",
+      "word_count": 53,
+      "char_count": 327
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the explanation, but I'm still not convinced. We're currently evaluating a few other data processing solutions, including one from a competitor that's offering a more comprehensive package at a similar price point. How does your solution differentiate itself from others in the market?",
+      "word_count": 45,
+      "char_count": 298
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution is unique in that it uses a proprietary AI algorithm that's specifically designed for email security data. This allows us to provide more accurate and relevant insights than other solutions on the market. I'd be happy to set up a demo to show you the capabilities of our solution.",
+      "word_count": 55,
+      "char_count": 318
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I think I've heard enough for now, Alex. Thank you for reaching out and sharing information about DeepData AI. However, I don't think we're in a position to move forward with your solution at this time. Please send me an email with more information, and we can revisit this conversation in the future if our priorities shift. But for now, I'm going to have to decline.",
+      "word_count": 66,
+      "char_count": 368
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more aggressively highlighted the unique benefits and competitive advantages of their solution to differentiate it from the competitor's offering. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more aggressively highlighted the unique benefits and competitive advantages of their solution to differentiate it from the competitor's offering. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 200,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 50.0,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 416
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "simulation_id": "c6e6c208-1443-4904-8c61-1f408301584a",
+  "timestamp": "2026-02-26T12:36:23.254004",
+  "target_url": "https://www.fly.io",
+  "company_context": "Deploy app servers close to your users · Fly Open main menu Build fast. Run any code fearlessly. The platform for devs who just want to ship. Powered by sandboxes that let you deploy any code with confidence. Deploy your app Modern Compute Without the Complexity For builders who need compute that keeps up with their ideas, Fly Machines are hardware-virtualized containers that launch instantly and run only when you need them. Deploy an app in minutes or run untrusted code in isolated sandboxes. Sandboxes That Feel Like a Superpower Spin up hardware-isolated sandboxes for running AI-generated code in complete safety. Every Sprite is a self-contained environment, ready for action in under a second. Checkpoint your entire environment, run anything, and restore if you break something. Pay only for actual CPU and memory consumption, down to the second. Check Em Out! Storage That Keeps Up Fast local NVMe for low-latency work, plus global, durable object storage for data that needs to stick around. Snapshot environments, persist state, and scale storage right alongside your sandboxes. Built-In Private Networking Private networks per sandbox, granular routing, and end-to-end encryption — all automatic. VMs That Do Everything You Need Everything runs on Machines: your apps, agents that scale to millions of users, and AI-generated code. Fork Off VMs Like They're Processes Fly Machines start fast enough to handle HTTP requests, run only when you need them, and scale into tens of thousands of instances. Built for Distributed Systems Run clustered databases like Cockroach, globally-distributed Postgres, and modern RPC systems like Elixir FLAME. No Terraform required. Get Right in Your Users' Faces Deploy in 18 regions, from Sydney to São Paulo. Sub-100ms response times give users that native-app feel, no matter where they are. Use the Tech You Love Build with your favorite framework. No Dockerfile? No problem: our CLI generates containers for most popular frameworks, including Rails, Phoenix, Django, Node, Laravel, and .NET. Learn More Phoenix Framework SvelteKit Ruby on Rails Docker Django Laravel NextJS Agents Run Better on Sprites You don't have to be a cloud guru to build scalable agents. Run every instance on its own VM with dedicated CPU, memory, networking, and a private filesystem. Forget wrestling with shared runtimes or noisy neighbors. Get persistent brains when you need them, ephemeral workers when you don't. Build for scale from Day One Trusted by teams at Builder.io Mercor Cogram Mocha Context Reflex Beam Imbue Supabase Webhound Hercules Builder.io Mercor Cogram Mocha Context Reflex Beam Imbue Supabase Webhound Hercules Enterprise-Ready Apps running on Fly Machines are KVM hardware-isolated, built on a memory-safe stack and running directly on our own metal. Enterprise Features Fly.io Security Single Sign-On Guaranteed Support Response Times SOC2 Type 2 Attested Memory-safe Rust and Go stack CI/CD Integration Build Whatever You Can Think Up (and ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflows. I came across your company, Fly, and was impressed with the work you're doing with app servers and modern compute. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 59,
+      "char_count": 340
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're using a combination of in-house tools and some third-party services to manage our data. It's been working okay so far, but we're always looking for ways to improve. What makes DeepData AI unique?",
+      "word_count": 36,
+      "char_count": 211
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution uses AI-powered algorithms to automate data processing tasks, which can lead to significant cost savings and increased efficiency. We've seen our clients achieve up to 30% reduction in data processing costs. I'd love to schedule a demo to show you how it works.",
+      "word_count": 46,
+      "char_count": 280
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're in the middle of a big project right now and I'm not sure we have the bandwidth to take on something new. Plus, I'm not sure if our team would be able to integrate your solution with our existing infrastructure. We're pretty heavily invested in our current setup.",
+      "word_count": 53,
+      "char_count": 298
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Integration can be a challenge, but our solution is designed to be flexible and adaptable. We've worked with companies in similar situations and have been able to integrate our solution with their existing infrastructure. As for the project you're currently working on, I'd be happy to provide a customized demo that shows how DeepData AI can specifically address your needs.",
+      "word_count": 63,
+      "char_count": 400
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, we're also exploring other options and I'm not sure if we're ready to make a decision on a data processing solution just yet. Your pricing is also a bit higher than what we're used to paying. Can you send me some more information about your solution and we can discuss it further internally?",
+      "word_count": 61,
+      "char_count": 333
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, I can send over some information. However, I want to assure you that our solution is a long-term investment that can lead to significant cost savings and increased efficiency. I'd be happy to discuss pricing and see if there's any flexibility we can offer.",
+      "word_count": 45,
+      "char_count": 268
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "That's appreciated, but I think it's best if you just send me an email with the information and we can go from there. I'm not sure if we'll be moving forward with anything at this time, but I appreciate your time and I'll definitely take a look at the information you send over.",
+      "word_count": 53,
+      "char_count": 278
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Okay, I understand. I'll send over the information and follow up with you in a few days to see if you have any questions or if there's anything else I can provide.",
+      "word_count": 32,
+      "char_count": 163
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Sounds good, thanks. Please just send me the email and we'll be in touch if we need anything further.",
+      "word_count": 19,
+      "char_count": 101
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Pending\nKey_Objection: Integration\nFeedback: The seller should have provided more specific examples or case studies of successful integrations with similar companies to alleviate the buyer's concerns about integration with their existing infrastructure. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Pending",
+      "key_objection": "Integration",
+      "feedback": "The seller should have provided more specific examples or case studies of successful integrations with similar companies to alleviate the buyer's concerns about integration with their existing infrastructure. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 245,
+    "total_buyer_words": 222,
+    "avg_seller_words_per_turn": 49.0,
+    "avg_buyer_words_per_turn": 44.4,
+    "word_ratio_seller_buyer": 1.1,
+    "total_conversation_length": 467
+  }
+}

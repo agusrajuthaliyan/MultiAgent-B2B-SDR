@@ -1,0 +1,82 @@
+{
+  "simulation_id": "0e0ac228-8609-431d-8f1a-0129625727d4",
+  "timestamp": "2026-02-26T12:33:08.774072",
+  "target_url": "https://www.autodesk.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.autodesk.com/\" on this server. Reference #18.d5d70b17.1772089386.12a8c77a https://errors.edgesuite.net/18.d5d70b17.1772089386.12a8c77a",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management. I came across your company while researching and noticed you're using Autodesk. I'd love to explore how our solution can help streamline your data workflow.",
+      "word_count": 51,
+      "char_count": 313
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We do use Autodesk, but I'm not sure how a new data processing solution would fit into our current infrastructure. We've already invested heavily in our existing systems. What makes DeepData AI so unique that it would be worth considering a change?",
+      "word_count": 44,
+      "char_count": 257
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our AI-powered engine can handle large volumes of data much faster and more accurately than traditional solutions. We've seen companies like yours reduce their data processing time by up to 70%. I'd be happy to set up a demo to show you how it works.",
+      "word_count": 49,
+      "char_count": 275
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we're in the middle of a big project right now and don't have the bandwidth to take on something new. Plus, I'm concerned about the cost. We've had issues with vendors overpromising and underdelivering in the past. What's the typical ROI for a company our size, and how does your pricing model work?",
+      "word_count": 58,
+      "char_count": 327
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. Our pricing is based on the amount of data being processed, and we offer a tiered model to fit different company sizes. As for ROI, we've seen companies break even within 6-12 months of implementation. However, I'd need to discuss this further with our sales team to give you a more accurate quote for your specific situation.",
+      "word_count": 62,
+      "char_count": 365
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I'm still not convinced that this is the right time for us to explore a new data processing solution. We're also looking into a competing solution from a company that's already integrated with our existing Autodesk setup. Can you tell me why I should choose DeepData AI over them?",
+      "word_count": 52,
+      "char_count": 293
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "While our competitors may have existing integrations, our AI technology is more advanced and can handle a wider range of data types. We're also happy to work with your team to ensure a smooth integration with Autodesk. I'd love to set up a follow-up call to discuss this further and answer any more questions you may have.",
+      "word_count": 57,
+      "char_count": 322
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you, Emily, but I think it's best if you just send me an email with some more information about DeepData AI. I'll take a look and discuss it with our team, but I don't think we'll be moving forward with this at this time.",
+      "word_count": 45,
+      "char_count": 227
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and current project bandwidth to find a potential workaround or temporary solution to keep the conversation alive. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and current project bandwidth to find a potential workaround or temporary solution to keep the conversation alive. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 219,
+    "total_buyer_words": 199,
+    "avg_seller_words_per_turn": 54.75,
+    "avg_buyer_words_per_turn": 49.75,
+    "word_ratio_seller_buyer": 1.1,
+    "total_conversation_length": 418
+  }
+}

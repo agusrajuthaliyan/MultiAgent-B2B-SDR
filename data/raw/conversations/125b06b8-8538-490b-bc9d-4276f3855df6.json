@@ -1,0 +1,82 @@
+{
+  "simulation_id": "125b06b8-8538-490b-bc9d-4276f3855df6",
+  "timestamp": "2026-02-26T12:34:30.056573",
+  "target_url": "https://www.bitmovin.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can I have a few minutes of your time to discuss how our solution can help your organization?",
+      "word_count": 46,
+      "char_count": 256
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Okay, what's this about? We're pretty busy right now, so make it quick. We've already got a few data processing solutions in place, and I'm not sure we're looking to add another.",
+      "word_count": 33,
+      "char_count": 186
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand. Our solution is actually designed to integrate with existing systems and help you get more out of your current investments. We've had great success with companies similar to yours, and I think we could really help you streamline your data processing. Can you tell me a bit about your current pain points with data processing?",
+      "word_count": 58,
+      "char_count": 351
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(interrupting) Look, I appreciate the pitch, but our current pain points are mostly around budget and timing. We're in the middle of a major project right now, and we can't afford to take on anything new. Plus, our CEO is pretty set on using our current vendors, so I'm not sure we'd be able to get approval for a new solution like yours.",
+      "word_count": 63,
+      "char_count": 338
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Budget and timing can be a challenge. However, our solution is actually designed to help companies like yours save money in the long run by increasing efficiency and reducing manual errors. And we've had success with other companies in similar situations, where we were able to work with them to integrate our solution in a way that fit their existing infrastructure. Would you be open to discussing some potential ROI scenarios that might make this more feasible?",
+      "word_count": 80,
+      "char_count": 489
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure that would be worth our time, to be honest. We've looked at similar solutions from competitors like DataMax and IntelliPro, and they all seem to offer similar benefits. What makes DeepData AI so different? And how do I know this isn't just going to be another integration headache for our team?",
+      "word_count": 55,
+      "char_count": 319
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine is actually what sets us apart from competitors. It allows for much more accurate and efficient processing, and our integration team is dedicated to making sure the onboarding process is as smooth as possible. We've also had great success with companies in your industry, and I think we could really help you stand out from the competition.",
+      "word_count": 61,
+      "char_count": 368
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(firmly) I appreciate the pitch, Alex, but like I said, we're just too busy right now to take on anything new. And to be honest, I don't see this as a priority for us at the moment. I think we'll have to pass on DeepData AI for now. Maybe check back in with us in a few months and see if our priorities have changed, but for now, I'm afraid the answer is no.",
+      "word_count": 74,
+      "char_count": 358
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and emphasized the potential long-term benefits of implementing the solution to overcome the initial hesitation. Sentiment: Negative",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and emphasized the potential long-term benefits of implementing the solution to overcome the initial hesitation. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 245,
+    "total_buyer_words": 225,
+    "avg_seller_words_per_turn": 61.25,
+    "avg_buyer_words_per_turn": 56.25,
+    "word_ratio_seller_buyer": 1.09,
+    "total_conversation_length": 470
+  }
+}

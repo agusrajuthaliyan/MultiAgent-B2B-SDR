@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b6b72d5b-6068-4194-9656-f6f5252c0da4",
+  "timestamp": "2026-02-26T12:33:34.123824",
+  "target_url": "https://www.awingu.com",
+  "company_context": "Secure Remote Workspace | Parallels Toggle navigation Products Individual Parallels Desktop for Mac Parallels Desktop for Mac Pro Other Parallels Toolbox Business Desktop Parallels Desktop for Mac Business Edition Parallels Desktop for Mac Enterprise Edition Cloud Parallels DaaS Parallels Browser Isolation On-Prem & Hybrid Parallels RAS Parallels Secure Workspace View all products Try Parallels Desktop for free Download your 14-day free trial of Parallels Desktop Pro Special offer Students and Educators Military Government Nonprofit Solutions Company type Enterprise Small business Service Providers Use case Education Gaming Developers DevOps View all solutions Application / Integration Microsoft ecosystem Microsoft Azure Virtual Desktop Microsoft Office Microsoft Excel Developer tools Visual studio code Vagrant GitHub View all apps Partners Partnering with Parallels Partner program MSP partner program Technology alliances Affiliate program Partner finder Connect with experts to deliver digital workplaces and more. Find a Parallels partner Resources Parallels Desktop resources Resource library Technical documentation Customer stories Webinars Community Blog Compare App store Events Trust Center Parallels RAS resources Resources library Technical documentation Customer stories Webinars Community Blog Events Trust Center Use cases Microsoft authorized Parallels Desktop Playing Windows games on a Mac Alternative to Citrix Desktop Simplify and enhance Azure Virtual Desktop with Parallels RAS Small business Support Sign in Secure Remote Workspace for Modern Teams 4.5/5 on Capterra Securely access server-based apps and desktops as well as local desktops from any browser on any device, anywhere. Simple and non-intrusive Zero Trust enabled Cost-efficient Try now Contact us Already a customer? Click here Secure and compliant Zero Trust security and audited access to all data and business assets. Cost-effective Save up to 81% on licenses and TCO compared to other solutions. Fast deployment Get up and running from scratch with record-breaking speed. Freedom of choice Work from anywhere, on any device, via any web browser. Work from Anywhere with Enterprise-Grade Protection Secure VPN replacement Don't rely on technology from the 90s for your organization's cybersecurity. Enable your business to adopt a Zero Trust strategy that makes secure authentication the default, encrypts all traffic, and eliminates local access to data. Secure layer above RDP The gateway translates RDP and xRDP streams into HTML5, making them available via the browser on any device, anywhere without the need for RDP agents on these devices. And it goes even further by adding security, aggregation, and collaboration features. Intra-network gateway This bridge between production and general-purpose networks eliminates the need for complex firewall rules and jump servers. It enables granular user-authentication controls and performs a protocol switch that adds an extra layer of security ag",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 254
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party software. But to be honest, we're not really looking to add any new tools to our stack right now. We're pretty set on what we have.",
+      "word_count": 39,
+      "char_count": 216
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand. However, I'd like to ask, are you experiencing any pain points with your current setup? Perhaps some inefficiencies or bottlenecks that are costing you time and resources?",
+      "word_count": 30,
+      "char_count": 196
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Well, actually, yes. We do have some issues with data integration and synchronization. But we've got a pretty tight budget this quarter, and I'm not sure we can justify the cost of a new solution. Plus, we're already invested in some other tools that we're trying to get the most out of.",
+      "word_count": 52,
+      "char_count": 287
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I see. Our solution is actually designed to be cost-effective and can help you save money in the long run by automating manual processes and reducing errors. And we've had success integrating with other tools in the past, so I'm confident we could work with your existing setup. Would you be open to discussing pricing and seeing if we can find a fit for your budget?",
+      "word_count": 66,
+      "char_count": 367
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, budget is a big concern for us right now. And even if we were interested, I'm not the one who makes the final purchasing decisions. I'd have to escalate it to our procurement team, and they're pretty strict about what we can and can't approve. To be honest, we've had some issues with vendor lock-in in the past, and we're being pretty cautious about bringing in new vendors.",
+      "word_count": 76,
+      "char_count": 416
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your transparency. Can I ask, would it be possible to get an introduction to the person who does have the purchasing authority? I'd be happy to provide some more information and answer any questions they may have.",
+      "word_count": 44,
+      "char_count": 258
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I can definitely pass along your information, but I should let you know that we're not planning on approving any new tools or vendors for the remainder of the year. We're focusing on optimizing what we already have, and I don't see that changing anytime soon. So, I think it's best if we just table this discussion for now. Thank you for reaching out, but I think we're going to have to decline.",
+      "word_count": 73,
+      "char_count": 395
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Budget/Timing\nFeedback: The seller should have asked more probing questions to understand the buyer's current pain points and priorities to potentially uncover a more compelling reason to consider a new solution despite budget constraints. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Budget/Timing",
+      "feedback": "The seller should have asked more probing questions to understand the buyer's current pain points and priorities to potentially uncover a more compelling reason to consider a new solution despite budget constraints. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 183,
+    "total_buyer_words": 240,
+    "avg_seller_words_per_turn": 45.75,
+    "avg_buyer_words_per_turn": 60.0,
+    "word_ratio_seller_buyer": 0.76,
+    "total_conversation_length": 423
+  }
+}

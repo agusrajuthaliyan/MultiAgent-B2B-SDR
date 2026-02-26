@@ -1,0 +1,82 @@
+{
+  "simulation_id": "8798e766-5a8a-4eb9-b293-6f6999b895e6",
+  "timestamp": "2026-02-26T12:33:48.587001",
+  "target_url": "https://www.ayehu.com",
+  "company_context": "Agentic Automation & Orchestration for ITSM Calculate your potential Resolve ROI with the Automation Impact Analyzer™. Try it Now Book a Demo Never Touch Another Ticket Resolve up to 90% of incidents and service requests automatically, before they become tickets, with our agentic IT automation & orchestration platform. Book a Demo Explore Platform The IT Automation Partner of Choice for Global Enterprises customer stories Customer Success Stories 4k Nightly Self-Healed Desktops Learn how Clal Insurance leverages Resolve’s intelligent automation platform to eliminate daily outages, self-heal thousands of VDI desktops, and automate thousands of workflows. Read the Customer Story 58% Ticket Deflection Achieved Learn how DXC Technology partnered with Resolve to deploy an AI-powered virtual agent for a 12,000-user global building materials group achieving 58% deflection. Read the Customer Story 96% Request Emails Deflected Discover how Dexcom leverages Resolve’s intelligent virtual agent, RITA, to transform IT and HR service delivery, deflect 64% of tickets, and scale globally with multilingual support. Read the Customer Story 4k Nightly Self-Healed Desktops Learn how Clal Insurance leverages Resolve’s intelligent automation platform to eliminate daily outages, self-heal thousands of VDI desktops, and automate thousands of workflows. Read the Customer Story 58% Ticket Deflection Achieved Learn how DXC Technology partnered with Resolve to deploy an AI-powered virtual agent for a 12,000-user global building materials group achieving 58% deflection. Read the Customer Story 96% Request Emails Deflected Discover how Dexcom leverages Resolve’s intelligent virtual agent, RITA, to transform IT and HR service delivery, deflect 64% of tickets, and scale globally with multilingual support. Read the Customer Story Read More Stories Business Outcomes The Impact of AI-Driven IT Automation & Orchestration Explore Platform Slash ticket & alert volume by up to 90% Cut through the noise and automatically remediate alerts without human intervention. Resolve incidents in minutes, not hours Transform MTTR from hours to minutes with intelligent end-to-end orchestration, ensuring rapid and consistent incident resolution. Enhance service uptime and reliability Automatically remediate issues before they impact services with self-healing automation to maintain reliability and maximize operational efficiency. Scale IT & network operations, without adding headcount Maximize productivity and efficiency with hyper-scalable automation that optimizes resources and ensures teams focus on strategic priorities. Slash ticket & alert volume by up to 90% Cut through the noise and automatically remediate alerts without human intervention. Resolve incidents in minutes, not hours Transform MTTR from hours to minutes with intelligent end-to-end orchestration, ensuring rapid and consistent incident resolution. Enhance service uptime and reliability Automatically remediate issues before they im",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. I came across your company and thought our solution could be a great fit. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 56,
+      "char_count": 328
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're always looking for ways to improve our data processing, but we've got a lot of existing tools and infrastructure in place. What makes DeepData AI different from what we're already using?",
+      "word_count": 34,
+      "char_count": 202
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution uses AI-powered algorithms to automate data processing tasks, which can help reduce manual errors and increase efficiency. We've seen companies like yours achieve up to 30% reduction in data processing time. I'd love to schedule a demo to show you how it works.",
+      "word_count": 49,
+      "char_count": 299
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we'd be interested in right now. We're in the middle of a big IT overhaul, and we're trying to consolidate our tools and reduce costs. I'm not sure we'd be able to justify the expense of a new solution like DeepData AI.",
+      "word_count": 47,
+      "char_count": 249
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. However, our solution can actually help you reduce costs in the long run by automating manual tasks and improving efficiency. We've also got a flexible pricing model that can fit within your budget. Can I ask, what's the typical process like for evaluating and implementing new tools within your organization?",
+      "word_count": 53,
+      "char_count": 334
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Honestly, it's a pretty lengthy process. We've got a lot of stakeholders involved, and we have to go through a rigorous evaluation and approval process. Even if I were interested in DeepData AI, I'm not sure I'd be the right person to make a decision on it. I'm the CTO, but our CFO is the one who ultimately signs off on new tool purchases.",
+      "word_count": 64,
+      "char_count": 341
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand. Well, would it be possible to get an introduction to your CFO or someone who does have the authority to make purchasing decisions? I'd be happy to schedule a call to discuss how DeepData AI can help your organization.",
+      "word_count": 42,
+      "char_count": 237
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. We've got too many other priorities and initiatives that we need to focus on, and I just don't see us being able to allocate the budget or resources for a new tool like this. I appreciate your time, but I think we're going to have to decline.",
+      "word_count": 65,
+      "char_count": 330
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's current IT overhaul and cost consolidation priorities to better position DeepData AI as a solution that can help achieve these goals. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's current IT overhaul and cost consolidation priorities to better position DeepData AI as a solution that can help achieve these goals. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 200,
+    "total_buyer_words": 210,
+    "avg_seller_words_per_turn": 50.0,
+    "avg_buyer_words_per_turn": 52.5,
+    "word_ratio_seller_buyer": 0.95,
+    "total_conversation_length": 410
+  }
+}

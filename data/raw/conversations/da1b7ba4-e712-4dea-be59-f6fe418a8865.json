@@ -1,0 +1,96 @@
+{
+  "simulation_id": "da1b7ba4-e712-4dea-be59-f6fe418a8865",
+  "timestamp": "2026-02-26T12:36:41.663915",
+  "target_url": "https://www.getsentry.com",
+  "company_context": "Application Performance Monitoring & Error Tracking Software Skip to main content Marketing Mode Want to connect with the folks building Sentry? Join us on Discord. ➔ Code breaks, fix it faster Application monitoring software considered \"not bad\" by millions of developers. Get Started See How In Sandbox lyft Factory.ai Logo lyft Factory.ai Logo Cursor Disney GitHub Microsoft Atlassian Linear Vercel Airtable Duolingo Cloudflare Slack Metronome Autodesk Instacart Miro Monday Lyft Anthropic Bolt Factory AI Developer first. Always. Monitor in five lines Drop in the SDK . No agents to install. No performance surprises. Automatically root-cause any issue Catch critical issues before you merge and fix them when they hit prod with Seer, our debugging agent and code reviewer . Break production less Predict and prevent the errors that matter most before they even make it to production with AI code review . Stay in the flow From GitHub , Slack , Jira , and Linear to coding agents with Sentry's MCP server , Sentry brings full context to every fix from dev to prod. Previous Next Monitor in five lines Drop in the SDK . No agents to install. No performance surprises. Automatically root-cause any issue Catch critical issues before you merge and fix them when they hit prod with Seer, our debugging agent and code reviewer . Break production less Predict and prevent the errors that matter most before they even make it to production with AI code review . Stay in the flow From GitHub , Slack , Jira , and Linear to coding agents with Sentry's MCP server , Sentry brings full context to every fix from dev to prod. Everything’s connected Yeah, other tools exist. But errors , logs , replays , spans , profiles , and metrics — all connected by the same trace? That’s kind of our thing. Go from Issue → Context → Fix. Debug 500's, trace slow requests, replay fetch() failures, and fix the broken code that caused it. Catch slow queries, N+1s, and request timeouts before the ‘why is this so slow?’ posts fill up your feed. Map every incident to the release, PR, and owner -- automatically. Debugging needs context— with or without AI Seer , our AI debugger, uses Sentry context – logs, commits, traces, stack trace - so you can stop guessing and it can fix issues for you. Analyzes every signal to explain why your code failed, not just where. Fixes what’s broken while you ship what’s next – generating precise, merge-ready patches. Stops bad code before it starts bad days. Correlating PRs against real error and performance history to catch regressions before they ship. Loved by developers worldwide We wouldn’t have scaled without Sentry. Most of our incidents are hardware-related—and we debug them all inside Sentry Nova DasSarma Systems Lead, Anthropic Sentry’s high-quality tooling helps Disney+ maintain high-quality service to its tens of millions of global subscribers. Andrew Hay Director at Disney Streaming Services, Disney+ The signal we get from Sentry is the most reliable indicato",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm a Sales Development Representative at DeepData AI. I came across Sentry, and I was impressed by the work you're doing in application performance monitoring and error tracking. I'd love to explore how our data processing solution can help enhance your existing infrastructure.",
+      "word_count": 49,
+      "char_count": 304
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, another data processing solution. What makes yours so special? We already have a robust monitoring system in place with Sentry.",
+      "word_count": 22,
+      "char_count": 143
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, and I appreciate the investment you've made in Sentry. Our solution, DeepData AI, is designed to complement existing monitoring tools by providing more in-depth insights into your data. We've had success with similar companies, like Lyft and GitHub, in helping them streamline their data processing and reduce errors.",
+      "word_count": 53,
+      "char_count": 358
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(concerned about integration) That sounds interesting, but integrating a new solution with our existing stack is always a challenge. How do you plan to integrate with Sentry and our other tools like GitHub and Jira?",
+      "word_count": 35,
+      "char_count": 215
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concern about integration. DeepData AI is designed to be flexible and adaptable, with pre-built connectors for many popular tools, including Sentry, GitHub, and Jira. Our implementation team will work closely with you to ensure a seamless integration that doesn't disrupt your existing workflow.",
+      "word_count": 47,
+      "char_count": 324
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(objection about price) I'm not sure if we're ready to invest in another tool, especially with the current budget constraints. What kind of pricing are we looking at for DeepData AI?",
+      "word_count": 31,
+      "char_count": 182
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that budget is always a consideration. Our pricing is competitive, and we offer customized plans based on the specific needs of your organization. I'd be happy to discuss this further and provide a more detailed quote. However, I want to emphasize that our solution has been shown to provide significant ROI by reducing errors and improving data processing efficiency.",
+      "word_count": 61,
+      "char_count": 381
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(objection about authority) I'm not sure if I'm the right person to be making decisions about this. Our engineering team would need to be involved in any discussions about new tools.",
+      "word_count": 31,
+      "char_count": 182
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand the importance of involving the right stakeholders. I'd be happy to set up a demo with your engineering team to showcase the capabilities of DeepData AI and address any technical questions they may have. Would you be open to scheduling a demo for next week?",
+      "word_count": 48,
+      "char_count": 282
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo. I'll invite our engineering lead, and we can discuss further how DeepData AI can fit into our existing infrastructure.",
+      "word_count": 24,
+      "char_count": 153
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Integration\nFeedback: The seller could have provided more specific examples or case studies to address the buyer's concerns and build stronger credibility for DeepData AI's capabilities. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Integration",
+      "feedback": "The seller could have provided more specific examples or case studies to address the buyer's concerns and build stronger credibility for DeepData AI's capabilities. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 258,
+    "total_buyer_words": 143,
+    "avg_seller_words_per_turn": 51.6,
+    "avg_buyer_words_per_turn": 28.6,
+    "word_ratio_seller_buyer": 1.8,
+    "total_conversation_length": 401
+  }
+}

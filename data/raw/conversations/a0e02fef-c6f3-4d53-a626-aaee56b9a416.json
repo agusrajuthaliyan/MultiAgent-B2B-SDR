@@ -1,0 +1,82 @@
+{
+  "simulation_id": "a0e02fef-c6f3-4d53-a626-aaee56b9a416",
+  "timestamp": "2026-02-26T12:36:48.921748",
+  "target_url": "https://www.glean.com",
+  "company_context": "Glean – Work AI that Works | Agents, Assistant & Search 85+ new agent actions, chat for insights and admin, and 8 new engineering agents to ship faster. 85+ new agent actions, chat for insights and admin, and 8 new engineering agents to ship faster. See what’s new Product WORK AI PLATFORM Platform Overview Glean Assistant Your personal AI assistant Data Analysis Deep Research Canvas Companion Glean Agents Build and manage AI agents Agent Builder Agent Governance Agent Orchestration Agent Library Glean Search The foundation of enterprise AI Enterprise Graph Personal Graph System of context Hybrid Search Connectors & Actions Connect to all your apps Model Hub Get access to the latest models APIs Build generative AI experiences Glean Protect Safely scale AI at work Security Secure by design from day one Agentic Engine Plan & adapt over company context GLEAN WHERE YOU WORK Glean in Slack Glean in Microsoft Teams Glean in Zoom Glean in Service Cloud Glean in ServiceNow Glean in Zendesk Glean in GitHub Glean in Miro Browser Extension Sign in Customers Solutions DEPARTMENTS All Teams Engineering Customer Service Sales Marketing B2B Marketing B2C Marketing People IT INDUSTRIES Retail Financial Services Higher Education Healthcare Government Sign in Joel McKelvey Head of Solutions, Glean Abdullah Haydar Director of Engineering, LinkedIn Webinar AI Powered Engineering Expert insights and actionable strategies for accelerating developer productivity. Watch now Resources EXPLORE Resource Center Blog Prompt Library Guides Product Videos ENGAGE Webinars Newsroom Glean:GO 2026 Events Gleaniverse Community SUPPORT & SERVICES Help Center Developers Partners Work AI Institute Sign in The AI Transformation 100 Explore 100 real-world moves organizations are making to transform themselves with AI. Download the report About Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Sign in Get a demo Get a demo Sign in Get a demo Get a demo Product Customers Solutions Resources About Sign in Back WORK AI PLATFORM Platform Overview Glean Assistant Your personal AI assistant Data Analysis Deep Research Canvas Companion Glean Agents Build and manage AI agents Agent Builder Agent Governance Agent Orchestration Agent Library Glean Search The foundation of enterprise AI Enterprise Graph Personal Graph System of context Hybrid Search Connectors & Actions Connect to all your apps Model Hub Get access to the latest models APIs Build generative AI experiences Glean Protect Safely scale AI at work Security Secure by design from day one Agentic Engine Plan & adapt over company context GLEAN WHERE YOU WORK Glean in Slack Glean in Microsoft Teams Glean in Zoom Glean in Service Cloud Glean in ServiceNow Glean in Zendesk Glean in GitHub Glean in Miro Browser Extension Sign in DEPARTMENTS All Teams Engineering Customer Service Sales Marketing B2B Marketing B2C Marketing People IT INDUSTRIES Retail Financial Services Higher Education Healthcare ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 254
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're actually using Glean's Work AI platform right now, and it's been working out pretty well for us. What makes DeepData AI different from what we're already using?",
+      "word_count": 30,
+      "char_count": 176
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. While Glean is a solid solution, our platform is more tailored towards large-scale data processing and offers more advanced analytics capabilities. We've also had success with companies in your industry, helping them reduce data processing time by up to 50%. Would you be open to exploring how DeepData AI could help you achieve similar results?",
+      "word_count": 59,
+      "char_count": 370
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We've just implemented Glean and are still getting used to it. I'm not sure if now is the right time to be looking at alternative solutions. Plus, I'd need to get buy-in from our engineering team, and that's always a challenge. What kind of support do you offer for integration and onboarding?",
+      "word_count": 55,
+      "char_count": 307
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand your concerns. We offer comprehensive onboarding and integration support, including dedicated account management and technical resources. We've also developed pre-built connectors for many popular data sources and tools, so integration is usually pretty seamless. As for pricing, we offer a tiered pricing model that's competitive with Glean. We'd be happy to provide a custom quote based on your specific needs.",
+      "word_count": 63,
+      "char_count": 437
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I'd still need to run any changes like this by our finance team, and to be honest, I'm not sure we're looking to add another line item to our budget right now. Can you tell me more about what kind of ROI we could expect from implementing DeepData AI?",
+      "word_count": 52,
+      "char_count": 263
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We've had customers see significant returns on investment, often in the range of 200-300% within the first year. However, I understand that every company is different, and it's hard to estimate without knowing more about your specific use case. I'd be happy to set up a follow-up call to discuss this further and explore how DeepData AI could help you achieve your goals.",
+      "word_count": 63,
+      "char_count": 371
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI for now. We're happy with Glean and don't see a compelling reason to switch. I appreciate your time, but I don't think this is a good fit for us at this time.",
+      "word_count": 49,
+      "char_count": 243
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and provided more concrete examples of how DeepData AI could help the company achieve its goals despite the recent implementation of Glean. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and provided more concrete examples of how DeepData AI could help the company achieve its goals despite the recent implementation of Glean. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 228,
+    "total_buyer_words": 186,
+    "avg_seller_words_per_turn": 57.0,
+    "avg_buyer_words_per_turn": 46.5,
+    "word_ratio_seller_buyer": 1.23,
+    "total_conversation_length": 414
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "7124330e-c98f-4afc-8ab5-0b4547a61215",
+  "timestamp": "2026-02-26T12:35:47.040700",
+  "target_url": "https://www.dashdash.com",
+  "company_context": "Rows: your new AI Data Analyst",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data analytics setup?",
+      "word_count": 41,
+      "char_count": 233
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "We're using a combination of internal tools and some external services. But to be honest, we're not really looking to change anything right now. We've got a lot on our plates with some new product launches coming up.",
+      "word_count": 38,
+      "char_count": 216
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand. Our solution can actually help you streamline your data processing and free up more time for strategic initiatives like product launches. We've seen companies like yours reduce their data processing time by up to 50%. Would you be open to learning more about how DeepData AI can help?",
+      "word_count": 51,
+      "char_count": 309
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We've already invested a significant amount in our current setup, and I'm not convinced that switching to a new solution would be worth the cost. Plus, I've heard that your competitor, DataMax, offers a similar solution at a lower price point.",
+      "word_count": 44,
+      "char_count": 257
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost, but our solution offers more advanced AI capabilities and better integration with popular data visualization tools. We've also had great success with companies in your industry, and I'd be happy to provide some case studies. Additionally, we offer a free trial so you can see the benefits for yourself before committing to a purchase.",
+      "word_count": 60,
+      "char_count": 373
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're just too busy right now to take on a new trial or implementation project. And to be honest, I'm not even sure if I'm the right person to be making this decision - our CFO is usually the one who handles purchasing decisions like this.",
+      "word_count": 54,
+      "char_count": 280
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that timing can be a challenge, and I'd be happy to provide more information to your CFO if that would be helpful. Can I schedule a follow-up call for next week to check in and see if things have changed?",
+      "word_count": 42,
+      "char_count": 217
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that will be necessary. We appreciate the outreach, but this just isn't a priority for us right now. We've got too many other fires to put out, and I don't see us making any significant changes to our data processing setup in the near future. Thank you for your time, though.",
+      "word_count": 55,
+      "char_count": 293
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's initial statement about not looking to change their current setup and explored potential pain points or areas where the current solution was falling short to build a stronger case for consideration. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's initial statement about not looking to change their current setup and explored potential pain points or areas where the current solution was falling short to build a stronger case for consideration. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 194,
+    "total_buyer_words": 191,
+    "avg_seller_words_per_turn": 48.5,
+    "avg_buyer_words_per_turn": 47.75,
+    "word_ratio_seller_buyer": 1.02,
+    "total_conversation_length": 385
+  }
+}

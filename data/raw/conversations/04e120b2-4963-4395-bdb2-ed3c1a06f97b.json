@@ -1,0 +1,82 @@
+{
+  "simulation_id": "04e120b2-4963-4395-bdb2-ed3c1a06f97b",
+  "timestamp": "2026-02-26T12:36:15.727314",
+  "target_url": "https://www.eventstore.com",
+  "company_context": "Kurrent - event-native data platform New Event Sourcing: Contextual AI Requires a Contextual Data Model Event Sourcing: Contextual AI Requires a Contextua... Read the blog > New Introducing the KurrentDB MCP Server for AI-powered Development Introducing the KurrentDB MCP Server for AI-powere... Read the blog > Release KurrentDB v26.0: Simpler Integrations, Faster Streams, Better Together with Redpanda KurrentDB v26.0: Simpler Integrations, Faster Stre... Explore now > Find articles, guides, tutorials, and more. Close Search Login Sign up Login Sign Up Kurrent Platform Event-Centric Data Platform For Event Sourcing For Event-Driven Architecture For Event-Driven Microservices Replaces Change Data Capture Zero-Code Outbox Built-in Stream Processing (Almost) no Impedance Mismatch Get Started Run locally For Event Sourcing KurrentDB was purpose-built for event sourcing. Store events in individually indexed streams and replay them to reconstruct system state at any moment. Enjoy a globally ordered, immutable event log with lock-free appends and lightning-fast event retrieval per stream or across your entire system. For Event-Driven Architecture Seamlessly store, distribute, and react to events with no external message brokers required. With built-in connectors and persistent subscriptions, KurrentDB powers real-time event flows and automates message delivery out of the box. For Event-Driven Microservices Decouple, scale, and evolve your microservices. Persist state changes as events, enabling independent service evolution. Events can be consumed in real time or transformed via stream processing pipelines to generate new events or update materialized views. Replaces Change Data Capture No more CDC tools or complex infrastructure required. With KurrentDB, state changes are events. Subscribe to the event stream for direct, real-time access to all changes. Zero-Code Outbox Outbox pattern with zero code. KurrentDB natively ensures events and state changes are stored atomically and requires no separate outbox tables or extra libraries. Publish events reliably, with zero operational overhead. Built-in Stream Processing Process, transform, and semantically link events in real-time directly in your database. Think of it as stored procedures for event streams: triggered by new data, executed in-database, and optimized for millisecond-level latency. (Almost) no Impedance Mismatch Ensure your application logic aligns natively with stored data. KurrentDB persists state changes as simple, serializable event objects, which eliminates the need for object-relational mapping. KurrentDB Event-Native Database Model your business processes, not just the state of your business. KurrentDB's event-native data model directly reflects your domain model. Skip the complexity of ORMs, outboxes, and CDC. Gain complete visibility into how your data evolves, and stream events in real time—straight from the source. Learn the KurrentDB basics // OrderOpened { \" customerId \" : \" cu-730 ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management and analysis. I came across Kurrent and was impressed with your event-native data platform. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 52,
+      "char_count": 315
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're always looking for ways to improve our data management. Currently, we're using a combination of open-source tools and custom-built solutions. But I have to say, we're pretty happy with our current setup. What makes DeepData AI think you can offer something better?",
+      "word_count": 45,
+      "char_count": 279
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large volumes of data and provide real-time insights. We've seen significant improvements in data processing efficiency and accuracy with our clients. I'd love to schedule a demo to show you how it works. Would you be open to that?",
+      "word_count": 46,
+      "char_count": 272
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm intrigued, but I'm not sure if we're ready to invest in a new solution right now. We're in the middle of implementing some new microservices, and I'm not sure if our team has the bandwidth to take on another project. Plus, I've heard that DeepData AI is on the pricier side. Can you tell me more about your pricing model?",
+      "word_count": 61,
+      "char_count": 325
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the volume of data processed, and we offer tiered plans to accommodate different company sizes. I can offer you a customized quote based on your specific needs. However, I can tell you that our average customer sees a significant ROI within the first year of implementation. Would you like me to send over some case studies and a pricing sheet?",
+      "word_count": 65,
+      "char_count": 368
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'd appreciate that, but I have to warn you, our budget for new tools is pretty limited. We're already investing heavily in our event-driven architecture, and I'm not sure if we can justify the cost of another solution. Can you tell me what sets DeepData AI apart from competitors like Apache Kafka or Amazon Kinesis?",
+      "word_count": 55,
+      "char_count": 317
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "While those solutions are great for certain use cases, DeepData AI is designed specifically for real-time data processing and analytics. Our solution provides a more comprehensive view of your data and can handle complex event processing workflows. I understand that budget is a concern, but I believe our solution can provide significant long-term benefits.",
+      "word_count": 54,
+      "char_count": 358
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, Alex, but after considering the costs and our current priorities, I'm afraid we're going to have to pass on DeepData AI for now. The price point is just too high for us, and we need to focus on our existing infrastructure investments. Thank you for reaching out, though.",
+      "word_count": 52,
+      "char_count": 294
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have more effectively addressed the buyer's price concerns by providing a clearer ROI analysis and highlighting the long-term cost savings of implementing DeepData AI's solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have more effectively addressed the buyer's price concerns by providing a clearer ROI analysis and highlighting the long-term cost savings of implementing DeepData AI's solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 217,
+    "total_buyer_words": 213,
+    "avg_seller_words_per_turn": 54.25,
+    "avg_buyer_words_per_turn": 53.25,
+    "word_ratio_seller_buyer": 1.02,
+    "total_conversation_length": 430
+  }
+}

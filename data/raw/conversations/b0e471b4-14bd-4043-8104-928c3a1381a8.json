@@ -1,0 +1,96 @@
+{
+  "simulation_id": "b0e471b4-14bd-4043-8104-928c3a1381a8",
+  "timestamp": "2026-02-26T12:31:48.440690",
+  "target_url": "https://www.appian.com",
+  "company_context": "AI-Powered Process Orchestration Across the Enterprise | Appian Skip to main content Appian Serious AI. Built on Process. Process gives AI structure and measurability. We provide a platform for AI-powered process automation that’s built to handle complexity. What's New in Appian 25.4 Automate open-ended work with AI agents, modernize legacy applications with AI, and more. AGENT STUDIO AGENT STUDIO Orchestrate your agentic workforce Learn more about how to build, govern, and orchestrate AI agents in a single platform. Discover Agent Studio COMPOSER COMPOSER Accelerate legacy application modernization Discover how to modernize legacy apps quickly and with confidence. Discover Composer Gartner® Magic Quadrant™ Gartner® Magic Quadrant™ Appian is a Leader in Business Orchestration and Automation Technologies (BOAT) Get the Gartner assessment of 20 BOAT vendors to help guide your business process automation decisions. Get Your Copy What process will you transform? Financial Services Regulatory Compliance Customer Lifecycle Payments Investigations Learn More Insurance Underwriting Claims Processing First Notice of Loss Learn More Public Sector Acquisition and eProcurement Case Management Legacy System Modernization Learn More Life Sciences Study Design Regulatory Intelligence Labeling Submissions Learn More Design, automate, and optimize your business processes Process orchestration and automation Transform workflows with automation and enterprise integration. Data fabric Unify data across systems for more powerful applications. AI Bring the power of private AI to every step of your processes. Process intelligence Discover process and business insights to make smarter decisions. Process orchestration and automation Transform workflows with automation and enterprise integration. Data fabric Unify data across systems for more powerful applications. AI Bring the power of private AI to every step of your processes. Process intelligence Discover process and business insights to make smarter decisions. The Appian Guarantee Build your first process in 8 weeks. Guaranteed. Learn More Customer showcase Insurance PwC UK Increased claims handling efficiency by 30%, resulting in faster claim resolution. Healthcare Acclaim Autism Reduced insurance rejection rates to under 5% and slashed patient wait times from months to days. Public Sector Texas Department of Public Safety Automated the contract award process end to end in just three months. Financial Services NatWest Automated 46% of data in their governance workflows and integrated 14 disjointed processes. Telecommunications TELUS Streamlined complex planning to save around 7,200 man hours every year. Reinsurance Claims AON Utlized Appian to optimize and accelerate its reinsurance claims process. Appian is a Gartner ® Magic Quadrant™ Leader Get the BOAT Report Get the LCAP Report A Leader in the 2025 Gartner® Magic Quadrantᵀᴹ for Business Orchestration and Automation Technologies (BOAT) A Leader in the 2025 Gartne",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, I'm calling from DeepData AI, and I came across your company while researching organizations that could benefit from our data processing solution. Can you tell me a little bit about your current data management processes?",
+      "word_count": 36,
+      "char_count": 225
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "We're actually in the middle of implementing a new process orchestration platform with Appian, so our data management is being overhauled as we speak. What makes DeepData AI unique?",
+      "word_count": 29,
+      "char_count": 181
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear about the Appian implementation. DeepData AI can actually complement Appian by providing advanced data processing capabilities, including AI-powered automation and real-time analytics. We've seen significant ROI for our clients in terms of reduced manual labor and improved decision-making.",
+      "word_count": 42,
+      "char_count": 311
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we're looking to add another vendor to the mix right now, especially with the Appian rollout still in progress. We're trying to minimize disruptions and focus on getting the most out of our existing investments. What kind of pricing are we talking about for DeepData AI?",
+      "word_count": 49,
+      "char_count": 283
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, with tiered plans starting at $50,000 per year for our basic package. However, I'd be happy to discuss customized pricing based on your specific needs and use cases. We've found that our solution can pay for itself through efficiency gains and improved insights.",
+      "word_count": 47,
+      "char_count": 290
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds like a significant investment, and I'm not convinced we have the budget for it right now. We're also evaluating other data processing solutions, including some open-source options that might be more cost-effective. Can you tell me what sets DeepData AI apart from the competition?",
+      "word_count": 46,
+      "char_count": 292
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. Our proprietary AI engine and intuitive interface make it easier to integrate and manage complex data workflows, and our customer support team is dedicated to ensuring a smooth onboarding process. We've also had success with similar companies in your industry, and I'd be happy to provide case studies and references.",
+      "word_count": 51,
+      "char_count": 329
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the information, but to be honest, this just isn't a priority for us right now. We're too busy with the Appian implementation and other strategic initiatives to take on another project. I think we'll have to pass on DeepData AI for the time being.",
+      "word_count": 46,
+      "char_count": 260
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand, and I appreciate your candor. If you're willing, I'd like to schedule a follow-up call in a few months to check in on your progress and see if your priorities have shifted.",
+      "word_count": 34,
+      "char_count": 186
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "I don't think that will be necessary. We have a clear roadmap for the next quarter, and DeepData AI isn't part of it. Thank you for reaching out, but we'll have to decline your offer.",
+      "word_count": 35,
+      "char_count": 183
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to align DeepData AI with the Appian implementation timeline to demonstrate value amidst the buyer's current priorities. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to align DeepData AI with the Appian implementation timeline to demonstrate value amidst the buyer's current priorities. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 210,
+    "total_buyer_words": 205,
+    "avg_seller_words_per_turn": 42.0,
+    "avg_buyer_words_per_turn": 41.0,
+    "word_ratio_seller_buyer": 1.02,
+    "total_conversation_length": 415
+  }
+}

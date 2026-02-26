@@ -1,0 +1,82 @@
+{
+  "simulation_id": "efd2923b-6522-4315-b2e1-0a4b1666fb29",
+  "timestamp": "2026-02-26T12:31:08.911901",
+  "target_url": "https://www.agari.com",
+  "company_context": "Fortra Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 42,
+      "char_count": 253
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're struggling to keep up with the volume of data we're generating. Our current solution is outdated and can't handle the complexity of our data sets. But we've been looking at a few different options, including some open-source solutions that might be more cost-effective.",
+      "word_count": 45,
+      "char_count": 285
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand cost is always a consideration. However, our solution is designed to handle complex data sets with ease and provide actionable insights that can help drive business decisions. We've had great success with similar companies in your industry. Would you be open to a demo to see how DeepData AI can address your specific pain points?",
+      "word_count": 57,
+      "char_count": 343
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure about a demo just yet. We're in the middle of implementing a new IT project and our resources are stretched thin. I'm also concerned about integration with our existing systems - we can't afford any downtime. Can you tell me more about how your solution integrates with other tools?",
+      "word_count": 52,
+      "char_count": 295
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. DeepData AI is designed to be highly compatible and can integrate with a wide range of systems. We've had success with similar integrations in the past and can provide support to ensure a smooth transition. As for the demo, it's completely non-intrusive and can be done at your convenience. We can also provide a customized trial to show you the value of our solution.",
+      "word_count": 65,
+      "char_count": 380
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds good, but I have to be honest with you - I've been looking at your competitors and they seem to be offering similar solutions at a lower price point. How do you justify the cost of DeepData AI, especially considering our budget for this year is already allocated?",
+      "word_count": 50,
+      "char_count": 275
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that budget is a concern, but our solution offers advanced features and support that our competitors can't match. We've had companies see significant ROI from using DeepData AI, which can help offset the cost. I'd be happy to discuss pricing in more detail and see if there's any flexibility we can offer.",
+      "word_count": 54,
+      "char_count": 318
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but after considering the cost and our current priorities, I'm afraid we're going to have to pass on DeepData AI. The price is just too high for us to justify at this time, and we need to explore more cost-effective options. Thank you for your time, and I wish you the best of luck with your sales efforts.",
+      "word_count": 62,
+      "char_count": 330
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have more aggressively addressed the buyer's pricing concerns earlier in the conversation and explored potential flexibility or value-added services to offset the cost. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have more aggressively addressed the buyer's pricing concerns earlier in the conversation and explored potential flexibility or value-added services to offset the cost. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 218,
+    "total_buyer_words": 209,
+    "avg_seller_words_per_turn": 54.5,
+    "avg_buyer_words_per_turn": 52.25,
+    "word_ratio_seller_buyer": 1.04,
+    "total_conversation_length": 427
+  }
+}

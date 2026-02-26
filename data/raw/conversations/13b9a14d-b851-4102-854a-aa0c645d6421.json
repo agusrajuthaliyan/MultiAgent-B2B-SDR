@@ -1,0 +1,96 @@
+{
+  "simulation_id": "13b9a14d-b851-4102-854a-aa0c645d6421",
+  "timestamp": "2026-02-26T12:34:59.852492",
+  "target_url": "https://www.bearer.sh",
+  "company_context": "Bearer | Developer-first SAST for security and privacy Bearer has been acquired by Cycode , the complete ASPM. Learn more -> Product Bearer Cloud Code security at scale Bearer CLI Our free & open SAST engine Integrations Go with your flow Solutions For security leaders Enable secure by design For product security Ship secure software For software engineering Enable security champion Blog Events Company About us Why we do what we do Careers Our job opportunities News Mentions, articles, media kit Star Book a demo Star ← ✕ Menu Product Solutions Blog Events Company GitHub ← ✕ Product For security leaders Enable secure by design For product security Ship secure software For software engineering Enable security champion ← ✕ Product Bearer Cloud Code security at scale Bearer CLI Our free & open SAST engine Integrations Go with your flow ← ✕ Our company About us Why we do what we do Careers Our job opportunities News Mention, articles, media kit Redefining what code security ‍ can do for you. Find & fix vulnerabilities faster than ever⚡ Deploy in minutes No access to your data Deep developer workflow integration Modern language & framework support Super fast and accurate scans Get early access to Bearer Cloud Thank you for joining the waiting list! We'll contact you soon. Oops! Something went wrong while submitting the form. You can learn more about how we handle your personal data by reviewing our Privacy Policy . Book a demo  Start for free Loved by the Devsecops community Bearer cli Star Free & open SAST Discover our modern take on SAST with Bearer CLI without having to talk to anyone! Fast, accurate and supercharged with sensitive data detection, don’t take our word for granted and try it out today. Tap into the power of the developer community 🚀  Go to GitHub Watch the video Developer-first workflow Actionable context right in your CI/CD Detect and prioritize application security risks right from your workflow through GitHub, GitLab, and BitBucket integrations . Manage security risks at the earliest stage of development, enabling faster remediation and reducing the attack surface of your applications. Security ❤️ Privacy Bring privacy and security by design to your products Identify anti-patterns that can lead to security and privacy concerns. Detect and classify PII, PHI, and other sensitive data types, along with data exfiltration risks directly from code. Book a demo  Start for free Integrates seamlessly with your platforms & workflows Testimonial Trusted by security teams, loved by developers . “ Impressed by Bearer’s unique approach ” I’ve had the opportunity to configure and advise on Bearer’s SAST tools and have been impressed by their clear reporting, which focuses on both security and development. Their recent GitHub App, offering in-PR AI remediation suggestions and false positive management, represents a significant advancement in the field. Bearer’s commitment to balancing security with a great developer experience is truly commenda",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm calling from DeepData AI. I understand you're the CTO at Bearer, and I'd like to introduce our data processing solution that can help you scale your code security operations.",
+      "word_count": 36,
+      "char_count": 202
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're always looking for ways to improve our security posture. But I have to say, we've already invested heavily in our current infrastructure. What makes DeepData AI so special that it's worth considering a change?",
+      "word_count": 37,
+      "char_count": 224
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution uses AI-powered algorithms to process large datasets quickly and efficiently, which can help you identify vulnerabilities faster and more accurately. Plus, it integrates seamlessly with your existing CI/CD pipeline.",
+      "word_count": 32,
+      "char_count": 234
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're in the middle of a major product launch right now. I'm not sure if this is the right time to be implementing new technology. Can you tell me more about the implementation process and how it would affect our current workflow?",
+      "word_count": 46,
+      "char_count": 259
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our implementation process is designed to be as smooth as possible, with minimal disruption to your existing operations. We can have you up and running in a matter of weeks, and our support team is available 24/7 to ensure a seamless transition.",
+      "word_count": 43,
+      "char_count": 257
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. And what kind of pricing are we looking at? We're a growing company, but we still have to be mindful of our budget.",
+      "word_count": 25,
+      "char_count": 122
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our pricing varies depending on the size of your organization and the scope of the implementation. But for a company of your size, we're looking at around $50,000 per year.",
+      "word_count": 30,
+      "char_count": 172
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was expecting. We've also been looking at some of your competitors, like Datadog and Splunk, and their pricing seems more in line with what we're willing to pay.",
+      "word_count": 34,
+      "char_count": 189
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand that price is a concern, but I believe our solution offers more advanced features and better support than our competitors. I'd be happy to discuss a customized pricing plan that fits your needs.",
+      "word_count": 35,
+      "char_count": 207
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but after careful consideration, I think we're going to have to pass on DeepData AI. The price is just too high for us, and we can't justify the cost at this time. Thank you for reaching out, but I think we'll have to explore other options.",
+      "word_count": 50,
+      "char_count": 264
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's price concerns and offer a more customized or flexible pricing plan earlier in the conversation to potentially overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's price concerns and offer a more customized or flexible pricing plan earlier in the conversation to potentially overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 176,
+    "total_buyer_words": 192,
+    "avg_seller_words_per_turn": 35.2,
+    "avg_buyer_words_per_turn": 38.4,
+    "word_ratio_seller_buyer": 0.92,
+    "total_conversation_length": 368
+  }
+}
