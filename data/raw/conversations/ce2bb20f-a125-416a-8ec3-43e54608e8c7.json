@@ -1,0 +1,96 @@
+{
+  "simulation_id": "ce2bb20f-a125-416a-8ec3-43e54608e8c7",
+  "timestamp": "2026-02-27T23:53:37.550015",
+  "target_url": "https://www.sirma.com",
+  "company_context": "Sirma - AI evolution with mastering Data, Information and Knowledge Sirma Global Global (English) All Countries Albania (Albanian) Brazil (English) Bulgaria (English) Canada (English) Denmark (Danish) Germany (German) Romania (Romanian) Sweden (Swedish) UK (English) USA (English) Talk to us Who we are Go beyond agility. Embrace innovation with us. Learn more about us Projects 1000 Years 33 Countries 170 Investor Relations Sirma Expands to Frankfurt Stock Exchange Learn more Revenue growth in Q3 2025 34 % Sales (2025E) €66 M. Ticker SIRM Our Expertise Human touch in the age of smart machines Embrace our services, where technology and humanity unite to create smarter, more compassionate solutions for your business. AI & Data Harnessing data with AI-based technologies to drive innovation and deliver actionable business insights. Learn more Sirma.AI Enterprise Sirma.AI Enterprise lets organizations securely build, deploy & scale AI agents with flexible cloud or on-premise control. Learn more Cloud Migration and Support Seamless cloud services for efficient, secure, and scalable digital transformation. Learn more Tailored Software Development Custom software development specifically tailored for your needs. Learn more Managed IT Services The right IT team that powers your tech ideas. Learn more Business and IT Consulting Strategic Business and IT Consulting for optimal performance and innovative solutions. Learn more Cyber Security Safeguard your systems with effective tools for threat detection, response and reporting. Learn more System Integration We make all your IT systems talk to each other in a meaningful way. Learn more Industries Make a difference in your industry FinTech Learn more InsurTech Learn more Healthcare Learn more Travel & Hospitality Learn more Transportation & Logistics Learn more Cross Industry Learn more Packaging & Measurement Learn more Retail Learn more Public Sector Learn more Our Clients Trusted by global companies See our clients Our Partnerships Partnering with technology leaders Sirma is an Apple Authorized Reseller for Corporate Organizations See our partners Latest at Sirma Cross Industry News / 27 Feb 2026 Sirma Achieves IBM Gold Partner Status, Enhancing Enterprise AI, Cloud, and Automation for Clients Company News / 24 Feb 2026 Sirma Marks Frankfurt Stock Exchange Debut with Opening Bell Ceremony Data & AI Case Studies / 02 Feb 2026 EngView Revolutionizes Customer Support with Sirma.AI Enterprise's Platform Data & AI Insights / 02 Feb 2026 From Experimentation to Infrastructure: The Next Phase of Enterprise AI Travel & Hospitality Case Studies / 28 Jan 2026 Juyo Analytics: Connecting Hotel Systems to Power Clarity, Confidence, and Action Careers at Sirma Join the best team of IT experts. See our open positions Home Let's talk Name* Email* Company* Message* I agree that Sirma can process my data to contact me. Refer to our Privacy policy. Your message was sent successfully. An error occurred, please try again. Submit",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from Sirma. We're a company that specializes in AI evolution and data processing solutions. I came across your company and was impressed with the work you're doing in the industry. I'd like to introduce you to our product, DeepData AI, which can help you unlock the full potential of your data.",
+      "word_count": 60,
+      "char_count": 336
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Oh, another AI solution, huh? We've already got a few vendors trying to sell us similar products. What makes yours so special?",
+      "word_count": 23,
+      "char_count": 138
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism, but DeepData AI is unique in that it can process large amounts of data in real-time, providing actionable insights that can help drive business decisions. We've had great success with similar companies in your industry, and I'd love to show you some case studies.",
+      "word_count": 49,
+      "char_count": 304
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(concerned) I'm not sure we're ready to invest in another new technology right now. Our budget for this quarter is already allocated, and I'm not sure we can fit it in.",
+      "word_count": 31,
+      "char_count": 168
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand budget constraints can be a challenge. However, I'd like to propose a pilot project that can help you see the value of DeepData AI without a large upfront investment. We can work together to identify a specific use case and provide a customized proof of concept that can help you demonstrate the ROI to your stakeholders.",
+      "word_count": 58,
+      "char_count": 334
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) I'm not sure...we're also looking at a similar solution from one of your competitors, and I'm not sure how yours compares.",
+      "word_count": 23,
+      "char_count": 139
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I'd be happy to provide a comparison and show you how DeepData AI differs from our competitors. In fact, one of our key differentiators is our ability to integrate with existing systems, making it a seamless addition to your current infrastructure. I'd love to schedule a demo to show you exactly how it works and answer any questions you may have.",
+      "word_count": 61,
+      "char_count": 348
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(somewhat convinced) Alright, I suppose it couldn't hurt to take a look. But I've only got 30 minutes to spare next week. Can you make it quick and to the point?",
+      "word_count": 31,
+      "char_count": 161
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely, I can make sure the demo is concise and focused on the key benefits of DeepData AI. I'll send over a calendar invite for next week, and we can make sure to cover everything you need to know in that 30-minute time frame.",
+      "word_count": 44,
+      "char_count": 231
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo.",
+      "word_count": 5,
+      "char_count": 34
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Competitors\nFeedback: The seller could have further emphasized the unique value proposition of DeepData AI to more effectively differentiate it from competing solutions. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Competitors",
+      "feedback": "The seller could have further emphasized the unique value proposition of DeepData AI to more effectively differentiate it from competing solutions. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 272,
+    "total_buyer_words": 113,
+    "avg_seller_words_per_turn": 54.4,
+    "avg_buyer_words_per_turn": 22.6,
+    "word_ratio_seller_buyer": 2.41,
+    "total_conversation_length": 385
+  }
+}

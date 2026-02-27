@@ -1,0 +1,82 @@
+{
+  "simulation_id": "781983aa-18a5-4d60-befd-14e9e88e407a",
+  "timestamp": "2026-02-28T00:00:04.431515",
+  "target_url": "https://www.talentsoft.com",
+  "company_context": "Logiciel RH - Gérez l'ensemble de vos processus RH HR Se connecter Nous contacter Logiciel RH Des RH plus stratégiques, plus humaines, plus performantes Avec Cegid HR, simplifiez vos processus, réduisez vos coûts, engagez vos talents et accompagnez durablement la croissance de votre entreprise grâce à une suite RH complète et à la carte. Demander une démo 11 millions d’utilisateurs font déjà confiance à Cegid HR 30 % de temps gagné sur l’administration RH -10 jrs sur le temps moyen d’un recrutement +40 % sur le taux d’engagement collaborateur ÷10 des coûts de création de contenus formation Une plateforme RH complète, modulaire et personnalisable. Simple à déployer et à faire évoluer. Avec Cegid HR, choisissez uniquement les modules dont vous avez besoin, adaptez-les à votre organisation et accompagnez sereinement votre croissance, à votre rythme. Simplifiez votre gestion RH avec un logiciel Core HR . Centralisez vos données RH Finis les fichiers Excel dispersés et les doubles saisies : la donnée est fiable Intégration simple à votre écosystème RH pour fiabiliser vos données, sans refonte complexe. Des reportings clairs pour piloter votre organisation et répondre vite aux demandes de la direction Une fonction RH qui gagne en agilité et en crédibilité stratégique Découvrir le Core RH Attirez les bons profils et recrutez plus vite Créez des sites carrières personnalisés pour engager vos candidats Publiez vos annonces en quelques clics sur tous vos canaux L’IA analyse les CV et vous aide à identifier les bons candidats plus rapidement Gérez vos viviers de talents et retrouvez immédiatement les bons profils Offrez aux candidats une expérience fluide et moderne qui valorise votre marque employeur Voir les fonctionnalités Faites grandir vos collaborateurs et gardez vos meilleurs talents Anticipez vos besoins avec un référentiel de compétences dynamique enrichi par l’IA Suivez les évaluations et feedbacks pour piloter la performance et le développement Repérez facilement vos hauts potentiels et planifiez les évolutions de carrière Offrez une vision claire des talents pour engager et fidéliser vos collaborateurs Voir les fonctionnalités Développez les compétences qui feront la différence La seule suite formation complète et totalement intégrée au reste de la plateforme Cegid HR Des parcours personnalisés qui collent à la réalité des métiers avec notre module de Learning Management system. Des outils de création de contenu puissants et accès à un large écosystème de partenaires et de contenus sur étagères Des indicateurs clairs pour prouver l’impact de la formation auprès de la direction Voir les fonctionnalités Avec la suite Cegid HR Notre logiciel de gestion des talents simplifie l’ensemble de vos processus : Vous reprenez le contrôle de vos données RH et simplifiez le quotidien de vos équipes. Vous réduisez vos délais de recrutement et sécurisez l’acquisition de talents. Vos collaborateurs se sentent valorisés et voient leur avenir dans votre entreprise",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their HR processes and make data-driven decisions. I came across Cegid HR and was impressed with the work you're doing. Can you tell me a bit about your current data management setup?",
+      "word_count": 55,
+      "char_count": 318
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a combination of Excel spreadsheets and some custom-built tools to manage our HR data. It's been working for us so far, but I can see how a more comprehensive solution could be beneficial. What makes DeepData AI unique?",
+      "word_count": 43,
+      "char_count": 250
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Our AI-powered engine can process large amounts of data in real-time, providing insights that would be impossible to gather manually. We've seen companies reduce their data processing time by up to 70% and improve their decision-making capabilities significantly. I'd love to schedule a demo to show you how it works.",
+      "word_count": 50,
+      "char_count": 317
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure if we're in the market for a new tool right now. We've just implemented a new HR system and I'm not sure if our budget can accommodate another large purchase. Plus, I'd need to run it by our finance team to see if it's something we can even consider.",
+      "word_count": 52,
+      "char_count": 263
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand budget concerns, but I'd argue that DeepData AI can actually help you save money in the long run by reducing manual data processing time and improving decision-making. As for integration, our solution is designed to be modular and can integrate with your existing HR system. We've worked with similar companies in the past and have seen great success.",
+      "word_count": 61,
+      "char_count": 375
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but I'm still not convinced. We're also exploring other options, including some of the bigger players in the market like SAP and Oracle. I'm not sure if DeepData AI can compete with their offerings, and I'd need to see some concrete case studies and references before I'd even consider moving forward.",
+      "word_count": 55,
+      "char_count": 325
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you have options to consider, but I'd like to emphasize that DeepData AI is a more agile and customizable solution compared to the larger players. We've worked with companies similar to yours and have seen great success. I'd be happy to provide some case studies and references.",
+      "word_count": 50,
+      "char_count": 296
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. As the CTO, I don't have the budget authority to approve new tools, and even if I did, I'm not convinced that it would be the best use of our resources. We're going to focus on optimizing our current systems and exploring other options that better fit our budget and strategic priorities. Thank you for reaching out, but I think we'll have to decline.",
+      "word_count": 82,
+      "char_count": 439
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have asked about the buyer's budget authority and involved the relevant decision-makers earlier in the conversation to increase the chances of a successful outcome. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have asked about the buyer's budget authority and involved the relevant decision-makers earlier in the conversation to increase the chances of a successful outcome. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 232,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 58.0,
+    "word_ratio_seller_buyer": 0.93,
+    "total_conversation_length": 448
+  }
+}

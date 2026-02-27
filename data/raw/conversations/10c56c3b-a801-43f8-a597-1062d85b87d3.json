@@ -1,0 +1,82 @@
+{
+  "simulation_id": "10c56c3b-a801-43f8-a597-1062d85b87d3",
+  "timestamp": "2026-02-27T23:57:42.517360",
+  "target_url": "https://www.signrequest.com",
+  "company_context": "SignRequest This team will be deleted at {{ team_delete_after | date:'medium' }} Go back to https://www.signrequest.com/ Click here to undo deleting this team Your account will be permanently deleted after {{ user.auto_termination_after | date:'medium' }} Click here to log out Click here to enable your account again admin",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain deeper insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 252
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party services. It's been working okay, but we're always looking for ways to improve. What makes DeepData AI different from what's already out there?",
+      "word_count": 36,
+      "char_count": 228
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine allows for much faster and more accurate data processing, which can lead to significant cost savings and revenue increases. We've seen some of our clients achieve up to 30% reduction in data processing time. I'd love to set up a demo to show you how it works.",
+      "word_count": 51,
+      "char_count": 287
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're in the middle of budget planning right now and I'm not sure if we have the resources to invest in a new solution. Plus, I'd need to get buy-in from our IT team, which can be a long process. How does your pricing work?",
+      "word_count": 49,
+      "char_count": 252
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the volume of data being processed, and we offer customized plans to fit each company's specific needs. For a company of your size, we'd be looking at around $50,000 per year, with discounts available for multi-year commitments.",
+      "word_count": 42,
+      "char_count": 252
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was expecting. We've also been looking at some other solutions, like AWS Lake Formation, which seem to offer similar functionality at a lower cost. I'm not sure if the benefits of DeepData AI outweigh the added expense.",
+      "word_count": 43,
+      "char_count": 247
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but our solution is designed to be more user-friendly and requires less technical expertise to implement and maintain. We've had clients who have switched from AWS Lake Formation to DeepData AI and seen significant improvements in their data workflows. Would you be open to a trial or pilot project to see the benefits firsthand?",
+      "word_count": 58,
+      "char_count": 357
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. The price is just too high, and we need to prioritize our spending on more critical initiatives. Thank you for reaching out, but I don't think we'll be moving forward with your solution.",
+      "word_count": 51,
+      "char_count": 274
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the price concern by providing a more detailed breakdown of the costs and benefits or offering a more flexible pricing plan to alleviate the buyer's concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the price concern by providing a more detailed breakdown of the costs and benefits or offering a more flexible pricing plan to alleviate the buyer's concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 194,
+    "total_buyer_words": 179,
+    "avg_seller_words_per_turn": 48.5,
+    "avg_buyer_words_per_turn": 44.75,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 373
+  }
+}

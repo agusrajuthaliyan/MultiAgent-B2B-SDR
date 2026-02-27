@@ -1,0 +1,82 @@
+{
+  "simulation_id": "52e669f2-2bf5-4cfb-9d3b-032be6e8f19f",
+  "timestamp": "2026-02-27T23:57:35.023656",
+  "target_url": "https://www.yousign.com",
+  "company_context": "Yousign (Youtrust) • eSignature & identity verification New Verify your customers’ identity and documents Verify your customers’ identity and documents Menu Contact us Contact us Sign. Verify. Seal. For seamless trust. Get electronic signatures, verification and e-seals with Yousign, the European digital trust platform that complies with legal requirements. Contact us More than 30,000 beloved customers in Europe on G2 Tools Complementary solutions to guarantee the integrity of all your documents Electronic signature Save time by signing your documents online in a compliant way. Discover eSignature Verification Automatically check your clients’ identities and documents to fight fraud. Discover Yousign Verify Electronic seal Seal and electronically authenticate your documents, without complexity. Discover the electronic seal Workflows Discover our all-in-one Workflows Yousign automates your processes with workflows designed to meet the specific needs of your sector. You combine signature, identity, document and business verification easily, in compliance with your legal and industry obligations (KYC, KYB, AML/CFT…). Discover our workflows Pricing Plans that adapt to your needs App An app to sign all your documents Send and sign your documents from an easy-to-use interface, ready to deploy immediately. From €9 excl. VAT / month per user Discover our prices for the APP API An API to manage document integrity directly from your business tools An API to manage document integrity directly from your business tools. From €106 excl. tax / month Discover our prices for the API Why Yousign The European reference for digital trust services Benefit from a certified European solution to protect your most sensitive data. Intuitive and fast tools Sign, verify, seal easily, in just a few clicks. A dedicated team of experts Benefit from dedicated support to optimize your processes and answer all your questions by phone or email. A European solution Choose a provider headquartered in France that complies with data protection and European regulation (eIDAS). Testimonials They trust us 283k users in 2024 83 covered countries 75% of documents signed within an hour on G2 Certification authority Trusted Third party eIDAS-compliant Start your free 14-day trial Over 30,000 European companies already trust Yousign to sign and verify their documents. Join them today. Contact us",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and improve efficiency. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 41,
+      "char_count": 248
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're actually quite busy with our own eSignature and identity verification platform, Yousign. I'm not sure we have the bandwidth to explore new solutions right now. What makes you think we need DeepData AI?",
+      "word_count": 36,
+      "char_count": 216
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you're busy, but our solution can actually help you automate and optimize your data processing, which could free up more time for your team to focus on high-priority tasks. We've worked with similar companies in the past and seen significant improvements in productivity. Would you be open to discussing how our solution could address some of the pain points you might be experiencing with your current data workflows?",
+      "word_count": 71,
+      "char_count": 436
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we've already invested heavily in our own workflows and integrations. I'm not sure how DeepData AI would fit into our existing infrastructure, and I'm concerned about the potential disruption to our business. Plus, I've heard that your solution is quite pricey. Can you tell me more about your pricing model and how it would work for a company of our size?",
+      "word_count": 66,
+      "char_count": 384
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans to fit the needs of each company. I'd be happy to provide you with a more detailed quote and discuss how our solution could be integrated with your existing workflows. However, I want to assure you that our solution is designed to be flexible and adaptable, and we've worked with many companies to ensure a seamless integration process.",
+      "word_count": 67,
+      "char_count": 394
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm still not convinced that this is a priority for us right now. We have more pressing concerns, such as ensuring compliance with European regulations and expanding our customer base. I'm not sure that DeepData AI addresses any of our immediate needs, and I'm concerned that it would be a distraction from our core business goals. Can you tell me more about how your solution would help us with compliance and customer acquisition?",
+      "word_count": 73,
+      "char_count": 432
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but our solution can actually help you improve compliance by providing more accurate and efficient data processing, which can help reduce the risk of errors and non-compliance. Additionally, our solution can help you gain better insights into your customer data, which can inform your customer acquisition strategies. However, I sense that you're still not convinced, and I want to respect your time and priorities.",
+      "word_count": 68,
+      "char_count": 443
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your understanding, Alex. To be honest, we're just not in a position to explore new solutions like DeepData AI right now. We have too much on our plate, and this isn't a priority for us. I appreciate the call, but I think we'll have to pass on this opportunity for now.",
+      "word_count": 53,
+      "char_count": 282
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's initial concern about bandwidth and explored potential quick wins or low-commitment next steps to keep the conversation alive. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's initial concern about bandwidth and explored potential quick wins or low-commitment next steps to keep the conversation alive. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 247,
+    "total_buyer_words": 228,
+    "avg_seller_words_per_turn": 61.75,
+    "avg_buyer_words_per_turn": 57.0,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 475
+  }
+}

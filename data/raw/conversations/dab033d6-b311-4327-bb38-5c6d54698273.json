@@ -1,0 +1,82 @@
+{
+  "simulation_id": "dab033d6-b311-4327-bb38-5c6d54698273",
+  "timestamp": "2026-02-27T23:58:02.169789",
+  "target_url": "https://www.assently.com",
+  "company_context": "Assently Book a Demo Assently Introduction Video Link Video Link Video Link Assently Premium tools for electronic signatures and authentication Provide your customers and employees with the most modern tools to improve customer experience and security Book a Demo Try E-Sign Assently is trusted by Assently part of Verified Since 2023 we have been part of Verified. This means that our offering is strengthened and that we are now part of a Regtech company that empowers businesses to navigate the growing pressure of EU regulations in an easy, streamlined, and cost-effective way. visit verified.eu I want to introduce electronic signatures Assently E-Sign saves you time, effort and paper. Switch to e-signatures with strong identifiers. I want to identify customers during a call With Assently LiveID, you can identify yourself during a call with Nordic strong electronic identifiers. I want to verify the identity of our customers Assently CoreID is a clever electronic ID based authentication and login solution. I want to use an electronic signature in my shop Create a seamless customer experience and get rid of the extra paperwork with Assently Point of Sale. Electronic signatures \"We save 25% of the time we need for internal sales and contract processes\" Read the case Solutions Electronic Signature Identification by phone Identification with eID Identification at the point of sale Forms to sign Support and Implementation support@assently.com Integrations Product News Developer Statuspage Login Address Assently AB, Part of Verified verified.eu Gårdsvägen 10B 169 70 Solna Sverige Contact info@assently.com 020-51 00 00 +46 8 474 86 80 +358 20 1441 170 Terms of use Privacy policy 2023 Copyright Assently",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflow and improve decision-making. Can you tell me a little bit about your current data management process?",
+      "word_count": 42,
+      "char_count": 256
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hi Alex. We're actually pretty happy with our current setup. We've been using a combination of in-house tools and Assently for electronic signatures and authentication. What makes you think we need something like DeepData AI?",
+      "word_count": 36,
+      "char_count": 229
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, I came across your company while researching potential clients, and I noticed that you're dealing with a large volume of customer data. Our solution can help you automate and optimize your data processing, reducing manual errors and increasing efficiency. Plus, our AI-powered analytics can provide valuable insights to inform your business decisions.",
+      "word_count": 53,
+      "char_count": 357
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we've recently invested in our current infrastructure, and I'm not sure we're ready to switch to a new solution. Not to mention, integrating a new system would require significant resources and downtime. How do you plan to address those concerns?",
+      "word_count": 46,
+      "char_count": 282
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration and timing. We've worked with several companies in similar situations, and our team can provide support to ensure a smooth transition. We also offer a flexible pricing model to help you scale as needed. However, I'd like to emphasize that our solution can help you save time and resources in the long run.",
+      "word_count": 60,
+      "char_count": 361
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your efforts, Alex, but I'm still not convinced. We've had a good experience with Assently, and their electronic signature and authentication tools have been working well for us. Plus, they're part of Verified, which gives us confidence in their ability to navigate EU regulations. How does DeepData AI compare to Assently in terms of security and compliance?",
+      "word_count": 59,
+      "char_count": 372
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We take security and compliance very seriously, and our solution is designed to meet the highest standards. However, I can see that you have a strong existing relationship with Assently, and it's not easy to switch. Can I ask, are you open to exploring a trial or pilot project to see how DeepData AI can benefit your organization?",
+      "word_count": 58,
+      "char_count": 331
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. We're happy with our current setup, and I don't see a compelling reason to change. Our priorities are elsewhere, and I don't want to divert resources to a new solution that may not provide a significant enough return on investment. Thank you for reaching out, but I think we'll stick with what we have.",
+      "word_count": 73,
+      "char_count": 403
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more effectively addressed the buyer's concerns about integration and switching costs earlier in the conversation to build a stronger case for DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns about integration and switching costs earlier in the conversation to build a stronger case for DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 213,
+    "total_buyer_words": 214,
+    "avg_seller_words_per_turn": 53.25,
+    "avg_buyer_words_per_turn": 53.5,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 427
+  }
+}

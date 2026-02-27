@@ -1,0 +1,82 @@
+{
+  "simulation_id": "548b7a3e-ec43-4d77-b02b-cfbdad6fe881",
+  "timestamp": "2026-02-27T23:53:57.599685",
+  "target_url": "https://www.vonage.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 254
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're using a combination of internal tools and some third-party services. It's working for now, but I'm sure there are some inefficiencies. What makes DeepData AI so special?",
+      "word_count": 30,
+      "char_count": 189
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered platform can help you automate a lot of the manual data processing tasks, freeing up your team to focus on higher-value work. We've seen companies similar to yours reduce their data processing time by up to 70%. Would you like to hear some case studies?",
+      "word_count": 48,
+      "char_count": 274
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(interrupting) I'm sure that sounds great, but to be honest, we're in the middle of a major product launch right now and our resources are stretched thin. I'm not sure we have the bandwidth to take on a new project like this. And what's the pricing like for DeepData AI? I'm guessing it's not cheap.",
+      "word_count": 55,
+      "char_count": 299
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive with other solutions on the market, and we offer customized plans to fit each company's specific needs. I'd be happy to provide you with a quote and walk you through the different options. As for the implementation, we have a dedicated onboarding team that can help minimize the disruption to your current workflow.",
+      "word_count": 57,
+      "char_count": 342
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(skeptical) I've heard that before. We've had issues with integration in the past, and I'm not convinced that DeepData AI would be any different. Plus, we're already invested in our current tools and I'm not sure it's worth the cost to switch. And who else is using your solution? Anyone in our industry?",
+      "word_count": 53,
+      "char_count": 304
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We have a number of customers in the tech space, and I can provide you with some references if you'd like. As for the integration, I understand your concerns, but our team has a lot of experience with complex implementations and we can work closely with your team to ensure a smooth transition.",
+      "word_count": 53,
+      "char_count": 294
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate the pitch, but like I said, we're just too busy right now to take on a new project. And to be honest, it's not a priority for us at this time. I think we'll have to pass on DeepData AI for now. We'll stick with what we have and revisit our data processing needs later. Thanks for reaching out, but I think that's all for today.",
+      "word_count": 69,
+      "char_count": 346
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concern and explored potential quick-win solutions or a future follow-up to re-engage when the buyer's priorities may have shifted. Sentiment: Negative",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concern and explored potential quick-win solutions or a future follow-up to re-engage when the buyer's priorities may have shifted. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 201,
+    "total_buyer_words": 207,
+    "avg_seller_words_per_turn": 50.25,
+    "avg_buyer_words_per_turn": 51.75,
+    "word_ratio_seller_buyer": 0.97,
+    "total_conversation_length": 408
+  }
+}

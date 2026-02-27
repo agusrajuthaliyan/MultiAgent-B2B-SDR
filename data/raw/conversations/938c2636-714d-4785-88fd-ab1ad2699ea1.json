@@ -1,0 +1,82 @@
+{
+  "simulation_id": "938c2636-714d-4785-88fd-ab1ad2699ea1",
+  "timestamp": "2026-02-27T23:53:20.765541",
+  "target_url": "https://www.tines.io",
+  "company_context": "Tines | Intelligent workflow platform Conference Meet Tines at RSA 2026 The intelligent work fl ow platform Securely scale AI and automation. Integrate agents, teams, and tools with speed and control. Book a demo Sign up free ASOS BEYON Cyber Canva Coinbase Cyera Databricks Dropbox Elastic Experian Fenergo Freetrade Hims Kayak Lucid Motors Mars McKesson MongoDB MyFitnessPal Navan Notion PathAI Pinterest Plaid Ripple Reddit SAP SendBird Snowflake Sophos Sprinklr Yates Construction Zendesk The foundation for modern work, transforming failed pilots into successful deployments. Meet the platform New in Tines Build agents Learn more → New in Tines Build agents Learn more → Powerful case management Cases Security team / Cases Cases High Critical alert CrowdStrike Incidents Case metrics Type Case time SLA time Met SLA? TTD Ongoing 60 min – TTR Ongoing 4 hr – View details below for further detection, behavior, and IP enrichment information. Add a comment Cases Powerful case management → Flexible workflow builder Storyboard Storyboard Storyboard Flexible workflow builder → Universal AI copilot Workbench IT Ops / Reset password Workbench Hi, can you reset Jennifer Browne’s Okta password? Certainly! Firstly we need to confirm Jennifer Browne’s email address. Let me search for that in our systems. Lookup employee details Security I see that her email is jbrowne@email.com . Let’s reset her password now. Reset Okta password Security Type your message Workbench Universal AI copilot → Interactive story The history and future of workflows Read now → What is an intelligent workflow? Read blog → Unlocking AI’s full value: How IT orchestrates secure, scalable innovation Read the Forrester study → Unmatched time to value Teams love Tines for our speed, power, and ease of use. G2 logo 200+ reviews 4.8 stars 4.8 4.8 stars 4.8 An opportunity to bring automation into areas of the organization that just don’t have developers. Case study → No matter how many tools you change, you can keep Tines in place. Case study → My favorite thing about Tines is how easy and user-friendly it is. For me, it feels like a game. Whenever I build in Tines, I feel like I'm solving a fun puzzle. GitLab Case study → 750 days of work time saved Case study → Tines reminded us of Notion in that it’s highly flexible and customizable. It met our needs as opposed to forcing us to work inside the confines of the tool. And it met our needs for more than just a SOAR. Notion Case study → Ease of use and time to effectiveness for new users is insanely low. G2 verified user Industry: defense and space Mid‑market (51–1000 emp.) G2 5-star review G2 review ↗ 10 hours of work time saved every day Snowflake Case study → Beyond the product and product teams’ agility and speed, the level of support from Tines is the benchmark we hold all of our vendors to. Snowflake Case study → After a year, I have not come across something I could not accomplish in Tines. Tom P. Cyber Security Analyst II Enterprise (> 1000 emp",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. I came across Tines and was impressed with the work you're doing in intelligent workflow automation. I'd love to explore how our solution can complement your existing infrastructure.",
+      "word_count": 58,
+      "char_count": 366
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here at Tines. We're always looking for ways to improve our data processing, but I have to say, we've already invested heavily in our current setup. What makes DeepData AI unique, and how do you think it can add value to our existing workflow?",
+      "word_count": 54,
+      "char_count": 296
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question, John. DeepData AI uses machine learning algorithms to optimize data processing, which can lead to significant cost savings and improved efficiency. Our solution is also highly scalable, so it can grow with your business. I'd be happy to set up a demo to show you how it works.",
+      "word_count": 52,
+      "char_count": 301
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure we're in the market for a new data processing solution right now. We've just implemented a new workflow automation platform, and we're still in the process of integrating it with our existing tools. I'm concerned about the potential disruption to our operations and the cost of implementing another new system.",
+      "word_count": 58,
+      "char_count": 351
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand, John. Integration can be a challenge, but our solution is designed to be flexible and adaptable. We've worked with companies in similar situations, and we've developed a robust integration framework that can minimize disruption to your operations. As for the cost, I'd be happy to discuss pricing with you and explore options that fit your budget.",
+      "word_count": 59,
+      "char_count": 372
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I'd need to check with our finance team to see if we have the budget for this. But even if we did, I'm not sure we'd be ready to move forward with a new solution right now. We're still evaluating the ROI on our current investments, and I don't want to add another variable to the mix. Not to mention, we're already working with some of your competitors, and I'd need to consider how your solution compares to what we're already using.",
+      "word_count": 85,
+      "char_count": 447
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. We've had success with companies in similar situations, and I believe our solution can offer significant benefits. I'd be happy to provide a customized proposal and discuss how our solution can address your specific pain points.",
+      "word_count": 41,
+      "char_count": 262
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. We've got a lot on our plate, and I don't see us moving forward with a new data processing solution in the near future. Thanks for reaching out, and I wish you the best of luck with your sales efforts.",
+      "word_count": 59,
+      "char_count": 302
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and integration to potentially overcome the objection and keep the conversation moving forward. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and integration to potentially overcome the objection and keep the conversation moving forward. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 210,
+    "total_buyer_words": 256,
+    "avg_seller_words_per_turn": 52.5,
+    "avg_buyer_words_per_turn": 64.0,
+    "word_ratio_seller_buyer": 0.82,
+    "total_conversation_length": 466
+  }
+}

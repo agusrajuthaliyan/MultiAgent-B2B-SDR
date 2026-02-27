@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9cf9defd-19b1-4ddc-955e-f76878d94cbd",
+  "timestamp": "2026-02-27T23:56:06.265809",
+  "target_url": "https://www.humanitec.com",
+  "company_context": "Humanitec - Serving Platform Engineers Pricing Learn Docs Login Try the sandbox Let AI build. On your terms. Your AI tools build fast. Humanitec makes sure they build right by enforcing security, cost, and compliance policies on every deployment. Try the sandbox Arrow Right Book a demo THE PROBLEM AI agents need infrastructure. Who is in control of what they get? AI agents don't just write code. They need infrastructure to run it. How your organization handles that request today falls into one of three traps. BLOCKED Agents can’t provision The agent finished the code before you finished your coffee. The infrastructure it needs is still waiting on a human. The AI advantage disappears one ticket at a time. ‍ The agent needs a database. The request waits three days in a queue. UNGOVERNED Agents provision, unsupervised Agents provision whatever works: admin-level roles, unencrypted storage, oversized instances. No audit trail. Your security risk and cloud bill grow with every deployment. ‍ The agent provisions instantly, but a database 10x the size it needs. BOTTLENECKED Allowed, but nothing ships without approval Agents can request, but a human must approve every single one. Five agents today, fifty next quarter. The platform team's review queue grows linearly with adoption. You didn't remove the bottleneck — you moved it. You adopted AI to move faster. Your platform team has never been slower. THE SOLUTION Humanitec lets AI agents provision infrastructure — within the rules your platform team defines. No tickets. No manual reviews. No surprises. Same rules, every request — human or AI. Learn more Arrow Right Book a demo Control without slowing agents down Progressive Rollouts Agent rolls out infra changes in waves, not all at once. Fails at 10%? Blast radius is 10% Impact Analysis Agent misconfigured something. See exactly what's affected and how big the mess is, in seconds Rollback Agent broke something. One command. Everything back to the last known-good state Drift Detection Agent changed something it shouldn't have. You'll know immediately Ephemeral Environments Agent spins up a full environment to validate, tears it down when done Learn more Arrow Right WHERE IT FITS The missing layer between who requests and what gets provisioned. You already have CI/CD, infrastructure as code, cloud accounts, and maybe a developer portal. Humanitec doesn’t replace any of it. It’s the orchestration and governance layer that connects them — ensuring every request, from any interface, is provisioned according to the same rules. One orchestration layer. Same rules, across every interface. Learn more Arrow Right Book a demo SEE IT YOURSELF Get started in 3 simple steps 1 Try the sandbox Experience the Platform Orchestrator in 10 minutes. ‍ No setup, no cloud accounts. ‍ See how modules, rules, and deployments work — hands on. 2 Plug in your existing modules Connect your existing Terraform or OpenTofu modules. ‍ No setup, no cloud accounts. Add rules for who can u",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data infrastructure. I came across Humanitec and was impressed with the work you're doing in the AI space. Can you tell me a bit about your current data processing setup?",
+      "word_count": 54,
+      "char_count": 311
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a solution from DataSphere, and it's been working okay for us so far. What makes DeepData AI think they can do better?",
+      "word_count": 27,
+      "char_count": 149
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large volumes of data with greater speed and accuracy. We've seen significant improvements in processing time and cost savings for our clients. I'd love to schedule a demo to show you how it works. Would you be open to that?",
+      "word_count": 47,
+      "char_count": 265
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We just signed a three-year contract with DataSphere, and I'm not sure we're in a position to switch vendors right now. Plus, I'm concerned about the integration costs and downtime associated with switching to a new solution.",
+      "word_count": 40,
+      "char_count": 239
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about the contract, but I'd like to discuss how our solution can coexist with your current setup and potentially even enhance it. As for integration, we have a dedicated team that can help make the transition as smooth as possible. We've worked with companies in similar situations before, and we're confident we can make it work.",
+      "word_count": 60,
+      "char_count": 357
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your confidence, but I'm still not convinced. We've invested a lot in DataSphere, and I'm not sure it's worth the risk to switch now. Plus, our platform team is already overwhelmed with implementing Humanitec's solution to manage our AI infrastructure. I don't think they have the bandwidth to take on another project right now.",
+      "word_count": 56,
+      "char_count": 341
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your priorities, and I respect your decision to focus on your current projects. However, I'd like to offer a free trial or pilot to demonstrate the value of DeepData AI and show how it can complement your existing setup. This way, you can see the benefits firsthand without making a full commitment.",
+      "word_count": 54,
+      "char_count": 312
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass. We're locked into this contract with DataSphere, and I don't see us making any changes to our data processing setup for the next few years. I appreciate your time, but I think it's best we focus on our current partnerships and solutions.",
+      "word_count": 55,
+      "char_count": 302
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's concerns about integration costs and downtime earlier in the conversation to potentially overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about integration costs and downtime earlier in the conversation to potentially overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 215,
+    "total_buyer_words": 178,
+    "avg_seller_words_per_turn": 53.75,
+    "avg_buyer_words_per_turn": 44.5,
+    "word_ratio_seller_buyer": 1.21,
+    "total_conversation_length": 393
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "fc4ee6e5-a84b-443e-8a59-741fb72a711a",
+  "timestamp": "2026-02-28T00:00:11.234695",
+  "target_url": "https://www.sirionlabs.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.sirion.ai/\" on this server. Reference #18.2ca6a567.1772217007.20fc7b1a https://errors.edgesuite.net/18.2ca6a567.1772217007.20fc7b1a",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data management and gain valuable insights. I came across your company, Sirion, and noticed that you're currently experiencing some access issues with your website. I'd love to explore how our solution can help you overcome such challenges.",
+      "word_count": 61,
+      "char_count": 381
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Ah, yeah, we're having some issues with our website. But I'm not sure how a data processing solution can help with that. We're already using a few tools to manage our data, and I'm not convinced we need another one. What makes DeepData AI so special?",
+      "word_count": 47,
+      "char_count": 258
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle large volumes of data, providing real-time analytics and predictions. It's also highly scalable and secure, which can help prevent issues like the ones you're experiencing with your website. Plus, our solution can integrate with your existing tools, so you won't have to start from scratch.",
+      "word_count": 51,
+      "char_count": 329
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but I'm concerned about the cost. We've already invested a significant amount in our current data management systems, and I'm not sure our budget can accommodate another solution. Can you tell me more about your pricing model?",
+      "word_count": 42,
+      "char_count": 258
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is based on the amount of data processed, and we offer tiered plans to accommodate different business sizes. We also offer a free trial, so you can test our solution and see the value it can bring to your organization before committing to a purchase.",
+      "word_count": 48,
+      "char_count": 274
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(pauses) I appreciate the offer, but I'm still not convinced. We're currently in the middle of our budgeting cycle, and I don't think we can make any decisions about new solutions until next quarter. Plus, I'd need to check with our team and see if this is something we'd even be interested in pursuing. We're also exploring other options, like working with our existing vendors to resolve the access issues.",
+      "word_count": 70,
+      "char_count": 408
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'm happy to provide more information or answer any questions you may have. However, I'd like to emphasize that our solution can provide significant benefits in the short term, and the sooner you implement it, the sooner you'll start seeing results. Would you be open to a follow-up conversation next quarter to discuss further?",
+      "word_count": 59,
+      "char_count": 360
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your enthusiasm, but I think we're going to have to pass on DeepData AI for now. We've got a lot on our plate, and I just don't see this as a priority for our team. I appreciate the call, but I think we're going to have to decline your offer.",
+      "word_count": 53,
+      "char_count": 261
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or interim solutions to keep the conversation alive. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or interim solutions to keep the conversation alive. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 219,
+    "total_buyer_words": 212,
+    "avg_seller_words_per_turn": 54.75,
+    "avg_buyer_words_per_turn": 53.0,
+    "word_ratio_seller_buyer": 1.03,
+    "total_conversation_length": 431
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "74e0f0cd-2fdc-4e44-8d92-71b3840c8d4f",
+  "timestamp": "2026-02-27T23:56:52.484395",
+  "target_url": "https://www.docusign.net",
+  "company_context": "Docusign Account Login | Sign in to Docusign",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 255
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a competitor's solution, and to be honest, we're pretty locked into a contract with them. What makes DeepData AI so special that I should consider switching?",
+      "word_count": 31,
+      "char_count": 189
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can process large amounts of data much faster and more accurately than traditional solutions. We've seen companies reduce their data processing time by up to 70% and increase their accuracy by up to 90%. I'd love to schedule a demo to show you exactly how it works.",
+      "word_count": 51,
+      "char_count": 293
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's worth the investment, to be honest. We've already sunk a lot of money into our current solution, and I'm not sure our CFO would be on board with switching to a new vendor. Plus, I'm not sure how well your solution would integrate with our existing systems.",
+      "word_count": 51,
+      "char_count": 276
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. Integration is a top priority for us, and we've had success integrating with a wide range of systems. As for the cost, I'd be happy to work with you to create a customized pricing plan that fits your budget. We've also had companies see a significant ROI from switching to our solution, which could help offset the cost.",
+      "word_count": 63,
+      "char_count": 359
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're locked into a contract with our current vendor. Even if I was interested in switching, which I'm not sure I am, I don't think we could get out of our contract without incurring some significant penalties. And to be honest, our current vendor is also offering us some new features that are similar to what you're describing, so I'm not sure we'd see a significant enough benefit to make the switch.",
+      "word_count": 80,
+      "char_count": 444
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand. Can I at least send you some more information about DeepData AI and follow up with you in a few months to see if anything has changed?",
+      "word_count": 30,
+      "char_count": 154
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that's necessary. We're committed to our current vendor for the foreseeable future, and I don't see that changing anytime soon. I appreciate the pitch, but I think we're going to have to pass on DeepData AI.",
+      "word_count": 40,
+      "char_count": 225
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more aggressively highlighted the unique benefits and competitive advantages of DeepData AI to overcome the buyer's existing contract and vendor loyalty. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more aggressively highlighted the unique benefits and competitive advantages of DeepData AI to overcome the buyer's existing contract and vendor loyalty. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 187,
+    "total_buyer_words": 202,
+    "avg_seller_words_per_turn": 46.75,
+    "avg_buyer_words_per_turn": 50.5,
+    "word_ratio_seller_buyer": 0.93,
+    "total_conversation_length": 389
+  }
+}

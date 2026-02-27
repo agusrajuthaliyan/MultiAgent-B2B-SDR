@@ -1,0 +1,82 @@
+{
+  "simulation_id": "1810bff1-f9da-46c7-aa96-1c011cef00cc",
+  "timestamp": "2026-02-27T23:57:14.232752",
+  "target_url": "https://www.sertifi.com",
+  "company_context": "Sertifi by Flywire | Hotel Payment Processing | Hotel Contracts | Hotel Credit Card Authorization Forms Skip to main content Sertifi Menu Search the site Expand Search New Flywire research into hospitality workflows provides a blueprint for hotel revenue growth Read the report Bringing together Sertifi's trusted hospitality workflows with Flywire’s global payments expertise and infrastructure, we’re delivering hospitality-first solutions that can help your business close deals faster, operate more efficiently, and get paid anywhere you do business. Power your guest journey with simplified payments, agreements, and authorizations. More than 20,000 unique hospitality locations across 150+ countries trust Sertifi to contract and close business more efficiently and affordably. We're ready to help you accelerate getting from lead to revenue with our hospitality-tailored solutions. The preferred partner to the biggest names in hospitality Digital authorizations provider to all Marriott properties worldwide Brand standard in digital authorizations for Hilton, Hyatt, Accor, Sonesta, and Red Roof Inn Strategic partner to many of the world's largest hospitality management companies, including Aimbridge, Highgate, and Hersha Exclusive provider for electronic signatures and payments for Topgolf, Dave & Busters, and Main Event Onboard properties quickly and consistently Protect your clients and business with PCI Level 1 compliance Enjoy baked-in, flexible processing to optimize your sales flow Reduce chargebacks with best-in-breed tech and expert advice Integrate with other solutions you rely on so you never skip a beat FOR SALES TEAMS Embedded card & ACH payment processing Learn more FOR SALES & HR TEAMS Digital contracts & e-signatures Learn more FOR FRONT DESK & OPS TEAMS Card authorizations & verification Learn more",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps hospitality companies like yours optimize their workflows and improve revenue growth. I came across your company and noticed you're using Sertifi for payment processing. How are you currently handling your data analytics?",
+      "word_count": 51,
+      "char_count": 324
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're using a combination of tools for data analytics, but to be honest, it's been a bit of a challenge to get everything integrated and working smoothly. What makes DeepData AI different from other solutions out there?",
+      "word_count": 39,
+      "char_count": 229
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered platform allows for real-time data processing and provides actionable insights to help you make informed decisions. We've worked with several hospitality companies, and they've seen significant improvements in their revenue growth and operational efficiency. I'd love to schedule a demo to show you how it works.",
+      "word_count": 49,
+      "char_count": 333
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure if now is the right time for us to be looking at new solutions. We're in the middle of implementing some other changes, and I'm not sure if our team has the bandwidth to take on something new. Plus, I'm concerned about the cost – we've already invested a lot in our current systems.",
+      "word_count": 57,
+      "char_count": 295
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. However, our solution is designed to be flexible and scalable, so it can adapt to your current workflows. And in terms of cost, we offer a competitive pricing model that can actually help you reduce your overall expenses in the long run. We've had success with other companies in the hospitality industry, such as Hilton and Hyatt, who have seen significant returns on their investment.",
+      "word_count": 70,
+      "char_count": 425
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the examples, but we're a bit smaller than those companies, and I'm not sure if your solution would be a good fit for us. We also have to consider our existing contracts with Sertifi and other vendors – I'm not sure if we can integrate your solution with what we already have in place.",
+      "word_count": 56,
+      "char_count": 298
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about integration, but our platform is designed to be compatible with a wide range of systems. And while we have worked with larger companies, our solution is also scalable for smaller businesses. I'd be happy to provide a customized demo to show you how it can meet your specific needs.",
+      "word_count": 54,
+      "char_count": 314
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Look, I appreciate the pitch, but I think we're going to have to pass on this for now. I need to check with our team and make sure that any new solutions we bring on align with our overall strategy. And to be honest, I'm just not convinced that DeepData AI is the right fit for us at this time. We'll have to decline your offer.",
+      "word_count": 66,
+      "char_count": 328
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have provided more specific examples or case studies of successful integrations with similar companies to address the buyer's concerns about compatibility with their existing systems. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have provided more specific examples or case studies of successful integrations with similar companies to address the buyer's concerns about compatibility with their existing systems. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 224,
+    "total_buyer_words": 218,
+    "avg_seller_words_per_turn": 56.0,
+    "avg_buyer_words_per_turn": 54.5,
+    "word_ratio_seller_buyer": 1.03,
+    "total_conversation_length": 442
+  }
+}
