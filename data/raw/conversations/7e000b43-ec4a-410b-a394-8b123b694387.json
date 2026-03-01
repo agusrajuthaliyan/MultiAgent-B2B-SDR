@@ -1,0 +1,82 @@
+{
+  "simulation_id": "7e000b43-ec4a-410b-a394-8b123b694387",
+  "timestamp": "2026-03-01T23:40:35.166207",
+  "target_url": "https://www.calyptia.com",
+  "company_context": "The deployment could not be found on Vercel. DEPLOYMENT_NOT_FOUND bom1::fdjvj-1772388632886-e10dc236fd4a",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflows. I came across your company and noticed you're using Vercel for deployment. I saw that one of your recent deployments couldn't be found, and I thought our solution might be able to help with that.",
+      "word_count": 61,
+      "char_count": 351
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We did have some issues with Vercel, but we've got our team looking into it. What makes you think your solution can help us with that specific problem?",
+      "word_count": 30,
+      "char_count": 161
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered data processing can help identify and resolve deployment issues like the one you're experiencing. We've had success with similar companies in the past, and I'd love to discuss how we can help you. Can I ask, are you currently using any data processing solutions internally?",
+      "word_count": 48,
+      "char_count": 294
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Actually, we're already using a solution from one of your competitors, DataHub. We've been pretty happy with their service so far. I'm not sure we're looking to switch vendors at this time.",
+      "word_count": 32,
+      "char_count": 189
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that switching vendors can be a hassle. However, our solution offers more advanced AI capabilities and a more competitive pricing model. We've had companies switch from DataHub to us and see significant cost savings. Would you be open to discussing a potential pilot or proof of concept to see if our solution could be a better fit?",
+      "word_count": 59,
+      "char_count": 345
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, we're not looking to take on any new projects or pilots at this time. Our budget for this quarter is already allocated, and we're trying to focus on our existing initiatives. Plus, integrating a new solution would require significant resources from our team, and I'm not sure it's worth the investment.",
+      "word_count": 59,
+      "char_count": 344
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about timing and resources. Perhaps we could discuss a future implementation, or I could provide some case studies to help you see the potential ROI of our solution?",
+      "word_count": 33,
+      "char_count": 203
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Emily, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. We're happy with our current solution, and we don't see a compelling reason to switch. Thank you for reaching out, but I don't think we'll be moving forward.",
+      "word_count": 47,
+      "char_count": 259
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more effectively addressed the buyer's concerns about integration resources and provided more tailored value propositions to overcome the buyer's satisfaction with their current solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns about integration resources and provided more tailored value propositions to overcome the buyer's satisfaction with their current solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 201,
+    "total_buyer_words": 168,
+    "avg_seller_words_per_turn": 50.25,
+    "avg_buyer_words_per_turn": 42.0,
+    "word_ratio_seller_buyer": 1.2,
+    "total_conversation_length": 369
+  }
+}

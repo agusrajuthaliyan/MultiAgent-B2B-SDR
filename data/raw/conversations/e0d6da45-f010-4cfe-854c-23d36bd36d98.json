@@ -1,0 +1,96 @@
+{
+  "simulation_id": "e0d6da45-f010-4cfe-854c-23d36bd36d98",
+  "timestamp": "2026-03-01T23:41:19.566133",
+  "target_url": "https://www.primer.ai",
+  "company_context": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access primer.ai Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9d5a1f8f5b99d96b • Your IP: Click to reveal 103.160.233.108 • Performance & security by Cloudflare",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. How are you doing today?",
+      "word_count": 35,
+      "char_count": 208
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. But I have to say, we've been getting a lot of calls from similar companies lately. What makes DeepData AI different from the others?",
+      "word_count": 28,
+      "char_count": 157
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution uses machine learning algorithms to automate data processing, which reduces errors and increases efficiency. We've seen our clients achieve up to 30% reduction in processing time. I'd love to schedule a demo to show you how it works.",
+      "word_count": 44,
+      "char_count": 271
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to implement right now. We're in the middle of a major project and our budget is already stretched thin. How much does your solution cost?",
+      "word_count": 32,
+      "char_count": 182
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing varies depending on the size of the company and the scope of the project. But on average, our clients see a return on investment within the first 6-12 months. I can offer you a customized quote if you're interested.",
+      "word_count": 41,
+      "char_count": 227
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, even if the pricing was right, I'm not sure we'd be able to integrate your solution with our existing systems. We use a lot of custom-built tools and I'm concerned about compatibility issues. Have you worked with companies that use similar setups?",
+      "word_count": 45,
+      "char_count": 260
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Yes, we have. We've developed APIs and interfaces that allow our solution to integrate with a wide range of systems. But I understand your concern. Perhaps we could discuss this further with your IT team to see if it's a good fit?",
+      "word_count": 42,
+      "char_count": 230
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I think we'll have to pass on this for now. I need to discuss this with my team and we're not looking to add any new vendors at this time. We appreciate the outreach, but I think we'll have to decline.",
+      "word_count": 41,
+      "char_count": 201
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I completely understand. If you change your mind or have any questions in the future, please don't hesitate to reach out.",
+      "word_count": 21,
+      "char_count": 121
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Thank you, Alex. I appreciate your understanding. We'll be in touch if our needs change, but for now, we're going to have to say no.",
+      "word_count": 25,
+      "char_count": 132
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have been more prepared to address the buyer's integration concerns by providing specific examples or case studies of successful implementations with similar custom-built systems. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have been more prepared to address the buyer's integration concerns by providing specific examples or case studies of successful implementations with similar custom-built systems. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 183,
+    "total_buyer_words": 171,
+    "avg_seller_words_per_turn": 36.6,
+    "avg_buyer_words_per_turn": 34.2,
+    "word_ratio_seller_buyer": 1.07,
+    "total_conversation_length": 354
+  }
+}
