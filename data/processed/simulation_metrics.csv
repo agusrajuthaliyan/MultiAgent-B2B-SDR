@@ -395,3 +395,14 @@ e0d6da45-f010-4cfe-854c-23d36bd36d98,2026-03-01T23:41:19.566133,https://www.prim
 c648d801-431f-40b7-8e6f-e0dbe5aeb829,2026-03-01T23:41:33.690159,https://www.census.dev,86,4,199,238,49.75,59.5,58,74,38,47,0.84,437,4,0,Failure,Competitors,dynamic_batch
 6a0b4539-77a5-424e-ad78-a4a71c8ca675,2026-03-01T23:41:40.199999,https://www.splashtop.com,3000,4,176,178,44.0,44.5,48,58,34,30,0.99,354,4,0,Failure,Competitors,dynamic_batch
 ca0985a4-dcd6-42a4-9a04-7efe7b65d0d7,2026-03-01T23:41:46.353830,https://www.jamf.com,2947,4,253,259,63.25,64.75,76,84,41,43,0.98,512,2,0,Failure,Price,dynamic_batch
+40fd9723-0bd6-409e-91a4-8f0d68b71473,2026-03-01T23:46:57.382520,https://www.flow.ai,17,3,156,148,52.0,49.33,70,67,37,26,1.05,304,2,0,Failure,Competitors,dynamic_batch
+51d7710d-5474-49cd-bc2c-b346ea68c86d,2026-03-01T23:47:14.016349,https://www.taskhuman.com,59,4,275,197,68.75,49.25,85,66,45,28,1.4,472,2,0,Failure,Timing,dynamic_batch
+9a8ba627-9280-4d4c-aca6-19f9387b2444,2026-03-01T23:47:33.777325,https://www.opendoor.com,775,4,249,187,62.25,46.75,82,56,29,42,1.33,436,2,0,Failure,Competitors,dynamic_batch
+8385d211-a27f-4f6d-87ed-af71d264689c,2026-03-01T23:47:49.180241,https://www.nimble.com,58,4,215,169,53.75,42.25,66,55,42,32,1.27,384,2,0,Failure,Timing,dynamic_batch
+967d47d5-68ff-43d1-94ff-e2e360c38a94,2026-03-01T23:48:05.616340,https://www.brightfunnel.com,14,4,228,210,57.0,52.5,64,65,47,34,1.09,438,2,0,Failure,Timing,dynamic_batch
+70295bb8-9824-4eec-b8ed-3830a70cb9c7,2026-03-01T23:48:27.444577,https://www.cloudbolt.io,3000,3,136,155,45.33,38.75,54,60,36,19,0.88,291,3,0,Failure,Timing,dynamic_batch
+d7a84225-9172-4c0a-9166-24bac9416a5e,2026-03-01T23:48:57.552051,https://www.syncsort.com,2203,5,313,111,62.6,22.2,81,39,28,5,2.82,424,8,1,Success,Price,dynamic_batch
+381b11aa-0681-4405-89ce-e9ec23ec86c3,2026-03-01T23:49:15.528286,https://www.optimizely.com,3000,4,234,173,58.5,43.25,73,53,47,32,1.35,407,3,0,Failure,Timing,dynamic_batch
+e6e8048c-1635-459b-995b-e948dde64957,2026-03-01T23:49:31.565943,https://www.cloudbees.com,3000,4,235,190,58.75,47.5,68,56,53,36,1.24,425,2,0,Failure,Timing,dynamic_batch
+d1f95e47-966a-40d5-91e9-8c6045217629,2026-03-01T23:49:51.136863,https://www.synaptiq.com,2170,4,197,205,49.25,51.25,64,67,34,33,0.96,402,3,0,Failure,Timing,dynamic_batch
+7ce8b705-5af0-481b-82d6-c02f8d0e178b,2026-03-01T23:52:04.770207,https://www.cognito.com,959,4,233,232,58.25,58.0,87,78,8,38,1.0,465,5,0,Pending,Unknown,dynamic_batch

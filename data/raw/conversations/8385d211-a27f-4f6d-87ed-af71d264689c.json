@@ -1,0 +1,82 @@
+{
+  "simulation_id": "8385d211-a27f-4f6d-87ed-af71d264689c",
+  "timestamp": "2026-03-01T23:47:49.180241",
+  "target_url": "https://www.nimble.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi [CTO's Name], this is [SDR's Name] from DeepData AI. I came across [Company Name]'s recent expansion into [New Market Sector] and was really impressed. We help companies in similar growth phases streamline their data processing to accelerate insights, and I was curious if that's something you're currently prioritizing?",
+      "word_count": 49,
+      "char_count": 323
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "[SDR's Name], thanks for the call. Yes, we're always looking at efficiency, but data processing is a pretty core competency for us. We have a solid internal team managing our existing infrastructure.",
+      "word_count": 32,
+      "char_count": 199
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand completely, [CTO's Name]. Many of our clients, like [Similar Company Name], had robust internal teams too. Where they found us valuable was in handling the sheer volume and complexity of data that started to bottleneck their existing workflows, especially with the new market data. DeepData AI can automate a lot of the manual ETL and cleansing, freeing up your team for more strategic analysis.",
+      "word_count": 66,
+      "char_count": 408
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That's a common pitch, and honestly, we've evaluated a few solutions in the past. The integration challenges with our current cloud stack – AWS, Kubernetes, and our proprietary systems – are usually the biggest hurdle, not to mention the significant upfront investment and ongoing licensing. We're not looking to rip and replace anything right now.",
+      "word_count": 55,
+      "char_count": 348
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair point. We've actually developed some of the most flexible integration connectors in the industry, designed to minimize disruption. Our architecture is built to work seamlessly with existing cloud environments, and we typically see implementations completed within weeks, not months. We also have flexible pricing models that can be scaled based on your usage and growth.",
+      "word_count": 58,
+      "char_count": 384
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Weeks is still a considerable amount of time and resources. Plus, we've got some other internal projects that are a higher priority for Q3. Honestly, while the concept sounds interesting, it's not something we're actively looking to invest in or implement at this precise moment.",
+      "word_count": 45,
+      "char_count": 279
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I appreciate you being upfront about timing, [CTO's Name]. If it’s helpful, I can send over a brief overview of our integration capabilities and some case studies from companies in your sector that faced similar challenges. Perhaps it's something for future consideration.",
+      "word_count": 42,
+      "char_count": 272
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "You know, I appreciate you trying, but I'm afraid we're going to have to pass for now. We're focused on our current roadmap, and this isn't a fit for us at this time. Please don't follow up.",
+      "word_count": 37,
+      "char_count": 190
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have focused more on understanding the CTO's current priorities and pain points before launching into their solution's features. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have focused more on understanding the CTO's current priorities and pain points before launching into their solution's features. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 215,
+    "total_buyer_words": 169,
+    "avg_seller_words_per_turn": 53.75,
+    "avg_buyer_words_per_turn": 42.25,
+    "word_ratio_seller_buyer": 1.27,
+    "total_conversation_length": 384
+  }
+}

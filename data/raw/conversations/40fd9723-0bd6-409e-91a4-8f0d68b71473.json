@@ -1,0 +1,68 @@
+{
+  "simulation_id": "40fd9723-0bd6-409e-91a4-8f0d68b71473",
+  "timestamp": "2026-03-01T23:46:57.382520",
+  "target_url": "https://www.flow.ai",
+  "company_context": "Flow.ai Dashboard",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi [CTO Name], this is Alex from DeepData AI. I'm reaching out because we help companies like Flow.ai streamline their data processing and unlock deeper insights. Is now an okay time to briefly introduce what we do?",
+      "word_count": 37,
+      "char_count": 215
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Alex, thanks for the call. To be upfront, I'm pretty swamped today. What's this about specifically? We already have a pretty robust data pipeline in place.",
+      "word_count": 26,
+      "char_count": 155
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand. DeepData AI specializes in advanced anomaly detection and predictive analytics within your existing data streams, often uncovering patterns your current tools might miss. We've seen significant ROI for businesses looking to optimize their operations and customer experience. For Flow.ai, I imagine real-time data analysis is crucial.",
+      "word_count": 49,
+      "char_count": 359
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "It is, but \"advanced anomaly detection\" sounds like a lot of buzzwords. Our current vendor, InsightSphere, handles our data processing and analytics very effectively. We just renewed our contract with them for another two years, and frankly, they're integrated into everything we do. The thought of ripping and replacing something that's working is a non-starter.",
+      "word_count": 55,
+      "char_count": 363
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I appreciate you sharing that, [CTO Name]. We often hear about existing solutions. The key differentiator for DeepData AI is our focus on explainable AI, giving you a much clearer understanding of *why* an anomaly is flagged, which can be a significant challenge with black-box systems. We also pride ourselves on a much smoother integration process than you might expect, with a focus on complementing, not necessarily replacing, core functionalities.",
+      "word_count": 70,
+      "char_count": 452
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Look, Alex, I'm sure your technology is interesting, and explainable AI is a concept we're exploring for future initiatives. However, with our current two-year commitment to InsightSphere, the cost and effort involved in evaluating and integrating a new solution like DeepData AI just isn't feasible right now. We're happy with our current vendor, and any exploration of alternatives is definitely off the table for the foreseeable future.",
+      "word_count": 67,
+      "char_count": 439
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller needs to focus on differentiating their solution more effectively against named competitors and probe deeper into the buyer's current pain points beyond the surface-level satisfaction with their existing vendor. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller needs to focus on differentiating their solution more effectively against named competitors and probe deeper into the buyer's current pain points beyond the surface-level satisfaction with their existing vendor. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 156,
+    "total_buyer_words": 148,
+    "avg_seller_words_per_turn": 52.0,
+    "avg_buyer_words_per_turn": 49.33,
+    "word_ratio_seller_buyer": 1.05,
+    "total_conversation_length": 304
+  }
+}

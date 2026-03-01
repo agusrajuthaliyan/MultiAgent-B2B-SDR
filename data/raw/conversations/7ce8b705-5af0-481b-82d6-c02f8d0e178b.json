@@ -1,0 +1,82 @@
+{
+  "simulation_id": "7ce8b705-5af0-481b-82d6-c02f8d0e178b",
+  "timestamp": "2026-03-01T23:52:04.770207",
+  "target_url": "https://www.cognito.com",
+  "company_context": "Home Page Cognito Creative systems for managing paper and electronic documents since 1992 Phone us in NYC at 800 560-9871 Home Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 01234 567 890 01234 567 890 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor augue a turpis porttitor maximus. Nulla luctus elementum felis, sit amet condimentum lectus rutrum eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor augue a turpis porttitor maximus. Nulla luctus elementum felis, sit amet condimentum lectus rutrum eget.",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi [CTO Name], this is Alex from DeepData AI. I know you're incredibly busy, but I'm reaching out because our AI-powered data processing solution has been helping companies like yours streamline document management and extract valuable insights, similar to the foundational work Cognito Creative has been doing for years. I was hoping for just a few minutes to see if there might be any alignment.",
+      "word_count": 65,
+      "char_count": 397
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Alex, thanks for the call. Look, I've seen a lot of \"AI-powered solutions\" come and go. Cognito Creative has been managing documents since 1992, and frankly, we have a pretty robust system in place that's served us well. We’re not actively looking to overhaul our core data processing right now.",
+      "word_count": 50,
+      "char_count": 295
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand completely, and Cognito's longevity speaks volumes about your established processes. What we're finding with our clients is that while existing systems are effective, they often have hidden costs in terms of manual effort and missed opportunities. DeepData AI doesn't necessarily replace your existing system, but rather augments it by intelligently categorizing, analyzing, and extracting key information from both your paper and electronic documents, freeing up your team for more strategic tasks.",
+      "word_count": 73,
+      "char_count": 512
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "\"Augments\" is a nice word, but what does that actually mean in terms of integration and cost? We have a lot of legacy systems, and the thought of integrating another complex piece of software, especially with the price tags I've seen for these AI solutions, is frankly a non-starter for us at this moment. We're also keeping a close eye on what some of our larger competitors are developing in this space, and their timelines are quite aggressive.",
+      "word_count": 78,
+      "char_count": 447
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair point about integration and cost. We’ve actually developed a very streamlined API that minimizes disruption, and our pricing is structured around the value it delivers, often showing a significant ROI within the first year by reducing manual labor and improving data accuracy. We’re not talking about a rip-and-replace scenario, but a way to unlock more value from the data you already possess. Could I potentially send over a brief overview of our integration process and some anonymized case study results that highlight the ROI?",
+      "word_count": 87,
+      "char_count": 545
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate you explaining that. However, as I mentioned, we're not in a position to evaluate new data processing solutions right now. Our current priorities are elsewhere, and the timing just isn't right for us to consider something like this, regardless of its potential benefits. We've also got existing partnerships that are meeting our current needs. I’m going to have to decline at this time.",
+      "word_count": 66,
+      "char_count": 405
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand. Perhaps at a later date then.",
+      "word_count": 8,
+      "char_count": 43
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you for understanding, Alex. I’ll ask you to please send any further information you have via email to [email address]. That will be the best way for me to review it if and when our needs change.",
+      "word_count": 38,
+      "char_count": 201
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 233,
+    "total_buyer_words": 232,
+    "avg_seller_words_per_turn": 58.25,
+    "avg_buyer_words_per_turn": 58.0,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 465
+  }
+}
