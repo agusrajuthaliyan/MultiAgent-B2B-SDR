@@ -1,0 +1,82 @@
+{
+  "simulation_id": "43faffce-ad2d-4458-8150-1aa9e2911ec3",
+  "timestamp": "2026-03-01T23:09:36.678119",
+  "target_url": "https://www.wavefront.com",
+  "company_context": "Tanzu Observability | Broadcom",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data pipelines and gain better insights. I came across Tanzu Observability by Broadcom and thought our solution could be a great fit. Can you tell me a little bit about your current data processing challenges?",
+      "word_count": 59,
+      "char_count": 349
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're pretty swamped with other priorities right now. Our team is still getting used to the Tanzu Observability platform, and I'm not sure we're ready to take on another new solution. What makes DeepData AI so special that it would be worth our time?",
+      "word_count": 45,
+      "char_count": 260
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. DeepData AI uses AI-powered processing to significantly reduce latency and increase data quality. We've seen companies like yours achieve up to 30% reduction in data processing time. I'd love to schedule a demo to show you how it works. Would you be available for a call next week?",
+      "word_count": 51,
+      "char_count": 315
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure that's something we can prioritize right now. We're in the middle of a major infrastructure overhaul, and our budget for new tools is pretty tight. How does your pricing compare to some of the other solutions on the market, like Splunk or Datadog?",
+      "word_count": 51,
+      "char_count": 288
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the specific needs of each company. I can provide you with a detailed quote if you're interested. Additionally, our integration with Tanzu Observability is seamless, so you wouldn't have to worry about disrupting your existing workflows.",
+      "word_count": 47,
+      "char_count": 304
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm still not convinced that this is something we need right now. We've already invested a lot in our current data processing setup, and I'm not sure it's worth the potential disruption to switch to a new solution. Can you tell me more about what kind of support and resources you offer to help with implementation and integration?",
+      "word_count": 58,
+      "char_count": 331
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. We have a dedicated support team and a comprehensive onboarding process to ensure a smooth transition. We also offer ongoing training and resources to help your team get the most out of our solution. I really think DeepData AI could bring significant value to your organization, and I'd hate for you to miss out on the opportunity.",
+      "word_count": 58,
+      "char_count": 343
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your enthusiasm, Emily, but I'm afraid we're just too busy with other priorities right now. We'll have to table this discussion for the time being. Please don't contact me again about DeepData AI – we're not going to be moving forward with it.",
+      "word_count": 45,
+      "char_count": 256
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's initial statement about being \"pretty swamped\" and explored potential pain points or challenges that DeepData AI could help alleviate in the short-term, rather than pushing for a demo. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's initial statement about being \"pretty swamped\" and explored potential pain points or challenges that DeepData AI could help alleviate in the short-term, rather than pushing for a demo. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 215,
+    "total_buyer_words": 199,
+    "avg_seller_words_per_turn": 53.75,
+    "avg_buyer_words_per_turn": 49.75,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 414
+  }
+}

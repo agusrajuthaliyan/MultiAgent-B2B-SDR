@@ -1,0 +1,82 @@
+{
+  "simulation_id": "002174fd-3228-4f9b-bc9b-59d0dee1cd62",
+  "timestamp": "2026-03-01T23:07:13.390632",
+  "target_url": "https://www.minted.com",
+  "company_context": "Premium Christmas Cards, Wedding Invitations, Stationery, Gifts, & Art Prints | Minted × No Thanks Let's Chat Submit Artwork Vote on Artwork Trade Program minted minted weddings Search Minted favorites cart Sign In wedding baby & kids art & home stationery graduation gifts online invitations Save The Dates Invitations Wedding Websites Ceremony & Reception Shower & Parties Thank You Cards Inspiration & Planning SAVE THE DATES All Save The Dates New in Save The Dates Learn about our Save The Dates SHOP BY TYPE Foil-Pressed Letterpress Photo Mount™ Vellum Magnet Postcard SHOP BY PHOTO Photo Non-Photo SHOP BY STYLE Classic & Formal Simple & Minimalistic Floral STATIONERY ACCESSORIES All Stationery Accessories Envelopes Envelopes Liners Wax Seals Postage Stamps Address Labels & Stamps ANNOUNCEMENTS Wedding Announcements Engagement Announcements SERVICES & TOOLS Book a Concierge Appointment Order Free Samples Take Our Style Quiz Members save up to 30% Save The Dates Invitations Wedding Websites Ceremony & Reception Shower & Parties Thank You Cards Inspiration & Planning INVITATIONS All Wedding Invitations New in Wedding Invitations Learn about our Invitation Suite SHOP BY TYPE Letterpress Foil-Pressed SHOP BY STYLE Classic & Formal Simple & Minimalist Floral Modern Vintage Rustic & Natural SUITE INSERT CARDS All Suite Insert Cards RSVP Cards Weekend Events Rehearsal Dinner Direction Cards STATIONERY ACCESSORIES All Stationery Accessories Envelopes Envelope Liners Vellum, Jackets & Pockets Belly Bands Wax Seals Postage Stamps Address Labels & Stamps SERVICES & TOOLS Book a Concierge Appointment Order Free Samples Take Our Style Quiz Wedding Invitation Finder Save The Dates Invitations Wedding Websites Ceremony & Reception Shower & Parties Thank You Cards Inspiration & Planning WEDDING WEBSITES > Start a Website Browse Website Designs RESOURCES Get Expert Help How to Make a Wedding Website COLLECTIONS minted+BRIDES® FIND A COUPLE > Save The Dates Invitations Wedding Websites Ceremony & Reception Shower & Parties Thank You Cards Inspiration & Planning CEREMONY & RECEPTION All Ceremony & Reception Place Cards Menus Table Numbers Programs Weekend Itinerary Cards WEDDING SIGNS All Wedding Signs Welcome Signs Seating Charts Bar Signs Schedule Signs Reception Signs DECOR & GIFTS Favors & Gifts Vow & Guest Books Serving & Decor Save The Dates Invitations Wedding Websites Ceremony & Reception Shower & Parties Thank You Cards Inspiration & Planning INVITATIONS Bridal Shower Rehearsal Dinner Engagement Party Bachelorette Party INVITATION INSERT CARDS All Insert Cards Registry Details Recipe Stock The Bar PARTY SIGNS & STATIONERY Wedding Signs Bridal Shower Signs Menus Place Cards Weekend Itinerary Cards GAMES & ACTIVITY CARDS All Game & Activity Cards Advice Cards FAVORS & GIFTS All Favors Matchbooks Favor Tags Cocktail Napkins Bridesmaid Gifts & Proposal Save The Dates Invitations Wedding Websites Ceremony & Reception Shower & Parties Thank You Cards Inspiration ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like Minted optimize their data workflows and improve business insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 256
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hello Alex. I'm John, the CTO here at Minted. We're actually pretty happy with our current data processing systems, and we've invested a lot in building out our own in-house solutions. What makes you think we need something like DeepData AI?",
+      "word_count": 42,
+      "char_count": 245
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you've invested in your current systems, but our solution can help you scale more efficiently and reduce costs in the long run. We've worked with similar companies in the e-commerce space and seen significant ROI. I'd love to schedule a demo to show you how DeepData AI can help.",
+      "word_count": 52,
+      "char_count": 297
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we're in the middle of our peak season right now, and I don't have the bandwidth to take on a new project or evaluate a new vendor. Plus, I'm not sure if our budget can accommodate another large expense like this. Can you tell me more about your pricing model?",
+      "word_count": 55,
+      "char_count": 288
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is based on the amount of data being processed, and we offer tiered pricing to fit different company sizes. We've found that our solution can actually help companies save money in the long run by reducing their infrastructure costs. I can send over some case studies and pricing information if you're interested.",
+      "word_count": 55,
+      "char_count": 336
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary, Alex. Like I said, we're happy with our current systems, and I'm not convinced that DeepData AI would be a good fit for us. We've also got an existing relationship with another data processing vendor, and I'm not sure if it would be worth switching. Look, I appreciate the call, but why don't you just send me an email with some more information, and I'll take a look at it when I have some more time?",
+      "word_count": 81,
+      "char_count": 432
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I can definitely do that. I just want to make sure you have all the information you need to make an informed decision. Can I follow up with you in a few weeks to see if you've had a chance to review the information?",
+      "word_count": 45,
+      "char_count": 221
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, that's okay, Alex. I think we're all set. Please do send me that email, but I think we're going to have to pass on DeepData AI for now. We've got our priorities set for the next quarter, and this isn't something we're looking to pursue at this time. Thanks for reaching out, though.",
+      "word_count": 54,
+      "char_count": 286
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more effectively addressed the buyer's current pain points and priorities to overcome the timing objection and create a sense of urgency for the solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more effectively addressed the buyer's current pain points and priorities to overcome the timing objection and create a sense of urgency for the solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 195,
+    "total_buyer_words": 232,
+    "avg_seller_words_per_turn": 48.75,
+    "avg_buyer_words_per_turn": 58.0,
+    "word_ratio_seller_buyer": 0.84,
+    "total_conversation_length": 427
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "ba56de50-2c28-4f0c-9e70-cfa9a59c428c",
+  "timestamp": "2026-03-01T23:08:51.616426",
+  "target_url": "https://www.getwisdom.com",
+  "company_context": "Home | GetWisdom.com Skip to content GetWisdom.com Working to Save and Heal Humanity Toggle Mobile Menu Home Discover Truth, Enlightenment, and Healing Through Divine Partnership Join the Monthly Healing Subscription and Transform Your Life, Health, & Relationships for good! ENROLL The Get Wisdom project is a powerful mission to re-awaken the soul’s journey towards spiritual alignment and universal truth. Our goal is to help lead the world back to the divine source that connects us all. We align humanity with inner peace and enlightenment through spiritual healing modalities, weekly broadcasts, and channeled messages. Learn More Learn More Learn More Learn More Subscribe to Get Wisdom on YouTube and get notified when Karl and Brian go live! SUBSCRIBE",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data analysis and gain valuable insights. I came across GetWisdom.com and was impressed by your mission to bring spiritual alignment and universal truth to the world. I'd love to explore how our solution can support your goals.",
+      "word_count": 61,
+      "char_count": 368
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm Brian, the CTO here. We're indeed focused on our mission, but I'm not sure how a data processing solution like DeepData AI fits into our priorities. We're a relatively small team, and our current data needs are managed internally. What makes you think we need an external solution like yours?",
+      "word_count": 57,
+      "char_count": 331
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question, Brian. Many organizations, especially those with a strong online presence like GetWisdom.com, often find that their internal data management systems become outdated or insufficient as they grow. DeepData AI can help you scale more efficiently, reduce manual data processing time, and provide more accurate insights to inform your decisions. We've had success with similar companies in the spiritual and wellness space.",
+      "word_count": 65,
+      "char_count": 443
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I understand where you're coming from, but we've invested a lot in our current system, and I'm not sure I want to take on the cost and integration hassle of switching to a new platform. Your solution sounds expensive, and we're on a tight budget. How does your pricing compare to what we're currently paying for our internal solutions?",
+      "word_count": 59,
+      "char_count": 335
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about cost and integration. Our pricing is competitive, and we offer flexible plans to fit different budgets. For a company of your size, we could discuss a customized package that meets your specific needs. As for integration, our team is experienced in handling migrations from various systems, ensuring minimal disruption to your operations. We also have a free trial period to test our solution before committing.",
+      "word_count": 71,
+      "char_count": 455
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the flexibility, but timing is also a concern for us. We're in the middle of several critical projects, including launching a new series of weekly broadcasts and enhancing our subscription services. Taking on a new technology implementation right now would be a significant distraction. And to be honest, we've had mixed experiences with AI solutions in the past, so we're cautious about adopting another one.",
+      "word_count": 67,
+      "char_count": 422
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the timing isn't ideal, and I respect your caution. However, I believe DeepData AI could offer long-term benefits that outweigh the short-term implementation challenges. Perhaps we could schedule a follow-up conversation for when your current projects are less intense? In the meantime, I could provide some case studies of similar companies that have successfully integrated our solution.",
+      "word_count": 59,
+      "char_count": 402
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but to be clear, this is not a priority for us right now. We're too busy with our core mission and don't have the bandwidth to explore new technologies, regardless of their potential benefits. I think we'll have to pass on DeepData AI for the time being. Thank you for understanding, and I wish you the best in finding other opportunities.",
+      "word_count": 66,
+      "char_count": 376
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns by offering a more concrete plan for minimal disruption during implementation or a delayed start to better align with the buyer's project timeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns by offering a more concrete plan for minimal disruption during implementation or a delayed start to better align with the buyer's project timeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 256,
+    "total_buyer_words": 249,
+    "avg_seller_words_per_turn": 64.0,
+    "avg_buyer_words_per_turn": 62.25,
+    "word_ratio_seller_buyer": 1.03,
+    "total_conversation_length": 505
+  }
+}

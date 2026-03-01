@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9116a09f-bc60-42cc-a201-3d05177aa975",
+  "timestamp": "2026-03-01T23:11:05.887905",
+  "target_url": "https://www.tinybird.co",
+  "company_context": "Tinybird · Ship faster with Managed ClickHouse® Product [ ] Pricing Docs Resources [ ] Data Platform Managed ClickHouse ® Production-ready with Tinybird's DX Streaming ingestion High-throughput streaming ingest Connectors Plug and play Kafka, S3, and GCS Kafka Connector Real-time analytics over your Kafka topics Developer Experience AI-focused DevEx Built for agents and developers Schema iteration Safe migrations with zero downtime Branches Zero-copy envs with prod data Data Exploration Explore, visualize, and understand your data Enterprise BI & Tool Connections Connect your BI tools and ORMs High availability Fault-tolerance and auto failovers Security and compliance Certified SOC 2 Type II for enterprise Sign in Sign up Sign up Product [ ] Data Platform Managed ClickHouse ® Production-ready with Tinybird's DX Streaming ingestion High-throughput streaming ingest Connectors Plug and play Kafka, S3, and GCS Kafka Connector Real-time analytics over your Kafka topics Developer Experience AI-focused DevEx Built for agents and developers Schema iteration Safe migrations with zero downtime Branches Zero-copy envs with prod data Data Exploration Explore, visualize, and understand your data Enterprise BI & Tool Connections Connect your BI tools and ORMs High availability Fault-tolerance and auto failovers Security and compliance Certified SOC 2 Type II for enterprise Pricing Docs Resources [ ] Learn Blog Musings on transformations, tables and everything in between Customer Stories We help software teams ship features with massive data sets Videos Learn how to use Tinybird with our videos ClickHouse® Course A comprehensive developer course on ClickHouse® Build Templates Explore our collection of templates Tinybird Builds We build stuff live with Tinybird and our partners Changelog The latest updates to Tinybird Community Slack Community Join our Slack community to get help and share your ideas Open Source Program Get help adding Tinybird to your open source project Schema > Evolution Join the most read technical biweekly engineering newsletter Ship fast over a Managed ClickHouse ® The data infrastructure and tooling to ship enterprise grade analytical features faster and at a fraction of the cost Try for free Contact sales [ SaaS / Dashboards ] | [ Observability ] | [ AI Analytics ] | [ Crypto / Finance ] | [ Real-Time Analytics ] shipped a new feature to prod in just 48 hours . 24hrs to MVP 48hrs to production 56ms p95 query latency “ Tinybird lets us go from raw data to shipped features faster than anything else I've seen. There's less ceremony, less overhead, and less concern about running it in prod. ” Robert MacCloy CTO and Co-founder at Scrunch Here's how you work with Tinybird Build, ingest, query, monitor and iterate all in one flow. From local dev to cloud scale, ship data products fast. [ Get Started ] | [ Develop ] | [ Ingest ] | [ Query ] | [ Monitor ] | [ Iterate ] Built for Coding Agents [ Coding Agents ] | [ TypeScript SDK ] | [ Tinybird C",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data pipelines and gain valuable insights. Can you tell me a bit about your current data processing setup?",
+      "word_count": 42,
+      "char_count": 247
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using Tinybird's Managed ClickHouse solution, and it's been working out well for us. What makes DeepData AI different from what we're already using?",
+      "word_count": 27,
+      "char_count": 173
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is specifically designed for real-time analytics and can handle massive data sets with ease. We've seen companies like yours reduce their data processing time by up to 70% with our platform. Would you like to hear more about how we can help?",
+      "word_count": 45,
+      "char_count": 260
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to change right now. We've invested a lot in Tinybird and are happy with the results. Plus, I'm not sure our team has the bandwidth to integrate a new solution. We're in the middle of a big project and don't want to disrupt our workflow.",
+      "word_count": 52,
+      "char_count": 281
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Integration can be a challenge, but our team is experienced in helping companies like yours transition to our platform. We also offer a free trial, so you can test out our solution without committing to anything. And, we're currently offering a competitive pricing package that can help offset any costs associated with switching.",
+      "word_count": 56,
+      "char_count": 355
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not convinced that the benefits outweigh the costs. From what I've seen, your pricing is actually higher than what we're paying Tinybird. And, to be honest, I'm not sure our stakeholders would be on board with switching to a new vendor. We have a good relationship with the Tinybird team and they've been supportive of our needs.",
+      "word_count": 63,
+      "char_count": 361
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but I'd like to discuss how our solution can provide long-term value and help you scale your data processing needs. Can I schedule a follow-up call to walk you through some case studies and show you how our platform can address some of the challenges you're facing?",
+      "word_count": 51,
+      "char_count": 293
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, thank you. I think we're going to stick with Tinybird. We're happy with their solution and don't see a compelling reason to switch. I appreciate your time, but I think we'll have to pass on DeepData AI.",
+      "word_count": 38,
+      "char_count": 206
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Integration/Competitors\nFeedback: The seller should have more effectively highlighted the unique benefits and value proposition of DeepData AI to overcome the buyer's loyalty to the existing vendor and address the concerns about integration and pricing. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Integration/Competitors",
+      "feedback": "The seller should have more effectively highlighted the unique benefits and value proposition of DeepData AI to overcome the buyer's loyalty to the existing vendor and address the concerns about integration and pricing. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 194,
+    "total_buyer_words": 180,
+    "avg_seller_words_per_turn": 48.5,
+    "avg_buyer_words_per_turn": 45.0,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 374
+  }
+}

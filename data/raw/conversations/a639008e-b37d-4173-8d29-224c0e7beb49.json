@@ -1,0 +1,82 @@
+{
+  "simulation_id": "a639008e-b37d-4173-8d29-224c0e7beb49",
+  "timestamp": "2026-03-01T23:07:35.562273",
+  "target_url": "https://www.sandisk.com",
+  "company_context": "Sandisk SSDs, Memory Cards, and Flash Drives for Your Digital Life | Sandisk Free standard shipping on eligible orders for our online store members Sandisk online store members receive free standard shipping on all eligible orders. Non-members receive free standard shipping on orders of at least $50 excluding taxes and shipping costs, and after any applicable coupons have been applied. Free standard shipping (UPS Ground), applies to purchases delivered within the contiguous United States, excluding addresses in Hawaii, Alaska, Puerto Rico and other U.S. territories (other exclusions may apply). Sandisk reserves the right to change or discontinue these terms at any time without notice.​ Sandisk online store members receive free standard shipping on all eligible orders. Non-members receive free standard shipping on orders of at least €50 excluding shipping costs, and after any applicable coupons have been applied. Free standard shipping on eligible purchases delivered to the following countries Belgium, Bulgaria, Croatia, Denmark, Estonia, Finland, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Portugal, Romania, Slovakia, and Slovenia (exclusions may apply). Sandisk reserves the right to change or discontinue these terms at any time without notice. Sandisk online store members receive free standard shipping on all eligible orders. Non-members receive free standard shipping on orders of at least £50 excluding shipping costs, and after any applicable coupons have been applied. Free standard shipping applies to purchases delivered within the United Kingdom (exclusions may apply). Sandisk reserves the right to change or discontinue these terms at any time without notice. Sandisk online store members receive free standard shipping on all eligible orders. Non-members receive free standard shipping on orders of at least 600kr excluding shipping costs, and after any applicable coupons have been applied. Free standard shipping applies to purchases delivered within Sweden (exclusions may apply). Sandisk reserves the right to change or discontinue these terms at any time without notice. New Sandisk Customers Sign Up and Save 10% Off. Explore the latest Flash products from Sandisk Consumer | Business . for Business {{totalItems}} {{totalItems > 99 ? '' : totalItems}} {{promotion.info.title}} {{promotion.info.promoTitle}} {{promotion.info.desc}} {{promotion.info.promoDesc}} {{promotion.info.offerText}} {{promotion.info.disclosureTitle}} {{promotion.info.disclosureText}} Accept Promotion No Thanks {{promotion.info.promoTitle}} {{promotion.info.desc}} {{promotion.info.promoDesc}} {{bogoItems.productInfo.variantTitle}} {{promotion.info.offerText}} {{promotion.info.offerTextCtaLabel}} {{promotion.info.disclosureTitle}} {{promotion.info.disclosureText}} Confirm No Thanks {{promotion.info.desc}} {{promotion.info.promoDesc}} {{bogoItems.productInfo.variantTitle}} Starting at {{productPriceObj[bogoItems.productId].prices.list.amountFormatted}} FREE Starting at {{pro",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a cutting-edge data processing solution that helps companies like yours optimize their data management. I came across your company, Sandisk, and was impressed with the work you're doing in the SSD and flash drive space. Can you tell me a bit about your current data processing infrastructure?",
+      "word_count": 60,
+      "char_count": 357
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're pretty set with our current setup. We've got a contract with a competitor, PureStorage, that's still got a few years left on it. What makes you think we'd be interested in switching to DeepData AI?",
+      "word_count": 38,
+      "char_count": 213
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you have an existing contract, but I'd like to highlight the benefits of our solution. DeepData AI offers advanced AI-powered data compression and analytics capabilities that can help you reduce storage costs and gain valuable insights from your data. We've seen significant ROI for our clients in the tech industry. Would you be open to exploring how our solution could complement or even replace your current infrastructure?",
+      "word_count": 70,
+      "char_count": 444
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but we're not looking to make any changes to our infrastructure at this time. Our contract with PureStorage is pretty comprehensive, and we've invested a lot in integrating their solution with our existing systems. I'm not sure it would be worth the hassle and cost to switch to a new provider, especially with the contract still in place.",
+      "word_count": 62,
+      "char_count": 363
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about integration and contract obligations. However, I'd like to offer a customized demo to show you how DeepData AI can seamlessly integrate with your existing systems and provide a clear ROI analysis to help you make an informed decision. We've worked with other companies in similar situations and have been able to demonstrate significant cost savings and efficiency gains.",
+      "word_count": 63,
+      "char_count": 404
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm afraid it's not just about the technical integration. We've got a strong relationship with PureStorage, and they've been a reliable partner for us. We're also locked into a pretty favorable pricing agreement with them, so I'm not sure you could match that. To be honest, I don't see a compelling reason to consider switching to DeepData AI at this time.",
+      "word_count": 66,
+      "char_count": 385
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about pricing and relationships. Can I ask, are you the sole decision-maker for data processing solutions, or is there someone else I should be speaking with?",
+      "word_count": 30,
+      "char_count": 185
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I'm the CTO, so I'm the primary decision-maker for our technology infrastructure. And I've made it clear that we're not interested in pursuing alternative solutions at this time. I appreciate your time, but I think we'll have to pass on DeepData AI. Our contract with PureStorage is secure, and we're not looking to make any changes. Thank you for reaching out, but I consider this matter closed.",
+      "word_count": 67,
+      "char_count": 396
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have done more research on the buyer's existing contract and relationship with PureStorage to tailor their pitch and address potential competitive advantages and switching costs. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have done more research on the buyer's existing contract and relationship with PureStorage to tailor their pitch and address potential competitive advantages and switching costs. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 223,
+    "total_buyer_words": 233,
+    "avg_seller_words_per_turn": 55.75,
+    "avg_buyer_words_per_turn": 58.25,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 456
+  }
+}

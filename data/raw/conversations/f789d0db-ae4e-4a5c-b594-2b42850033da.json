@@ -1,0 +1,82 @@
+{
+  "simulation_id": "f789d0db-ae4e-4a5c-b594-2b42850033da",
+  "timestamp": "2026-03-01T23:10:17.816203",
+  "target_url": "https://www.instructure.com",
+  "company_context": "Instructure: Leading EdTech for K–12, Higher Ed & Business Skip to main content EN Close modal Select your location English North America Español Español English Asia-Pacific Italiano Italiano English United Kingdom Nederlands Dutch Deutsch Deutsch Português Português 日本語 Japanese 한국어 Korean Reset language preference Clear redirect preference Menu Let's Connect Preparing educators and learners for the challenges and opportunities ahead . Let's connect Welcome to the most-visited education website in the world. We love numbers here at Instructure, and it just so happens they love us back. Here are a few of our favorites: 8000+ customers We have customers all over the globe—in over 100 countries, in fact. 18.6M+ unique visitors annually Instructure hosts the world's largest online community of educators and edtechnologists. #1 LMS in the world Yes, we make Canvas—the LMS that's simple to use, easy to love, and built for a lifetime of learning. 2B assessment scores created via Mastery That's a whole lot of formative, predictive, and college prep work. 6.7K K–12 schools love Parchment It's the preferred platform for enrollment, records management, and credentialing. Solutions for every age, stage, and transitional moment K–12 A lot changes between that K and that 12. Our ecosystem supports every student, in any learning environment. See how Higher education Our solutions keep educators at the forefront of modern teaching and learning, helping them ensure student success in a changing world. See how Business and government The best places to work prioritize learning and growth. And our tools make it more intuitive, engaging, and effective. See how Explore the Instructure ecosystem Our capabilities, partner network, services, and community are here to help you create your ideal edtech environment and deliver on important outcomes. Take a look We're dreaming big, so you can, too. We love our customers (and the feeling is mutual) The results in Mastery are so immediate. Teachers can use the data immediately to determine the next instructional steps. Claudia Avery Deputy Superintendent, Fairfield County Schools By moving to Canvas, we knew we were setting ourselves up for the future. We pride ourselves on being an innovative school. We needed a platform that could match us, that could grow with us. Josh Blumberg Director of Academic Tech, Champlain College Canvas is much more user-friendly than many other learning management systems. And then, of course, Canvas has a reputation that once people move to Canvas, they never switch to a different LMS, and that reputation was a key component for us. Erin Schalk Educational Programs Lead, Braille Institute I say this to anyone who asks: It was the best third-party implementation we’ve ever had. Period. I can’t believe how much impact Parchment Data Automation has had. Molly McDermott-Fallon Assistant Vice Provost & University Registrar, University of Cincinnati We needed a way to back up and secure our course c",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm a Sales Development Representative at DeepData AI. I came across Instructure and was impressed by the work you're doing in EdTech. I'd like to introduce our data processing solution, which can help optimize your operations and improve decision-making.",
+      "word_count": 45,
+      "char_count": 280
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hi Alex. I'm John, the CTO here. We're always looking for ways to improve, but I have to say, our plate is pretty full right now. What makes you think your solution is a good fit for us, and what specific problems does it solve?",
+      "word_count": 46,
+      "char_count": 232
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand that you're busy. Our solution, DeepData AI, is designed to help organizations like yours process and analyze large amounts of data more efficiently. We've seen significant success in the EdTech space, particularly with companies similar to yours who are dealing with vast amounts of student and learning data. It can help you gain deeper insights into student behavior, learning patterns, and operational efficiency.",
+      "word_count": 66,
+      "char_count": 442
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we already have a robust data analytics setup in place. How does your solution differ from what we're currently using, and what kind of integration would be required? We've had issues with integrating new systems in the past, and it's been a real headache.",
+      "word_count": 50,
+      "char_count": 292
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration. Our solution is designed to be highly adaptable and can integrate with most existing systems. As for how it differs, DeepData AI uses advanced AI algorithms to provide more nuanced and actionable insights than traditional analytics tools. It can also automate many of the data processing tasks, freeing up your team to focus on higher-level strategic decisions.",
+      "word_count": 64,
+      "char_count": 418
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds impressive, but I'm still not convinced it's worth the investment right now. What kind of ROI can we expect, and what's the pricing model for your solution? We're on a tight budget, and any new expenditures have to be carefully justified.",
+      "word_count": 43,
+      "char_count": 250
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "The ROI on DeepData AI can vary depending on the specific use case and implementation, but we've seen clients achieve significant reductions in operational costs and improvements in decision-making efficiency. As for pricing, we offer a tiered model based on the scope of the implementation and the level of support required. I'd be happy to provide a customized quote based on your specific needs.",
+      "word_count": 64,
+      "char_count": 398
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate the information, but to be honest, this isn't a priority for us right now. We're in the middle of several critical projects, and our team is fully allocated. I don't see us being able to take on anything new for at least the next quarter. I think we'll have to pass on DeepData AI for the time being.",
+      "word_count": 61,
+      "char_count": 319
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to pilot or phase in the solution to align with the buyer's existing project timeline. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to pilot or phase in the solution to align with the buyer's existing project timeline. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 239,
+    "total_buyer_words": 200,
+    "avg_seller_words_per_turn": 59.75,
+    "avg_buyer_words_per_turn": 50.0,
+    "word_ratio_seller_buyer": 1.2,
+    "total_conversation_length": 439
+  }
+}

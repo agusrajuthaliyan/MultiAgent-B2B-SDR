@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b7935004-5613-4382-873c-969de3592bdb",
+  "timestamp": "2026-03-01T23:10:46.423328",
+  "target_url": "https://www.getambassador.com",
+  "company_context": "AI-Powered Referral Marketing Software for Growth Skip to the main content. Toggle Menu Get a demo Intelligence Layers Integrations Layer Data & Intelligence Layer HiroAI Layer Engines Overview Advocacy Engine Customer Value Engine Communication Cloud Engine Incentive Finance Engine Attribution Engine (smartURLs) Predictive & Recommendation Engine Prospect Intelligence Engine Channels Email Marketing SMS Customer Touchpoints Incentives What You Can Offer Reward Vaults Storefront Industries Enterprise Mid-Market SMB Telecommunication B2B SaaS & Cloud Services EdTech and EdServe FinTech and FinServe Residential & Home Services Retail & Ecommerce Solar Energy and Renewables Use Cases & ebooks SaaS B2B: Speed and Scale Retail: Fashion Forward & Lifestyle Successful Referral Programs: Complexity, Simplified Guide to Building a World-Class Referral Program The Ultimate Guide to Customer Loyalty Ambassador For Engineers (API and Other) SFDC Managed Package Your Customers Are Your Best Growth Channel. Are You Actually Monetizing Them? Ambassador helps B2B brands automate referral, incentives, and customer advocacy with CRM-native tracking and AI-powered engagement. See How It Works Ambassador customers see 2–4x lift in customer-driven revenue within 90 days. Moving to Ambassador addresses the friction points we're experiencing... Judi Cotter Sr. Director Marketing, CNG Holdings The platform addresses our core business priorities—ARPO and retention—by allowing us to move beyond simple discounts. Chris Miller Sr. Product Marketing Manager, Visible (Verizon) Ambassador makes it easier to understand where referrals are coming from and how channels like QR codes perform. The reporting improvements give us confidence as we scale. Jackie Martinez Marketing Manager, Sparklight Ambassador creates a scalable foundation for running more advanced programs without increasing operational complexity. Marketing/Growth Leadership Team Auctane Ambassador provides the structure we need to scale referral programs while maintaining control, compliance, and reporting standards Marketing and Digital Stakeholders CIBC Here’s what’s broken Growth teams are stuck choosing between manual programs, black-box vendors, or bloated enterprise tools that don’t talk to revenue. Ambassador replaces all of that with one infrastructure layer. See How It Work Ambassador Is For Built For: B2B SaaS FinTech & Telecom Revenue teams using Salesforce and so many more... Not Built For: SMB coupon tools Influencer marketplaces One-off giveaways The AI Feedback Economy™ Advocacy Engine™ Referrals, Affiliates, Partners, Employees Turn trusted relationships into measurable growth. Activate customers, partners, affiliates, and employees from one unified system. Track actions, control payouts, and scale advocacy with confidence. Everything to Offer>> Customer Value Engine™ Tasks, Badges, Points, Tiers, In-App Experiences Turn engagement into long-term loyalty. Reward actions, milestones, and participatio",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours automate and optimize their data workflows. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 41,
+      "char_count": 238
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're actually pretty happy with our current solution. We've been using Ambassador for our referral marketing and customer advocacy, and they have some built-in data processing capabilities that work well for us. What makes DeepData AI different from what we're already using?",
+      "word_count": 44,
+      "char_count": 286
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you're happy with Ambassador. However, DeepData AI is a more comprehensive data processing solution that can handle larger volumes of data and provide more advanced analytics capabilities. We've had success with similar companies in the past, and I think we could help you streamline your data workflows and gain more insights from your data.",
+      "word_count": 59,
+      "char_count": 368
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. Well, we're in the middle of a big project right now, and I'm not sure we have the bandwidth to evaluate a new solution. Plus, I'd need to get buy-in from our engineering team, and they're already stretched thin. Can you tell me more about the implementation process and how it would work with our existing systems?",
+      "word_count": 59,
+      "char_count": 322
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our implementation process is designed to be as seamless as possible, and we have a dedicated team that will work with your engineers to ensure a smooth integration. We also have a lot of experience integrating with Ambassador, so we could potentially work with them to create a more comprehensive solution. As for the cost, we offer competitive pricing and have different tiers to fit different company sizes and needs.",
+      "word_count": 71,
+      "char_count": 432
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the information, but I'm still not convinced that we need to switch from our current solution. Ambassador has been working well for us, and I'm not sure we're willing to take on the cost and complexity of implementing a new solution. Can you tell me more about what sets DeepData AI apart from Ambassador in terms of cost and functionality?",
+      "word_count": 62,
+      "char_count": 353
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Well, as I mentioned earlier, DeepData AI is a more comprehensive data processing solution that can handle larger volumes of data and provide more advanced analytics capabilities. We also offer more flexible pricing tiers and have a dedicated support team to help with any issues that may arise. However, I understand that Ambassador has its strengths as well, and it ultimately comes down to what your specific needs and priorities are.",
+      "word_count": 71,
+      "char_count": 437
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your understanding, Alex. However, after considering our current setup and priorities, I think we're going to have to pass on DeepData AI for now. We're happy with Ambassador and don't see a compelling reason to switch to a new solution at this time. Thank you for reaching out, but I think we'll have to decline your offer.",
+      "word_count": 59,
+      "char_count": 337
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more effectively highlighted the unique value proposition of DeepData AI and addressed the buyer's concerns about switching from Ambassador earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more effectively highlighted the unique value proposition of DeepData AI and addressed the buyer's concerns about switching from Ambassador earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 242,
+    "total_buyer_words": 224,
+    "avg_seller_words_per_turn": 60.5,
+    "avg_buyer_words_per_turn": 56.0,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 466
+  }
+}

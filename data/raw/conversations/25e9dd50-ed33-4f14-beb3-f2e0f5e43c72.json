@@ -1,0 +1,82 @@
+{
+  "simulation_id": "25e9dd50-ed33-4f14-beb3-f2e0f5e43c72",
+  "timestamp": "2026-03-01T23:06:19.376410",
+  "target_url": "https://www.tandem.ai",
+  "company_context": "AI Medical Scribe | AI Clinical Notes | Tandem Health Tandem’s Coding Assistant is now MDR Class IIa certified → Product Customer stories Pricing Join us Resources EXPLORE Data & Security Trust center News & Blog Research SUPPORT Help center Download COMPANY About us EXPLORE Data & Security Trust center News & Blog Research SUPPORT Help center Download COMPANY About us Log in Log in | Try for free Book a demo EXPLORE Data & Security Trust center News & Blog Research SUPPORT Help center Download COMPANY About us Product Customer stories Pricing Join us Resources EXPLORE Data & Security Trust center News & Blog Research SUPPORT Help center Download COMPANY About us EXPLORE Data & Security Trust center News & Blog Research SUPPORT Help center Download COMPANY About us Log in Log in Book a demo Medical notes that write themselves Save hours of daily admin and focus on patient care. Book a demo Try for free Your browser does not support the video tag. Your browser does not support the video tag. Tandem in use Trusted by 5,000+ healthcare organisations Tandem has teamed up with Accurx to deliver our AI medical scribe to 200,000 NHS staff Read announcement Tandem's AI shows faster notes, lower stress, and more time for patients at St Wulfstan Surgery Read case The Hill Surgery improves documentation accuracy and reaches 100% clinician adoption with Tandem Read case “With Tandem, I am able to go home on time.” Nadeem Ahmed General Practitioner, UK How Tandem works Our AI medical scribe captures the conversation so you can give your full attention to your patient. 1. Start Tandem Simply start Tandem on your computer or mobile, and you're all set. It works seamlessly for both in-person and virtual visits. 2. Your note is created While you care for the patient, Tandem works in the background to draft your note. 3. Review and send Review the note and send to your medical record system in one click. Then get back to your day. Better notes, safer care Tandem makes clinical documentation faster, easier, and more accurate. Supports more than 50 specialties Tandem understands the language of your specialty. It’s built for doctors, nurses, psychologists, dentists, physiotherapists, and many more. 1-click EHR transfers Tandem integrates to your EHR, transferring notes in one click. Don’t waste time copy-pasting. Generate notes, documents, and letters Get everything you need from one conversation. Más de 50 especialidades compatibles Tandem entiende el idioma de su especialidad. Está diseñado para médicos, enfermeras, psicólogos, dentistas, fisioterapeutas y más. Built-in clinical coding Tandem surfaces relevant clinical codes automatically. See all features “When you find a tool that simultaneously improves patient experience and helps GP’s, then it’s worth every GP taking a look” Dr. Faris Al-Ramadani GP Partner, St Wulfstan Surgery See case study Tandem helps NHS clinics all over the UK protect quality and accountability in every consultation The Hill Surgery NHS",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps healthcare organizations like yours streamline their clinical documentation and improve patient care. I came across Tandem Health and was impressed with the work you're doing with AI medical scribes. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 60,
+      "char_count": 371
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're always looking for ways to improve our clinical documentation and reduce the administrative burden on our clinicians. But we've already invested heavily in our current systems, so I'm not sure we're looking to switch anytime soon. What makes DeepData AI different from what we already have in place?",
+      "word_count": 51,
+      "char_count": 314
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution is designed to integrate seamlessly with existing electronic health records systems, and our AI-powered engine can help reduce documentation time by up to 70%. We've had great success with other healthcare organizations, and I think we could really help Tandem Health take your clinical documentation to the next level. Would you be open to discussing further?",
+      "word_count": 62,
+      "char_count": 398
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm intrigued, but I have to say that our budget for new technology is pretty tight right now. We're in the middle of implementing some other systems, and I'm not sure we can justify the expense of another solution. Can you tell me a bit more about your pricing model?",
+      "word_count": 50,
+      "char_count": 268
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is based on the number of users and the volume of data being processed. We offer a tiered pricing structure, with discounts for larger implementations. For an organization of your size, I estimate the cost would be around $50,000 per year. However, I believe the return on investment would far outweigh the costs, given the time and resource savings we can provide.",
+      "word_count": 65,
+      "char_count": 389
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a pretty significant expense, to be honest. I'm not sure we can justify that kind of cost, especially when we're already investing in other areas. And what about integration with our existing systems? How complicated would that process be?",
+      "word_count": 40,
+      "char_count": 246
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost, and I'd be happy to discuss potential ROI with you in more detail. As for integration, our team has a lot of experience working with healthcare organizations, and we've developed a robust API that makes integration with existing systems relatively straightforward. We'd work closely with your IT team to ensure a smooth implementation.",
+      "word_count": 59,
+      "char_count": 374
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your willingness to work with us, but after considering the costs and the current priorities of our organization, I'm afraid we're going to have to pass on DeepData AI at this time. The price is just too high for us, and we can't justify the expense given our other commitments. Thank you for reaching out, but I think we'll have to explore other options.",
+      "word_count": 66,
+      "char_count": 368
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's concerns about cost and ROI, potentially by offering a customized pricing proposal or a pilot project to demonstrate the value of DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's concerns about cost and ROI, potentially by offering a customized pricing proposal or a pilot project to demonstrate the value of DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 246,
+    "total_buyer_words": 207,
+    "avg_seller_words_per_turn": 61.5,
+    "avg_buyer_words_per_turn": 51.75,
+    "word_ratio_seller_buyer": 1.19,
+    "total_conversation_length": 453
+  }
+}

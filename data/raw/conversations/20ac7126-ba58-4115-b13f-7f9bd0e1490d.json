@@ -1,0 +1,82 @@
+{
+  "simulation_id": "20ac7126-ba58-4115-b13f-7f9bd0e1490d",
+  "timestamp": "2026-03-01T23:09:18.895033",
+  "target_url": "https://www.mirantis.com",
+  "company_context": "Build AI Infrastructure Your Way, Anywhere | Mirantis Cancel Ok Cancel Ok See k0rdent in Action Get a tour of how k0rdent works. TRY INTERACTIVE DEMO Cancel Ok Meet Mirantis at NVIDIA GTC 2026 — Book Time With Our AI Infrastructure Experts Turn GPU Investment Into Revenue. Meet Mirantis at NVIDIA GTC 2026 Headed to NVIDIA GTC 2026? Let’s Talk AI Infrastructure. Reserve Your Spot Contact Us Docs Store Partners Training Public Sector Platform k0rdent AI: Provision multi-tenanted AI-ready infrastructure and core services WHY k0RDENT VIDEO: Run Anywhere. Automate Everything. k0rdent in 30 seconds. Solutions FROM METAL-TO-MODEL™ IaaS Unifed infrastructure automation Multi-Cluster Hybrid Multicloud Workload Migration Virtualization Private Clouds GPU PaaS GPU provisioning & partitioning AI Cloud Sovereign Cloud Enterprise AI Factory Government AI Factory AI PaaS Training, inference & self-service AI Turnkey Training Turnkey Inference Self-Service Portals AI Services Expert support & services MCP AdaptiveOps Services Modern Application Delivery App Modernization Cloud Platform Operations AI Inferencing Platform Workload Migration MCP AdaptiveOps Enterprise Support Resources KNOWLEDGE BASE Resource Library Blog Case Studies Cloud Native Cookbook Guided Demos Tech Talks Videos Webinars COMPANY Why Mirantis About Press Releases Careers Leadership Events GET STARTED Platform Why k0rdent VIDEO: Run Anywhere. Automate Everything. k0rdent in 30 seconds. Nebul: Delivering Sovereign AI Clouds for European Enterprises Discover how a neocloud uses Mirantis k0rdent AI to achieve \"shared nothing\" security without the pain of Kubernetes sprawl. Solutions IaaS — Multi-Cluster — Hybrid Multicloud — Workload Migration — Virtualization — Private Clouds GPU PaaS — AI cloud — Sovereign Cloud — Enterprise AI Factory — Government AI Factory AI PaaS — Turnkey Training — Turnkey Inference — Self-Service Portals AI Services — MCP AdaptiveOps Services Modern Application Delivery App Modernization Cloud Platform Operations AI Inferencing Platform Workload Migration MCP AdaptiveOps Enterprise Support Resources KNOWLEDGE BASE Resource Library Blog Case Studies Cloud Native Cookbook Guided Demos Tech Talks Videos Webinars COMPANY Why Mirantis About Press Releases Careers Leadership Events Store Partners Training Public Sector Get Started Contact Us BUILD AI INFRA from Metal-to-Model™ Your Way, Anywhere The simple and frictionless way to manage AI workload clusters across clouds, on-prem, hybrid and edge VIEW REFERENCE ARCHITECTURE VIEW REFERENCE ARCHITECTURE Multi-tenant networking partner with NVIDIA BlueField DPUs. LEARN MORE VIDEO: Run Anywhere. Automate Everything. k0rdent in 30 seconds SAME DAY Operationalize GPUs the day your hardware arrives. MINUTES TO SECONDS Reduce time to deploy ML models. 30 - 50 % Reduce idle resource costs. METAL-TO-MODEL LIFECYCLE AUTOMATION Automate AI infrastructure and services from provisioning to production with template-driven orchestration. Mee",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure. I came across your company while researching attendees for the NVIDIA GTC 2026 conference. Are you the right person to speak with about your data processing needs?",
+      "word_count": 53,
+      "char_count": 323
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes, I'm the CTO. We're actually in the process of evaluating our current infrastructure, but I have to say, we've already made some significant investments with another vendor. What makes DeepData AI unique compared to what we're already using?",
+      "word_count": 40,
+      "char_count": 249
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. We often see companies locked into contracts, but our solution offers a more scalable and cost-effective approach. Our AI-powered platform can handle large volumes of data more efficiently, which can lead to significant cost savings in the long run. Would you be open to exploring how our solution could potentially integrate with your existing infrastructure?",
+      "word_count": 58,
+      "char_count": 394
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but integration is a major concern for us. We've invested heavily in customizing our current solution, and I'm not sure we're willing to rip and replace at this point. Plus, our contract with the other vendor still has a year left on it. What kind of ROI could you guarantee to make it worth our while to switch?",
+      "word_count": 62,
+      "char_count": 336
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration and contract commitments. We've worked with other companies in similar situations and have been able to demonstrate significant ROI within the first six months of implementation. However, I'd need to discuss the specifics of your current setup to provide a more accurate estimate. Could I schedule a follow-up conversation to dive deeper into your infrastructure and see if there's a potential fit?",
+      "word_count": 69,
+      "char_count": 454
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your willingness to work with us, but to be honest, we're not in a position to consider switching vendors at this point. Our contract with the other vendor is quite comprehensive, and we've got a good relationship with their team. I think it would be best if we just focused on getting the most out of our current investment rather than exploring new options.",
+      "word_count": 66,
+      "char_count": 372
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your position, and I respect your decision. If you're open to it, I could send over some information about our solution and check in with you in a few months to see if your needs have changed?",
+      "word_count": 39,
+      "char_count": 205
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you, Alex, but I think we'll have to pass. We're committed to our current vendor for the foreseeable future, and I don't see that changing anytime soon. I appreciate your time, and I wish you the best of luck with your sales efforts, but I think we're going to have to decline any further discussions about DeepData AI.",
+      "word_count": 59,
+      "char_count": 325
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's integration concerns and provided more concrete examples of successful integrations with other customers to alleviate these concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's integration concerns and provided more concrete examples of successful integrations with other customers to alleviate these concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 219,
+    "total_buyer_words": 227,
+    "avg_seller_words_per_turn": 54.75,
+    "avg_buyer_words_per_turn": 56.75,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 446
+  }
+}

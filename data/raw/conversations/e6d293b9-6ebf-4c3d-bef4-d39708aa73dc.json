@@ -1,0 +1,82 @@
+{
+  "simulation_id": "e6d293b9-6ebf-4c3d-bef4-d39708aa73dc",
+  "timestamp": "2026-03-01T23:06:49.769009",
+  "target_url": "https://www.tiny.com",
+  "company_context": "Tiny | We buy wonderful businesses Want to keep up to date on what we're up to? Sign up for the Tiny Dispatch, a monthly digest of what we’re thinking, learning, and looking to do next. Thank you! Your submission has been received! Please check you've entered your email address correctly. We buy wonderful businesses. For over a decade, we've been partnering with founders to give them quick, straightforward exits that protect their team and culture and keep their businesses operating for the long term. 32 Companies $250+ Million IN REVENUE 18 Years in business Selling your company shouldn't look like this: After going through the misery of selling a company to traditional buyers many times ourselves, we started Tiny to become the buyer we wish we could have sold to. We do it differently. A fair offer in 7 days. Close in as quick as 30. Keep your team and culture intact. No months of negotiations. No legal fee surprises. No watching your life's work get dismantled. Learn more about why we started Tiny arrow Over the last 15 years, we've built a family of 35+ wonderful businesses... Dribbble Show and tell for designers MetaLab Product design agency Pixel Union Ecommerce apps and themes Flow Beautiful project management Creative Market Digital goods marketplace Artboard We Work Remotely Remote job board Designer News News for designers 5bce19349f4e0e90996e3465_UnicornHunt_Icon Unicorn Hunt Startup job board Mealime Mealime Meal planning made easy Fresh Gigs Marketing job board Castro Top podcast player Z1 Digital product studio MediMap Access to care made easy Out Of The Sandbox Incredible Shopify themes 5d0d5acc41baf2876c086a1b_DobuleUp20Logo20Icon DoubleUp Growth marketing agency Artboard Meteor App development framework Supercast Listener supported podcasting Artboard Copy Rehash Ecommerce design firm Artboard Copy RideHome TLDR podcast network 8020 8020 NoCode agency Artboard Copy 2 Caramba Modern furniture brand Button Button Government software agency Liftoff Liftoff Fullstack software agency FS Foursixty Instagram + Shopify app 5f213036c3de551b022bac97_buyer-logo Buyer Negotiation as a service GirlBoss Girlboss Network for ambitious women Mailman Mailman Your inbox, tamed Dribbble Show and tell for designers MetaLab Product design agency Pixel Union Ecommerce apps and themes Flow Beautiful project management Creative Market Digital goods marketplace Artboard We Work Remotely Remote job board Designer News News for designers 5bce19349f4e0e90996e3465_UnicornHunt_Icon Unicorn Hunt Startup job board 5bc91a43aa1ab039d4feb0e2_Mealime_Icon Mealime Meal planning made easy Fresh Gigs Marketing job board Castro Top podcast player Z1 Digital product studio MediMap Access to care made easy Out Of The Sandbox Incredible Shopify themes 5d0d5acc41baf2876c086a1b_DobuleUp20Logo20Icon DoubleUp Strategic growth agency Artboard Meteor App development framework Supercast Listener supported podcasting Artboard Copy Rehash Ecommerce design firm Artboard Copy RideHom",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. I came across Tiny and was impressed with the wonderful businesses you've partnered with. I'd love to explore how DeepData AI can help you optimize your data processing.",
+      "word_count": 58,
+      "char_count": 354
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah, we're always looking for ways to improve our operations, but I have to say, we're pretty set on our current data processing tools. What makes DeepData AI so special that it's worth considering a switch?",
+      "word_count": 37,
+      "char_count": 212
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle large volumes of data much faster and more accurately than traditional solutions. We've seen companies like yours reduce their data processing time by up to 70%. Plus, our solution is highly scalable and can integrate with your existing systems.",
+      "word_count": 45,
+      "char_count": 284
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I'm concerned about the cost. We've already invested heavily in our current data infrastructure, and I'm not sure we're ready to take on another significant expense. What kind of pricing are we talking about?",
+      "word_count": 38,
+      "char_count": 237
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the specific needs of each company. We've worked with similar businesses in the past and have seen a significant ROI. I'd be happy to provide a detailed quote and discuss how we can tailor our solution to fit your budget.",
+      "word_count": 51,
+      "char_count": 288
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but to be honest, we're in the middle of a major project right now, and I'm not sure we have the bandwidth to take on a new implementation. We're also exploring other options, like working with our existing vendors to see if they can provide similar solutions. Can you tell me what sets DeepData AI apart from the competition?",
+      "word_count": 62,
+      "char_count": 345
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. Our AI-powered engine is unique in that it can learn and adapt to your specific data needs over time, providing more accurate and relevant insights. We also offer exceptional customer support and a dedicated onboarding process to ensure a smooth transition. I'd be happy to provide some case studies and references from our existing clients.",
+      "word_count": 56,
+      "char_count": 353
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the information, but I think we're going to have to pass on DeepData AI for now. We need to focus on our current priorities, and I'm not convinced that your solution is the right fit for us at this time. I'll need to discuss this with our team, but I think we're going to have to decline your offer.",
+      "word_count": 61,
+      "char_count": 312
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to phase in the implementation or offer a trial to mitigate the perceived risk of switching during a busy period. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to phase in the implementation or offer a trial to mitigate the perceived risk of switching during a busy period. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 210,
+    "total_buyer_words": 198,
+    "avg_seller_words_per_turn": 52.5,
+    "avg_buyer_words_per_turn": 49.5,
+    "word_ratio_seller_buyer": 1.06,
+    "total_conversation_length": 408
+  }
+}

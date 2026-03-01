@@ -1,0 +1,82 @@
+{
+  "simulation_id": "00c2a130-f41a-4b65-9b8c-0a2d18c704d3",
+  "timestamp": "2026-03-01T23:07:06.562377",
+  "target_url": "https://www.craft.co",
+  "company_context": "Home | Craft.co Skip to Content Live Webinar: 2026 Supply Chain Risk Predictions Register Now Close Menu Platform Industries Government Enhance risk visibility and mitigation in federal government. Higher Education Protect grants and ensure compliance across your institution. Aerospace and Defense Simplify risk management in this complex and crucial sector. Financial Services Navigate challenges within the financial services sector. Manufacturing Optimize risk management in manufacturing. Resource Center Resources Learn more about Craft, our vision, and what we’re doing to strengthen global supply chain resilience. Blog Explore Craft thought leadership from our technology and supply chain experts. Events Get the latest industry news, topics, and trends from Craft experts. Company About Us Learn about our mission, world-class technology, and esteemed investors. Culture & Careers Learn about our culture and check out our current job postings. Newsroom Stay up to date on our latest news and announcements. Contact Us Learn more about the Craft platform and how we can mitigate risk to your supply chain. Request a Demo Advanced intelligence for every procurement supply chain supplier vendor third-party decision AI-powered supplier evaluation, continuous monitoring, and risk management Trusted by Fortune 500 enterprises and government agencies Advanced Intelligence for every stage of the supplier lifecycle Supplier Evaluation Continuous Monitoring Sourcing Diligence Evaluate prospective suppliers and inform RFP/RFQ decisions with confidence using verified third party data. Learn more Supplier Qualification Accelerate onboarding and qualification by replacing manual surveys with automatically sourced intelligence and evidence. Learn more Risk Management Continuously detect, investigate, and prioritize emerging risks so teams can respond faster and strengthen supply chain resilience. Learn more Relationship Management Equip teams with on-demand intelligence to know your suppliers, enforce governance, and make the best day-to-day decisions. Learn more Platform Architecture Unified, AI integrated system of intelligence One system to identify, investigate, monitor, and manage supplier risk with the speed and visibility teams need Data Fabric Unified source of supplier truth Aggregated, normalized, and enriched supplier data in one centralized, trusted foundation 250k+ supplier attributes and real-time news from 20+ data pipelines Agentic intelligence to fetch, refresh, normalize, and resolve records across sources Network graph mapping supplier hierarchies, dependencies, and relationships Decision intelligence Data in. High-fidelity intelligence out. Turn supplier data into decision-quality risk signals and performance insight AI-native risk detection, scoring, and alerts across supplier portfolios Configurable frameworks to assess risk across 6+ domains Intelligence integrated into the tools, workflows, and reports where teams work most Intelligent workspac",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their supply chain operations. I came across Craft.co and was impressed with the work you're doing in the aerospace and defense sector. Can you tell me a bit about your current data management challenges?",
+      "word_count": 57,
+      "char_count": 337
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We do face some challenges in terms of data visibility and risk mitigation. But we've recently implemented a solution with a competitor, and I'm not sure we're in the market for another data processing tool right now.",
+      "word_count": 39,
+      "char_count": 226
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you may have existing solutions in place. However, our DeepData AI platform offers advanced intelligence and real-time monitoring capabilities that can help you stay ahead of the competition. We've seen significant ROI for our clients in the aerospace and defense sector. Would you be open to exploring how our solution can complement or even replace your current tool?",
+      "word_count": 61,
+      "char_count": 387
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we've just signed a three-year contract with our current provider. I'm not sure it would be feasible for us to switch vendors at this point, especially considering the integration costs and potential downtime.",
+      "word_count": 38,
+      "char_count": 237
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the concerns about integration and contract commitments. However, our platform is designed to be highly adaptable and can integrate with existing systems relatively seamlessly. We've also had success with clients who were able to negotiate exit clauses or find creative ways to transition to our platform. Would you be willing to discuss this further with our technical team to see if there's a potential solution that could work for you?",
+      "word_count": 72,
+      "char_count": 451
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, but I think we're locked in pretty tightly with our current contract. Additionally, our IT department is already stretched thin with other priority projects, so I don't think we could realistically take on a new integration project right now.",
+      "word_count": 43,
+      "char_count": 273
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand. Perhaps we could discuss potential future opportunities or explore other areas where our solution might be a good fit. Do you have any upcoming projects or initiatives that might require advanced data processing capabilities?",
+      "word_count": 37,
+      "char_count": 245
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I think we're all set for now. We appreciate the outreach, but we're going to have to decline. Our current contract and existing relationships are our priority, and we can't justify exploring alternative solutions at this time. Thank you for your understanding.",
+      "word_count": 42,
+      "char_count": 261
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more effectively addressed the buyer's concerns about integration costs and contract commitments earlier in the conversation to potentially overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns about integration costs and contract commitments earlier in the conversation to potentially overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 227,
+    "total_buyer_words": 162,
+    "avg_seller_words_per_turn": 56.75,
+    "avg_buyer_words_per_turn": 40.5,
+    "word_ratio_seller_buyer": 1.4,
+    "total_conversation_length": 389
+  }
+}
