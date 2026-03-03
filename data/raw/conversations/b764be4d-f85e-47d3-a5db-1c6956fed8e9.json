@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b764be4d-f85e-47d3-a5db-1c6956fed8e9",
+  "timestamp": "2026-03-03T23:59:12.191769",
+  "target_url": "https://www.crossbeam.com",
+  "company_context": "The Ecosystem Revenue Platform | Crossbeam Get a Demo Get a Demo Get a Demo Log in Log in Sign up for Free Sign up for Free Sign up for Free Sign up for Free Get a Demo Get a Demo Get a Demo Log in Log in Sign up for Free Sign up for Free Sign up for Free Sign up for Free Get a Demo Get a Demo Get a Demo Log in Log in Sign up for Free Sign up for Free Sign up for Free Sign up for Free Get a Demo Get a Demo Get a Demo Log in Log in Sign up for Free Sign up for Free Sign up for Free Sign up for Free Take a tour Plans and Pricing Book a demo Turn your CRM into an ecosystem revenue engine Access unique ecosystem insights from your partners' CRMs to ‍ uncover new opportunities, target the right accounts, and achieve your revenue goals. Get started for free Join over 30,000 companies scaling their ecosystem with Crossbeam to uncover new opportunities and drive revenue growth The new way to go-to-market The old GTM playbooks aren’t working. Ecosystem-Led Growth (ELG) isn't just another buzzword—it's a game-changing strategy transforming how companies attract, convert, and grow customer relationships by leveraging their partner ecosystems. The stats behind Ecosystem-Led deals: + 00 53 % 53 More likely to close + 00 46 % 46 faster time to close + 00 58 % 58 less likely to churn Crossbeam powers Ecosystem-Led Growth Demand generation Build a stronger pipeline Automatically surface mutual customer and prospect accounts from your partners and get a glimpse into their CRMs. Know what companies are buying and which deals are heating up so you can build higher quality pipeline. Check out Account Mapping Sales Acceleration Target the right accounts Make sure your teams are focused on the most promising prospects and opportunities with insights only your ecosystem can provide. Use AI to give reps the next best steps to take action. Ride along with Crossbeam Copilot Retention and Expansion Keep customers longer Identify your top performing partners to drive greater customer value. Uncover upsell opportunities and create product stickiness to keep your customers around longer. Learn about Partner Impact NEW REVENUE CHANNELS Break into new markets Use ecosystem data to expand your ICP and addressable market by uncovering new territories, industries, and verticals. Dive into Greenfield Here's how it works Step 1 Find your partners and connect Easily find and activate partnerships with over 30,000 companies on the Crossbeam Network. Step 2 Securely share data with full control Connect Crossbeam with your CRM, data warehouse, Google Sheets, or CSV files. Securely share the data you want with the partners you choose. Step 3 Access proprietary ecosystem insights Crossbeam automatically identifies mutual accounts between you and your partners— including new, untapped demand — and provides you with actionable insights from across your entire ecosystem. Step 4 Close more business faster Arm your GTM teams with insights they need to identify new leads, accelerate deals, and ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours unlock insights and drive revenue growth. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 41,
+      "char_count": 237
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a combination of in-house tools and external vendors. But to be honest, we're not really looking to make any changes right now. Our current setup is working well enough, and we're not experiencing any major pain points.",
+      "word_count": 42,
+      "char_count": 250
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you might not be experiencing any major issues, but our solution can help you optimize your data processing and uncover new opportunities. We've seen companies similar to yours achieve significant revenue growth by leveraging our platform. Would you be open to exploring how DeepData AI can help you?",
+      "word_count": 51,
+      "char_count": 318
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We've recently invested in a new CRM system, and we're still in the process of integrating it with our existing infrastructure. I'm not sure if we have the bandwidth to take on another new solution right now. Plus, I'd need to check with our procurement team to see if we have the budget for it.",
+      "word_count": 58,
+      "char_count": 309
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration and budget. However, our solution is designed to be flexible and scalable, and we've had success integrating with a variety of CRMs. We also offer a tiered pricing model to accommodate different budgets. Can I schedule a demo to show you how DeepData AI can work with your existing setup and provide a customized quote?",
+      "word_count": 62,
+      "char_count": 375
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm still not convinced that we need a new data processing solution. We've also been exploring other options, such as upgrading our in-house tools or partnering with a different vendor. I'd need to discuss this with our team and evaluate all our options before making a decision.",
+      "word_count": 52,
+      "char_count": 307
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you want to explore all your options. However, I'd like to highlight that our solution has a unique value proposition that sets us apart from our competitors. We've had success with similar companies in your industry, and I believe we can provide significant value to your business. Can I follow up with you in a few weeks to see if you've had a chance to discuss this with your team?",
+      "word_count": 73,
+      "char_count": 402
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. We've got a lot on our plate, and we need to prioritize our existing initiatives. I don't see us making any changes to our data processing setup in the near future. Thank you for reaching out, but I think we're all set.",
+      "word_count": 61,
+      "char_count": 320
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and integration earlier in the conversation to potentially overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and integration earlier in the conversation to potentially overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 227,
+    "total_buyer_words": 213,
+    "avg_seller_words_per_turn": 56.75,
+    "avg_buyer_words_per_turn": 53.25,
+    "word_ratio_seller_buyer": 1.07,
+    "total_conversation_length": 440
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "1d973002-9b16-4944-803c-aa20c2177619",
+  "timestamp": "2026-03-03T23:59:19.107022",
+  "target_url": "https://www.drata.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours gain insights and make data-driven decisions. Can you tell me a bit about your current data processing workflow?",
+      "word_count": 40,
+      "char_count": 236
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We actually already have a solution in place that we're pretty happy with. It's been working for us for a while now, so I'm not sure what you're offering would bring to the table.",
+      "word_count": 36,
+      "char_count": 188
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. However, our solution, DeepData AI, has been shown to increase processing speeds by up to 30% and reduce costs by up to 25%. We've had success with similar companies in your industry. Would you be open to exploring how our solution could potentially improve your current workflow?",
+      "word_count": 50,
+      "char_count": 314
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but to be honest, we've just implemented a new system and we're still in the process of integrating it. Timing-wise, it's not ideal for us to consider switching or adding another solution right now. Plus, I'd be concerned about the cost – our budget for this year is already allocated.",
+      "word_count": 54,
+      "char_count": 309
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about timing and budget. We do offer flexible pricing plans and implementation schedules that can accommodate your needs. Additionally, our solution can integrate with most existing systems, so it shouldn't disrupt your current workflow. We've also had success with companies who were hesitant to switch but found our solution to be a significant improvement.",
+      "word_count": 59,
+      "char_count": 397
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see what you're saying, but integration is a big concern for us. We've had issues in the past with vendors overpromising on integration capabilities, only to find out it's more complicated and costly than expected. And even if your solution does integrate well, I'm not sure it would be worth the potential disruption to our operations, especially considering we're happy with our current provider.",
+      "word_count": 65,
+      "char_count": 400
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your skepticism, and I assure you that our integration process is thorough and well-documented. We've worked with numerous companies with complex systems and have a high success rate. I'd be happy to provide case studies or references if that would help alleviate your concerns.",
+      "word_count": 46,
+      "char_count": 291
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you for understanding, Alex. I appreciate the effort you've put into this call, but I think we're going to have to pass on DeepData AI for now. We're just not in a position to consider switching from our current solution, and I don't see a compelling reason to add another vendor to our mix. I wish you the best of luck with your sales efforts, but I think this is where we'll have to end our exploration of your product.",
+      "word_count": 81,
+      "char_count": 427
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have provided more specific examples or case studies earlier in the conversation to address the buyer's integration concerns and build credibility. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have provided more specific examples or case studies earlier in the conversation to address the buyer's integration concerns and build credibility. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 195,
+    "total_buyer_words": 236,
+    "avg_seller_words_per_turn": 48.75,
+    "avg_buyer_words_per_turn": 59.0,
+    "word_ratio_seller_buyer": 0.83,
+    "total_conversation_length": 431
+  }
+}
