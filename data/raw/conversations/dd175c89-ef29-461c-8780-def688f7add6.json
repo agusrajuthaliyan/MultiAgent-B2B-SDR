@@ -1,0 +1,82 @@
+{
+  "simulation_id": "dd175c89-ef29-461c-8780-def688f7add6",
+  "timestamp": "2026-03-03T23:57:19.537289",
+  "target_url": "https://www.rockwellautomation.com",
+  "company_context": "Select a Region | Rockwell Automation Loading Welcome Find products and solutions specific to your country or territory Select a Region North America Central & South America Europe Asia Pacific Africa & Middle East North America United States - English Canada - English | Français México - Español Central & South America Argentina - Español Belice - Español Bolivia - Español Brasil - Português Chile - Español Colombia - Español Costa Rica - Español El Salvador - Español Ecuador - Español Guatemala - Español Guayana - English Guayana Francesa - English Haití | Haiti - Español | English Honduras - Español Nicaragua - Español Panamá - Español Paraguay - Español Perú - Español Puerto Rico - Español | English República Dominicana | Dominican Republic - Español | English Suriname - English Trinidad and Tobago - Español | English Venezuela - Español Europe Belgique | Belgium - Français | English Czech Republic - English Denmark - English Deutschland - Deutsch España - Español Finland - English France - Français Hungary - English Ireland - English Israel - English Italia - Italiano Netherlands - English Norway - English Österreich - Deutsch Poland - English Portugal - Português Romania - English Russia - English Schweiz | Suisse - Deutsch | Français Sweden - English Turkey - English Ukraine - English United Kingdom - English Asia Pacific Australia - English India - English Indonesia - English Malaysia - English New Zealand - English Philippines - English Singapore - English Thailand - English Vietnam - English 한국 - 한국어 中国 - 简体中文 台灣, 中國 - 繁體中文 日本 - 日本語 Africa & Middle East Angola - English Bahrain - English Botswana - English Egypt - English Eswatini - English Ghana - English Iraq - English Jordan - English Kenya - English Kuwait - English Lebanon - English Lesotho - English Madagascar - English Malawi - English Mauritius - English Mozambique - English Namibia - English Nigeria - English Oman - English Qatar - English Saudi Arabia - English South Africa - English Tanzania - English Uganda - English United Arab Emirates - English Yemen - English Zambia - English Zimbabwe - English Cancel Cancel No Preference JavaScript is required for automatic region detection. Please select your region above or click here to go to the main site . ✕ Please update your cookie preferences to continue. This feature requires cookies to enhance your experience. Please update your preferences to allow for these cookies: Social Media Cookies Functional Cookies Performance Cookies Marketing Cookies All Cookies You can update your preferences at any time. For more information please see our {0} Privacy Policy Cancel Go to Cookie Settings Close Close",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management and analytics. Can I speak with the person in charge of IT decisions?",
+      "word_count": 39,
+      "char_count": 224
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, that's me. I'm the CTO. What's this about?",
+      "word_count": 9,
+      "char_count": 46
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Great to connect with you! Our solution, DeepData AI, uses machine learning to automate data processing, reducing manual errors and increasing efficiency. We've seen great success with similar companies in your industry. I'd love to schedule a demo to show you how it can benefit your team.",
+      "word_count": 47,
+      "char_count": 290
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we need another data processing solution. We're currently using a competitor's product, and it's been working fine for us. What makes DeepData AI different, and how much does it cost?",
+      "word_count": 33,
+      "char_count": 196
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Well, our solution is more advanced in terms of AI capabilities, and it's priced competitively. We offer a tiered pricing model, starting at $10,000 per year for small to medium-sized businesses. However, for a company of your size, it would likely be around $50,000 to $100,000 per year, depending on the scope of implementation.",
+      "word_count": 54,
+      "char_count": 330
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a significant investment. We're in the middle of our budget cycle, and I'm not sure we can accommodate that right now. Plus, I'm concerned about integration with our existing systems. How long does implementation typically take, and what kind of support do you offer?",
+      "word_count": 45,
+      "char_count": 274
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Implementation can take anywhere from a few weeks to a few months, depending on the complexity of the project. We have a dedicated support team that provides assistance every step of the way. We also offer customized onboarding and training to ensure a smooth transition.",
+      "word_count": 45,
+      "char_count": 271
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're happy with our current solution. We've invested a lot of time and resources into it, and switching to a new platform would require significant buy-in from our team. I don't think it's worth the disruption and cost at this point. Thank you for reaching out, but I think we'll have to pass on DeepData AI for now.",
+      "word_count": 66,
+      "char_count": 358
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have provided more tailored value propositions and addressed the buyer's concerns about integration and cost more effectively to overcome the price objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have provided more tailored value propositions and addressed the buyer's concerns about integration and cost more effectively to overcome the price objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 185,
+    "total_buyer_words": 153,
+    "avg_seller_words_per_turn": 46.25,
+    "avg_buyer_words_per_turn": 38.25,
+    "word_ratio_seller_buyer": 1.21,
+    "total_conversation_length": 338
+  }
+}

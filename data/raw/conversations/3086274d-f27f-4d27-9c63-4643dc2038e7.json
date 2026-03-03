@@ -1,0 +1,96 @@
+{
+  "simulation_id": "3086274d-f27f-4d27-9c63-4643dc2038e7",
+  "timestamp": "2026-03-03T23:55:00.468668",
+  "target_url": "https://www.pulumi.com",
+  "company_context": "Pulumi - Infrastructure as Code in Any Programming Language Modern Infrastructure as Code, Now with Agentic AI. The cloud infrastructure platform engineers love and enterprises trust. Any cloud, any language. Secure and governed by default. Try Pulumi Cloud for Free Contact Sales Trusted by over 3,700 innovative companies The Complete Platform for Infrastructure Teams From open source IaC to AI automation, Pulumi provides everything platform teams need to ship infrastructure faster. One platform that integrates infrastructure as code, secrets management, policy governance, and AI—no more stitching together disconnected tools. Real Languages Use TypeScript, Python, Go, C#, or Java. Full IDE support, testing frameworks, and package ecosystems. Infrastructure as software. Secure by Default Encrypted secrets, dynamic credentials, audit trails. SOC 2 Type II certified. Meet compliance requirements without slowing down. AI for Infrastructure Generate infrastructure from requirements, reviews PRs, and debugs deployments, with complete organizational context. “Pulumi helped our team to ship a new product faster. We needed one tool to setup and manage multi-cloud, multi-region Kubernetes clusters that infrastructure and applications teams could use collaboratively” Justin Fitzhugh, VP of Cloud Platform Engineering Infrastructure as Code in Any Language Write infrastructure in TypeScript, Python, Go, C#, Java, or YAML. Use real programming languages with loops, conditions, and functions. Test your code. Share reusable components. Deploy to any cloud. Learn more: Pulumi IaC “Since it’s just another programming language with control structures and external packages, it makes for a good transition from application code to infrastructure as code. Infrastructure contributors grew from 1-2 people to over 40 active engineers across the organization.” Paul Cioanca, Platform Engineer Meet Neo, Your AI Platform Engineer The industry’s first AI agent built for infrastructure. Neo understands your entire infrastructure context, respects your policies, and executes complex tasks end-to-end. Werner Enterprises reduced provisioning time from 3 days to 4 hours. Learn more: Pulumi Neo “Pulumi Neo addresses our biggest challenge of eliminating the infrastructure bottleneck that slows down our entire engineering organization. To get to market faster, we require infrastructure intelligence that understands our environment, respects our guardrails, and keeps humans in the loop so we can move faster, safely .” Richard Genthner, Chief Information Security Officer Centralized Secrets & Configuration Stop juggling multiple vaults and config files. Pulumi ESC provides one interface for all your secrets—connect HashiCorp Vault, AWS Secrets Manager, Azure Key Vault, and more. Generate dynamic credentials with OIDC. Works everywhere, with or without Pulumi IaC. Learn more: Pulumi ESC See and Control Everything One pane of glass for all your clouds. Search infrastructure with natural l",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. We're a data processing solution that helps companies like yours streamline their data infrastructure. How are you today?",
+      "word_count": 32,
+      "char_count": 200
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. I'm John, the CTO here. What makes you think we need a new data processing solution?",
+      "word_count": 20,
+      "char_count": 108
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "We've worked with several companies in your industry and seen significant improvements in data processing efficiency. Our solution uses AI to automate data workflows, reducing costs and increasing productivity. I'd love to schedule a demo to show you how it works.",
+      "word_count": 41,
+      "char_count": 264
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We're currently using Pulumi for our infrastructure as code, and it's been working well for us. They also have an AI component, Neo, that helps with infrastructure management. How does your solution integrate with Pulumi?",
+      "word_count": 40,
+      "char_count": 252
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "We can definitely integrate with Pulumi, but our solution is more focused on data processing. We've seen cases where companies use Pulumi for infrastructure and our solution for data processing, and it works well. However, I understand that integration is a key concern. Can I ask, are you happy with the cost of using Pulumi, and do you think there's room for improvement in your data processing workflows?",
+      "word_count": 68,
+      "char_count": 407
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Honestly, we're happy with the cost of Pulumi, and it's been a good investment for us. As for data processing, we've built some custom scripts around Pulumi to handle our needs. I'm not sure we're looking to replace that right now. Plus, we're in the middle of a big project, and I don't think we have the bandwidth to evaluate a new solution.",
+      "word_count": 63,
+      "char_count": 343
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that timing can be a challenge. However, our solution can actually help you streamline your data workflows and free up resources for more strategic projects. We've seen companies like yours realize significant ROI within the first few months of implementation. Would you be open to a short pilot project to test our solution and see the benefits for yourself?",
+      "word_count": 61,
+      "char_count": 372
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass. We're happy with our current setup, and I don't see a compelling reason to change. We've invested a lot in Pulumi, and it's working well for us. I appreciate your time, but I think we'll stick with what we have.",
+      "word_count": 53,
+      "char_count": 276
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand, and I appreciate your honesty. If you ever reconsider or have any questions, please don't hesitate to reach out.",
+      "word_count": 21,
+      "char_count": 126
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Thank you, Alex. I appreciate the follow-up, but I think we're all set.",
+      "word_count": 13,
+      "char_count": 71
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have done more research on the buyer's current setup and tailored their pitch to better differentiate their solution from Pulumi and address the buyer's specific pain points. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have done more research on the buyer's current setup and tailored their pitch to better differentiate their solution from Pulumi and address the buyer's specific pain points. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 223,
+    "total_buyer_words": 189,
+    "avg_seller_words_per_turn": 44.6,
+    "avg_buyer_words_per_turn": 37.8,
+    "word_ratio_seller_buyer": 1.18,
+    "total_conversation_length": 412
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "6adf5e97-17af-4379-b230-d3ed5a91f558",
+  "timestamp": "2026-03-03T23:56:15.927794",
+  "target_url": "https://www.gorilla.io",
+  "company_context": "Gorilla IO",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex from Gorilla IO, and I'm reaching out today to talk about our data processing solution, DeepData AI. How are you doing today?",
+      "word_count": 27,
+      "char_count": 145
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. We're always looking for ways to improve our data processing, but I have to say, we've already got a few solutions in place. What makes DeepData AI different from what's already out there?",
+      "word_count": 37,
+      "char_count": 212
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. DeepData AI uses machine learning to optimize data processing, which can lead to significant cost savings and improved efficiency. We've seen our clients reduce their processing time by up to 50%. I'd love to schedule a demo to show you how it works.",
+      "word_count": 47,
+      "char_count": 275
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we're ready for a demo just yet. We're in the middle of evaluating a few other solutions, including one from a competitor that's offering a similar product at a lower price point. Can you tell me a bit more about your pricing?",
+      "word_count": 45,
+      "char_count": 239
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the amount of data being processed, and we offer a tiered pricing structure to accommodate different business needs. For a company of your size, I'd estimate the cost would be around $50,000 per year.",
+      "word_count": 39,
+      "char_count": 224
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit higher than we were expecting. We're working with a tight budget, and I'm not sure we can justify that expense. Can you offer any discounts or flexibility in your pricing?",
+      "word_count": 33,
+      "char_count": 184
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I can definitely talk to our sales team about potential discounts, but I'd need to get a better understanding of your specific needs and use case. That being said, we do offer a free trial period to test out the product and see the value for yourself.",
+      "word_count": 47,
+      "char_count": 251
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. The price is just too high, and we've got other solutions that can meet our needs at a lower cost. Thank you for reaching out, but I think we'll have to decline.",
+      "word_count": 50,
+      "char_count": 249
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address pricing concerns and offer more flexible or creative pricing options to overcome the buyer's budget objections. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address pricing concerns and offer more flexible or creative pricing options to overcome the buyer's budget objections. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 160,
+    "total_buyer_words": 165,
+    "avg_seller_words_per_turn": 40.0,
+    "avg_buyer_words_per_turn": 41.25,
+    "word_ratio_seller_buyer": 0.97,
+    "total_conversation_length": 325
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "92bb7cf3-c984-4fff-a8f4-6810f5796641",
+  "timestamp": "2026-03-03T23:52:21.631665",
+  "target_url": "https://www.exabeam.com",
+  "company_context": "Exabeam | Cybersecurity & Compliance with Security Log Management and SIEM Skip to content AI is driving 2026 cybersecurity budget growth, but proving its value is the real challenge — Get the Report. Contact Us EN Back Get a Demo EN Contact Us Get a Demo Real Intelligence. Real Security. Real Fast. AI and automation for threat detection, investigation, and response. Get a Demo Learn More RESEARCH REPORT AI is Driving Spend and Raising Doubt 95% are increasing budgets in 2026 with AI as the main driver despite being the hardest investment to justify. Get the Report INDUSTRY RECOGNITION Named a 6x Leader Exabeam is proud to be named a Leader in the 2025 Gartner ® ️ Magic Quadrant™ for Security Information and Event Management for the sixth time. Download Now Elevating Security Operations with Agentic AI Agent-Driven Detection, Investigation and Response Augment or replace your SIEM with behavioral analytics to accelerate triage and focus analysts on the threats that matter most. Agent-powered workflows accelerate investigations, improve accuracy, and increase team productivity. Industry-Leading Insider Threat Protection Baseline and understand normal behavior so you can identify the abnormal and take action. Expose the threats that other tools miss, including the new breed of insider threat: AI agents. Measurable, Outcomes-Driven Security Ingest your data at scale and connect it to business outcomes. Continuously improve your security program, leveraging an agent that advises on high-value use cases, and meet evolving compliance requirements. Explore trusted customer stories > The Leading Platform for TDIR Realize the full potential of your security operations with the cloud-native New-Scale Security Operations Platform, or the self-hosted LogRhythm SIEM Platform. Transition to a cloud-native SIEM Replace an on-premises SIEM Consolidate multiple SIEM tools Augment your SIEM with behavioral analytics Add AI and automation to an existing SIEM Integrate TDIR with a single UI Start an insider threat program Discover the Platform Better Security. Faster Results. Whether your SIEM is running cloud-native or self-hosted , the Exabeam Product Portfolio meets you where you are. Take a look at our most recent product announcements. See What’s New What outcomes are you looking to achieve? The Exabeam Portfolio provides flexibility and choice to achieve your most strategic security outcomes. From implementing TDIR best practices and tracking credential usage, to ensuring compliance and gaining supply chain visibility, Exabeam provides a use case-driven approach to combat insider threats, mitigate external risks, and meet regulatory requirements. Insider Threats Detect and mitigate insider attacks linked to stolen credentials. Monitor insider behavior to determine intent and take remedial actions. Learn More External Threats Defend against phishing, malware, ransomware, and more. Learn More Compliance Always-on compliance simplifies adherence and reporting. Le",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, Dr. Smith, thanks for taking my call. I'm reaching out from DeepData AI. We're a data processing solution that can help optimize your security operations. I came across Exabeam and noticed you're leveraging AI for threat detection. I'd love to explore how our solution can complement your existing setup.",
+      "word_count": 50,
+      "char_count": 308
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes, we are using AI, but I'm not sure what specific pain points you're trying to address with DeepData AI. We've got a pretty robust security infrastructure in place, including a SIEM system. What makes you think we need another data processing solution?",
+      "word_count": 44,
+      "char_count": 259
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great point, Dr. Smith. Our solution is designed to work in tandem with existing SIEM systems, providing more in-depth analytics and insights. We've seen significant success with other companies in the cybersecurity space, helping them reduce false positives and improve incident response times. I'd be happy to share some case studies if you're interested.",
+      "word_count": 56,
+      "char_count": 366
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm concerned about the cost. We've already made significant investments in our security infrastructure, and I'm not sure we have the budget to take on another solution. Not to mention, we're in the middle of evaluating some other competing solutions that claim to offer similar capabilities. Can you tell me what sets DeepData AI apart from the competition?",
+      "word_count": 63,
+      "char_count": 386
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely, Dr. Smith. Our solution is built on a proprietary AI engine that provides more accurate and efficient data processing. We've also got a robust integration framework that allows us to plug in seamlessly with existing systems. In terms of cost, I understand it's a concern, but we've seen our solution provide significant ROI for our customers. Perhaps we could discuss a pilot or proof-of-concept to demonstrate the value we can bring?",
+      "word_count": 72,
+      "char_count": 446
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's feasible at this time. We're in the midst of a major compliance audit, and I don't have the bandwidth to consider new solutions. Not to mention, I'd need to get buy-in from our procurement team, which can be a lengthy process. Look, I appreciate the pitch, but I think it's best if you just send me an email with some more information. I'll take a look when I have a chance.",
+      "word_count": 75,
+      "char_count": 394
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, Dr. Smith, I understand. I'll send over some information, and perhaps we can schedule a follow-up conversation in the future?",
+      "word_count": 21,
+      "char_count": 131
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "That's okay, I think just the email will be fine. We'll be in touch if we're interested in exploring further, but for now, I think we're going to have to pass on DeepData AI. Thanks for reaching out, though.",
+      "word_count": 39,
+      "char_count": 207
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have more effectively addressed the buyer's cost concerns and provided a clearer ROI justification to overcome the budget objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have more effectively addressed the buyer's cost concerns and provided a clearer ROI justification to overcome the budget objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 199,
+    "total_buyer_words": 221,
+    "avg_seller_words_per_turn": 49.75,
+    "avg_buyer_words_per_turn": 55.25,
+    "word_ratio_seller_buyer": 0.9,
+    "total_conversation_length": 420
+  }
+}
