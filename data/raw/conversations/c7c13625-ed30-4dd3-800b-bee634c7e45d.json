@@ -1,0 +1,75 @@
+{
+  "simulation_id": "c7c13625-ed30-4dd3-800b-bee634c7e45d",
+  "timestamp": "2026-03-04T00:01:37.518572",
+  "target_url": "https://www.temporal.io",
+  "company_context": "Durable Execution Solutions | Temporal Welcome to Temporal What if your code never failed? Failures happen. Temporal makes them irrelevant. Build applications that never lose state, even when everything else fails. Get Started for Free Run Locally @workflow.defn class SleepForDaysWorkflow: # Send an email every 30 days, for the year @workflow.run async def run(self) -> None: for i in range(12): # Activities have built-in support for timeouts and retries! await workflow.execute_activity( send_email, start_to_close_timeout=timedelta(seconds=10), ) # Sleep for 30 days (yes, really)! await workflow.sleep(timedelta(days=30)) PYTHON GO TYPESCRIPT RUBY C# JAVA PHP Write code as if failure doesn’t exist Distributed systems break, APIs fail, networks flake, and services crash. That’s not your problem anymore. Managing reliability shouldn’t mean constant firefighting. Temporal Workflows automatically capture state at every step, and in the event of failure, can pick up exactly where they left off. No lost progress, no orphaned processes, and no manual recovery required. You have to see it to believe it Temporal doesn’t work like anything you’ve used before. Watch how we guarantee the Durable Execution of your code in the face of any failure. Watch a Demo How It Works Create failproof apps using our SDKs Write your business logic in the programming languages you already use with our native SDKs. Your days of writing reconciliation logic or boilerplate code are over. Build Workflows that handle failures for you Write your business logic as code as a Temporal Workflow. Workflows might involve moving money between bank accounts, processing orders, deploying cloud infrastructure, training an AI model, or something else entirely. Because the full running state of a Workflow is durable and fault tolerant by default, your business logic can be recovered, replayed, or paused at any point. Write Activities to handle and retry failure-prone logic APIs fail, networks time out, and users abandon sessions. Temporal treats these interactions as Activities: functions that retry automatically and recover seamlessly. Replace your brittle state machines The Temporal Service persists the state of your application and has built-in retries, task queues, signals, and timers, to make sure your code always picks up where it left off. Host the Temporal Service yourself as part of the open-source project , or let us host it for you with Temporal Cloud . Get full visibility into your running code No more wasting time sifting through logs. Get visibility into the exact state of each of your Workflow executions. Common patterns and use cases Agents, MCP, & AI Pipelines Develop agents that survive real-world chaos, reliable MCP & orchestrate training pipelines. Humans-in-the-Loop No more duct-taping Workflows around human input: just clean, durable orchestration. Compensating Patterns (Saga) Make Saga easy: what if Saga was simply a try...catch? Long-running Workflows Run Workflows for ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi [CTO Name], this is [SDR Name] from DeepData AI. I'm reaching out because I saw your company is actively working with distributed systems, and we help teams like yours significantly improve their data processing reliability. Are you the right person to discuss how you handle complex data pipelines and any potential bottlenecks you might be facing?",
+      "word_count": 57,
+      "char_count": 352
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "[CTO Name] here. \"Improve reliability\" – that's a bold claim. We have pretty robust internal systems and a dedicated engineering team managing our data infrastructure. What exactly does DeepData AI do that we're not already covering?",
+      "word_count": 36,
+      "char_count": 233
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand you have strong internal capabilities. At DeepData AI, we specialize in providing a highly resilient, AI-powered data processing layer that augments existing infrastructure. Think of it as a safety net and accelerator for your most critical data workflows, ensuring accuracy and timely delivery even under extreme load or intermittent system failures. Our clients typically see a reduction in data processing errors by 30% and a significant decrease in manual reconciliation efforts.",
+      "word_count": 73,
+      "char_count": 496
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Interesting, but frankly, we're heavily invested in our current data orchestration platform. We've spent a considerable amount of time and resources integrating it into our stack. Switching or even adding a new layer like you're describing would be a massive undertaking, both in terms of engineering effort and potential disruption. Is your solution compatible with existing complex architectures?",
+      "word_count": 58,
+      "char_count": 398
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a fair point about integration. We've designed DeepData AI with that in mind. Our solution is built to be highly modular and can integrate seamlessly with a wide range of existing orchestration tools and databases. We can act as a specialized layer, enhancing specific data processing steps rather than requiring a full overhaul. Many of our clients leverage us to offload the complexity of mission-critical, failure-prone data tasks, freeing up their core engineering teams for innovation.",
+      "word_count": 77,
+      "char_count": 497
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "While the concept of offloading complexity is appealing, and the stats you mentioned are noteworthy, we're currently locked into a multi-year contract with our primary data solutions provider. They offer a comprehensive suite that covers most of our needs, and frankly, the cost and contractual obligations with them are significant. We're not in a position to explore new major data investments right now.",
+      "word_count": 63,
+      "char_count": 406
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate you taking the time to explain DeepData AI, [SDR Name]. It sounds like a compelling technology, and I can see how it could offer value in certain scenarios. However, as I mentioned, we're deeply committed to our current vendor for the foreseeable future due to contractual agreements. We simply can't consider a solution like yours at this time. Thank you for reaching out.",
+      "word_count": 65,
+      "char_count": 386
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 3\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have probed more into the CTO's specific pain points related to distributed systems early on to better tailor their value proposition. Sentiment: Neutral",
+    "parsed": {
+      "score": 3,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have probed more into the CTO's specific pain points related to distributed systems early on to better tailor their value proposition. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 3,
+    "total_seller_words": 207,
+    "total_buyer_words": 222,
+    "avg_seller_words_per_turn": 69.0,
+    "avg_buyer_words_per_turn": 55.5,
+    "word_ratio_seller_buyer": 0.93,
+    "total_conversation_length": 429
+  }
+}

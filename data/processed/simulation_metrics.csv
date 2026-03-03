@@ -450,3 +450,14 @@ cfe0f5aa-873d-483c-ad44-d2b1cf31c48f,2026-03-03T23:58:48.347349,https://www.airc
 2743eaea-e8b6-4e14-9e90-8599579be681,2026-03-03T23:59:05.946838,https://www.contentstack.com,2554,5,231,154,46.2,30.8,67,51,30,18,1.5,385,8,1,Success,Integration,dynamic_batch
 b764be4d-f85e-47d3-a5db-1c6956fed8e9,2026-03-03T23:59:12.191769,https://www.crossbeam.com,3000,4,227,213,56.75,53.25,73,61,41,42,1.07,440,2,0,Failure,Timing,dynamic_batch
 1d973002-9b16-4944-803c-aa20c2177619,2026-03-03T23:59:19.107022,https://www.drata.com,58,4,195,236,48.75,59.0,59,81,40,36,0.83,431,4,0,Failure,Integration,dynamic_batch
+015e56d5-c540-42f0-a3e7-bb53aae6274e,2026-03-04T00:00:30.657105,https://www.launchdarkly.com,3000,4,226,191,56.5,47.75,76,66,18,18,1.18,417,2,0,Failure,Timing,dynamic_batch
+dda0f7ca-6633-488d-8c87-4b34c674b391,2026-03-04T00:00:47.596541,https://www.cockroachlabs.com,3000,4,301,128,75.25,32.0,88,50,58,5,2.35,429,8,1,Success,Price,dynamic_batch
+c1e2c2b3-c6d1-40b2-ad0a-36d7356a2e76,2026-03-04T00:01:04.901167,https://www.planetscale.com,3000,4,270,245,67.5,61.25,93,91,41,27,1.1,515,3,0,Failure,Timing,dynamic_batch
+a2931d45-c783-499c-8e22-126fd468629d,2026-03-04T00:01:21.213583,https://www.pingdom.com,3000,4,176,243,58.67,48.6,90,69,34,15,0.72,419,3,0,Failure,Timing,dynamic_batch
+c7c13625-ed30-4dd3-800b-bee634c7e45d,2026-03-04T00:01:37.518572,https://www.temporal.io,3000,3,207,222,69.0,55.5,77,65,57,36,0.93,429,3,0,Failure,Timing,dynamic_batch
+6a79f505-912c-4b38-8c5a-5134ff9560ad,2026-03-04T00:01:53.478596,https://www.heap.io,3000,4,238,178,59.5,44.5,66,53,45,26,1.34,416,2,0,Failure,Competitors,dynamic_batch
+d75d1d81-3a8c-4c92-b4a6-0b5a9b67e5f9,2026-03-04T00:02:10.391791,https://www.retool.com,3000,5,290,130,58.0,26.0,68,35,38,5,2.23,420,9,1,Success,Integration,dynamic_batch
+16a8381b-f749-4de9-93f7-d78abe31eb1e,2026-03-04T00:02:26.000845,https://www.doppler.com,2489,4,247,207,61.75,51.75,74,60,47,35,1.19,454,5,0,Pending,Unknown,dynamic_batch
+138fa6b0-4128-4826-849e-acd451454b30,2026-03-04T00:02:43.028286,https://www.kustomer.com,3000,4,257,176,64.25,44.0,76,49,48,36,1.46,433,2,0,Failure,Timing,dynamic_batch
+af91cb9d-c574-497f-9c4d-828c6eda9b16,2026-03-04T00:03:01.007047,https://www.customergauge.com,3000,3,228,208,76.0,52.0,91,68,51,39,1.1,436,2,0,Failure,Timing,dynamic_batch
+fcbab933-d9d4-4219-8986-5be4ab2a6746,2026-03-04T00:15:15.515955,https://www.redis.com,74,4,193,186,48.25,46.5,57,55,39,31,1.04,379,5,0,Pending,Unknown,dynamic_batch
