@@ -1,0 +1,96 @@
+{
+  "simulation_id": "b9c8e9da-f581-47e4-afdb-8451462d662f",
+  "timestamp": "2026-03-04T15:13:24.098696",
+  "target_url": "https://www.proposify.com",
+  "company_context": "Proposify - Proposal Software to Streamline Your Sales Process Product Product Overview Get a complete view of Proposify's proposal management platform and capabilities. Automate Your Workflows Streamline your document workflow with templates, AI, automation, and team collaboration tools. Create and send Build beautiful, branded proposals and quotes with our intuitive drag-and-drop editor. Integrations Connect Proposify seamlessly with your existing CRM and business tools. Track and Close Monitor proposal engagement and accelerate your sales cycle with real-time insights. API Build custom integrations and extend Proposify's functionality with our developer resources. Solutions USE CASES Proposals Quotes eSignatures Contracts INDUSTRIES Consultants Landscaping Janitorial Construction See more > ROLES Sales Marketing Operations How Fern Grew Revenue 200% with Proposify How Proposify Removed the Barriers to this Consulting Firm’s Growth How Proposify helped EverLine increase their close rates dramatically and tailor follow-ups for 59 franchises Templates Pricing Resources LEARN Case Studies Demo Center Webinars Blog Videos Newsletter See more > SUPPORT Knowledge base Getting started guide Product updates Security Professional Services Refer a friend Contact support State of Proposals 2025 Report We’ve dug deep into our data and extracted the information that sales and marketing leaders can use to make their proposals better and boost their business. Read more Log in Book a demo Sign Up Free Menu Product Product Overview Get a complete view of Proposify's proposal management platform and capabilities. Automate Your Workflows Streamline your document workflow with templates, AI, automation, and team collaboration tools. Create and send Build beautiful, branded proposals and quotes with our intuitive drag-and-drop editor. Integrations Connect Proposify seamlessly with your existing CRM and business tools. Track and Close Monitor proposal engagement and accelerate your sales cycle with real-time insights. API Build custom integrations and extend Proposify's functionality with our developer resources. Solutions USE CASES Proposals Quotes eSignatures Contracts INDUSTRIES Consultants Landscaping Janitorial Construction See more > ROLES Sales Marketing Operations Templates Pricing Resources LEARN Case Studies Demo Center Webinars Blog Videos Newsletter See more > SUPPORT Knowledge base Getting started guide Product updates Security Professional Services Refer a friend Contact support Log in Book a demo Sign Up Free Professional, branded proposals from conversation to close. Proposify gives your team the control and visibility to quickly create, track, and sign winning proposals while increasing your team's close rate. Start free trial Book a demo See how it works in 3 minutes 8,976 companies are crushing their close rates with Proposify. Our customers know the easiest way to close more deals is with a streamlined process and professional, competitive sales ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, is this John, the CTO of XYZ Corporation? I'm Alex from DeepData AI. I came across your company and was impressed with the work you're doing in the industry. I wanted to reach out and explore how our data processing solution could help streamline your operations.",
+      "word_count": 47,
+      "char_count": 267
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Yeah, that's me. What's this about? We're pretty happy with our current setup, and I don't have a lot of time to talk about new solutions.",
+      "word_count": 27,
+      "char_count": 146
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand, John. I've worked with similar companies in the past, and I think our solution could really help you optimize your data workflow. We've seen companies like yours reduce processing time by up to 50% and increase accuracy by 20%. Would you be open to a quick discussion on how we could help?",
+      "word_count": 55,
+      "char_count": 314
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) I'm not sure. We've already invested in a few different tools, and I'm not looking to add more complexity to our system. Plus, I've heard of similar solutions from competitors like Proposify. How does your solution differ from theirs?",
+      "word_count": 40,
+      "char_count": 246
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a great question, John. While Proposify is a great tool for proposal management, our solution is focused specifically on data processing and integration. We can actually integrate with Proposify and other tools you're already using, so you wouldn't have to replace anything. Our AI-powered engine can also handle much larger datasets and provide more advanced analytics. We've had companies switch from Proposify to our solution because of our ability to handle more complex data workflows.",
+      "word_count": 76,
+      "char_count": 497
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) I see. Well, I'm not sure about the cost. We're on a tight budget, and I don't know if we can afford another solution right now.",
+      "word_count": 28,
+      "char_count": 145
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand budget concerns are always a priority. Our pricing is actually very competitive, and we offer customized plans based on the specific needs of your company. We've also seen that our solution can pay for itself through increased efficiency and accuracy. I'd be happy to provide a detailed quote and ROI analysis if you're interested. Additionally, we're offering a free trial period, so you can test our solution and see the benefits for yourself before making any commitments.",
+      "word_count": 79,
+      "char_count": 488
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(thoughtfully) Alright, I'll admit I'm intrigued. But I'd need to see it in action and make sure it integrates with our existing tools before I could consider moving forward.",
+      "word_count": 29,
+      "char_count": 174
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely, John. I'd be happy to schedule a demo and show you exactly how our solution can work with your current setup. We can also provide a trial period, so you can test it out and see the benefits for yourself.",
+      "word_count": 41,
+      "char_count": 215
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo for next week. I'll give you 30 minutes to show me what you've got.",
+      "word_count": 19,
+      "char_count": 101
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Integration\nFeedback: The seller could have further emphasized the benefits of the free trial period and provided more specific examples of successful integrations with other companies to alleviate the buyer's concerns earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Integration",
+      "feedback": "The seller could have further emphasized the benefits of the free trial period and provided more specific examples of successful integrations with other companies to alleviate the buyer's concerns earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 298,
+    "total_buyer_words": 143,
+    "avg_seller_words_per_turn": 59.6,
+    "avg_buyer_words_per_turn": 28.6,
+    "word_ratio_seller_buyer": 2.08,
+    "total_conversation_length": 441
+  }
+}

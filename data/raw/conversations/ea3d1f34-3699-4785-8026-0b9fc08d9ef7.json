@@ -1,0 +1,82 @@
+{
+  "simulation_id": "ea3d1f34-3699-4785-8026-0b9fc08d9ef7",
+  "timestamp": "2026-03-04T15:12:29.102239",
+  "target_url": "https://www.holistics.io",
+  "company_context": "Holistics | Self-service BI Platform Product Offerings Business intelligence AI-assisted analytics Embedded analytics Features & Capabilities Analytics as-code Data modeling Self-service reporting dbt integration Canvas dashboard Reusable analytics Dynamic data sources All features Pricing Docs Blog Customers Customer Stories Customers & case studies Support Resources Learn Worldview Demo sandbox Documentation Support Release notes Product roadmap Engage Community Blog Newsletter Contact us Partners Referral program Books The analytics setup guidebook Slice & dice: A self-service analytics comic Self-service analytics, with DevOps best practices Holistics helps data teams set up self-service BIs that are reliable and easy to maintain . Everyone can now self-serve data with confidence by applying software's best practices . Define analytics logic once, reuse in multiple reports Build reports & metrics using code Prebuild datasets for self-serve exploration Book a demo Start free trial Watch walkthrough (1 min) Semantic modeling layer Maintain a central store of analytics. Define metrics and analytics logic once, reuse in multiple reports. Analytics as-code Define models & build reports using code. Check in Git for version control. Go through code review process. AI-assisted self-service Analysts prepare and curate datasets. Business users can self-serve data using AI. Endorsed by leading companies See our customers Reliable natural language BI with composable semantic layer View all features Define analytics logic in one single place Build reports off these well-defined metrics and dimensions. Reusable : Update business logic once, auto-propagate to all reports. Accuracy : Metric definitions are consistent across different reports. No more fighting over which metrics are \"right\". Learn more \"The semantic layer is Holistics’ biggest draw because I was able to build reusable models, dimensions, metrics , and then describe them as code.\" Sterling Paramore Sr Staff Data Engineer , Mainspring Energy Build models, reports & dashboards using code Define analytics logic using our code-based analytics language. Check in to Git. Perform code reviews before deploying. Manage your BI system the same way you manage software development. Learn more Your browser doesn't support embedded videos. \"Holistics effectively allows us to be repeatable . We add a new client, copy and paste all the data models, and change the data source. Done!\" David Aldred Insight Director , Retail Insight Turn dashboards into content-rich narrative Freely add and arrange visualizations, filters, and texts on a blank canvas to build your narrative reports. This allows business users to consume & explore data in a form that’s more natural to humans’ thinking process. Learn more Your browser doesn't support embedded videos. \"I've been waiting for the ability to make a dashboard look like a narrative report with description or analysis upfront. This is gonna be awesome!\" Thi Nguyen Product",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations. Can you tell me a bit about your current data infrastructure and any challenges you're facing?",
+      "word_count": 42,
+      "char_count": 252
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're actually pretty happy with our current setup. We're using Holistics for our self-service BI and it's been working out well for us. What makes you think we need a new solution?",
+      "word_count": 34,
+      "char_count": 191
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, I've worked with similar companies in the past and I've seen how our solution can really help with data processing efficiency and scalability. Plus, our AI-powered tools can help with data modeling and analytics. But I'd love to learn more about your specific pain points. Are there any areas where you feel like you're struggling with data processing or analytics?",
+      "word_count": 61,
+      "char_count": 371
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Honestly, we've just implemented Holistics and it's been a game-changer for us. Their semantic modeling layer has really helped us define our analytics logic in one place and reuse it across multiple reports. I'm not sure we're looking to switch or add another solution right now. Plus, we've already invested a lot of time and resources into getting Holistics up and running.",
+      "word_count": 62,
+      "char_count": 376
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that you've invested in Holistics, but our solution is actually designed to complement existing BI tools like Holistics. We can help with the heavy lifting of data processing, which can free up your team to focus on higher-level analytics. And, we're currently offering a promotional discount for new customers. Would you be open to discussing pricing and seeing if it might be a good fit for your company?",
+      "word_count": 70,
+      "char_count": 419
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're good for now. We're still getting used to Holistics and we don't want to add another vendor to the mix. Plus, our team is already stretched thin with other projects, so implementing a new solution would be a significant undertaking. And, to be honest, I'm not sure our budget can accommodate another large investment in data processing right now.",
+      "word_count": 67,
+      "char_count": 388
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand your concerns about implementation and budget. But, I want to emphasize that our solution is designed to be easy to integrate and can actually help reduce costs in the long run by improving data processing efficiency. Can I send you some case studies or whitepapers that show the ROI that some of our other customers have seen?",
+      "word_count": 60,
+      "char_count": 346
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, thank you. I think we're going to have to pass on DeepData AI for now. We're happy with our current solution and don't see a compelling reason to switch or add another vendor to the mix. I appreciate your time, but I think we're all set.",
+      "word_count": 47,
+      "char_count": 241
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have done more research on the buyer's current setup and tailored their pitch to specifically address the limitations of Holistics and the unique benefits of DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have done more research on the buyer's current setup and tailored their pitch to specifically address the limitations of Holistics and the unique benefits of DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 233,
+    "total_buyer_words": 210,
+    "avg_seller_words_per_turn": 58.25,
+    "avg_buyer_words_per_turn": 52.5,
+    "word_ratio_seller_buyer": 1.11,
+    "total_conversation_length": 443
+  }
+}

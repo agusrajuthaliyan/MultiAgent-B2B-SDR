@@ -1,0 +1,96 @@
+{
+  "simulation_id": "c3992f21-f934-4af5-9960-00c9829f4cfd",
+  "timestamp": "2026-03-04T15:13:05.057493",
+  "target_url": "https://www.nylas.com",
+  "company_context": "Nylas One Email, Calendar and Meeting API 2026 | Nylas Products Products Email API Calendar API Contacts API Scheduler Notetaker API Integrations Google email & calendar integration￼ Outlook email & calendar integration IMAP integration Google Meet integration Zoom integration Microsoft Teams integration Blog @nylas/connect: A JavaScript library for connecting grants from the browser Read more Talk to an expert Solutions Developers Documentation Docs SDKs Tutorials Support API status Changelog Support Blog @nylas/connect: A JavaScript library for connecting grants from the browser Read more See the docs Resources Connect Blog Events Guides Inspiration gallery About Nylas Build vs. buy Customer stories Security & Compliance Why Nylas Newsroom Podcasts Exploring how APIs, AI, and automation are reshaping SaaS platforms, CRMs, and the future of connected work. Read more Talk to an expert Pricing Contact sales Log in Build for free The infrastructure that powers communications Nylas is the API that lets you integrate with Gmail, Microsoft, IMAP, Zoom, and 250+ email, calendar and meeting providers in 5 minutes. Build Now See the Docs Send an Email on behalf of your user Node.js Ruby Python Kotlin cURL import Nylas from 'nylas' ; const nylas = new Nylas ({ apiKey: '<NYLAS_API_KEY>' }); const sentMessage = await nylas . messages . send ({ identifier: < USER_GRANT_ID > requestBody: { to : [{ name: '<RECIPIENT_NAME>' , email: '<RECIPIENT_EMAIL>' }], subject : '<EMAIL_SUBJECT>' , body : '<EMAIL_BODY>' } }); require 'nylas' nylas = Nylas :: Client . new ( api_key: \"<NYLAS_API_KEY>\" ) request_body = { subject: '<EMAIL_SUBJECT>' , body: '<EMAIL_BODY>' , to: [{ name: '<RECIPIENT_NAME>' , email: '<RECIPIENT_EMAIL>' }] } email, response = nylas. messages . send ( '<USER_GRANT_ID>' , request_body) from nylas import Client nylas = Client ( api_key = '<NYLAS_API_KEY>' ) message = nylas.messages. send ( '<USER_GRANT_ID>' , request_body = { \"to\" : [{ \"name\" : '<RECIPIENT_NAME>' , \"email\" : '<RECIPIENT_EMAIL>' }], \"subject\" : '<EMAIL_SUBJECT>' , \"body\" : '<EMAIL_BODY>' } ) import com.nylas.NylasClient val nylas = NylasClient (apiKey = '<NYLAS_API_KEY>' ) val recipients = listOf ( EmailName ( '<RECIPIENT_EMAIL>' , '<RECIPIENT_NAME>' )) val requestBody = SendMessageRequest. Builder (recipients) . subject ( '<EMAIL_SUBJECT>' ) . body ( '<EMAIL_BODY>' ) . build () val emailResponse = nylas. messages (). send ( '<USER_GRANT_ID>' , requestBody) curl --request POST \\ --url \"api.nylas.com/${< USER_GRANT_ID >}/messages/send\" \\ --header \"Authorization: Bearer ${ NYLAS_API_KEY }\" \\ --header \"Content-Type: application/json\" \\ --data '{ \"subject\": \"<EMAIL_SUBJECT>\", \"body\": \"<EMAIL_BODY>\", \"to\": [{\"name\": \"<RECIPIENT_NAME>\", \"email\": \"<RECIPIENT_EMAIL>\"}] }' Send a Calendar Event invite on behalf of your user Node.js Ruby Python Kotlin cURL import Nylas from 'nylas' ; const nylas = new Nylas ({ apiKey: '<NYLAS_API_KEY>' }); const event = await nylas . events . create ({ identifie",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that can help companies like yours streamline their data workflow and gain valuable insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 44,
+      "char_count": 256
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party APIs like Nylas to manage our email and calendar integrations. What makes DeepData AI unique?",
+      "word_count": 28,
+      "char_count": 178
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution uses machine learning algorithms to automatically categorize and prioritize data, which can save your team a significant amount of time and resources. We've seen companies like yours reduce their data processing time by up to 50%. I'd love to schedule a demo to show you how it works.",
+      "word_count": 51,
+      "char_count": 303
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're in the middle of a major overhaul of our infrastructure right now. I'm not sure if we have the bandwidth to take on a new solution like this. Plus, I'm concerned about the cost - we're trying to keep our expenses down.",
+      "word_count": 47,
+      "char_count": 253
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Our pricing is competitive, and we offer flexible plans to fit different company sizes and needs. We also have a dedicated onboarding team to ensure a smooth integration process. As for the timing, I can offer a free trial or a pilot project to test our solution and see the benefits for yourself.",
+      "word_count": 56,
+      "char_count": 322
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but I'm still not convinced. We've had issues with integration in the past, and I don't want to risk disrupting our current workflow. How does DeepData AI integrate with our existing tools, like Nylas and Google Calendar?",
+      "word_count": 40,
+      "char_count": 240
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We have pre-built integrations with many popular tools, including Nylas and Google Calendar. Our API is also highly customizable, so we can work with your team to build a tailored integration that meets your specific needs.",
+      "word_count": 36,
+      "char_count": 223
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Okay, I think I've heard enough for now. Can you send me an email with more information about your solution and pricing? I'll take a look and discuss it with our team, but I have to be honest, we're not looking to make any major changes right now.",
+      "word_count": 48,
+      "char_count": 247
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely, I'd be happy to send over some more information. Is there a specific person or team I should CC on the email, or would you like me to just send it to you directly?",
+      "word_count": 35,
+      "char_count": 175
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Just send it to me, thanks. I appreciate your time, Alex, but we're going to have to pass on DeepData AI for now. We're just not in a position to take on a new solution like this, and I don't see it fitting into our priorities for the next quarter.",
+      "word_count": 50,
+      "char_count": 248
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or temporary solutions to keep the conversation alive. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or temporary solutions to keep the conversation alive. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 222,
+    "total_buyer_words": 213,
+    "avg_seller_words_per_turn": 44.4,
+    "avg_buyer_words_per_turn": 42.6,
+    "word_ratio_seller_buyer": 1.04,
+    "total_conversation_length": 435
+  }
+}

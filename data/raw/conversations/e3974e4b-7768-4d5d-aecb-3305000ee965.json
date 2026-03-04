@@ -1,0 +1,82 @@
+{
+  "simulation_id": "e3974e4b-7768-4d5d-aecb-3305000ee965",
+  "timestamp": "2026-03-04T15:20:29.689799",
+  "target_url": "https://www.tinyseed.co",
+  "company_context": "Coming Soon tinyseed.co We're under construction. Please check back for an update soon.",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. I came across your company, tinyseed.co, and noticed you're currently under construction. I was wondering if you're looking to implement a data solution once you're up and running?",
+      "word_count": 56,
+      "char_count": 343
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're still in the process of getting everything set up. I'm not sure if we're in the market for a new data solution right now. What makes DeepData AI different from what's already out there?",
+      "word_count": 37,
+      "char_count": 201
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our AI-powered engine allows for faster and more accurate data processing, which can lead to significant cost savings and improved insights. We've had success with similar companies in the past, and I think we could really help tinyseed.co drive business growth.",
+      "word_count": 45,
+      "char_count": 287
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. Well, we're actually already working with a data solution provider, and to be honest, we're pretty happy with the results we're getting. I'm not sure if it would be worth the investment to switch to a new platform, especially with all the other priorities we have right now.",
+      "word_count": 50,
+      "char_count": 281
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. However, I'd like to highlight that our solution can integrate seamlessly with your existing infrastructure, and we've had cases where companies have seen a significant ROI after switching to us. Would you be open to discussing pricing and seeing if we can offer a more competitive deal?",
+      "word_count": 50,
+      "char_count": 312
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Pricing is definitely a concern for us, especially since we're still in the early stages of our company. I've also got to consider the timing of implementing a new solution – we've got a lot on our plates right now, and I'm not sure if we have the bandwidth to take on a new project. Plus, I've got to run any major decisions like this by our CEO, and I'm not sure if she'd be on board with changing our data solution.",
+      "word_count": 82,
+      "char_count": 418
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Perhaps we could schedule a follow-up conversation in a few months to revisit the opportunity and see if your priorities have shifted?",
+      "word_count": 31,
+      "char_count": 193
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI for now. We're happy with our current solution, and I don't see us making any changes in the near future. Thank you for reaching out, and I wish you the best of luck with your sales efforts.",
+      "word_count": 54,
+      "char_count": 275
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 5\nOutcome: Pending\nKey_Objection: Unknown\nFeedback:  Sentiment: Neutral",
+    "parsed": {
+      "score": 5,
+      "outcome": "Pending",
+      "key_objection": "Unknown",
+      "feedback": "Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 182,
+    "total_buyer_words": 223,
+    "avg_seller_words_per_turn": 45.5,
+    "avg_buyer_words_per_turn": 55.75,
+    "word_ratio_seller_buyer": 0.82,
+    "total_conversation_length": 405
+  }
+}
