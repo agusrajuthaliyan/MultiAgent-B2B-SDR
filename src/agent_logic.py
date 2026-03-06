@@ -37,6 +37,8 @@ if LLM_PROVIDER == "groq":
     _api_keys = [k.strip() for k in _api_keys_str.split(",") if k.strip()]
     if not _api_keys:
         raise ValueError("No GROQ API key found in .env (set GROQ_API_KEYS or GROQ_API_KEY)")
+    
+    _current_key_idx = 0
 
     # Model selection — free tier
     # llama-3.3-70b-versatile : Best quality, 30 RPM / 14,400 RPD
@@ -50,17 +52,22 @@ if LLM_PROVIDER == "groq":
         "mixtral-8x7b-32768":       {"delay": 2.5, "rpm": 30},
     }
     _cfg = _RATE_LIMIT_CONFIG.get(MODEL_ID, {"delay": 2.5, "rpm": 30})
-    # If we have multiple keys, we can effectively divide our required delay!
-    DELAY_BETWEEN_CALLS = _cfg["delay"] / max(1, len(_api_keys))
+    
+    # We maintain the normal delay. We will use one key until it exhausts.
+    DELAY_BETWEEN_CALLS = _cfg["delay"]
 
-    def _get_client_for_attempt(attempt: int) -> Groq:
-        """Rotate through available API keys based on the retry attempt."""
-        key_to_use = _api_keys[attempt % len(_api_keys)]
-        return Groq(api_key=key_to_use)
+    def _rotate_key():
+        global _current_key_idx
+        if len(_api_keys) > 1:
+            _current_key_idx = (_current_key_idx + 1) % len(_api_keys)
+            print(f"   [API KEY] Rate limit hit. Switched to Groq API Key #{_current_key_idx + 1}...", flush=True)
 
     def _call_llm(prompt: str, attempt: int = 0) -> str:
         """Send a prompt to Groq and return the text response."""
-        client = _get_client_for_attempt(attempt)
+        global _current_key_idx
+        key_to_use = _api_keys[_current_key_idx]
+        client = Groq(api_key=key_to_use)
+        
         response = client.chat.completions.create(
             model=MODEL_ID,
             messages=[
@@ -92,6 +99,9 @@ elif LLM_PROVIDER == "gemini":
     }
     _cfg = _RATE_LIMIT_CONFIG.get(MODEL_ID, {"delay": 5.0, "rpm": 10})
     DELAY_BETWEEN_CALLS = _cfg["delay"]
+
+    def _rotate_key():
+        pass # Gemini currently operates on one key
 
     def _call_llm(prompt: str, attempt: int = 0) -> str:
         """Send a prompt to Gemini and return the text response."""
@@ -149,6 +159,9 @@ def _generate_content(prompt: str, max_retries: int = 4) -> str:
             ])
 
             if is_rate_limit and attempt < max_retries - 1:
+                # If we have multiple keys, we rotate when one exhausts
+                _rotate_key()
+                
                 backoff = min(15 * (2 ** attempt), 120) + random.uniform(1, 5)
                 print(
                     f"   [RATE LIMIT] Hit rate limit (attempt {attempt + 1}/{max_retries}). "

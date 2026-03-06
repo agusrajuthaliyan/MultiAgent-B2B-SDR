@@ -537,3 +537,11 @@ dee04fd5-5682-4ae3-a2cf-46fb80a67281,2026-03-06T12:36:10.909960,https://www.opti
 026ddb9c-265c-4667-9323-e62f37bee179,2026-03-06T12:36:26.815698,https://www.qualys.com,3000,3,217,185,72.33,46.25,107,59,50,27,1.17,402,2,0,Failure,Timing,dynamic_batch
 a556012d-9c8d-49b6-9e15-5b08e3116c2c,2026-03-06T12:36:43.663915,https://www.logicdata.com,2140,4,200,162,50.0,32.4,63,56,18,8,1.23,362,3,0,Failure,Timing,dynamic_batch
 273a7278-6438-4d01-bdf4-eca57c47c35e,2026-03-06T12:37:00.547271,https://www.synapse.com,3000,5,364,181,72.8,36.2,100,57,53,11,2.01,545,8,1,Success,Integration,dynamic_batch
+84ab9fe1-ab3f-46b9-a3ac-c92d688c206d,2026-03-06T12:51:31.840810,https://www.freshbooks.com,3000,4,218,215,54.5,53.75,62,66,50,39,1.01,433,4,0,Failure,Timing,dynamic_batch
+4eecee67-d20b-4343-a982-8221730d753e,2026-03-06T12:51:41.023424,https://www.jira.com,3000,4,258,250,64.5,62.5,75,78,58,49,1.03,508,4,0,Failure,Price,dynamic_batch
+8758b00b-b7d7-401c-8a97-6a84f41612b6,2026-03-06T12:52:07.904530,https://www.bitbucket.com,3000,4,249,221,62.25,55.25,67,70,56,34,1.13,470,2,0,Failure,Competitors,dynamic_batch
+0adb9cd2-ad6f-475f-920e-25bd65026864,2026-03-06T12:52:51.663846,https://www.circleci.com,3000,4,220,218,55.0,54.5,66,61,35,50,1.01,438,4,0,Failure,Timing,dynamic_batch
+8715c67d-21a6-4bb0-bb57-2726631aa6b4,2026-03-06T12:53:35.059368,https://www.datadog.com,3000,4,250,197,62.5,49.25,75,67,52,34,1.27,447,4,0,Failure,Timing,dynamic_batch
+53759dcf-be8e-47e8-804f-9f5951ad0289,2026-03-06T12:54:17.807411,https://www.freshdesk.com,3000,4,247,198,61.75,49.5,74,55,52,44,1.25,445,4,0,Failure,Integration,dynamic_batch
+56265e70-5720-4c11-ace3-dd38c6e5a600,2026-03-06T12:55:00.640525,https://www.pardot.com,3000,4,224,178,56.0,44.5,70,66,41,31,1.26,402,4,0,Failure,Timing,dynamic_batch
+670ddf1c-0843-473e-a9f7-34c5d1a3f779,2026-03-06T12:55:53.844693,https://www.toggl.com,3000,4,231,203,57.75,50.75,63,58,52,42,1.14,434,4,0,Failure,Price,dynamic_batch
