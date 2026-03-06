@@ -1,0 +1,82 @@
+{
+  "simulation_id": "bdf54d7a-fd53-4992-85b4-3fd286a638b5",
+  "timestamp": "2026-03-06T13:23:37.718311",
+  "target_url": "https://www.stellar.co",
+  "company_context": "Stellar.co for sale",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflows. I came across Stellar.co and thought our tool could be a great fit. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 51,
+      "char_count": 291
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're doing okay with our current setup, but I'm always open to learning about new solutions. What makes DeepData AI unique?",
+      "word_count": 22,
+      "char_count": 134
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Our AI-powered engine can handle large volumes of data with high accuracy and speed. We've seen companies reduce their processing time by up to 70%. I'd love to schedule a demo to show you how it works. Would you be available for a call next week?",
+      "word_count": 46,
+      "char_count": 247
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We're in the middle of a big project and our budget is already allocated for the year. I'm not sure we can fit in a new tool, especially if it's going to require a significant investment. What's the pricing like for DeepData AI?",
+      "word_count": 48,
+      "char_count": 259
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, starting at $10,000 per year for our basic plan. However, I think our enterprise plan would be a better fit for a company like yours, which starts at $50,000 per year. But I can offer you a customized quote based on your specific needs.",
+      "word_count": 48,
+      "char_count": 264
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's definitely out of our budget. We're a small team and we have to be careful with our expenses. Even if I wanted to move forward, I'm not the one who approves new tools or budgets. Our CFO would have to sign off on it, and I know they're not looking to add any new expenses right now.",
+      "word_count": 58,
+      "char_count": 289
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand budget constraints can be a challenge. But I'd be happy to provide a customized quote and even offer a free trial to demonstrate the value of our solution. Would you be willing to introduce me to your CFO or discuss this further with them?",
+      "word_count": 46,
+      "char_count": 252
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I don't think it's worth pursuing at this time. As I said, our budget is allocated and we can't take on any new expenses. Additionally, we have a strict process for evaluating and implementing new tools, and it would take several months to even consider something like DeepData AI. I think it's best if we just focus on our current priorities and revisit this conversation maybe next year.",
+      "word_count": 73,
+      "char_count": 417
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have attempted to address the buyer's budget concerns and provided more tailored benefits before presenting the pricing to better align with the buyer's needs and priorities. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have attempted to address the buyer's budget concerns and provided more tailored benefits before presenting the pricing to better align with the buyer's needs and priorities. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 191,
+    "total_buyer_words": 201,
+    "avg_seller_words_per_turn": 47.75,
+    "avg_buyer_words_per_turn": 50.25,
+    "word_ratio_seller_buyer": 0.95,
+    "total_conversation_length": 392
+  }
+}

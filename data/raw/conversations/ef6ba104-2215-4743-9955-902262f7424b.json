@@ -1,0 +1,82 @@
+{
+  "simulation_id": "ef6ba104-2215-4743-9955-902262f7424b",
+  "timestamp": "2026-03-06T13:22:01.764869",
+  "target_url": "https://www.gooddata.com",
+  "company_context": "GoodData | AI-enabled, agentic, and embedded decision-making Skip to main content Collapse Previous Next On-demand Video From Legacy BI to an AI-Ready Analytics Stack Watch now Analyst Report 2025 Gartner® Magic Quadrant™ View the report Search Documentation Support Login Accelerate your journey to AI The trusted analytics platform designed to power AI-enabled, agentic, and embedded decision-making with a governed semantic foundation. Request a demo Live demo + Q&A 4.3 [Gartner. 187 reviews] 2025 [Gartner® Magic Quadrant™] No. 1 [Trust Radius. 222 reviews] 4.2 [G2. 539 reviews] Is your data stack AI-ready? Modernize your analytics and deliver agent-oriented workflows, personalized apps, and trusted insights through conversational and embedded channels. Turn data into decisions Quickly bring AI-driven clarity, actionable insights, and real-time decisions that accelerate outcomes and competitive advantage — all at enterprise scale. Go to AI-enabled BI Embed intelligence where it matters Deliver AI-enabled dashboards and agents that analyze signals, explain changes, and recommend next actions directly inside your product. Build your semantic foundation for the future Define business logic once in a governed semantic layer; ensuring reliable insights in dashboards, agents, and embedded workflows. Leverage open architecture for enterprise scale Future-proof your stack with modern, open architecture built for AI velocity and seamless integration with your cloud ecosystem. A composable platform built for actionable intelligence Explore the platform AI-powered BI Decisions with data, apps, and AI. Agentic analytics Automated agents and workflows. Data infrastructure API-first architecture for agents. Governed Semantics AI-Ready Orchestration Scalable Insights Lineage & Policy Compliance Secure by design Trusted agents, leading security, deployed on cloud or on prem. Learn more about security and trust AI-ready analytics for your industry “Not only have we brought in a full 360 customer view into GoodData, but we’ve also exposed that within our product.” E-commerce Read more “Measuring and managing contact center performance is now embedded in our product and provides a much better experience for clients looking to make data-driven decisions in the day-to-day management of their contact centers.” Customer Services Read more “We’ve seen high-fidelity prototypes developed by our product teams directly within GoodData UI and tested with our customers. All of this comes down to reducing time to value.” Hospitality Read more “Professional Services played a critical role in the implementation. Over our 80-hour engagement, they helped define secure, scalable workspace structures, develop engineering best practices, and align visual logic with business concepts. The cooperation was really great!” ESG Read more No. 1 Trust Radius. 222 reviews 2025 Gartner® Magic Quadrant™️ 4.2 G2. 554 reviews 4.3 Gartner. 187 reviews Award-winning agentic AI for industry-leading o",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, this is Alex from DeepData AI. I came across your company and was impressed with the work you're doing in analytics. I'd like to introduce our data processing solution that can help you accelerate your decision-making process.",
+      "word_count": 38,
+      "char_count": 230
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're actually in the midst of modernizing our analytics stack. But I have to say, we've already invested heavily in a competitor's solution, GoodData. What makes you think your solution is better?",
+      "word_count": 34,
+      "char_count": 206
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution offers more advanced AI capabilities and a more flexible architecture, which can lead to faster integration and better scalability. We've seen our customers achieve significant cost savings and improved insights with our platform.",
+      "word_count": 36,
+      "char_count": 249
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we're locked into a contract with GoodData for at least another year. I'm not sure we can justify the cost of switching to a new solution, especially given the investment we've already made.",
+      "word_count": 39,
+      "char_count": 226
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the concern about cost, but our solution can actually help you reduce your overall spend in the long run. We've had customers who have switched from GoodData and seen significant ROI improvements. Would you be open to exploring a pilot project to see the benefits for yourself?",
+      "word_count": 49,
+      "char_count": 290
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, I'm not sure we have the bandwidth to take on a new project right now. We're in the middle of a major overhaul of our data infrastructure, and adding a new solution to the mix would be a distraction. Plus, our team is already trained on GoodData's platform, so there would be a significant learning curve to adopt a new solution.",
+      "word_count": 69,
+      "char_count": 371
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the timing might not be ideal, but I'd like to propose a customized implementation plan that can help minimize disruption to your team. We've worked with similar companies in the past and have a proven track record of successful integrations.",
+      "word_count": 42,
+      "char_count": 255
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, Alex, but I think we're going to have to pass on DeepData AI for now. As I said, we're committed to our contract with GoodData, and I don't see a compelling reason to switch. I wish you the best of luck with your sales efforts, but I think we're going to have to decline your offer.",
+      "word_count": 60,
+      "char_count": 313
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more effectively addressed the buyer's existing investment in GoodData and provided a clearer value proposition to overcome the competitor's established presence. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more effectively addressed the buyer's existing investment in GoodData and provided a clearer value proposition to overcome the competitor's established presence. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 165,
+    "total_buyer_words": 202,
+    "avg_seller_words_per_turn": 41.25,
+    "avg_buyer_words_per_turn": 50.5,
+    "word_ratio_seller_buyer": 0.82,
+    "total_conversation_length": 367
+  }
+}

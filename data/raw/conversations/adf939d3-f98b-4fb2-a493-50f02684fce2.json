@@ -1,0 +1,96 @@
+{
+  "simulation_id": "adf939d3-f98b-4fb2-a493-50f02684fce2",
+  "timestamp": "2026-03-06T13:25:26.054768",
+  "target_url": "https://www.veracode.com",
+  "company_context": "Application Risk Management: Secure Your Software Latest Press Veracode Sets New Benchmark for Application Risk Management: Securing Modern Development in the AI Era Learn More Application Risk Management Engineered for the AI-Coding Era Veracode’s Application Risk Management Platform identifies risks across your software development lifecycle, automates flaw fixes , and simplifies governance and compliance , empowering you to reduce risk and deliver secure software faster, with confidence. Take control of your application security risk—request a demo today. Request a Demo Watch Video 1.3 M + Applications Scanned 131 M + Software Flaws Fixed 419 T + Code Lines Scanned 1.1 % < False-Positive Rate Decades of Expertise, Real Results Drawing from two decades of Veracode’s proprietary research, we have established the world’s most extensive database of code vulnerabilities and flaws . Our advanced, proprietary AI, engineered for the demands of the AI-coding era, equips you to find, fix, and govern security flaws with speed and precision. Take a Tour Comprehensive Application Risk Management Veracode’s advanced AI-powered engine scans code in hundreds of languages to identify and resolve vulnerabilities at their core. Move beyond simple detection with root cause analysis that helps you prioritize and neutralize threats, minimizing risk and empowering your team to build securely from the start. Safeguard AI-Generated Code Secure applications that incorporate or are built with AI-generated code. Learn More Protect Your Entire Supply Chain Ensure the security of all components and dependencies, from third-party libraries to open-source contributions. Learn More Secure Your SDLC Integrate best practices and tools across all phases of the Software Development Life Cycle. Learn More Accelerate Remediation Quickly and efficiently identify, prioritize, and apply fixes for security flaws Learn More Solutions that Deliver Across Your Organization For C-Level Execs Gain comprehensive visibility into your entire application risk across your organization, ensuring strategic alignment and informed decision-making for long-term business resilience. For Security Teams Enforce security policies with unparalleled accuracy . Proactively identify and prioritize critical flaws, reduce false positives, and streamline remediation, enhancing your security posture and freeing up resources. For Developers Ship fully secure code faster . Get precise, developer-centric guidance within your workflow. Whether you’re using AI, third-party libraries, or vibe coding, catch vulnerabilities earlier, and deliver high-quality, trusted applications with confidence. Trusted by Security Teams and Developers Veracode helps HDI Global SE’s business initiative for security innovation became a measurable reality “One future success factor will be Veracode’s artificial intelligence helping fix our findings. AI supporting fixes is a game changer. We have an approved plan for benefitting from AI, a",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm calling from DeepData AI. We're a leading provider of data processing solutions, and I came across your company while researching potential clients in the industry. Can you tell me a little bit about your current data management setup?",
+      "word_count": 45,
+      "char_count": 264
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a combination of in-house tools and some third-party software to manage our data. What makes DeepData AI think we need your solution?",
+      "word_count": 27,
+      "char_count": 164
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to help companies like yours streamline their data processing and gain valuable insights from their data. We've had success with similar companies in the past, and I think we could help you reduce costs and improve efficiency. Would you be open to discussing this further?",
+      "word_count": 50,
+      "char_count": 303
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We've recently implemented a new application risk management platform from Veracode, and I'm not convinced we need another solution right now. Plus, our budget for new software is pretty tight this quarter. What kind of pricing are we talking about?",
+      "word_count": 43,
+      "char_count": 263
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about budget. Our pricing is competitive, and we offer customized plans to fit each client's needs. However, I'd need to discuss this further with you to determine the best plan for your company. As for Veracode, our solution actually complements their platform nicely, and we've had clients who use both our solutions together.",
+      "word_count": 58,
+      "char_count": 366
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. But how does your solution integrate with our existing infrastructure? We have a lot of custom-built tools and third-party software, and I don't want to add another solution that's going to cause integration headaches. And what about support? We need a solution that can keep up with our development cycle.",
+      "word_count": 52,
+      "char_count": 313
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our solution is designed to be flexible and adaptable to different environments. We have a robust API and support team that can help with integration and any issues that may arise. We also offer regular updates and maintenance to ensure our solution stays compatible with the latest technologies. However, I understand that integration and support are crucial, and I'd be happy to provide more information and case studies to alleviate your concerns.",
+      "word_count": 72,
+      "char_count": 450
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the information, but to be honest, I'm still not convinced. I need to discuss this with my team and see if it's something we're interested in pursuing. We have a lot of priorities right now, and I don't think we'll be making any decisions on new software for a while.",
+      "word_count": 52,
+      "char_count": 280
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I completely understand, and I appreciate your honesty. If you're willing, I'd like to schedule a follow-up call to check in and see if there's anything else I can provide to help with your decision-making process.",
+      "word_count": 36,
+      "char_count": 214
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "No, I don't think that will be necessary. We have a lot on our plate, and I think we'll have to pass on DeepData AI for now. Thank you for reaching out, but I think we'll stick with our current solutions.",
+      "word_count": 41,
+      "char_count": 204
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have provided more specific examples and case studies to alleviate the buyer's concerns about integration and support earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have provided more specific examples and case studies to alleviate the buyer's concerns about integration and support earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 261,
+    "total_buyer_words": 215,
+    "avg_seller_words_per_turn": 52.2,
+    "avg_buyer_words_per_turn": 43.0,
+    "word_ratio_seller_buyer": 1.21,
+    "total_conversation_length": 476
+  }
+}

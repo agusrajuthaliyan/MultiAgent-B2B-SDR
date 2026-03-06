@@ -1,0 +1,82 @@
+{
+  "simulation_id": "ad996f53-f000-483a-a438-09d7966b8135",
+  "timestamp": "2026-03-06T13:21:52.590610",
+  "target_url": "https://www.digite.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 41,
+      "char_count": 236
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're pretty set with our current solution. We've been using a competitor's product for a while now and it's been working out okay for us. What makes DeepData AI so special that we should consider switching?",
+      "word_count": 37,
+      "char_count": 217
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine allows for faster and more accurate data processing, which can lead to significant cost savings and improved insights. We've seen companies in similar industries to yours achieve up to 30% reduction in processing time. Would you be open to exploring how we could help you achieve similar results?",
+      "word_count": 52,
+      "char_count": 324
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to prioritize right now. We're in the middle of a big project and I don't think we have the bandwidth to implement a new solution. Plus, I've heard that DeepData AI can be pretty pricey. How does your pricing compare to what we're currently paying?",
+      "word_count": 52,
+      "char_count": 292
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that timing can be a challenge, but our implementation process is designed to be as seamless as possible. As for pricing, we offer a customized pricing model that takes into account the specific needs of each company. I'd be happy to discuss a potential pilot project to demonstrate the value we can bring without disrupting your current workflow.",
+      "word_count": 60,
+      "char_count": 360
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not convinced that it's worth the potential disruption. We've invested a lot in our current solution and I'm not sure that the benefits of switching would outweigh the costs. To be honest, I'm also concerned about integration with our existing systems - we've had issues with that in the past.",
+      "word_count": 56,
+      "char_count": 325
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I can assure you that our team has extensive experience with integrations. We've worked with companies in similar industries and have a proven track record of successful implementations. I'd be happy to provide some case studies or references to alleviate your concerns.",
+      "word_count": 47,
+      "char_count": 302
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you for your time, Alex, but I think we're going to have to pass on DeepData AI. We're happy with our current solution and don't see a compelling reason to switch. I appreciate your understanding, and I wish you the best of luck with your sales efforts.",
+      "word_count": 48,
+      "char_count": 259
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more proactively addressed the buyer's integration concerns earlier in the conversation by providing specific examples or case studies of successful implementations with similar companies. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more proactively addressed the buyer's integration concerns earlier in the conversation by providing specific examples or case studies of successful implementations with similar companies. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 200,
+    "total_buyer_words": 193,
+    "avg_seller_words_per_turn": 50.0,
+    "avg_buyer_words_per_turn": 48.25,
+    "word_ratio_seller_buyer": 1.04,
+    "total_conversation_length": 393
+  }
+}

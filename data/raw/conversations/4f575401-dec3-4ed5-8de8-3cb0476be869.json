@@ -1,0 +1,82 @@
+{
+  "simulation_id": "4f575401-dec3-4ed5-8de8-3cb0476be869",
+  "timestamp": "2026-03-06T13:24:17.214368",
+  "target_url": "https://www.tessian.com",
+  "company_context": "Tessian is Now Proofpoint | Proofpoint US Skip to main content us: English: Americas Search Partners Support Login Back Get a Demo Contact Us Top Suggestions: Email Security Phishing DLP Email Fraud Prime Threat Protection Platform Collaboration Security Data Security and Governance Platform Technologies Services Platform Cybersecurity for the agentic workspace starts with Proofpoint’s human and agent-centric security platform. Featured Join a live Protect event—learn how to protect people, data, and AI Live Events Collaboration Security Stop cyber threats with AI-driven multichannel protection. Discover Collaboration Security Prime Featured Experience Core Email Protection in action—block 99.99% of email threats Interactive Demo Data Security and Governance Transform data security with a unified, omnichannel approach. See why Proofpoint is a leader Featured Understand the top data security risks organizations face — and how to stay ahead Research Report Platform Technologies Proofpoint technologies powering human and agent-centric security​. Discover the security risks Explore Proofpoint packages How to Buy Services Optimize Proofpoint solutions with expert services. Featured \"The partnership with Proofpoint, it's an extention of our team.\" –Celesta Capital Customer Story Use Case Industry Use Case Comprehensive solutions for today’s cybersecurity threats. Featured Learn about new AI risks—and how to build a secure foundation for enterprise adoption White Paper Industry Superior protection for every industry, from small business to large enterprise. Featured Discover the security risks healthcare organizations can't afford to ignore Threat Report Why Proofpoint More than 80 of the Fortune 100 choose Proofpoint to protect their people, data, and AI. Why Proofpoint Evaluating security vendors? Compare us by checking out side-by-side comparisons. Comparison Overview Proofpoint vs. Abnormal Security Proofpoint vs. Mimecast Proofpoint vs. Check Point Harmony Proofpoint vs. Cisco Proofpoint vs. Symantec Proofpoint vs. Microsoft Purview Proofpoint vs. Legacy DLP Proofpoint vs. SSE Vendors Proofpoint vs. DSPM Vendors Resources Threat Intelligence Resources Research, insights and resources from Proofpoint experts. Resource Library Featured New Agents, New Attacks: Securing Collaboration in the Agentic Era Live Webinar Series—Register Now Threat Intelligence Learn from our expert threat intelligence and insights that you won’t find anywhere else. Featured Proofpoint DISCARDED Tales from the threat research trenches Podcast Company Learn more about the team driving human and agent-centric security. About Proofpoint Ready to join a company redefining cybersecurity? Join our Team TESSIAN IS NOW Proofpoint Core Email Protection API and Adaptive Email DLP Proofpoint and Tessian, a leader in the use of advanced AI for email security , have joined forces to defend against advanced phishing threats and protect sensitive data in email. Contact Us Leader in Advance",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management and security. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 41,
+      "char_count": 240
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a combination of tools, including Proofpoint, to manage our email security and data governance. It's been working well for us so far. What makes DeepData AI think we need something new?",
+      "word_count": 36,
+      "char_count": 216
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear you're already taking data security seriously. However, our solution can offer more advanced AI-driven insights and automation, potentially reducing your team's workload and improving compliance. We've seen significant ROI for our clients in similar industries. Would you be open to exploring how DeepData AI could enhance your current setup?",
+      "word_count": 53,
+      "char_count": 363
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We've just implemented Proofpoint and are still getting used to it. I'm concerned about the timing of introducing another solution. Plus, I'd need to consider the cost-benefit analysis. How does your pricing compare to what we're already paying for Proofpoint?",
+      "word_count": 43,
+      "char_count": 274
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer flexible plans based on the size and needs of the organization. I'd be happy to provide a customized quote. As for integration, our solution is designed to work seamlessly with existing systems, including Proofpoint, so you wouldn't have to worry about replacing what you already have. We could even offer a complimentary trial to show you the value we can add.",
+      "word_count": 68,
+      "char_count": 402
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm still not convinced we need to add another layer of complexity to our data management. We're happy with the support and features Proofpoint provides, and I'm not sure our budget can accommodate another significant investment right now. Who else would need to be involved in the decision to adopt DeepData AI, and what kind of authority do you think they would need to see to move forward?",
+      "word_count": 73,
+      "char_count": 420
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Typically, our implementations involve IT, data security, and sometimes compliance teams. As for authority, we've found that having a clear understanding of the current pain points and future goals of the organization helps in demonstrating the value of DeepData AI. I could schedule a follow-up call with our solutions engineer to discuss this in more detail and address any specific concerns you or your team might have.",
+      "word_count": 67,
+      "char_count": 422
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate the time you've taken to discuss DeepData AI with me. However, after careful consideration, I believe we're going to have to pass on exploring this further. We're committed to our current solutions, and introducing a new vendor at this time doesn't align with our strategic priorities. Thank you for understanding, and I wish you the best in your outreach efforts.",
+      "word_count": 63,
+      "char_count": 383
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and provided a clearer value proposition to overcome the perceived complexity of introducing a new solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and provided a clearer value proposition to overcome the perceived complexity of introducing a new solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 229,
+    "total_buyer_words": 215,
+    "avg_seller_words_per_turn": 57.25,
+    "avg_buyer_words_per_turn": 53.75,
+    "word_ratio_seller_buyer": 1.07,
+    "total_conversation_length": 444
+  }
+}
