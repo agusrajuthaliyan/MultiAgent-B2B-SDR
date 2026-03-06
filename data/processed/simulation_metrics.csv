@@ -528,3 +528,12 @@ bac6324e-8903-4105-a185-dc03b3b677de,2026-03-06T12:30:28.292881,https://www.getd
 66e8afee-5762-432f-9307-524e9388cba1,2026-03-06T12:32:05.898406,https://www.mindtrace.com,1267,4,165,205,41.25,51.25,49,60,29,38,0.8,370,4,0,Failure,Budget/Authority,dynamic_batch
 8c141ef6-4239-456c-9e1b-87ec32794296,2026-03-06T12:32:13.327796,https://www.hapana.io,104,4,208,212,52.0,53.0,61,69,46,29,0.98,420,4,0,Failure,Competitors,dynamic_batch
 c0c01b02-c65d-485a-bee1-40569680a535,2026-03-06T12:32:22.754829,https://www.clarifai.com,3000,4,186,187,46.5,46.75,51,54,41,41,0.99,373,2,0,Failure,Integration,dynamic_batch
+4e8fcfbb-7530-41f6-9c3f-4d54919244ae,2026-03-06T12:34:23.623562,https://www.carla.org/,3000,4,163,154,40.75,38.5,43,51,39,19,1.06,317,2,0,Failure,Timing,dynamic_batch
+9d2e937c-0418-4043-bc1d-4ac04058b807,2026-03-06T12:34:40.064095,https://www.datavalet.com,3000,3,172,144,57.33,48.0,71,59,47,35,1.19,316,2,0,Failure,Competitors,dynamic_batch
+0d847125-e9bf-46ab-84d6-76a9f62d2b27,2026-03-06T12:34:57.354039,https://www.synaptiq.ai,2595,5,281,263,56.2,52.6,64,77,48,27,1.07,544,2,0,Failure,Timing,dynamic_batch
+a5a33470-afa0-4a41-8572-4c24260bb3c3,2026-03-06T12:35:15.354469,https://www.cortex.io,3000,3,187,153,62.33,51.0,70,67,51,34,1.22,340,3,0,Failure,Timing,dynamic_batch
+9ee1709c-295d-4f7d-857e-5b1ff0a9fc6a,2026-03-06T12:35:53.066385,https://www.lumenvox.com,3000,4,250,125,62.5,31.25,97,38,19,20,2.0,375,8,1,Success,Integration,dynamic_batch
+dee04fd5-5682-4ae3-a2cf-46fb80a67281,2026-03-06T12:36:10.909960,https://www.optiv.com,3000,5,428,222,85.6,44.4,116,59,42,17,1.93,650,8,1,Success,Integration,dynamic_batch
+026ddb9c-265c-4667-9323-e62f37bee179,2026-03-06T12:36:26.815698,https://www.qualys.com,3000,3,217,185,72.33,46.25,107,59,50,27,1.17,402,2,0,Failure,Timing,dynamic_batch
+a556012d-9c8d-49b6-9e15-5b08e3116c2c,2026-03-06T12:36:43.663915,https://www.logicdata.com,2140,4,200,162,50.0,32.4,63,56,18,8,1.23,362,3,0,Failure,Timing,dynamic_batch
+273a7278-6438-4d01-bdf4-eca57c47c35e,2026-03-06T12:37:00.547271,https://www.synapse.com,3000,5,364,181,72.8,36.2,100,57,53,11,2.01,545,8,1,Success,Integration,dynamic_batch
