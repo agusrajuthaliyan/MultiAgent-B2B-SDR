@@ -1,0 +1,82 @@
+{
+  "simulation_id": "8c141ef6-4239-456c-9e1b-87ec32794296",
+  "timestamp": "2026-03-06T12:32:13.327796",
+  "target_url": "https://www.hapana.io",
+  "company_context": "The deployment could not be found on Vercel. DEPLOYMENT_NOT_FOUND bom1::nz2rv-1772780530728-0d88d2c727c0",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflow. I came across your company and noticed you're using Vercel for deployment. I saw that one of your recent deployments couldn't be found, and I thought our solution might be able to help with that.",
+      "word_count": 61,
+      "char_count": 349
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We did have some issues with Vercel, but our team is looking into it. What makes you think your solution can help us with that specific problem?",
+      "word_count": 29,
+      "char_count": 154
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered data processing can help identify and resolve issues like the one you're experiencing with Vercel. It can also help you streamline your data workflow, reducing the likelihood of errors like that in the future. We've had success with similar companies in your industry.",
+      "word_count": 46,
+      "char_count": 289
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to invest in right now. We've already got a contract with DataSphere, and we're locked into that for the next two years. I'm not sure it's worth the cost to switch over to a new system, especially if it's going to require a lot of integration work.",
+      "word_count": 54,
+      "char_count": 292
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that cost and integration can be a concern. However, our solution is designed to be flexible and can integrate with existing systems. As for the cost, we've had companies save significantly in the long run by optimizing their data workflow. Perhaps we could discuss potential ROI and see if it's worth exploring further?",
+      "word_count": 55,
+      "char_count": 333
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're committed to DataSphere for the next two years. Even if I were interested, I'm not sure I have the authority to make a change like that without going through a lengthy review process. And to be honest, the timing just isn't right for us. We're in the middle of a big project and can't afford to take on something new.",
+      "word_count": 69,
+      "char_count": 364
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about timing and authority. However, I'd like to propose a trial or pilot project that could run parallel to your current setup, allowing you to see the benefits of DeepData AI without disrupting your current workflow or committing to a full switch.",
+      "word_count": 46,
+      "char_count": 276
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the persistence, Alex, but I think we're going to have to pass on DeepData AI for now. Our contract with DataSphere is non-negotiable for the next two years, and we can't take on the additional expense or logistical hassle of integrating a new system. Thank you for reaching out, but I think we'll have to decline your offer.",
+      "word_count": 60,
+      "char_count": 338
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller could have more effectively addressed the buyer's existing contract with DataSphere by offering a more compelling reason to reconsider or providing a solution that could complement their current setup. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller could have more effectively addressed the buyer's existing contract with DataSphere by offering a more compelling reason to reconsider or providing a solution that could complement their current setup. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 208,
+    "total_buyer_words": 212,
+    "avg_seller_words_per_turn": 52.0,
+    "avg_buyer_words_per_turn": 53.0,
+    "word_ratio_seller_buyer": 0.98,
+    "total_conversation_length": 420
+  }
+}

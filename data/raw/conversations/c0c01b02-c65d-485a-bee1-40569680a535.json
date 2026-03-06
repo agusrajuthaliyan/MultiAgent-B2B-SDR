@@ -1,0 +1,82 @@
+{
+  "simulation_id": "c0c01b02-c65d-485a-bee1-40569680a535",
+  "timestamp": "2026-03-06T12:32:22.754829",
+  "target_url": "https://www.clarifai.com",
+  "company_context": "The Fastest AI Inference and Reasoning on GPUs 🔥 Clarifai Reasoning Engine Benchmarked by Artificial Analysis on GPT-OSS-120B → 544 tokens/sec, 3.6s TTFA, $0.16/M — Faster, Cheaper, Adaptive 👉 Learn More Contact us Join the Discord Login Start for free Login Start for free Login Start for free BEST-IN-CLASS PRICES The Fastest AI Inference and Reasoning on GPUs Get unmatched speed, slash infra costs by over 90%, and scale effortlessly. Start for free Talk to an AI Expert NEW! AI Runners Connect your local models to the cloud. Instantly. AI Runners securely bridge your local AI, MCP servers, and agents via a robust API to power any application. Try AI Runners NEW! artificial analysis benchmarks Blistering Speed. Budget Friendly. Verified. Clarifai’s hosted GPT-OSS-120B delivers industry-leading speed at agent-friendly pricing, putting us in the \"most attractive quadrant\" when considering speed and price. Independently validated by Artificial Analysis, Clarifai outperforms most GPU-based providers while keeping costs accessible. Try GPT-OSS-120B Read the Benchmark Report LIGHTNING FAST Deploy in minutes. Inference in milliseconds. Accelerate your development—and cut costs—without touching your workflow. Clarifai’s Compute Orchestration is fully OpenAI-compatible, so you can switch from OpenAI to Clarifai with just a couple of quick setting changes and immediately tap into faster performance, lower spend, and seamless scaling. No new SDKs. No code rewrite. Simply point your existing app to Clarifai and start saving while you serve responses in milliseconds. Python (OpenAI) NodeJS (SDK) import os from openai import OpenAI client = OpenAI( base_url=( \"https://api.clarifai.com\" \"/v2/ext/openai/v1\"), api_key=\"MY_PAT\") response = client.chat.completions.create( model=( \"https://clarifai.com/openai\" \"/chat-completion/models/gpt-oss-120b\" ), messages=[ {\"role\": \"user\", \"content\": \"What is AI?\"}] ) print(response.choices[0].message.content) import { Model } from \"clarifai-nodejs\"; import path from \"path\"; const modelUrl = \"https://clarifai.com/openai/chat-completion/models/gpt-oss-120b\"; const filepath = path.resolve(__dirname, \"../../../assets/sample.txt\"); const model = new Model({ url: modelUrl, authConfig: { pat: \"YOUR_PAT\", }, }); const modelPrediction = await model.predictByFilepath({ \\ filepath, inputType: \"text\", }); // Get the output console.log( modelPrediction?.[modelPrediction.length - 1]?.data?.conceptsList, ); Upload Your Own Model Get lightning-fast inference for your custom AI models. Deploy in minutes with no infrastructure to manage. Upload Your Model GPT-OSS-120B OpenAI's most powerful open-weight model, with exceptional instruction following, tool use, and reasoning. TRY MODEL NOW DeepSeek-V3_1 Hybrid model that supports both thinking mode and non-thinking mode, this upgrade brings improvements in multiple aspects TRY MODEL NOW Llama-4-Scout-17B-16E-Instruct Natively multimodal AI models that leverage a mixture-of-experts architecture to ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is John from DeepData AI. I came across your company and was impressed with the work you're doing in AI inference and reasoning on GPUs. I'd love to introduce you to our data processing solution that can help you optimize your workflow.",
+      "word_count": 45,
+      "char_count": 248
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, John. We're actually pretty happy with our current setup, using Clarifai's Reasoning Engine. It's been benchmarked to be one of the fastest and most cost-effective solutions out there. What makes you think your solution is better?",
+      "word_count": 41,
+      "char_count": 259
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you're using Clarifai. However, our solution, DeepData AI, has been shown to provide even faster processing times and more efficient use of resources. We've had success with similar companies in the past, and I think we could help you scale your operations more effectively.",
+      "word_count": 49,
+      "char_count": 300
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to change right now. We've just implemented Clarifai's solution and it's working well for us. Plus, their pricing is very competitive. I'm not sure we'd be willing to pay a premium for a new solution, especially if it requires significant integration work.",
+      "word_count": 49,
+      "char_count": 300
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about pricing and integration. However, our solution is designed to be modular and can integrate with your existing workflow with minimal disruption. And while Clarifai's pricing may be competitive, our solution provides additional features and support that can help you get more value out of your data.",
+      "word_count": 51,
+      "char_count": 330
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but I'm still not convinced that it's worth the hassle of switching. We're in the middle of a big project right now and I don't think we have the bandwidth to evaluate a new solution. Plus, I'd need to check with our team and get their input before making any decisions.",
+      "word_count": 54,
+      "char_count": 289
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand. It can be challenging to evaluate new solutions, especially during a busy project. But I'd be happy to provide more information and answer any questions you may have. Perhaps we could schedule a follow-up call to discuss further?",
+      "word_count": 41,
+      "char_count": 254
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I don't think that will be necessary, John. I appreciate the offer, but we're going to have to pass on DeepData AI for now. We're happy with our current solution and don't see a compelling reason to switch. Thanks for reaching out, though.",
+      "word_count": 43,
+      "char_count": 239
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's concerns about integration and provided concrete examples or case studies to alleviate these concerns earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about integration and provided concrete examples or case studies to alleviate these concerns earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 186,
+    "total_buyer_words": 187,
+    "avg_seller_words_per_turn": 46.5,
+    "avg_buyer_words_per_turn": 46.75,
+    "word_ratio_seller_buyer": 0.99,
+    "total_conversation_length": 373
+  }
+}

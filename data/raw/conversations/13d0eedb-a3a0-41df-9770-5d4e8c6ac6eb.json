@@ -1,0 +1,82 @@
+{
+  "simulation_id": "13d0eedb-a3a0-41df-9770-5d4e8c6ac6eb",
+  "timestamp": "2026-03-06T12:26:37.368529",
+  "target_url": "https://www.momentive.ai",
+  "company_context": "SurveyMonkey: The World’s Most Popular Survey Platform SURVEYS AND FORMS BUILT FOR SUCCESS Guess less. Ask more. You can't make tomorrow's decisions with hindsight. Get the insights you need to get unblocked. Get started free The world's most popular survey platform used by 260K+ organizations worldwide Your always-on insights platform to power confident business decisions BUILD LIKE A PRO Create expert surveys and forms in seconds Just write a prompt for an AI-polished survey or form—or get a head start with 500+ expert templates . Get started free TARGET LIKE A PRO Reach your audience with precision Engage exactly the right (human) respondents with powerful ways to send your survey, or tap into our global audience panel of 335M+ people in over 130 countries. Get started free ANALYZE LIKE A PRO Move fast with action-ready insights AI and connected data show you hidden patterns and trends so you have richer insights to make your most critical decisions. Get started free AUTOMATE LIKE A PRO Plug into your favorite tools Modernize your workflows with 200+ integrations , enterprise-grade security, and features built to automate and scale. Get started free Your continuous insights engine, built for any challenge Customer experience Employee experience Market research Event feedback Registration forms Make continuous customer health tracking a competitive advantage Drive retention and loyalty with connected insights from journey-based listening, trend tracking, and early churn detection. → NPS Survey Template → Customer Satisfaction Survey Template → Customer Service Feedback Survey Template See more templates Attract, engage, and retain top talent with continuous feedback Gain a deeper, strategic view of the employee experience by powering the entire lifecycle with always-on insights. → Employee Engagement Survey Template → Employee Net Promoter Score® (eNPS) Survey Template → Culture Pulse Survey Template See more templates Track evolving market signals Build an always-on market research program that helps you understand how attitudes and priorities are shifting over time. → Market Research Survey Template → Market Sizing Survey Template → NPS and Brand Loyalty Survey Template See more templates Improve every event with end-to-end feedback Collect real-time feedback before, during, and after events to improve planning and deliver better experiences. → Event Planning Survey Template → Eventbrite Post-Event Feedback Survey Template → Meeting Feedback Survey Template See more templates Streamline registrations and payments Turn transactional data into connected customer journeys, enable smarter workflows, and unlock insights over time and across events and experiences. → Online Registration Form Template → RSVP Form Template → Course Registration Form Template See more templates Greyhound's NPS® response rates jumped to 94% after using SurveyMonkey Read how “Within a few months, our NPS was up almost 15 points. SurveyMonkey changed the way that data wa",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. I saw that you're using SurveyMonkey, and I thought our solution could be a great fit to help you gain even more insights from your survey data.",
+      "word_count": 55,
+      "char_count": 307
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, SurveyMonkey. Yeah, we do use that. But I'm not sure what you mean by \"gain more insights\". We're already getting the data we need from SurveyMonkey. What makes your solution so special?",
+      "word_count": 33,
+      "char_count": 190
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can help you process and analyze large amounts of data in real-time, giving you a more complete picture of your customers and employees. We've seen companies like yours increase their survey response rates by up to 30% and reduce their data analysis time by up to 50%.",
+      "word_count": 51,
+      "char_count": 296
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I'm not sure if we're ready to invest in another data solution right now. We just implemented a new CRM system and we're still getting used to that. Plus, I'm not sure if our team has the bandwidth to take on another project.",
+      "word_count": 47,
+      "char_count": 254
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Implementing a new system can be a big undertaking. But our solution is actually designed to be pretty lightweight and easy to integrate. We have pre-built integrations with many popular CRM systems, including the one you just implemented. And our pricing is very competitive, starting at just $5,000 per year.",
+      "word_count": 53,
+      "char_count": 335
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "$5,000 per year is actually a bit steep for us. We're a smaller company and we have to be careful with our budget. And even if we were interested, I'm not sure if we have the authority to make a purchase like that without checking with our CEO and other stakeholders.",
+      "word_count": 51,
+      "char_count": 267
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that budget can be a concern. But I'd like to offer you a free trial to see the value that our solution can bring to your company. And if you're interested, we can also provide a custom quote that fits your specific needs. Would you be open to discussing this further with your team and seeing if it's something that might be a good fit?",
+      "word_count": 67,
+      "char_count": 350
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Look, I appreciate the offer, but I really don't think this is something we're going to be able to move forward with. We've got a lot on our plate right now and I just don't see us being able to prioritize this. I'm going to have to decline, thanks for reaching out though.",
+      "word_count": 53,
+      "char_count": 273
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have more aggressively addressed the buyer's budget concerns and potentially offered more flexible pricing options earlier in the conversation to build momentum and overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have more aggressively addressed the buyer's budget concerns and potentially offered more flexible pricing options earlier in the conversation to build momentum and overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 226,
+    "total_buyer_words": 184,
+    "avg_seller_words_per_turn": 56.5,
+    "avg_buyer_words_per_turn": 46.0,
+    "word_ratio_seller_buyer": 1.23,
+    "total_conversation_length": 410
+  }
+}

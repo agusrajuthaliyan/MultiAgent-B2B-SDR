@@ -1,0 +1,82 @@
+{
+  "simulation_id": "2e7c4393-9913-417d-b811-d39fb3c8d745",
+  "timestamp": "2026-03-06T12:31:07.544433",
+  "target_url": "https://www.getluna.com",
+  "company_context": "1:1 In-Home Physical Therapy Covered By Insurance | Luna In-home physical therapy from licensed experts Call 866-525-3175 or Check Availability Continue as a returning patient Proudly serving patients across the United States. See our service areas. Covered by: Where we serve Select a state See our full service area list Expert physical therapists Over 3,000 licensed outpatient therapists are ready to come to you. Amanda F. Doctor of Physical Therapy Specializes in: Geriatric, Orthopedics and Sport Medicine Joshua A. Physical Therapist Specializes in: Geriatrics, Orthopedics and Sports Medicine, Sports Injuries, ACL Rehab, Spinal Rehab Karen K. Doctor of Physical Therapy Specializes in: Orthopedics and Sports Medicine, Pelvic Floor Did you know? 100% of Luna therapists are licensed board-certified physical therapists and on average have more than 10 years of experience. Check Availability Mika T. Doctor of Physical Therapy Specializes in: Sports Rehab, Movement Based Approach, Spinal Rehab, Health Coaching Paul N. Physical Therapist Specializes in: Manual Therapy, Spine Care, Post Operative Rehab Elaine H. Doctor of Physical Therapy Specializes in: McKenzie Method of Spine Care, Post Operative Rehab Did you know? Luna therapists are experienced. The average Luna therapist has treated patients for more than 20,500 hours in their career. Check Availability Call 866-525-3175 Call 866-525-3175 or Check Availability How in-home physical therapy works Get matched with a therapist Receive care on your time Heal faster with Luna Work with the same physical therapist who’s an expert in your condition for every appointment. Your therapist will deliver PT in person, at your home or work, so getting care is safe and convenient. In between sessions, your therapist can prescribe in-app exercises and answer any questions in the Luna ® app. Get matched with a therapist Work with the same physical therapist who’s an expert in your condition for every appointment. Receive care on your time Your therapist will deliver PT in person, at your home or work, so getting care is safe and convenient. Heal faster with Luna In between sessions, your therapist can prescribe in-app exercises and answer any questions in the Luna ® app. Call 866-525-3175 Call 866-525-3175 or Check Availability What thousands of patients love about Luna Read what your neighbors are saying about Luna. And watch a video. I feel lucky I found a company called Luna. - Anton S. I was able to setup an appointment within a few days. Other places I called could not get me in for another 2-3 weeks. - Anthony K. I can’t imagine why I would ever go back to an actual PT office. Bottom line – I love Luna. - T.C. Fantastic! It was so convenient having my daughter treated AT HOME! My daughter loved her therapist! - Linda F. We feel blessed to have such a wonderful physical therapist. Thank you Luna. - Darleen B. This was my first visit with the therapist and I must say it was great. He was very professional and",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their operations and gain valuable insights. I came across Luna In-Home Physical Therapy and was impressed with the work you're doing. Can you tell me a bit about your current data management process?",
+      "word_count": 56,
+      "char_count": 335
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're doing okay, I suppose. We have a team that handles our patient data and scheduling, but it's mostly manual. What makes you think we need a new solution?",
+      "word_count": 31,
+      "char_count": 168
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from what I've seen, manual data management can lead to inefficiencies and potential errors. Our solution can help automate a lot of those processes, freeing up your team to focus on more important things. Plus, with our AI-powered analytics, you can gain deeper insights into your patient outcomes and optimize your therapy programs.",
+      "word_count": 54,
+      "char_count": 340
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see what you're saying, but we're in the middle of expanding our service areas and hiring more therapists. I'm not sure if now is the right time to implement a new system. And to be honest, I'm not sure if our budget can accommodate another software solution right now.",
+      "word_count": 50,
+      "char_count": 271
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Expansion can be a challenging time for any company. However, our solution can actually help you scale more efficiently and make data-driven decisions to inform your growth strategy. As for budget, we offer flexible pricing plans and can work with you to find a solution that fits your needs.",
+      "word_count": 52,
+      "char_count": 317
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but we've already invested in a few different systems to manage our patient data and scheduling. I'm not sure if integrating another solution would be worth the hassle. And what about your competitors? I've heard of similar solutions that offer similar features at a lower cost.",
+      "word_count": 49,
+      "char_count": 297
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about integration, but our solution is designed to be highly compatible with existing systems. And as for competitors, while they may offer similar features, our AI-powered analytics and customer support set us apart. We've had great success with similar companies in the healthcare industry, and I'd be happy to provide case studies and references.",
+      "word_count": 58,
+      "char_count": 376
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Look, I appreciate the pitch, but to be honest, this just isn't a priority for us right now. We're too busy trying to keep up with our growth and I don't have the bandwidth to even consider implementing a new system. Maybe check in with us in a few months, but for now, I'm going to have to pass.",
+      "word_count": 59,
+      "char_count": 296
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns by providing specific examples of how the solution could help with their current expansion and growth strategy. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns by providing specific examples of how the solution could help with their current expansion and growth strategy. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 220,
+    "total_buyer_words": 189,
+    "avg_seller_words_per_turn": 55.0,
+    "avg_buyer_words_per_turn": 47.25,
+    "word_ratio_seller_buyer": 1.16,
+    "total_conversation_length": 409
+  }
+}

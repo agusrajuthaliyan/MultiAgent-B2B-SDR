@@ -1,0 +1,82 @@
+{
+  "simulation_id": "0094d522-0378-487c-8ea2-91499c875e79",
+  "timestamp": "2026-03-06T12:29:37.819458",
+  "target_url": "https://www.fiddler.ai",
+  "company_context": "Fiddler AI: AI Control Plane for Enterprise Agents | Observability & Security Run free guardrails Request demo All Enterprise Agents Need the AI Control Plane Experiments, monitoring, guardrails, and governance for compound AI. Request demo Learn about the Control Plane Trusted by Industry Leaders and Developers Enterprise Visibility, Context, and Control with Agentic Observability Complete visibility across the agentic hierarchy, tracking agentic applications across the lifecycle. Gain insights into agent behaviors and pinpoint root causes with full execution context and decision lineage. Govern AI systems by enforcing policies with guardrails. Be in charge of your TCO with “batteries included” Fiddler Trust Models . See Every Action, Understand Every Decision, and Control Every Outcome with Agentic Observability Explore Control Risk with Fiddler Safety, Faithfulness, and PII Guardrails Reduce TCO with Fiddler Trust Models Get Deeper Insights on Complex Tasks with LLM-as-a-Judge Save Time and Resources to Understand Agent Behavior Deliver High Performance. Protect from Risks. Maximize ROI. Continuous monitoring and auditable governance unlike passive evaluation and open source systems. View product tour OpenClaw and the Observability Gap in Autonomous AI Assistants Read blog 5 Critical Lessons for Production-Ready AI Agents Download guide Rethinking Observability for the Age of AI Agents Download guide Building Trust with AI Builders and Guardians Recognition CB Insights: Leader in AI Agent Security & Risk Management Market IDC ProductScape: Worldwide Generative AI Governance Platforms 2025 Matt Turck and FirstMark: The 2025 MAD (ML, AI & Data) Landscape Defense Innovation Unit Issues Success Memo to Fiddler AI CB Insights AI 100: The most promising artificial intelligence startups of 2025 Matt Turck and FirstMark: The 2024 MAD (Machine Learning, AI & Data) Landscape The insideAI News IMPACT 50 List for Q4 2024 Lazard VGB AI Infra Top 40 2024 The insideAI News IMPACT 50 List for Q3 2024 Experience Enterprise AI Observability Request demo Run free guardrails",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management and gain deeper insights. I came across your company, Fiddler AI, and was impressed with the work you're doing in the AI control plane space. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 63,
+      "char_count": 365
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're dealing with a vast amount of data from our AI agents, and it's becoming increasingly difficult to manage and analyze. But we're currently evaluating several solutions, and I have to say, our budget for this fiscal year is pretty tight. What makes DeepData AI stand out from the competition, and what kind of pricing are we looking at?",
+      "word_count": 61,
+      "char_count": 350
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand budget constraints. DeepData AI offers a unique approach to data processing that allows for real-time analytics and scalability. Our pricing starts at $50,000 per year for the basic plan, but I think our premium plan, which includes additional features like advanced security and dedicated support, would be a better fit for a company like yours. That plan starts at $100,000 per year.",
+      "word_count": 65,
+      "char_count": 409
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That's a bit steep for us. We're already invested in some open-source solutions, and while they have their limitations, they're free. I'm not sure our CFO would be willing to approve that kind of expenditure, especially since we're still in the process of evaluating our needs. Can you tell me more about the ROI we could expect from implementing DeepData AI?",
+      "word_count": 61,
+      "char_count": 359
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd be happy to provide some case studies that demonstrate the ROI our clients have seen. On average, our clients see a 30% reduction in data processing costs and a 25% increase in productivity. However, I want to address your concern about the open-source solutions. While they may be free upfront, they often require significant resources to manage and customize, which can add up in the long run.",
+      "word_count": 73,
+      "char_count": 431
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see your point, but I'm still not convinced that DeepData AI is the right fit for us. We're also considering a competitor, DataMax, which offers similar features at a lower price point. Have you done any comparison studies with DataMax, and how do you think DeepData AI differentiates itself?",
+      "word_count": 50,
+      "char_count": 294
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Yes, we've done comparisons with DataMax, and while they do offer some similar features, our solution is more scalable and provides more advanced analytics capabilities. However, I understand that price is a significant factor, and I'd be willing to discuss potential discounts or customized plans that could work within your budget.",
+      "word_count": 51,
+      "char_count": 333
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your willingness to negotiate, but after careful consideration, I think we're going to have to pass on DeepData AI for now. The price is just too high, and we need to prioritize our spending on more critical areas of our business. Thank you for your time, and I wish you the best of luck with your sales efforts.",
+      "word_count": 60,
+      "char_count": 325
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more aggressive in highlighting the unique benefits and ROI of DeepData AI earlier in the conversation to potentially overcome the buyer's budget concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more aggressive in highlighting the unique benefits and ROI of DeepData AI earlier in the conversation to potentially overcome the buyer's budget concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 252,
+    "total_buyer_words": 232,
+    "avg_seller_words_per_turn": 63.0,
+    "avg_buyer_words_per_turn": 58.0,
+    "word_ratio_seller_buyer": 1.09,
+    "total_conversation_length": 484
+  }
+}

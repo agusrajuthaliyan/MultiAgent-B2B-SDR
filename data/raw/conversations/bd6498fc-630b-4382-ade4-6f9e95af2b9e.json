@@ -1,0 +1,82 @@
+{
+  "simulation_id": "bd6498fc-630b-4382-ade4-6f9e95af2b9e",
+  "timestamp": "2026-03-06T12:26:23.754584",
+  "target_url": "https://www.couchbase.com",
+  "company_context": "Access Denied Access Denied You don't have permission to access \"http://www.couchbase.com/\" on this server. Reference #18.1e43c717.1772780182.443eb6ea https://errors.edgesuite.net/18.1e43c717.1772780182.443eb6ea",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure. I came across your company and noticed you're using Couchbase, but I understand you're experiencing some access issues. Can you tell me a little bit about what's going on with that?",
+      "word_count": 57,
+      "char_count": 341
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're getting an \"Access Denied\" error when trying to access their website. But to be honest, it's not a huge concern for us right now. We've got more pressing issues to deal with. What makes you think your solution can help us?",
+      "word_count": 44,
+      "char_count": 238
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large amounts of data and provide real-time insights. We've worked with similar companies in the past and seen significant improvements in their data processing efficiency. I'd love to schedule a demo to show you how it works. Would you be open to that?",
+      "word_count": 50,
+      "char_count": 294
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We're already invested in our current data processing solution, and I'm not convinced that switching to a new one would be worth the cost and effort. Plus, we've got a lot of custom integrations set up with our existing system. How would your solution handle those?",
+      "word_count": 49,
+      "char_count": 279
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. Our solution is designed to be highly flexible and adaptable, so we can work with your existing integrations. And in terms of cost, we've seen our solution pay for itself many times over through increased efficiency and reduced downtime. We've also got a number of case studies from similar companies that I can share with you.",
+      "word_count": 61,
+      "char_count": 366
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm still not convinced. We're happy with our current solution, and I don't see a compelling reason to switch. To be honest, we've got a long-standing relationship with our current vendor, and I'm not sure I want to rock the boat. And even if I was interested, I'm not sure I have the authority to make a decision like this without involving our purchasing department.",
+      "word_count": 70,
+      "char_count": 396
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Can I at least send you some information about our solution and follow up with you in a few weeks to see if anything has changed?",
+      "word_count": 35,
+      "char_count": 188
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that's necessary. We're happy with our current solution, and I don't foresee us making any changes in the near future. Thank you for reaching out, but I think we'll have to pass on DeepData AI.",
+      "word_count": 39,
+      "char_count": 211
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have more effectively addressed the buyer's concerns and authority issues earlier in the conversation to build trust and potentially overcome the objections. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns and authority issues earlier in the conversation to build trust and potentially overcome the objections. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 203,
+    "total_buyer_words": 202,
+    "avg_seller_words_per_turn": 50.75,
+    "avg_buyer_words_per_turn": 50.5,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 405
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "0a3709d0-aa9b-440a-9606-ea24ba8ff56d",
+  "timestamp": "2026-03-06T12:27:15.073371",
+  "target_url": "https://www.unit.co",
+  "company_context": "Unit | Embedded Finance Sandbox Chat with an expert Read more: Enterprise-grade financial infrastructure Elevate your platform with embedded finance. Launch money solutions that customers actually love. Start instantly with fully managed solutions, or build with full control. Chat with an expert See a demo See money solutions inside your platform Explore a demo of accounts, payments, and cards in your brand. Email Address See a live demo *Please enter a valid work email Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Capital Banking Bill Pay Capital Banking Bill Pay Built for modern software platforms Proven to increase engagement, unlock new revenue, and grow customer lifetime value. Meet our customers Achieving 4x customer lifetime value with embedded banking 4x customer lifetime value How Nav uses embedded finance to deepen engagement and increase sales 2.5x Engagement increase How Baselane uses embedded finance to help landlords manage their finances 50% Lower acquisition costs One platform, every core financial product Build with simple, composable primitives that can power any money solution for your customers. Accounts and wallets (FBO) Help your customers store and move money on your platform Money movement Make it easy for your users to send and receive payments: same-day ACH, wire, check and more. Card issuing Branded debit and credit cards help create smarter money experiences for your users. Capital Offer your customers working capital, charge cards or credit cards. One platform, flexible by design Build with managed solutions or custom APIs – powered by the same underlying infrastructure. Ready-to-Launch A fully managed financial solution, embedded with a single line of code. No code Launch in 3 weeks Custom Design money experiences with full control, powered by direct integration with the Federal Reserve and card networks. Custom code Launch in 6 weeks Solutions for businesses, workers, and consumers Businesses Embed capital, banking, and expenses to become the all-in-one money hub for your customers. Independent Workers Offer instant payouts, wallets, and cards to freelancers and gig economy workers. Consumers Offer balances, cards, and money movement to grow engagement and revenue. People and infrastructure you can trust 2M+ users $50B+ annual transaction volume 12M+ daily API calls Teams choose Unit for the ability to operate complex financial programs with confidence: from early scale to millions of users. Insights Blog 45 minutes Podcast: Embedded Finance and the Art of Getting Your First Customer Blog 2 minutes Introducing Positive Pay No items found. See all resources Blog 3 mins Hosting top-notch getaways with embedded finance Guide 9 mins How embedded finance is transforming Vertical SaaS Launch money solutions for your customers. Unlock new revenue for your business. Chat with an expert Solutions Businesses Independent Workers Consumers Vertical SaaS Business Management S",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company, Unit, and was impressed with the work you're doing in embedded finance. I'd love to explore how our data processing solution can help you optimize your operations and improve customer engagement.",
+      "word_count": 50,
+      "char_count": 302
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Alex, I'm John, the CTO here. We're always looking for ways to improve our platform, but I have to say, we've already invested heavily in a data processing solution with one of your competitors. What makes DeepData AI unique, and how do you think it can help us?",
+      "word_count": 49,
+      "char_count": 265
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable, John. Our solution is built on top of AI-powered algorithms that can handle large volumes of data in real-time, providing actionable insights that can help you make informed decisions. We've seen our customers achieve significant reductions in processing time and improvements in accuracy. I'd love to schedule a demo to show you how it works.",
+      "word_count": 58,
+      "char_count": 377
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but as I mentioned, we're already locked into a contract with another provider. We've got about 18 months left on the contract, and switching now would be costly and disruptive to our operations. Not to mention, our team has already invested a lot of time and resources into integrating their solution.",
+      "word_count": 55,
+      "char_count": 326
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the concerns, John. However, I'd like to highlight that our solution is designed to be highly scalable and flexible, which can help you adapt to changing market conditions and customer needs. We've also had success with integrating our solution with existing infrastructure, which could minimize the disruption. Additionally, we're offering a competitive pricing model that could help offset the costs of switching.",
+      "word_count": 64,
+      "char_count": 428
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, Alex, but the truth is, our contract with the competitor is quite comprehensive, and we've got a dedicated team that's familiar with their solution. The cost of switching, both in terms of dollars and resources, is just too high for us to consider at this time. Furthermore, we're not convinced that your solution would provide enough of a competitive advantage to justify the switch.",
+      "word_count": 68,
+      "char_count": 415
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John, and I respect your decision. However, I'd like to leave you with some information about our solution and how it's helped other companies in the industry. Perhaps we can revisit this conversation in the future when your contract is up for renewal?",
+      "word_count": 47,
+      "char_count": 280
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you, Alex, but I think we'll have to decline. We're committed to seeing our current contract through to its end, and we'll reassess our options at that time. I appreciate your understanding, and I wish you and DeepData AI the best of luck in your sales efforts.",
+      "word_count": 48,
+      "char_count": 267
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more effectively highlighted the unique value proposition of DeepData AI's solution and quantified the potential benefits to overcome the buyer's existing contract with a competitor. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more effectively highlighted the unique value proposition of DeepData AI's solution and quantified the potential benefits to overcome the buyer's existing contract with a competitor. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 219,
+    "total_buyer_words": 220,
+    "avg_seller_words_per_turn": 54.75,
+    "avg_buyer_words_per_turn": 55.0,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 439
+  }
+}

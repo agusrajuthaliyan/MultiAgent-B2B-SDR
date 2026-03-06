@@ -1,0 +1,82 @@
+{
+  "simulation_id": "2165f4ee-6860-4b8d-97aa-961aaf27c44e",
+  "timestamp": "2026-03-06T12:28:11.223417",
+  "target_url": "https://www.snowpack.dev",
+  "company_context": "Snowpack Snowpack The faster frontend build tool. Get started $ npm install snowpack Star Update (April 20, 2022): Snowpack is no longer actively maintained and is not recommended for new projects. Check out Vite for a well-maintained Snowpack alternative. See also: esbuild , parcel What is Snowpack? Snowpack is a lightning-fast frontend build tool, designed for the modern web. It is an alternative to heavier, more complex bundlers like webpack or Parcel in your development workflow. Snowpack leverages JavaScript's native module system ( known as ESM ) to avoid unnecessary work and stay fast no matter how big your project grows. Once you try it, it's impossible to go back to anything else. Instant startup Snowpack's unbundled web development server starts up in 50ms or less and stays fast in large projects. Build once, cache forever Snowpack never builds the same file twice. Powered by JavaScript’s native module system (ESM) in the browser. HMR feat. Fast Refresh No refresh required. See changes reflected instantly in the browser with HMR + Fast Refresh for React, Preact & Svelte. Out-of-the-box support Enjoy Snowpack's built-in support for JSX, TypeScript, React, Preact, CSS Modules and more. Optimize for production Build for production with built-in optimizations and plugin support for your favorite bundlers. Plugins? Plugins! Babel? Sass? MDX? Browse the entire Snowpack Plugin Catalog to connect your favorite build tool (or create your own! ) Get started Learn more",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their workflow and gain valuable insights from their data. How are you today?",
+      "word_count": 36,
+      "char_count": 210
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. But I have to say, we're not really looking for any new solutions right now. We're pretty happy with our current setup. What makes you think we need DeepData AI?",
+      "word_count": 34,
+      "char_count": 185
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you might be satisfied with your current solution, but I'd like to highlight that our platform can help reduce data processing time by up to 50% and provide more accurate results. We've had great success with similar companies in the industry. Can I ask, what's your current data processing workflow like?",
+      "word_count": 54,
+      "char_count": 323
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "We're using a combination of open-source tools and in-house scripts. It's working for us, but I have to say, I'm a bit concerned about the cost of implementing a new solution like DeepData AI. We're on a tight budget this quarter. How much does your platform cost?",
+      "word_count": 47,
+      "char_count": 264
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the specific needs of each company. I'd be happy to provide a quote and discuss how we can work within your budget. However, I want to emphasize that our solution can help you save resources in the long run by automating many of the manual processes you're currently doing.",
+      "word_count": 60,
+      "char_count": 340
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but I'm also concerned about the integration process. We've had issues with integrating new tools with our existing infrastructure in the past. How complex is the integration process with DeepData AI, and what kind of support do you offer?",
+      "word_count": 42,
+      "char_count": 258
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We have a dedicated integration team that works closely with our clients to ensure a smooth transition. We also provide extensive documentation and support resources to help with any issues that may arise. But I understand that integration can be a challenge. Can I schedule a follow-up call to discuss this further and answer any questions you may have?",
+      "word_count": 59,
+      "char_count": 354
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I think we'll need to discuss this internally before moving forward. To be honest, I don't think we're ready to invest in a new data processing solution at this time. We've got a lot on our plate, and this isn't a priority for us. I appreciate the pitch, but I think we'll have to pass on DeepData AI for now.",
+      "word_count": 60,
+      "char_count": 309
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and emphasized the potential long-term benefits of implementing DeepData AI to overcome the buyer's priority and budget concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and emphasized the potential long-term benefits of implementing DeepData AI to overcome the buyer's priority and budget concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 209,
+    "total_buyer_words": 183,
+    "avg_seller_words_per_turn": 52.25,
+    "avg_buyer_words_per_turn": 45.75,
+    "word_ratio_seller_buyer": 1.14,
+    "total_conversation_length": 392
+  }
+}

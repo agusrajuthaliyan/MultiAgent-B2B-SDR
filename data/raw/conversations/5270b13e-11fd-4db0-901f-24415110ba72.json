@@ -1,0 +1,82 @@
+{
+  "simulation_id": "5270b13e-11fd-4db0-901f-24415110ba72",
+  "timestamp": "2026-03-06T12:31:14.638293",
+  "target_url": "https://www.lightning.ai",
+  "company_context": "Lightning AI You need to enable JavaScript to run this app.",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a leading provider of data processing solutions, and I came across your company, Lightning AI, while researching innovative tech firms. I'd love to discuss how our solution can help you streamline your data operations.",
+      "word_count": 47,
+      "char_count": 283
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Okay, what makes you think we need another data processing solution? We've already invested heavily in our current infrastructure.",
+      "word_count": 20,
+      "char_count": 138
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that investment, but our solution, DeepData AI, offers advanced machine learning capabilities and real-time analytics that can significantly enhance your data processing efficiency and insights. It might be worth exploring how it can complement or even improve upon your existing infrastructure.",
+      "word_count": 43,
+      "char_count": 308
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're currently locked into a contract with DataSphere, one of your competitors. To be honest, switching would require a significant overhaul of our systems, and I'm not sure it's feasible from a cost and time perspective.",
+      "word_count": 40,
+      "char_count": 251
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the contractual obligations and the potential complexity of integrating a new system. However, DeepData AI has a proven track record of seamless integration with various existing infrastructures, and our pricing model is very competitive. We've helped similar companies reduce their data processing costs by up to 30%.",
+      "word_count": 49,
+      "char_count": 331
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but the timing isn't right for us. Even if we were interested, which I'm not saying we are, our budget for this fiscal year is already allocated, and making significant changes now would disrupt our operations. Plus, I'd need to get buy-in from our entire tech team and possibly even the board, given the scale of the change you're proposing.",
+      "word_count": 64,
+      "char_count": 366
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about timing and budget. Perhaps we could discuss potential future opportunities or even a pilot project to test the waters, so to speak, when your contract with DataSphere is up for renewal? This way, you could see the benefits of DeepData AI firsthand without committing to a full-scale implementation.",
+      "word_count": 53,
+      "char_count": 331
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. Our contract with DataSphere has a couple of years left, and as I mentioned, switching isn't just about the technology; it's about the investment we've made and the relationships we've built. I think it's best if we see out our current commitments before exploring new partnerships. Thank you for reaching out, but I think that's all for now.",
+      "word_count": 77,
+      "char_count": 443
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively explored potential future opportunities or pilot projects to keep the conversation alive beyond the current contractual obligations. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively explored potential future opportunities or pilot projects to keep the conversation alive beyond the current contractual obligations. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 192,
+    "total_buyer_words": 201,
+    "avg_seller_words_per_turn": 48.0,
+    "avg_buyer_words_per_turn": 50.25,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 393
+  }
+}

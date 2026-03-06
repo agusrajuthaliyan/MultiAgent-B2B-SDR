@@ -1,0 +1,82 @@
+{
+  "simulation_id": "ced1c050-d053-40b6-a1d4-8e65d8c6b79b",
+  "timestamp": "2026-03-06T12:29:12.879997",
+  "target_url": "https://www.mosaicml.com",
+  "company_context": "Databricks Mosaic: Pioneering AI & Open-Source Research| Databricks Skip to main content Rigorous science. Real impact. Meet Shutterstock ImageAI, a new text‑to-image diffusion model codeveloped by Shutterstock and Databricks ImageAI is our new text-to-image diffusion model built using the advanced capabilities of Databricks Mosaic AI and trained exclusively on Shutterstock’s proprietary image repository. ImageAI generates photorealistic images based on trusted data. Read the press release Research Blog View all blog posts Technology Technology DBRX DBRX is an open source, commercially usable LLM developed by our team at Databricks and released in March 2024. As of its release, it is the highest-quality open source model available. Thanks to its sparse mixture-of-expert architecture, it is also fast, fitting these extraordinary capabilities into just 36B active parameters. Download on Hugging Face DBRX Technical Blog DBRX Founders Blog DBRX on Databricks Model Serving TECHNOLOGY Shutterstock ImageAI, powered by Databricks ImageAI is trained exclusively on Shutterstock’s repository to create high-resolution images based on trusted data. Shutterstock ImageAI Press Release Technology Mosaic BERT Pretrain your own BERT model on your data from scratch using Mosaic AI for $20. Code on GitHub Blog Post Technology MPT The MPT models are a family of open source, commercially usable LLMs released in summer 2023. They include MPT-30B (prioritizing quality) and MPT-7B (prioritizing efficiency). You can download versions of these models that we have trained or you can train your own MPT models on your data using the Mosaic AI Multi-Cloud Training (MCT) product. Download on Hugging Face MPT-30B Blog MPT-7B Blog MPT-7B-8K Blog Technology Mosaic Diffusion Mosaic Diffusion is a generative model that turns text descriptions into images, designed to be highly efficient. Code on GitHub Blog Post Technology Composer Composer is an open source deep-learning training library optimized for scalability and usability. Code on GitHub Farewell CUDA OOM Technology LLM Foundry Databricks LLM Foundry is a highly efficient, open source codebase for training, fine-tuning and evaluating LLMs. Code on GitHub Throughput Tables Technology Performance Our deep learning stack is the most efficient for training, fine-tuning and deploying large models at scale. FP8 on H100 Fast LLM Inference FP8 for Serving Technology StreamingDataset StreamingDataset is an open source PyTorch DataLoader that makes it easy and efficient to stream training datasets. Download on GitHub Blog Post Technology Evaluation Gauntlet The Evaluation Gauntlet is a library for evaluating the quality of generative language models. ReadMe Code on GitHub Blog Post Ready to become a data + AI company? Take the first steps in your data transformation Browse demos Try it free",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company, Databricks, and was impressed with the work you're doing with AI and open-source research. I'd love to explore how our data processing solution can help you streamline your operations.",
+      "word_count": 48,
+      "char_count": 291
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Alex, I'm John, the CTO here. We're always looking for ways to improve our processes, but I have to say, we're pretty invested in our current tech stack. What makes DeepData AI unique, and how does it integrate with our existing systems?",
+      "word_count": 43,
+      "char_count": 240
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Great question, John. Our solution is designed to handle large volumes of data with high accuracy and speed. We've had success with similar companies in the industry, and I think we could really help you optimize your data processing. As for integration, we have APIs that can connect with most systems, including Databricks Mosaic.",
+      "word_count": 54,
+      "char_count": 332
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. Well, we're actually in the middle of implementing some new models, including DBRX and MPT, so I'm not sure if this is the right time to consider a new solution. Plus, I'm concerned about the cost – we're on a tight budget for the next quarter. What kind of pricing are we looking at?",
+      "word_count": 56,
+      "char_count": 291
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns, John. Our pricing is competitive, and we offer customized plans to fit each company's needs. I'd be happy to discuss a potential pilot project to test our solution and demonstrate the ROI. As for timing, I think our solution could actually help you accelerate your implementation of those new models.",
+      "word_count": 55,
+      "char_count": 339
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I'm still not convinced. We've had experiences with similar solutions in the past that didn't quite live up to their promises. I'd need to see some concrete case studies and talk to our team before considering a new vendor. And to be honest, I'm not sure if I'm the right person to be having this conversation – our procurement process typically involves multiple stakeholders.",
+      "word_count": 70,
+      "char_count": 411
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your skepticism, John, and I respect your diligence. I can definitely provide some case studies and references from similar companies. Perhaps we could schedule a follow-up call to discuss further and involve your team?",
+      "word_count": 36,
+      "char_count": 232
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think it's best if you just send me an email with some more information. I'll take a look and discuss it with our team, but I don't think we'll be moving forward with DeepData AI at this time. Thanks for reaching out, though.",
+      "word_count": 50,
+      "char_count": 268
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have asked more questions to identify the key stakeholders involved in the procurement process and attempted to schedule a meeting with the broader team to build consensus. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have asked more questions to identify the key stakeholders involved in the procurement process and attempted to schedule a meeting with the broader team to build consensus. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 193,
+    "total_buyer_words": 219,
+    "avg_seller_words_per_turn": 48.25,
+    "avg_buyer_words_per_turn": 54.75,
+    "word_ratio_seller_buyer": 0.88,
+    "total_conversation_length": 412
+  }
+}

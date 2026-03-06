@@ -1,0 +1,82 @@
+{
+  "simulation_id": "cbf5e5b5-2136-483a-b52a-fbf8ba9fc1b4",
+  "timestamp": "2026-03-06T12:30:19.789153",
+  "target_url": "https://www.preset.io",
+  "company_context": "AI-Native BI Built on Apache Superset™ | Preset The Future of AI Analytics is Open Source Dashboards, embedded analytics, and self-service data exploration at enterprise-grade scale, without the constraints of traditional BI. Powered by Apache Superset™ , the leading open-source business intelligence platform the world's best AI models already know inside and out. Sign up for free Book a demo Preset AI Talk with Your Data Preset's AI solutions (including chatbot and MCP) let you ask questions and build insights with charts and dashboards through conversation. It's real, it's demo-ready, and it's trustworthy. We're refining it for launch with customers like you - get involved in the next giant leap in analytics. See it in action and help shape what's next. Talk to the Team Learn More ‹ › Ask Preset Chatbot questions about your data right from a dashboard — get ranked tables, insights, and more. 1 / 4 Why Preset Enterprise SaaS powered by Superset Explore your data with Preset's cloud-hosted , managed cloud , on-prem , or embedded analytics solutions. Easy to create dashboards and find insights Preset’s intuitive drag-and-drop user interface and fully interactive dashboards offer a seamless experience for business users. SQL-savvy analysts can utilize the SQL IDE to run ad-hoc queries. Discover Preset Cloud Instant time to dashboards and actions Preset's dataset-centric approach enables anyone to immediately create their dashboards, freeing up valuable time for data teams. By containing only relevant columns, these datasets ensure fast, performant queries. Read customer stories Best pricing model and no vendor lock-in Preset offers the most cost-effective BI solution. You have the flexibility to migrate your charts and dashboards to open-source Apache Superset. See pricing Use Cases Give data to anyone, anywhere Empower every team to be data-driven with our powerful business intelligence tool, unlocking valuable insights from beautiful and interactive dashboards. Or, quickly build interactive analytics native to internal tools and customer applications, saving time and engineering overhead. Explore in our BI tool Learn More Embed in internal tools Learn More Build customer apps Learn More Data Architecture Visualizations for the modern data stack Leverage the investments you have made in your data infrastructure with Preset’s lightweight and powerful visualization layer on top. Preset is agnostic to your underlying data architecture and does not require an additional ingestion layer. Builder First Trust the experts Preset was founded by the original creator of Apache Superset™ . Our team of experts contributes over 75% of all commits to the open-source software project. Why the future of BI is open source Dataset-centric visualization for fast-moving data teams Learn more about datasets Scaling Superset for builders and developers Managing Superset assets as code Try Preset for Free Turn every team into a data team with Preset Get Started Ready to ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make the most out of their data. How are you doing today?",
+      "word_count": 34,
+      "char_count": 181
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. But I have to say, we're pretty set with our current data analytics solution. What makes DeepData AI so special?",
+      "word_count": 24,
+      "char_count": 136
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is built on top of Apache Superset, which allows for enterprise-grade scale and flexibility. We also have AI-powered chatbots that can help you build insights and dashboards through conversation. It's a game-changer for data-driven decision making.",
+      "word_count": 39,
+      "char_count": 267
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're currently locked into a contract with Tableau. We've invested a lot of time and money into implementing their solution, and I'm not sure we're ready to switch. Plus, I'm not sure how DeepData AI would integrate with our existing infrastructure.",
+      "word_count": 45,
+      "char_count": 279
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. However, our solution is designed to be highly compatible with existing systems, and we have a dedicated team that can help with the integration process. As for the contract with Tableau, I'd be happy to discuss potential cost savings and ROI that our solution could bring to the table.",
+      "word_count": 54,
+      "char_count": 325
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, we're not looking to make any major changes to our data analytics setup for at least the next 12-18 months. We're in the middle of a large-scale project and don't have the bandwidth to take on a new implementation. And even if we did, I'm not sure our team would be willing to learn a new system.",
+      "word_count": 65,
+      "char_count": 338
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that timing is everything. But I'd like to propose a pilot project that could run in parallel with your existing solution. This would allow you to test the waters, so to speak, and see the value that DeepData AI could bring without disrupting your current workflow.",
+      "word_count": 48,
+      "char_count": 278
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the proposal, but I think we're going to have to pass. Our contract with Tableau is pretty ironclad, and we've got a good relationship with their team. I don't see us making a switch anytime soon. Thanks for reaching out, but I think we'll have to decline.",
+      "word_count": 49,
+      "char_count": 269
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and contract obligations earlier in the conversation to potentially find an alternative solution or schedule a follow-up discussion after the 12-18 month period. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and contract obligations earlier in the conversation to potentially find an alternative solution or schedule a follow-up discussion after the 12-18 month period. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 175,
+    "total_buyer_words": 183,
+    "avg_seller_words_per_turn": 43.75,
+    "avg_buyer_words_per_turn": 45.75,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 358
+  }
+}

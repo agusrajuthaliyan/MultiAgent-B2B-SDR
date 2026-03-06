@@ -1,0 +1,82 @@
+{
+  "simulation_id": "99b3bf29-4bf2-4c3d-9f32-eeaae9f366c7",
+  "timestamp": "2026-03-06T12:31:56.803735",
+  "target_url": "https://www.activeviam.com",
+  "company_context": "Financial Data Analytics Software | ActiveViam Skip to content Request a Demo Search for: Search Request a Demo Latest updates Join us in Paris for our exclusive client event. Hear real-world success stories, discover the latest product innovations and exchange insights with industry leaders. Connect, network and gain ideas you can put into action. Designed as a dynamic gathering of brilliant minds, this event will bring together top-tier guest speakers and clients, trusted partners, and industry thought leaders for an inspiring day packed with insightful sessions. Speed to compliance: Leonteq goes live with Atoti for FRTB-SA in just 6 months When FINMA expanded its FRTB scope, Leonteq needed a solution that integrated seamlessly with existing engines. They selected Atoti by ActiveViam and moved to production in just six months. Compliance doesn’t have to slow you down. Read the full case study ActiveViam has won the 2026 Markets Technology Award for Best Use of Machine Learning/AI, recognized for delivering an AI framework that enhances transparency, precision and speed in risk and P&L workflows. Atoti Intelligence embeds machine learning and generative AI into the platform’s core layers, accelerating analytics while preserving full data lineage and governance. Read the full Risk.net editorial to see why the judges called our approach both practical and sophisticated. ActiveViam has won two Risk Markets Technology Awards 2026 for Best Use of Machine Learning / AI and Best Use of Cloud. The AI award recognises Atoti Intelligence, which integrates machine learning and generative AI to deliver faster, predictive, and actionable insights with tools like Auto-Explain and Query Engine Optimizer, while giving firms full control over their LLMs and data. The Cloud award highlights Atoti Platform Admin, simplifying multi-cloud and on-premise deployments and reducing costs by up to 60%. Read more about our award-winning innovations. For us, AI isn’t just a buzzword. It’s transforming trading floors, risk desks, and regulatory teams. Atoti Intelligence automates repetitive tasks, eliminates errors, and delivers real-time insights, letting users ask questions in natural language, run scenario tests, and refresh recommendations instantly. Its open architecture gives you full control over your data and choice of Large Language Model (LLM). Explore why Atoti Intelligence is different. Societe Generale extends its partnership with ActiveViam. Powered by Atoti, the GREAT platform supports real-time trading and risk management across London, Paris, Hong Kong, and New York. Handling hundreds of thousands of trades per second, it provides 100+ users across 20 desks with dynamic risk aggregation and real-time P&L insights—helping traders optimise decisions and senior management monitor global exposure. SEB AB has upgraded its P&L solution with Atoti, moving away from spreadsheets to a modern, workflow-driven platform supporting 15 trading desks across all asset clas",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm a Sales Development Representative at DeepData AI. I came across ActiveViam and was impressed with your work in financial data analytics. I'd like to introduce our data processing solution, which can help you streamline your data workflows and improve insights.",
+      "word_count": 47,
+      "char_count": 290
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Emily. I'm John, the CTO here. We're always looking for ways to optimize our data processing, but I have to say, we've already invested heavily in our current infrastructure. What makes DeepData AI different from what we're using now?",
+      "word_count": 44,
+      "char_count": 263
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question, John. Our solution uses advanced machine learning algorithms to automate data processing, reducing manual errors and increasing processing speed. We've seen our clients achieve up to 30% reduction in processing time and 25% increase in data accuracy.",
+      "word_count": 41,
+      "char_count": 275
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're in the middle of implementing a new risk management system, and I'm not sure if now is the right time to introduce a new data processing solution. How long would the implementation process take, and what kind of resources would we need to dedicate to it?",
+      "word_count": 51,
+      "char_count": 289
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns, John. Our implementation process typically takes around 3-6 months, depending on the complexity of the project. We'd work closely with your team to ensure a smooth integration with your existing systems. As for resources, we'd require some dedicated time from your IT team, but we'd also provide extensive support and training to ensure a seamless transition.",
+      "word_count": 61,
+      "char_count": 398
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I'm still not convinced that this is the right time for us. And to be honest, I'm also concerned about the cost. We've had experiences with similar solutions in the past that ended up being more expensive than anticipated. Can you give me a rough idea of what the pricing would look like for a company of our size?",
+      "word_count": 62,
+      "char_count": 327
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the volume of data being processed, as well as the level of support and customization required. For a company like ActiveViam, I'd estimate the annual cost to be around $250,000 to $300,000.",
+      "word_count": 37,
+      "char_count": 214
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your transparency, Emily, but I have to say that the price is a bit higher than we were expecting. We've got a tight budget for new initiatives, and I'm not sure we can justify that kind of expense. I think we'll have to pass on DeepData AI for now. We'll stick with our current solution and explore other options that might be more cost-effective.",
+      "word_count": 66,
+      "char_count": 361
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's cost concerns and potentially offer more flexible pricing options or a trial to demonstrate the value of the solution. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's cost concerns and potentially offer more flexible pricing options or a trial to demonstrate the value of the solution. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 186,
+    "total_buyer_words": 223,
+    "avg_seller_words_per_turn": 46.5,
+    "avg_buyer_words_per_turn": 55.75,
+    "word_ratio_seller_buyer": 0.83,
+    "total_conversation_length": 409
+  }
+}

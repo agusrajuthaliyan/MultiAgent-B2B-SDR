@@ -1,0 +1,96 @@
+{
+  "simulation_id": "de7beb75-0c40-46ee-8e41-5a2f0cbda272",
+  "timestamp": "2026-03-06T12:28:48.483648",
+  "target_url": "https://www.hive.com",
+  "company_context": "The #1 Project Management Software For Teams | Hive Skip to content Try Buzz now. Escape your inbox. Learn more Login Acceso Contact Sales Empezar Login Acceso Contact Sales Solicitud de demostración Login Acceso Get Started Empezar Login Acceso Get Started Empezar Products FEATURES Project management Track your team’s tasks and project Proofing & approvals Streamline design and feedback Goals Set and visualize milestones Time tracking Track time spent on actions Forms Gather feedback, project intake, client requests & more Resourcing Track time & assign teammates to projects View All Features All features you need in one tool PLATFORM Dashboards Gain visibility and gather insights Buzz AI Save time by automating tasks Hive Apps Connect dozens of apps Integrations Sync your most used apps Templates Quickstart with pre-built templates Download Hive Access your workspace anywhere Buzz AI Save time by automating tasks View All Features All features you need in one tool Buzz AI Save time by automating tasks Use Cases WORKFLOW Project management Streamline initiatives & customize workflow by project Time tracking Consolidate all time tracking and task management in Hive Client engagement Build custom client portals and dashboards for external use Resource management Enable seamless resourcing and allocation across your team Cross-company collab Unite team goals across your organization Project planning Track & plan upcoming projects View All Use Cases See how other teams use Hive COMPANY TYPE Enterprise Bring your organization into one unified platform Agency Streamline project intake, project execution, and client comms Higher education Maximize value from your marketing and admissions workflows with Hive Nonprofits Seamless planning, fundraising, event execution and more TEAM Marketing Streamline your marketing projects and timelines Business operations Track and optimize strategic planning and finance initiatives Education Bring your institutions’ planning, fundraising, and more into Hive Design Use Hive to map out and track all design initiatives and assets View All Use Cases See how other teams use Hive Resources LEARN Customers How teams are using Hive FAQ & support articles Find your most asked questions Hive University Become a Hive expert Webinars Learn about Hive’s latest features On-demand demo Sign up here to access a guided walkthrough of Hive Hive Community Where members discuss and answer questions SERVICES Professional services Get hands-on help from our team Hive Partners Explore Partners services or join as a Partner Developers Integrate and automate with Hive API CUSTOMER STORY How McKinney Health Uses Hive to Manage Complex Workflows and Approvals 180 hours saved in first month Pricing Enterprise Request Demo Contact Sales Login Get Started Login Acceso Contact Sales Empezar Login Acceso Contact Sales Solicitud de demostración Login Acceso Get Started Empezar Login Acceso Get Started Empezar Products FEATURES Project management Tra",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm a Sales Development Representative at DeepData AI. I came across your company, Hive, and was impressed with the work you're doing in project management software. I'd love to discuss how our data processing solution can help you optimize your operations.",
+      "word_count": 47,
+      "char_count": 282
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here at Hive. We're always looking for ways to improve our efficiency, but I have to say, we've already got a pretty robust system in place. What makes DeepData AI so special?",
+      "word_count": 42,
+      "char_count": 228
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you're always looking to improve. DeepData AI uses machine learning algorithms to process and analyze large datasets, providing insights that can help you make more informed decisions. Our solution can integrate with your existing project management software, streamlining your workflow and reducing manual data entry.",
+      "word_count": 50,
+      "char_count": 344
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we've already invested in a few different tools to help with data analysis. How does DeepData AI compare to, say, Tableau or Power BI?",
+      "word_count": 30,
+      "char_count": 170
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "While those tools are great for visualization, DeepData AI goes a step further by providing predictive analytics and automated data processing. This can help you identify trends and patterns that might not be immediately apparent, and make more accurate predictions about future project outcomes.",
+      "word_count": 44,
+      "char_count": 296
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm intrigued, but I have to say, our budget for new tools is pretty tight right now. What kind of pricing are we talking about for DeepData AI?",
+      "word_count": 28,
+      "char_count": 144
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our pricing varies depending on the size of the organization and the specific features needed. For a company like Hive, I'd estimate the cost would be around $50,000 per year.",
+      "word_count": 30,
+      "char_count": 175
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Wow, that's a bit steeper than I was expecting. To be honest, I'm not sure we can justify that kind of expense right now. We've got a lot of other priorities competing for our budget, and I'm not convinced that DeepData AI would provide enough of a return on investment to make it worth the cost.",
+      "word_count": 56,
+      "char_count": 296
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. However, I'd like to offer a pilot program that would allow you to test DeepData AI with a small team and see the benefits for yourself before committing to a full rollout.",
+      "word_count": 37,
+      "char_count": 206
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI for now. The price is just too high, and I don't think we can make a strong enough business case to justify the expense. Maybe if you were to revisit your pricing model or offer more flexible terms, we could reconsider in the future, but for now, I think we're going to have to decline.",
+      "word_count": 72,
+      "char_count": 371
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's pricing concerns and potentially offer more flexible or tiered pricing options to make the product more appealing. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's pricing concerns and potentially offer more flexible or tiered pricing options to make the product more appealing. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 208,
+    "total_buyer_words": 228,
+    "avg_seller_words_per_turn": 41.6,
+    "avg_buyer_words_per_turn": 45.6,
+    "word_ratio_seller_buyer": 0.91,
+    "total_conversation_length": 436
+  }
+}

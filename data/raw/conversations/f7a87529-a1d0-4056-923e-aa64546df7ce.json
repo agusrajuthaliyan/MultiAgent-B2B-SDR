@@ -1,0 +1,82 @@
+{
+  "simulation_id": "f7a87529-a1d0-4056-923e-aa64546df7ce",
+  "timestamp": "2026-03-06T12:26:52.833982",
+  "target_url": "https://www.tectonic.ai",
+  "company_context": "tectonic.ai for sale | Spaceship.com Domain for sale tectonic.ai Free transaction support Secure payments Spaceship reliability Listed with spaceship.com Make offer Your offer must be higher than the seller’s minimum price. $ Please enter an offer amount up to 9 digits. Payment methods Submit your offer You will be redirected to spaceship.com Listed with spaceship.com Your personal information Close Fill-in your basic information to submit the offer for tectonic.ai First name * Required field Last name * Required field Email * Email address is not valid Phone Number * 000 Select country Close After entering your personal info you will be redirected to spaceship.com where you can negotiate the purchase of this domain. Submit offer",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a leading provider of data processing solutions, and I came across your company, tectonic.ai, while researching innovative tech firms. I noticed you're looking to sell your domain, and I was wondering if you'd be open to discussing how our solution can help your business.",
+      "word_count": 57,
+      "char_count": 337
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, tectonic.ai is actually a side project, and we're looking to sell the domain. But I'm the CTO, and I have to say, we're quite busy with our current priorities. What makes you think your solution is relevant to us?",
+      "word_count": 40,
+      "char_count": 217
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you're busy, but our solution has helped numerous companies like yours streamline their data processing, resulting in significant cost savings and improved efficiency. I'd love to schedule a demo to show you how DeepData AI can address some of the common pain points you might be experiencing.",
+      "word_count": 50,
+      "char_count": 311
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, we're in the middle of implementing a new system, and integrating another solution right now would be a challenge. Plus, we've already invested in a competitor's product, and I'm not sure it would be worth the cost to switch.",
+      "word_count": 47,
+      "char_count": 267
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration and cost. However, our solution is designed to be highly adaptable and can often be implemented at a lower total cost of ownership than our competitors. We've also had success with companies that have switched from other solutions, and I'd be happy to provide case studies and references.",
+      "word_count": 55,
+      "char_count": 344
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm not convinced that this is something we need to prioritize right now. We have more pressing issues to address, and our budget for this quarter is already allocated. Can you tell me more about what kind of ROI I could expect from implementing DeepData AI?",
+      "word_count": 46,
+      "char_count": 258
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. Our average customer sees a return on investment within the first 6-12 months, with some seeing as high as a 300% return. However, I understand that every company is unique, and I'd need to work with you to understand your specific use case and provide a more tailored estimate.",
+      "word_count": 50,
+      "char_count": 290
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the information, Alex, but to be frank, this just isn't a priority for us right now. We're too busy with other projects, and I don't see us being able to allocate the time or resources to evaluate and implement a new solution like DeepData AI. I think we'll have to pass on this opportunity.",
+      "word_count": 56,
+      "char_count": 304
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and provided more compelling reasons to prioritize the implementation of DeepData AI despite their current busy schedule. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and provided more compelling reasons to prioritize the implementation of DeepData AI despite their current busy schedule. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 212,
+    "total_buyer_words": 189,
+    "avg_seller_words_per_turn": 53.0,
+    "avg_buyer_words_per_turn": 47.25,
+    "word_ratio_seller_buyer": 1.12,
+    "total_conversation_length": 401
+  }
+}

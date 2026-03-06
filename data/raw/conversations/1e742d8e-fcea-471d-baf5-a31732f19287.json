@@ -1,0 +1,96 @@
+{
+  "simulation_id": "1e742d8e-fcea-471d-baf5-a31732f19287",
+  "timestamp": "2026-03-06T12:27:31.809049",
+  "target_url": "https://www.cresta.com",
+  "company_context": "Cresta | The Unified Platform for Human and AI Agents Fireside chat with Pascal Bornet: What CX leaders must get right in 2026 Fireside chat with Pascal Bornet: What CX leaders must get right in 2026 Watch on-demand Transform Automate Analyze Augment Transform every customer experience with AI agents Save money, increase revenue, and build customer loyalty with the only unified platform for human and AI Agents built for enterprise scale. Get a demo Request live demo Book live demo Customer stories Transform Automate Analyze Augment Transform every customer experience with AI agents Save money, increase revenue, and build customer loyalty with the only unified platform for human and AI Agents built for enterprise scale. Get a demo Request live demo Book live demo Customer stories Transform Automate Analyze Augment Transform every customer experience with AI agents Save money, increase revenue, and build customer loyalty with the only unified platform for human and AI Agents built for enterprise scale. Get a demo Request live demo Book live demo Customer stories Powering the world's leading customer experiences Powering the world's leading customer experiences Lorem ipsum cras tellus orci tincidunt nibh enim. Blog Lorem ipsum cras tellus orci tincidunt nibh enim. Blog How Cox grew revenue and improved their digital experience Case study How Propel Holdings is scaling smarter with AI Case study Case study Case study How Brinks Home saved time and cut costs Case study How Snap Finance reduced AHT and increased QM automation Case study Case study Case study Case study How Propel Holdings is scaling smarter with AI Case study Why IQCU chose Cresta as a strategic partner, not just another vendor Blog Case study Case study How Optimum drove AI-powered sales conversions Blog How Oportun transformed QM and reduced workload by 50% Case study Case study Case study How Snap Finance reduced AHT and increased QM automation Case study How a Fortune 500 bank improved collections yield Case study Powering the world's leading customer experiences Powering the world’s leading financial institutions Lorem ipsum cras tellus orci tincidunt nibh enim. Blog How Propel Holdings is scaling smarter with AI Case study Case study How Snap Finance reduced AHT and increased QM automation Case study Case study How ICQU chose a strategic partner, not just another vendor Blog Case study How Oportun transformed QM and reduced workload by 50% Case study Case study How a Fortune 500 bank improved collections yield with Cresta Case study Trusted by the world’s leading contact centers Powering the world's leading customer experiences Lorem ipsum cras tellus orci tincidunt nibh enim. Blog How Holiday Inn is boosting revenue and improving their agent experience Case study How Holiday Inn is boosting revenue and improving their agent experience Case study Case study How Xanterra is transforming guest experiences with Cresta AI Agent Case study Case study How Spirit Airlines transforms con",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their customer experience through AI-powered insights. I came across your company and noticed you're using a combination of human and AI agents to transform customer experiences. I'd love to explore how our solution can help enhance your current setup.",
+      "word_count": 62,
+      "char_count": 385
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah, we're actually using Cresta's unified platform for human and AI agents. It's been working well for us so far. What makes DeepData AI different from what we're already using?",
+      "word_count": 31,
+      "char_count": 183
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. While Cresta's platform is excellent for automating customer experiences, our solution focuses on providing deeper, more actionable insights from your data. This can help you identify areas of improvement and optimize your AI agents for better performance. We've seen companies like yours achieve up to 30% increase in revenue and 25% reduction in customer complaints.",
+      "word_count": 59,
+      "char_count": 393
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Those sound like impressive numbers, but we're in the middle of budget planning for the next quarter. I'm not sure if we have the bandwidth to take on a new solution right now. Plus, I'd need to get buy-in from our finance team, which can be a lengthy process.",
+      "word_count": 49,
+      "char_count": 260
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. We've worked with companies in similar situations before. Our solution can be implemented in phases, and we can provide a customized ROI analysis to help you make a stronger case to your finance team. Additionally, we offer flexible pricing plans to accommodate your budget constraints. Would you like me to send over some more information and case studies?",
+      "word_count": 61,
+      "char_count": 382
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Sure, that would be helpful. However, I have to warn you that our current priority is integrating our existing systems, and we're already working with several vendors. I'm concerned about adding another integration to our plate, especially if it's going to require significant resources from our IT team.",
+      "word_count": 48,
+      "char_count": 304
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I appreciate your concerns. Our solution is designed to be integration-friendly, and we've worked with companies that have complex IT infrastructures. We can provide dedicated support to ensure a seamless integration process. As for pricing, we typically start at $50,000 per year for our base package, but we can discuss custom pricing based on your specific needs.",
+      "word_count": 57,
+      "char_count": 366
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "$50,000 per year is a bit steep for us, to be honest. We're trying to optimize our budget, not increase it. I appreciate the offer, but I think we'll have to pass on DeepData AI for now. The price point is just too high for us to consider at this time.",
+      "word_count": 51,
+      "char_count": 252
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I understand your concerns about the pricing, and I appreciate your honesty. If you're open to it, I could discuss possible alternatives or discounts with my team. However, I also want to respect your decision if you've already made up your mind.",
+      "word_count": 42,
+      "char_count": 246
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Thank you for understanding, Alex. I appreciate the conversation, but we'll have to decline the offer. We'll stick with our current solution and explore other options that better fit our budget.",
+      "word_count": 31,
+      "char_count": 194
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more proactive in addressing the buyer's budget concerns and exploring flexible pricing options earlier in the conversation to potentially change the outcome. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more proactive in addressing the buyer's budget concerns and exploring flexible pricing options earlier in the conversation to potentially change the outcome. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 281,
+    "total_buyer_words": 210,
+    "avg_seller_words_per_turn": 56.2,
+    "avg_buyer_words_per_turn": 42.0,
+    "word_ratio_seller_buyer": 1.34,
+    "total_conversation_length": 491
+  }
+}
