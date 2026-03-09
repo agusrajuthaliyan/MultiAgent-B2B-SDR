@@ -1,0 +1,96 @@
+{
+  "simulation_id": "18652fc2-3950-467b-8a99-0b1ab32637ee",
+  "timestamp": "2026-03-09T12:50:40.531223",
+  "target_url": "https://www.onespan.com",
+  "company_context": "eSignature, Authentication, Mobile App Security | OneSpan Free trial High-assurance authentication. Faster digital agreements. OneSpan provides advanced authentication and fraud prevention to secure users, devices, and applications - and streamlines agreement preparation, signing, and management through secure workflows. Cybersecurity Protect identities, secure mobile apps, safeguard access with advanced authentication, threat intelligence, and fraud protection. Explore solutions today Digital agreements Streamline agreement workflows with secure eSignatures, identity verification, and smart digital forms - built for compliance and speed. Explore solutions today Cybersecurity: Explore resources Trusted authentication, mobile app security, and threat intelligence solutions powering secure digital experiences at scale. Read now Mastering the Fraud Kill Chain: Mobile Threat Intelligence & Real-Time Prevention Watch now OneSpan recognized as a Sample Vendor in the Gartner® Hype Cycle™ for Digital Identity, 2025 Read more Digital agreements: Explore resources Streamline agreement workflows with OneSpan’s secure eSignatures, identity verification, and smart digital forms – built for compliance and speed. Bank of Montreal drives efficiency across 100+ use cases Discover the ROI of enterprise eSignatures. This case study draws insights from 15M+ transactions managed through a center of excellence. Read more Discover OneSpan Sign",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like OneSpan streamline their data workflows and improve decision-making. Can I speak with the CTO, please?",
+      "word_count": 36,
+      "char_count": 221
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "This is John, the CTO. What's this about? We're pretty busy with our eSignature and authentication solutions.",
+      "word_count": 17,
+      "char_count": 109
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely, I've done my research on OneSpan and I'm impressed with the work you're doing in cybersecurity and digital agreements. Our solution, DeepData AI, can actually help enhance your existing security measures by providing real-time data insights and threat detection. I'd love to explore how we can support your team.",
+      "word_count": 50,
+      "char_count": 324
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we need another data processing tool. We've already invested in a few solutions, and to be honest, I'm concerned about the cost. Our budget is tight this quarter.",
+      "word_count": 31,
+      "char_count": 175
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand, John. We've worked with several companies in the cybersecurity space, and I can confidently say that our solution can help reduce costs in the long run by optimizing data workflows and improving incident response times. In fact, one of our clients saw a 30% reduction in data processing costs after implementing DeepData AI. Would you be open to discussing how we can help you achieve similar results?",
+      "word_count": 70,
+      "char_count": 426
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're also in the process of evaluating a few other solutions, including a competitor that's offering a similar product at a lower price point. How do you differentiate yourself from them?",
+      "word_count": 35,
+      "char_count": 217
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We've actually done a thorough comparison with our competitors, and while they may offer similar features, our AI-powered engine provides more accurate and real-time insights, which is critical in the cybersecurity space. Additionally, our integration process is seamless, and we've worked with several companies that use similar technologies to yours, so I'm confident we can integrate with your existing systems. I'd be happy to provide a customized demo to show you exactly how DeepData AI can support your team.",
+      "word_count": 79,
+      "char_count": 515
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alright, I'll admit that I'm intrigued. But I still need to discuss this with our team and evaluate the potential ROI. Can you come in for a demo next week and walk us through the implementation process?",
+      "word_count": 37,
+      "char_count": 203
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "That sounds like a great plan, John. I'll send over a calendar invite for next week, and I'll make sure to bring some case studies and examples of how DeepData AI can support OneSpan's specific needs.",
+      "word_count": 36,
+      "char_count": 200
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo for Wednesday at 2 PM. I'll make sure to have our team leads join as well.",
+      "word_count": 21,
+      "char_count": 108
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Price\nFeedback: The seller should be prepared to provide more detailed information about the cost savings and ROI during the demo to address the buyer's concerns about budget and pricing. Sentiment: Positive",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Price",
+      "feedback": "The seller should be prepared to provide more detailed information about the cost savings and ROI during the demo to address the buyer's concerns about budget and pricing. Sentiment: Positive"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 271,
+    "total_buyer_words": 141,
+    "avg_seller_words_per_turn": 54.2,
+    "avg_buyer_words_per_turn": 28.2,
+    "word_ratio_seller_buyer": 1.92,
+    "total_conversation_length": 412
+  }
+}

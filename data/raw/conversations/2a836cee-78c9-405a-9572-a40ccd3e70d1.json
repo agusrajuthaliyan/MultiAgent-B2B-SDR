@@ -1,0 +1,82 @@
+{
+  "simulation_id": "2a836cee-78c9-405a-9572-a40ccd3e70d1",
+  "timestamp": "2026-03-09T12:48:41.831596",
+  "target_url": "https://www.chartio.com",
+  "company_context": "Cloud-based data analytics exploration for all | Chartio Documentation Support Blog Chartio is going away March 1, 2022 Chartio has joined Atlassian! For over a decade, we have loved serving tens of millions of charts on millions of dashboards for thousands of incredible companies. All of you have helped us create a product that truly enables anyone in a company, not just data teams, to explore and understand their data. We are excited to announce that we have joined Atlassian and are now focused on bringing our technology to their audience and platform. See the full announcement for more details We know this isn’t easy on our customers, so we’ve started a guide and outline of support to help with this migration. See the Migration Guide for support",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. I saw that your company is currently using Chartio for data analytics, but with their recent announcement of joining Atlassian and sunsetting their product, I wanted to introduce you to our solution. We specialize in cloud-based data processing and exploration, making it easy for anyone in your company to understand their data.",
+      "word_count": 64,
+      "char_count": 388
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah, we've been aware of the Chartio situation. But to be honest, we've already started exploring alternative solutions and have actually just implemented a new tool from Tableau. We're pretty happy with it so far, so I'm not sure we're in the market for another solution right now.",
+      "word_count": 49,
+      "char_count": 287
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your caution, and it's great that you've found a temporary fix. However, I'd like to highlight that DeepData AI is designed to be more cost-effective and scalable than Tableau, especially for companies of your size. We've had success with similar companies in the past, and I think we could offer a more tailored solution to your specific needs.",
+      "word_count": 61,
+      "char_count": 369
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but cost is a big factor for us right now. We've just invested a significant amount in implementing Tableau, and I'm not sure our budget can handle another large expenditure, especially with the current economic uncertainty. Plus, I'd need to get approval from our CFO, and I'm not sure they'd be on board with switching so soon after investing in a new system.",
+      "word_count": 67,
+      "char_count": 385
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost and timing. However, I'd like to propose a pilot program that would allow you to test our solution with a small subset of your data, at no upfront cost. This would give you a chance to see the value of DeepData AI firsthand and make a more informed decision about whether it's worth the investment. We've had great success with similar pilots in the past, and I think it could be a good fit for your company.",
+      "word_count": 83,
+      "char_count": 446
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the creative proposal, but to be honest, I don't think we have the bandwidth to take on a pilot program right now. We're in the middle of a major integration project with one of our other systems, and I don't want to add any more complexity to the mix. Plus, our team is already comfortable with Tableau, so I think we'll just stick with what we have for now.",
+      "word_count": 71,
+      "char_count": 372
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your priorities, and I respect your decision. If you're happy with Tableau, that's great. I just want to make sure you're aware that we're here if you need us in the future. Can I at least send you some information about DeepData AI, in case your needs change down the line?",
+      "word_count": 53,
+      "char_count": 287
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, thank you, Alex. I appreciate your understanding, and I think we're all set for now. We're going to stick with Tableau and focus on our current integration project. Thanks for reaching out, but I think we'll have to pass on DeepData AI for the time being.",
+      "word_count": 47,
+      "char_count": 259
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have more aggressively addressed the buyer's cost concerns and explored potential flexible pricing options or ROI calculations to alleviate the budget worries. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have more aggressively addressed the buyer's cost concerns and explored potential flexible pricing options or ROI calculations to alleviate the budget worries. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 261,
+    "total_buyer_words": 234,
+    "avg_seller_words_per_turn": 65.25,
+    "avg_buyer_words_per_turn": 58.5,
+    "word_ratio_seller_buyer": 1.12,
+    "total_conversation_length": 495
+  }
+}

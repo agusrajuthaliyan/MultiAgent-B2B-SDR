@@ -1,0 +1,82 @@
+{
+  "simulation_id": "51fc2f68-9bd5-43fa-9a5a-92770b4e4190",
+  "timestamp": "2026-03-09T12:56:13.658470",
+  "target_url": "https://www.ahana.io",
+  "company_context": "IBM watsonx.data All your data, activated for AI with watsonx.data Turn scattered data into reliable, contextually relevant fuel for AI Start a watsonx.data trial for free Book a live demo Turn fragmented data into reliable AI outcomes fast Dispersed data, missing context and compute costs slow teams’ progress. IBM® watsonx.data® makes data usable and trustworthy for AI on Day 1—unifying data access, automating governance and supporting AI and BI workloads without replatforming. Start small, validate results fast and scale AI in your current infrastructure. In the spotlight news 2026 G2 Best Software Awards Watsonx.data was recognized for Best IT Management Products in the 2026 G2 Best Software Awards. report Gartner MQ for Data Integration IBM was named a Leader in the 2025 Gartner® Magic Quadrant™ for Data Integration Tools. news TrustRadius 2026 Buyer’s Choice Award Watsonx.data was named a TrustRadius 2026 Buyer’s Choice Award winner in the Data Lakehouse class Features Hybrid—work with your data where it lives Access and query data across cloud and on‑prem environments without moving or duplicating it, giving teams the flexibility to move faster while meeting regulatory and operational needs. Optimized—better performance at lower cost Run each AI and analytics workload on the most efficient engine, preventing overprovisioning, improving performance and helping keep costs predictable as AI usage scales. Governed—trustworthy data for reliable AI Apply consistent access controls, policies and lineage across all data and workloads so your AI agents and analytics operate on trusted, well governed data—reducing risk and increasing confidence. Open—freedom to innovate without lock-in Leverage an open, standards-based foundation that works with your existing technology stack and supports new tools and workloads as your AI needs grow—without locking into proprietary formats. See watsonx.data in action Discover how IBM watsonx.data helps organizations streamline complex data estates, eliminate data silos, reduce rising workload costs and support hybrid cloud deployments—all while maximizing ROI from existing data investments. Access more demos Use cases AI-powered enterprise search with OpenRAG Deploy the power of agentic AI with OpenRAG to deliver context-rich AI outcomes. Build on open-source foundations to launch your RAG solution in minutes, moving quickly from pilot to productivity. Unlock business data Real-time access to AI-ready data Enable AI applications, analytics and BI tools to work with connected, context‑rich, governed data across databases, data lakes, documents and object storage to yield consistent and explainable results. See pricing Multi-engine execution that’s fit for purpose Run AI and analytics workloads on the engines best suited to their performance and cost needs, avoiding one‑size‑fits‑all platforms and optimizing price performance as workloads scale. See pricing Case studies Resolving help desk tickets faster with AI ready",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm a Sales Development Representative at DeepData AI. I came across your company and was impressed with the work you're doing in the tech space. I'd love to introduce you to our data processing solution, which can help streamline your data management and activation for AI.",
+      "word_count": 52,
+      "char_count": 299
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here. We're actually in the process of evaluating a few different solutions for our data management needs. What makes DeepData AI unique, and how does it compare to something like IBM Watsonx.data?",
+      "word_count": 42,
+      "char_count": 250
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Great question, John. While IBM Watsonx.data is a robust solution, our DeepData AI platform offers more flexibility in terms of integration with existing infrastructure and a more competitive pricing model. We've seen our clients achieve significant cost savings and improved performance with our solution.",
+      "word_count": 44,
+      "char_count": 306
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. Cost is definitely a consideration for us, but we also have to think about the timing of implementation. We're in the middle of a major project right now, and I'm not sure we have the bandwidth to take on a new solution. Plus, I've heard that DeepData AI requires a significant amount of customization to get up and running.",
+      "word_count": 61,
+      "char_count": 331
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. However, our implementation process is designed to be as seamless as possible, and we offer comprehensive support to ensure a smooth transition. We've also had success with similar companies in the past, and I'd be happy to provide some case studies to demonstrate the ROI of our solution.",
+      "word_count": 53,
+      "char_count": 323
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm still not convinced that this is the right time for us. We're also exploring other options, such as building out our own data management capabilities in-house. And to be honest, I'm not sure I have the authority to make a decision on this without consulting with our broader team.",
+      "word_count": 55,
+      "char_count": 312
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand, John. It's natural to have those concerns. I'd be happy to set up a follow-up conversation with your team to discuss the potential benefits of DeepData AI in more detail. Would you be open to that?",
+      "word_count": 39,
+      "char_count": 222
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. We've got too many other priorities to focus on, and I just don't see this as a fit for us at this time. Thanks for reaching out, though.",
+      "word_count": 47,
+      "char_count": 238
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions to accommodate their current project bandwidth. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions to accommodate their current project bandwidth. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 188,
+    "total_buyer_words": 205,
+    "avg_seller_words_per_turn": 47.0,
+    "avg_buyer_words_per_turn": 51.25,
+    "word_ratio_seller_buyer": 0.92,
+    "total_conversation_length": 393
+  }
+}

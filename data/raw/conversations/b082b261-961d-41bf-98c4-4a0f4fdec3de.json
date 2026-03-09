@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b082b261-961d-41bf-98c4-4a0f4fdec3de",
+  "timestamp": "2026-03-09T12:49:23.380745",
+  "target_url": "https://www.juvonno.com",
+  "company_context": "All-in-One Clinic Management Software | Juvonno® Contact Us Login Book a Demo Clinic software ‍ can be this flexible Streamline workflows, delight patients, and scale effortlessly with Juvonno—the all-in-one EMR and clinic management solution designed to grow with you. Book a Demo  Watch Video Cloud-based  Runs on     \"Five-star experience. Patient text messaging feature is phenomenal!\" – Milay, PT Grow your practice faster with one EMR platform Scheduling Billing Charting & EMR Online Booking Communications  Insights Telehealth Book appointments—fast. And complete everyday tasks right from the schedule.  Start booking appointments and more, with a single click  Manage multiple clinic schedules from a single dashboard  Get a bird's eye view of all the activities happening in your clinic  Customize each practitioner's schedule: time increments, breaks, colour codes, services etc.  Push appointments to your Google, Apple, or Outlook calendars Explore Scheduling  Direct bill insurers, keep your books tidy, and get paid faster  Accept online payments easily with our integrated credit card processors for fast, secure transactions.  Submit claims to third-party insurers, including Claim.MD & HCAI , with our seamless billing integrations  Run essential reports or build your own custom  Check your patient's benefit coverage for an appointment and track the remaining balance  Manage complex insurance workflows  Automate payment reminders by text and email with a secure link for patients to pay online  Offer your patients memberships and subscription-like packages with built-in auto-recurring billing and usage tracking Explore Billing  Flexible, personalized charting tools—Now with Juvonno AI to save you hours.  Chart smarter, not harder, with Juvonno AI 🤖, tools designed to boost efficiency and save time  Access your electronic medical records online and chart from anywhere  Personalize your charts, treatment plans, dashboards and intake forms  Treat patients virtually and share files online  View your appointments, to-dos, statistics and patient drop-offs at a glance Explore Charting & EMR  Deliver an easy and mobile-friendly online booking experience  Patients can go online to:  Book and manage appointments  Complete intake forms  View, download and pay invoices  Access exercise plans & helpful resources  Upload documents  View remaining insurance coverage  Meanwhile, enjoy the freedom to implement your branding and workflows Explore Online Booking  Premium Feature Communicate with your team and patients right within your EMR software  Automated Email & Text Marketing: Automate re-engagement campaigns to foster lasting connections and seamless rebooking  In-App Messaging : Forge swift and secure communication channels with colleagues and patients  Two-Way Texting: Text with patients 1:1 or send bulk messages for a personalized approach to patient engagement  Patient Segmentation Tools: Send targeted campaigns ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps businesses like yours optimize their operations and make data-driven decisions. I came across Juvonno and was impressed with your all-in-one clinic management software. Can you tell me a bit about your current data management process?",
+      "word_count": 54,
+      "char_count": 337
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We've got a pretty robust system in place, but I'm always open to hearing about new solutions. However, I have to say, we've recently implemented a few new tools, so I'm not sure if we're in the market for something new right now. What makes DeepData AI unique?",
+      "word_count": 50,
+      "char_count": 270
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. What sets us apart is our AI-powered data analytics capabilities, which can help you gain deeper insights into your clinic's performance and patient behavior. We've seen significant ROI for our clients in the healthcare industry. I'd love to schedule a demo to show you how it works.",
+      "word_count": 50,
+      "char_count": 317
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We're currently using a combination of Excel and some custom-built tools, and it's working okay for us. Plus, I'd need to check with our IT team to see if we even have the budget for something like this. What's the pricing for DeepData AI?",
+      "word_count": 49,
+      "char_count": 270
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, starting at $5,000 per year for small to medium-sized clinics. However, we do offer custom pricing for larger organizations. I'd be happy to discuss a customized quote with you. Additionally, our solution is cloud-based, so you don't have to worry about any infrastructure costs.",
+      "word_count": 48,
+      "char_count": 307
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds a bit steep for us, to be honest. We're a smaller clinic, and our budget is pretty tight. I'd also need to consider the integration costs with our existing systems, like Juvonno. Have you worked with Juvonno before?",
+      "word_count": 40,
+      "char_count": 227
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We haven't worked directly with Juvonno, but our solution is designed to be flexible and adaptable to different systems. We've integrated with similar EMR systems in the past, and I'm confident we could make it work. I'd be happy to provide a case study or reference from a similar client.",
+      "word_count": 50,
+      "char_count": 289
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on this for now. I need to check with our team, but to be honest, I don't see this as a priority for us at the moment. We've got other projects that are more pressing, and I don't think we can justify the cost. Thanks for reaching out, though.",
+      "word_count": 62,
+      "char_count": 307
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's budget concerns and potentially offer more flexible pricing options or a free trial to overcome the price objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's budget concerns and potentially offer more flexible pricing options or a free trial to overcome the price objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 202,
+    "total_buyer_words": 201,
+    "avg_seller_words_per_turn": 50.5,
+    "avg_buyer_words_per_turn": 50.25,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 403
+  }
+}

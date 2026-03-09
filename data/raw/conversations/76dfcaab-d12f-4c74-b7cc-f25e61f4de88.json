@@ -1,0 +1,82 @@
+{
+  "simulation_id": "76dfcaab-d12f-4c74-b7cc-f25e61f4de88",
+  "timestamp": "2026-03-09T12:50:03.678556",
+  "target_url": "https://www.mediamath.com",
+  "company_context": "Infillion MediaMath - Infillion Skip to main content Skip to footer New Blog: Infillion Acquires Catalina—One of The World’s Largest Sources of Deterministic Purchase Data New Blog: Infillion Acquires Catalina Read here Contact The DSP with composability at its core. API-first, AI-powered, and built for control, transparency, and flexibility. Infillion MediaMath defined programmatic once, and now, with Infillion, it’s redefining what an enterprise DSP can be. We've built a platform from the essential building blocks of advertising. Category-defining tech, arranged into customizable components give you exactly what you need and nothing less. No more complex supply chains creating unnecessary hops and waste. Compare Your DSP Today precision Your workflows. Your data. Your control. Legacy DSPs lock you into rigid systems. Infillion MediaMath adapts to you. Connect what you have, plug in what you need, and leave the rest behind. Our composable architecture integrates demand, data, creative, and supply through open APIs — delivering a platform that scales the way you work. Full control, any way you work: Activate through REST APIs, the Infillion Agent Connector, or direct UI access for complete flexibility Run managed, self-serve, or agentic: Switch models instantly as your teams scale, without disrupting campaigns Integrate and build freely: Use your own data, logic, and tools to create custom workflows and automations Connect everything that matters: Seamlessly plug in identity, data, and measurement partners for end-to-end interoperability Built to scale across channels: Seamlessly run campaigns across video, display, audio, and CTV—whether your goal is brand lift or in-store visitation. Get Started INTELLIGENT See inside the AI that drives every decision. The Infillion Brain is an intelligent, AI-driven optimization engine that learns and acts in real time — with full transparency. No black boxes. No guesswork. Just clear, actionable insights on what’s driving performance. Transparent AI Optimization: Every signal and decision is visible, from bid to budget Dynamic Budget Allocation: Shifts spend automatically to what’s working, in-flight Integrate and build freely: Use your own data, logic, and tools to create custom workflows and automations Signal-Level Insights: Understand which variables move ROI, CPA, and engagement software solutions Powered by Infillion’s Real-World Intelligence Infillion MediaMath is underpinned by XGraph, our privacy-safe identity spine that connects people, households, and behaviors across every screen. Layer your CRM data, activate lookalikes, and measure performance — all within a unified, cookieless framework. U.S. individuals mapped deterministically across devices and channels Opt-in location and survey data for zero- and first-party precision Interoperable identity across UID2, RampID, ID5, and more Attention that outperforms. Supply that delivers. Infillion MediaMath gives you instant access to premium, brand-saf",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data workflows and gain deeper insights. I came across Infillion MediaMath and was impressed with the work you're doing in the programmatic advertising space. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 60,
+      "char_count": 366
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Alex, I'm John, the CTO here. We're actually in the process of evaluating our current tech stack, but I'm not sure we're looking to add any new solutions at the moment. We've got a lot of moving parts with our recent acquisition of Catalina, so our focus is on integrating those systems right now.",
+      "word_count": 55,
+      "char_count": 300
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand the complexity of integrating new systems, especially with a recent acquisition. Our solution is actually designed to be flexible and adaptable to your existing tech stack. We've worked with companies in similar situations and have been able to help them streamline their data processing and reduce costs. Can I ask, what are some of the biggest pain points you're experiencing with your current data processing workflow?",
+      "word_count": 69,
+      "char_count": 445
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Well, to be honest, we're pretty invested in our current infrastructure, and I'm not sure we're looking to rip and replace anything at the moment. We've also got a pretty tight budget for the rest of the year, so any new solutions would need to be extremely cost-effective. Plus, we're already working with some other data processing vendors, so we'd need to see some pretty compelling differentiation to consider switching.",
+      "word_count": 70,
+      "char_count": 424
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost and integration. We've actually worked with companies who have similar infrastructure and have been able to integrate our solution with minimal disruption. In terms of cost, we offer a customized pricing model that's based on your specific needs and usage. I'd be happy to provide a more detailed overview of our solution and how it can address your specific pain points. Would you be open to a quick demo?",
+      "word_count": 75,
+      "char_count": 444
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but like I said, we're pretty focused on our current integration efforts. I'm not sure we have the bandwidth to take on a new solution right now. And to be honest, I'm not sure we'd be a good fit for your product. We've got a pretty customized setup, and I'm not sure your solution would be able to integrate seamlessly with our existing systems.",
+      "word_count": 69,
+      "char_count": 376
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. I'd like to send over some more information about our solution and how it can address your specific needs. Maybe we can follow up in a few months and see if your priorities have shifted?",
+      "word_count": 44,
+      "char_count": 245
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "That's okay, Alex. You can definitely send me an email with more information, but I think we're going to have to pass on this for now. We've got a lot on our plate, and I don't see us making any changes to our data processing workflow in the near future. Thanks for reaching out, though.",
+      "word_count": 55,
+      "char_count": 287
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and prioritization of the current integration efforts to potentially find a way to align their solution with the buyer's future plans. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and prioritization of the current integration efforts to potentially find a way to align their solution with the buyer's future plans. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 248,
+    "total_buyer_words": 249,
+    "avg_seller_words_per_turn": 62.0,
+    "avg_buyer_words_per_turn": 62.25,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 497
+  }
+}

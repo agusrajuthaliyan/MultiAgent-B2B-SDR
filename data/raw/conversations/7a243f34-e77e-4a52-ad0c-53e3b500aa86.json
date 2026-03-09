@@ -1,0 +1,82 @@
+{
+  "simulation_id": "7a243f34-e77e-4a52-ad0c-53e3b500aa86",
+  "timestamp": "2026-03-09T12:52:35.295956",
+  "target_url": "https://www.sprig.com",
+  "company_context": "Sprig: Modern Research Platform for UX Teams Experience Research Summit NYC: Where Craft Meets AI | April 8. Apply to Attend AI-Native Surveys for Modern Research Design and launch AI-powered surveys that surface richer insights faster—across every user touchpoint. Book a Demo Watch Launch Video Trusted by leading research teams Why leading UX teams choose Sprig Faster, smarter research Automate study creation and analysis with AI designed for modern research workflows. Reliable data, every time Advanced logic, randomization, and controls ensure the rigor researchers demand. Contextual by design Tailor every survey using user attributes and behaviors for richer, more relevant insights. Notion surfaced 412 content opportunities and improved CSAT with Sprig. Read Case Study Coinbase uncovered core feature painpoints with targeted in-product surveys. Read Case Study Ramp used Sprig AI analysis to turn survey data into clear product decisions at scale. Read Case Study Send smarter surveys, personalized for every respondent Design Sophisticated surveys. Simple to build. Create complex studies with advanced question types, logic, and randomization—all within an intuitive, modern interface. distribute Collect responses from any audience, anywhere Distribute surveys via panels, email, or in-product targeting to reach every audience with the rigor and scale of enterprise-grade research. collect Deliver smarter, personalized survey experiences with AI Build adaptive surveys that tailor to each respondent using attributes, logic, and AI-generated follow-ups for richer, more precise answers. analyze AI insights deliver real-time takeaways Let Sprig AI do the heavy lifting and continuously analyze your users’ survey responses and behavioral data to surface the top insights. Explore AI Insights Start from proven templates for every type of research Long-Form Survey Feature Adoption (core UX impact) View Template Long-Form Survey Monadic Concept Test View Template Long-Form Survey Pricing Model (Van Westendorp) View Template Share Sprig user insights across your favorite UX tools Browse Full Gallery Panels Recruit panelists when you want feedback beyond your user base. Repository Export Sprig user insights to your centralized research hub. Collaboration Share actionable next steps where your team already collaborates. Prototyping Send product action items to your designers to start building prototypes. Powering enterprise companies, startups, and everything in between By studying customers with Sprig, we’re able to remove the risk around business decisions and new features. James Villacci Head of Research Sprig has been extremely useful in scaling the research team's impact by providing highly relevant insights. Jewel Seperson Head of Research Sprig enables us to get a wealth of feedback from our users and understand how we can help them better use the tool. Rie McGwier UX Research Lead Sprig has been extremely useful in scaling the research team’s impact by pr",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, I'm calling from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain deeper insights. I came across your company, Sprig, and was impressed with the work you're doing in UX research. I think our solution could really help you optimize your data processing.",
+      "word_count": 53,
+      "char_count": 326
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're always looking for ways to improve our workflows, but I'm not sure if we're in the market for a new data processing solution right now. What makes DeepData AI different from what we're currently using?",
+      "word_count": 38,
+      "char_count": 217
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle large volumes of data and provide real-time analytics, which can help you make more informed decisions. We've seen significant ROI with our other clients in the research industry. I'd love to schedule a demo to show you how it works.",
+      "word_count": 46,
+      "char_count": 272
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure if now is the right time for a demo. We're in the middle of planning our upcoming Experience Research Summit, and our team is pretty busy. Plus, I'm concerned about the cost – we've had issues with budget overruns in the past. Can you tell me more about your pricing model?",
+      "word_count": 54,
+      "char_count": 286
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is tiered, based on the volume of data you're processing. We offer a free trial, and then our basic plan starts at $5,000 per month. We've found that our solution pays for itself in terms of the insights and efficiency it provides.",
+      "word_count": 45,
+      "char_count": 255
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was hoping for. We've also been looking at some other solutions, like Tableau and Power BI, which seem to offer similar functionality at a lower cost. And to be honest, I'm not sure if our team has the bandwidth to integrate a new solution right now – we've got a lot of other priorities.",
+      "word_count": 60,
+      "char_count": 316
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but I think DeepData AI offers some unique advantages that would be worth exploring further. Would you be open to a quick call with our integration team to discuss how we can make the onboarding process as smooth as possible?",
+      "word_count": 44,
+      "char_count": 253
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. I need to prioritize our existing projects and discuss any new initiatives with our team. We'll have to decline your offer – we just don't have the resources or budget to move forward with a new data processing solution at this time.",
+      "word_count": 60,
+      "char_count": 321
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's pricing concerns and provide a more tailored value proposition to overcome the objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's pricing concerns and provide a more tailored value proposition to overcome the objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 188,
+    "total_buyer_words": 212,
+    "avg_seller_words_per_turn": 47.0,
+    "avg_buyer_words_per_turn": 53.0,
+    "word_ratio_seller_buyer": 0.89,
+    "total_conversation_length": 400
+  }
+}

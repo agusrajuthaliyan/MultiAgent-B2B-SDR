@@ -1,0 +1,82 @@
+{
+  "simulation_id": "e73048fa-e852-4a8e-a75d-19c44100fe38",
+  "timestamp": "2026-03-09T12:53:50.052933",
+  "target_url": "https://www.vaultplatform.com",
+  "company_context": "Workplace misconduct and Speak Up solution | Vault Platform Skip to content Home admin 2025-05-22T13:04:33+01:00 Vault is now a part of Diligent. Together, we offer the best in AI-driven automation, ethical risk intelligence and secure Speak Up solutions. The Active Integrity platform News travels fast and bad news travels faster. With the price of misconduct now higher than ever, checking the compliance box just doesn’t cut it anymore. Introducing Active Integrity, a proactive approach to ensure your organization stays ethical and compliant from the ground up and at all times. Reporting channels Cultivate a Speak-Up culture by enabling your employees to report misconduct from the privacy of our secure mobile app and Open Reporting solution, either as an anonymous individual or in the safety of numbers with GoTogether®. [wp-video-popup video=”https://www.youtube.com/watch?v=jC9Kki4Ou3o”] Resolution Hub Solve and resolve – preventing things going from bad to worse. Create clear lines of communication with the reporter. Investigate and quickly manage cases through to resolution, with cross-department collaboration. All in one place. Integrity Insights Get an honest view of your Integrity. See warning signs from a distance and identify patterns before they become scandals. With analytics that span across teams, departments and even continents, you get a detailed and accurate view of the ethical health of your company. And then act on it. Fraud Discrimination Harassment & Bullying Bribery ESG Violations Personal Safety You’re in good company “ Our culture is of critical importance and we want to give our people a solution where they feel safe to speak directly to us.” Group Ethics and Compliance Director , TI Fluid Systems Our values align well with Vault’s and our employees know they can Speak Up and put their trust in the process.” Chief Trust Officer , Trustpilot We chose Vault Platform to fulfill Neptune’s ethics and compliance requirements and to provide us with the framework to expand our processes as the organization scales and changes.” Global Ethics & Compliance Officer , Neptune Energy Guide your growth Watch ‘The Vault Report: Why Diversifying Speak Up Channels Drives Engagement and Better Data’ Webinar Events and webinars Watch ‘The Vault Report: Why Diversifying Speak Up Channels Drives Engagement and Better Data’ Webinar Unlock the power ... Diligent Acquires Vault, Ushering in a New Era of AI-powered Ethics and Compliance Blog May 22, NEW YORK & LONDON Diligent, the AI leader in governance, risk and compliance (GRC) SaaS solutions, today announced [...]... Data Speaks: Multi-Channel Whistleblowing as the New Standard for Compliance Blog Discover the critical insights from Vault’s analysis of thousands of whistleblower reports, revealing why traditional systems are failing ... Europe Leading Anti-Corruption? UK, France & Switzerland’s Impact Blog By Neta Meidav – CEO and Founder, Vault Platform Something big just happened in the fight a",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm a Sales Development Representative at DeepData AI. I came across your company, Vault Platform, and was impressed with the work you're doing in providing Speak Up solutions for workplace misconduct. I think our data processing solution could help you enhance your compliance and risk intelligence capabilities.",
+      "word_count": 53,
+      "char_count": 338
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're actually in the process of evaluating our current systems and looking for ways to improve our reporting channels and resolution hub. But I have to say, I'm a bit skeptical about introducing new technology right now. We've recently been acquired by Diligent, and I'm not sure if we're ready to take on another project.",
+      "word_count": 57,
+      "char_count": 332
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns, and congratulations on the acquisition. Our solution is actually designed to be flexible and scalable, so it can adapt to your growing needs. We've worked with similar companies in the past, and our data processing capabilities can help you streamline your compliance processes and reduce costs.",
+      "word_count": 51,
+      "char_count": 334
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. Well, cost is definitely a factor for us. We're trying to be mindful of our budget, especially with the acquisition and all the changes that come with it. Can you tell me more about your pricing model and how it compares to other solutions on the market?",
+      "word_count": 49,
+      "char_count": 261
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is competitive, and we offer a tiered model that can be customized to fit your specific needs. We also offer a free trial, so you can test our solution and see the value it can bring to your organization before committing to a purchase.",
+      "word_count": 47,
+      "char_count": 260
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that. However, I'm still not convinced that this is the right time for us to implement a new solution. We're in the middle of integrating our systems with Diligent, and I don't want to add another layer of complexity to the process. Plus, I'd need to get buy-in from our entire team, and that's not something I can do on my own.",
+      "word_count": 64,
+      "char_count": 341
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns about timing and integration. Perhaps we could schedule a follow-up conversation in a few months to revisit the opportunity? Or I could provide you with some case studies and testimonials from other companies in similar situations?",
+      "word_count": 40,
+      "char_count": 258
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that will be necessary. I appreciate your understanding, but we're going to have to pass on this opportunity for now. We need to focus on our current priorities, and I don't see DeepData AI as a good fit for us at this time. Thank you for reaching out, though.",
+      "word_count": 53,
+      "char_count": 278
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller could have asked more probing questions to better understand the buyer's current priorities and integration challenges to potentially offer a more tailored solution or alternative timelines. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller could have asked more probing questions to better understand the buyer's current priorities and integration challenges to potentially offer a more tailored solution or alternative timelines. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 191,
+    "total_buyer_words": 223,
+    "avg_seller_words_per_turn": 47.75,
+    "avg_buyer_words_per_turn": 55.75,
+    "word_ratio_seller_buyer": 0.86,
+    "total_conversation_length": 414
+  }
+}

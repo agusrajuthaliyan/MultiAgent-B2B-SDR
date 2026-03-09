@@ -1,0 +1,82 @@
+{
+  "simulation_id": "cbce9dd7-464c-42d2-8be2-dda4985be0d2",
+  "timestamp": "2026-03-09T12:52:45.535885",
+  "target_url": "https://www.stackby.com",
+  "company_context": "No-code online spreadsheet and databases for work | Stackby Join 100,000+ active companies ​The No- Code Database & Spreadsheet Platform for Teams Built for teams and businesses to create powerful no-code databases, CRM and apps, organize & automate any data with a unified AI first workspace. Start Free Trial Now Book a Demo 14 days Business Trial • No credit card needed • Free Forever Plan • Free Support • Bring your own AI Trusted by 100,000+ diverse companies worldwide & growing G2 (4.8 Rating) Build your database or app with AI New Suggestion Build it now AI + no-code building blocks Discover ever growing set building blocks that makes up the core of the Stackby platform AI Powered Databases Use custom spreadsheet style databases to create your workflows. 30+ unique columns types including link across tables, formulas, AI fields, checklists & attachments. Explore Platform Overview Views Visualize your data in multiple layouts including grid, kanban, gallery, calendar, timeline, list, map, dashboards & more. Group records in grid, list & timeline views. Explore Views Advanced Form Builder Build powerful forms with 30+ fields, conditional logic, multiple line-item support, updatable forms, themes, display elements and more. Explore Online Form Builder Reporting & Dashboards Create real-time dashboards with charts, pivot tables, summary boxes, goal tracker, time tracker, embeds, docs, global search, page designer etc. using Stackby Apps Marketplace. Explore Apps Marketplace Automations Create workflow automations using triggers and actions to automate manual tasks and get things done. Sending emails, slack notifications, updating rows, generate with AI and more. Explore Automations AI Field Agents & Co-Builder Bring AI models right into your columns using your own API keys from OpenAI, Gemini or Anthropic and generate content, analyze documents or even do web research. Explore Stackby AI Online AI databases, easy to scale Think spreadsheets + databases + automations + AI , to build any custom workflow and scale it in your teams. No coding or training needed. Easy as a spreadsheet with power of a relational database It's as easy as a spreadsheet, but you can mould it into a powerful relational database that your teams will love to use. Import data or create your database via AI, bring your team and automate your work - all in a few minutes. No coding or technical training needed . Create custom no-code solutions With 30+ unique column types, 8 views, form creator, powerups, apps marketplace, internal automations, AI field agents, AI co-builder & more, the possibilities are endless for you to build. Scale it within your team & clients with ever increasing capabilities. Build tools that fit your needs Explore from over 1000 database templates in our template gallery, build with our AI co-builder & customize to your needs. Whether you run a marketing agency, a museum or a small business, there's one for each of you. Centralize work with single sourc",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. I came across Stackby and was impressed with the work you're doing in the no-code database and spreadsheet space. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 61,
+      "char_count": 367
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're doing okay, I suppose. We've got a lot of data coming in from various sources, and we're using a combination of tools to manage it. But to be honest, I'm not sure we're getting the most out of our data. What makes DeepData AI different from other solutions out there?",
+      "word_count": 53,
+      "char_count": 283
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution uses machine learning algorithms to automate data processing and provide real-time insights. We've seen our customers reduce their data processing time by up to 70% and increase their revenue by up to 20%. We've also integrated with popular tools like Stackby, so you can easily incorporate our solution into your existing workflows.",
+      "word_count": 58,
+      "char_count": 371
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I have to say, we're already invested in a few different tools, and I'm not sure we're looking to add another one to the mix. Plus, I've heard that machine learning solutions can be pretty pricey. What kind of pricing are we talking about here?",
+      "word_count": 49,
+      "char_count": 273
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer a tiered pricing model to fit different company sizes and needs. For a company like yours, I'd estimate the cost would be around $5,000 per month. But like I said, our customers have seen significant returns on investment, so we're confident that our solution can pay for itself.",
+      "word_count": 55,
+      "char_count": 320
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "$5,000 per month is a bit steeper than I was expecting. And to be honest, I'm not sure we're ready to make a decision on a new data processing solution right now. We're in the middle of implementing some other projects, and I'd need to check with our team to see if this is something we can prioritize.",
+      "word_count": 58,
+      "char_count": 302
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand. It's always important to prioritize and make sure that any new solution aligns with your company's goals. Can I schedule a follow-up call to check in with you in a few weeks and see if anything has changed?",
+      "word_count": 41,
+      "char_count": 231
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I don't think that will be necessary. We'll need to discuss this internally and explore other options. But I think we're going to have to pass on DeepData AI for now. Thank you for reaching out, though.",
+      "word_count": 38,
+      "char_count": 206
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's pricing concerns and potentially offer a more flexible pricing model or a trial period to alleviate the cost barrier. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's pricing concerns and potentially offer a more flexible pricing model or a trial period to alleviate the cost barrier. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 215,
+    "total_buyer_words": 198,
+    "avg_seller_words_per_turn": 53.75,
+    "avg_buyer_words_per_turn": 49.5,
+    "word_ratio_seller_buyer": 1.09,
+    "total_conversation_length": 413
+  }
+}

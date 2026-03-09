@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b01e189b-7633-43f5-b80b-40ad716aecc7",
+  "timestamp": "2026-03-09T12:51:14.438772",
+  "target_url": "https://www.qualtrics.com",
+  "company_context": "Qualtrics XM: The Leading Experience Management Software - Qualtrics Skip to main content X4 by day, Pitbull by night. Join us in Seattle March 17–19 Register now Customer Experience Intelligence_ Understand every customer. Act when it counts. Turn customer experience into a revenue driver with AI that identifies at-risk customers and delivers the actions to keep them — before they churn. Request Demo Learn more Why Qualtrics_ Three powerful suites for optimizing Qualtrics experiences across your business xm for Customer Experience Software to drive better experiences across every digital and physical touchpoint Watch Demo LEARN MORE XM FOR Employee Experience Software to engage teams, improve manager effectiveness and make informed people decisions WATCH DEMO Learn More XM FOR Strategy & Research Software to design products people love, increase market share, and accelerate growth WATCH DEMO LEARN MORE THE XM PLATFORM_ All-in experience management, amplified with trusted AI LEARN MORE You’re in good company CASE STUDY_ “ Qualtrics is modernizing how we listen to customers, analyze their feedback and resolve pain points WATCH NOW CASE STUDY_ “ The guest feedback we get from Qualtrics is pivotal to what we do from the products to the experience WATCH DEMO CASE STUDY_ “ The link between our testing, design, and development teams allows us to build breakthrough products WATCH NOW CASE STUDY_ “ We need to continue to raise the bar, and in true Porsche fashion, we are with Qualtrics WATCH DEMO CASE STUDY_ “ Partnering with Qualtrics we can get feedback into the hands of doctors to make a difference for patients WATCH DEMO XM Resources_ Explore Experience Management X4 2026 – The Experience Management Summit Register now Qualtrics demo center—See XM in action WATCH DEMO 2026 Global Employee Experience Trends DOWNLOAD NOW 2026 Global Market Research Trends Report DOWNLOAD NOW 2026 Consumer Experience Trends Report DOWNLOAD NOW Jump-start your research programs with Qualtrics today BUY NOW The World’s #1 XM Platform 3M frontline users 2B conversations analyzed 2X leader in IDC analyst reports #1 XM platform 20,000 customers 100+ countries around the world use Qualtrics THE FUTURE OF XM_ Discover how AI is transforming the XM landscape with our latest innovative products and next generation AI features. Manager Assist Manager Assist Customer Care Assist WATCH DEMO Reimagining XM with AI WATCH NOW Qualtrics AI: Unlock insights from Customer and Employee Interactions WATCH NOW Frontline Locations Assist WATCH DEMO Conversational Feedback WATCH DEMO Text Analytics Insights & Recommendations WATCH DEMO × Play Video close × Play Video close Request demo Thank you. We'll be in touch shortly. First Name Last Name Company Job Title Email Phone Number - Select - Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Bela",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. I came across your company and was impressed with the work you're doing in experience management. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 57,
+      "char_count": 334
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're using a combination of in-house tools and some third-party software to manage our data. It's been working okay, but we're always looking for ways to improve. What makes DeepData AI unique?",
+      "word_count": 34,
+      "char_count": 204
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution uses AI to automatically process and analyze large datasets, giving you real-time insights into your customer experience. We've seen companies like yours reduce their data processing time by up to 70% and increase their decision-making speed by 30%. We'd love to show you a demo and see if it's a good fit for your team.",
+      "word_count": 58,
+      "char_count": 339
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I have to say, we're pretty happy with our current setup. We've invested a lot in our in-house tools and I'm not sure we're looking to add another vendor to the mix. Plus, I'm not sure we have the budget for it. What kind of pricing are we talking about?",
+      "word_count": 54,
+      "char_count": 283
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive with other data processing solutions on the market. We offer a tiered pricing model based on the amount of data you're processing. For a company of your size, we'd likely be looking at around $50,000 to $100,000 per year.",
+      "word_count": 43,
+      "char_count": 248
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steep for us, to be honest. We're in the middle of a budget cycle and I don't think we have the authority to approve a new tool like that. Plus, I'm not sure our IT team would be on board with integrating another system. We're trying to simplify our tech stack, not add to it.",
+      "word_count": 58,
+      "char_count": 289
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but I think DeepData AI could really help you streamline your data processing workflow and free up more time for your team to focus on higher-level tasks. Would you be open to a demo and discussing this further with our technical team to see if we can address some of your integration concerns?",
+      "word_count": 57,
+      "char_count": 322
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I don't think it's worth pursuing at this time. We're just not in a position to take on new vendors or tools, and I don't have the budget authority to approve a purchase like that even if I wanted to. I think we'll have to pass on DeepData AI for now.",
+      "word_count": 56,
+      "char_count": 279
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address pricing concerns and offer more flexible pricing options or a trial to alleviate the buyer's budget worries. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address pricing concerns and offer more flexible pricing options or a trial to alleviate the buyer's budget worries. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 215,
+    "total_buyer_words": 202,
+    "avg_seller_words_per_turn": 53.75,
+    "avg_buyer_words_per_turn": 50.5,
+    "word_ratio_seller_buyer": 1.06,
+    "total_conversation_length": 417
+  }
+}

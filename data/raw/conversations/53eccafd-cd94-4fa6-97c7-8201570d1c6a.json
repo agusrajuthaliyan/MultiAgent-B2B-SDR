@@ -1,0 +1,82 @@
+{
+  "simulation_id": "53eccafd-cd94-4fa6-97c7-8201570d1c6a",
+  "timestamp": "2026-03-09T12:57:12.234979",
+  "target_url": "https://www.capsule.com",
+  "company_context": "Capsule | The smarter, simpler, kinder pharmacy See Capsule Homepage How it works About us For doctors Questions Sign in Get started Open website navigation See Capsule Homepage Meds made easy Capsule is the pharmacy that delivers your prescriptions, the same day, for free—all from your phone. Get Started Get Started Check if we deliver to you Enter home or work zip code Submit Experience a better pharmacy Free, same-day prescription delivery Privately chat or text with our expert pharmacists Get and manage all your medications from your phone How Capsule works Learn More About How Capsule Works Sign up for Capsule We’ll coordinate with your old pharmacy or doctor to get your prescriptions. Schedule your free same-day delivery We accept your insurance and deliver your prescriptions at a time that works for you. We manage your refills We’ll coordinate with your doctor and text you when it’s time for refills. Capsule is free. Just pay your copay. Free, same-day delivery + Your usual insurance copay = A pharmacy you’ll love, at no extra cost Everybody loves Capsule 4.9 Google Places and Apple App Store “ Capsule is probably the best designed, most life-transformative product that I have used.” — Joseph “ If you can text, you can use Capsule.” — Kerstin “ There's ton of peace of mind knowing that you can text somebody and you'll get a response right away about the medication you're taking.” — Nancy “ My only regret is not having tried Capsule sooner.” — Andrew “ Capsule 100% did everything for me. They took my prescription from my doctor, found the best price, and delivered my prescription to my doorstep.” — Shwetabh “ Capsule checks in with me, reminds me when I need prescriptions, and makes it easy to get them delivered.” — Olivia Slide Carousel Left Slide Carousel Right As Seen In “Designed to make it easier for patients to fill prescriptions and stay on their medications” — The Wall Street Journal Still have questions? How much does it cost? Capsule is free to use. You only pay your copay on your medication. Do you take my insurance? Yes. Capsule accepts all commercial insurance plans, Managed Medicaid, and Medicare Part D. We'll also coordinate directly with your insurance so you don't have to. Does Capsule deliver to me? Find out by going here and seeing our list of available locations! . Can all my doctors use Capsule? Yes. Any doctor can send a prescription to Capsule. I still have more questions. Text us at (888) 910-1808 or email help@capsule.com See More Questions Need help? Call or text us (888) 910-1808 Email us help@capsule.com Get the app Company info About us Blog Careers For doctors Press Social Media © 2026 Capsule Corporation Trust Center Terms of Service Privacy Policy HIPAA Policy",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps pharmacies like Capsule optimize their operations and improve patient outcomes. I came across your company and was impressed with the work you're doing in same-day prescription delivery.",
+      "word_count": 46,
+      "char_count": 289
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for the compliment, Alex. I'm John, the CTO here at Capsule. What makes you think we need a data processing solution like DeepData AI?",
+      "word_count": 26,
+      "char_count": 145
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from what I've researched, Capsule is handling a large volume of prescriptions and patient data. Our solution can help you streamline your data processing, reduce errors, and improve overall efficiency. We've had success with similar pharmacies in the past.",
+      "word_count": 40,
+      "char_count": 263
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we've already invested in a custom-built data management system. I'm not sure if we're ready to rip and replace what we have. Plus, I'd need to consider the cost and ROI of implementing a new solution like DeepData AI.",
+      "word_count": 45,
+      "char_count": 254
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns, John. Our solution is designed to be flexible and integrate with existing systems, so we could work with your current infrastructure. As for cost, we offer a tiered pricing model that can be tailored to your specific needs. I'd be happy to provide a customized quote and case studies from similar companies.",
+      "word_count": 57,
+      "char_count": 346
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but we're in the midst of a major platform upgrade and I don't think we can take on another project right now. Additionally, I'd need to involve our data science team and get their buy-in on any new solution. We're also exploring partnerships with other data analytics providers, so I'm not sure if DeepData AI would be the best fit.",
+      "word_count": 65,
+      "char_count": 363
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that timing is everything, John. Perhaps we could schedule a follow-up conversation in a few months to revisit the opportunity? In the meantime, I could provide some additional information on how DeepData AI can complement your existing systems and support your data science team.",
+      "word_count": 46,
+      "char_count": 293
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think it's best if you just send me an email with some more information about DeepData AI. I'll take a look and discuss it with our team, but I don't think we'll be moving forward with this at this time. Thanks for reaching out, though.",
+      "word_count": 52,
+      "char_count": 279
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and explored potential ways to support Capsule's current projects and initiatives. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and explored potential ways to support Capsule's current projects and initiatives. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 189,
+    "total_buyer_words": 188,
+    "avg_seller_words_per_turn": 47.25,
+    "avg_buyer_words_per_turn": 47.0,
+    "word_ratio_seller_buyer": 1.01,
+    "total_conversation_length": 377
+  }
+}

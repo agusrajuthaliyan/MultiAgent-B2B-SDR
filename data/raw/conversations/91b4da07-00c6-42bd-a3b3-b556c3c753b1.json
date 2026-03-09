@@ -1,0 +1,82 @@
+{
+  "simulation_id": "91b4da07-00c6-42bd-a3b3-b556c3c753b1",
+  "timestamp": "2026-03-09T12:57:55.892625",
+  "target_url": "https://www.yottaa.com",
+  "company_context": "Web Performance That Turns Traffic into Revenue Introducing Hybrid RUM from Yottaa! Learn how we're unifying browser, edge, and origin analytics to help you optimize performance. Schedule a Demo 🚀 Boost Your Shopify Store’s Speed & Conversions! Click here to get your free performance plan today! Built for eCommerce. Optimized for Growth. Turn Website Performance into Revenue Keep every shopper journey fast, stable, and secure – from edge to experience. Request a Demo or Get Started with Yottaa Insights Solve site performance your way. Choose the path that gives your team the right mix of control, guidance, and confidence. Optimization Software Web Performance Cloud Managed CDN & Security Web Performance Services Personalized Consulting SpeedSense Performance Consulting Site Performance Shouldn't Be Complicated. Between third-party app bloat, complex infrastructure, security concerns, and monitoring tools with a limited line of sight, most web performance solutions only solve part of the problem. Yottaa is the only all-in-one performance partner that tackles speed, stability, and security with eCommerce-backed expertise – so your site doesn’t just run faster, it drives the revenue you’re targeting. Faster Shopper Experiences Accelerate page loads by up to 30% and reduce friction across PDPs, PLPs, and checkout with third-party sequencing, code optimization, HTML transformation, and lighter images. Stronger Metrics, Proven Growth Improve Core Web Vitals, reduce latency and TTFB, and boost uptime with continuous optimization that lifts conversion rates by 10% and ties performance directly to revenue. Efficiency Without the Effort Free up your team by offloading monitoring, fixes, and tuning to Yottaa experts – reducing operational overhead by up to 40% without adding headcount or constant firefighting. Trusted by Over 1,500 Top eCommerce Sites The Sak improves site speed by 33% with Yottaa after migrating to Shopify 2.0. With Yottaa’s Audit Third-Party Tags and Application Sequencing , this heritage fashion brand streamlined its tech stack, reduced load times by over 1 second, improved LCP by 64%, and ensured new tools won’t compromise shopper experience. LCP reduction 0 s faster mobile speeds 0 % Read the Story Your Site, Your Choice – Three Paths to Peak Performance Whether you’re short on time, short on resources, or simply short on answers, Yottaa helps turn website performance into a revenue engine — with the approach that fits your team’s goals. Web Performance Cloud Browser-to-origin analytics and performance optimization software. Explore Web Performance Cloud Web Performance Services Fully managed CDN, enterprise-grade security, and optimization backed by SLAs. Explore Web Performance Services SpeedSense Performance Consulting Expert, hands-on guidance to find and fix what’s slowing down your eCommerce website. Explore SpeedSense Performance Consulting No other tool lets you say, ‘Only load this review widget after a customer scrolls.’ With",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. We're a data processing solution that helps companies like yours optimize their web performance and boost revenue. I came across your company, Yottaa, and was impressed with the work you're doing in the eCommerce space. Can you tell me a little bit about your current data processing challenges?",
+      "word_count": 62,
+      "char_count": 374
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. We're actually pretty happy with our current setup. We've invested heavily in our Hybrid RUM solution and it's been working well for us. What makes you think DeepData AI can offer something better?",
+      "word_count": 39,
+      "char_count": 232
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you have a existing solution in place, but our DeepData AI platform uses machine learning to provide more accurate and real-time insights into your web performance. This can help you identify areas of improvement and optimize your site for better conversions. We've seen some of our customers achieve up to 30% improvement in page load times. Would you be open to exploring how our solution can complement your existing Hybrid RUM setup?",
+      "word_count": 75,
+      "char_count": 455
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we're looking to invest in right now. We've got a lot of other priorities and our current solution is meeting our needs. Plus, I'm not sure how your solution would integrate with our existing infrastructure. We've got a lot of custom-built tools and I'm not sure it would be compatible.",
+      "word_count": 55,
+      "char_count": 316
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration. We've actually worked with several companies in the eCommerce space and have developed a range of APIs and connectors to make integration as seamless as possible. We'd be happy to provide a free trial or proof-of-concept to demonstrate how our solution can work with your existing tools. And in terms of pricing, we offer a tiered pricing model that can scale to meet the needs of your business.",
+      "word_count": 75,
+      "char_count": 452
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm still not convinced. We're in the middle of our budgeting cycle and I'm not sure we have the resources to allocate to a new solution right now. Plus, I'd need to check with our team to see if this is something we're even interested in pursuing. Can you send me some more information and we can discuss it internally?",
+      "word_count": 65,
+      "char_count": 348
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, I'd be happy to send over some more information. However, I want to make sure you have all the information you need to make a decision. Can I ask, what are the key factors that would influence your decision to move forward with a new data processing solution? Is it primarily driven by cost, or are there other factors at play?",
+      "word_count": 62,
+      "char_count": 339
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Honestly, Alex, I think we're just going to have to pass on this for now. We've got a lot of other priorities and I don't see this as a key area of focus for us. I appreciate the pitch, but I don't think DeepData AI is the right fit for us at this time.",
+      "word_count": 54,
+      "char_count": 253
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's initial statement of being happy with their current setup and prioritized uncovering potential pain points or areas for improvement to create a stronger value proposition. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's initial statement of being happy with their current setup and prioritized uncovering potential pain points or areas for improvement to create a stronger value proposition. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 274,
+    "total_buyer_words": 213,
+    "avg_seller_words_per_turn": 68.5,
+    "avg_buyer_words_per_turn": 53.25,
+    "word_ratio_seller_buyer": 1.29,
+    "total_conversation_length": 487
+  }
+}

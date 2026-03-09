@@ -1,0 +1,82 @@
+{
+  "simulation_id": "2083ccb4-c6f5-4fb7-9fe0-418289fd99fd",
+  "timestamp": "2026-03-09T12:49:02.067364",
+  "target_url": "https://www.funnel.io",
+  "company_context": "Funnel | The leading marketing intelligence platform Get in touch Log in Get a demo the Marketing Intelligence Platform Marketing reporting that unlocks growth Understand your performance and optimize with confidence. Centralize all your marketing data Get clear unbiased measurement of marketing performance Move faster with AI-powered workflows Get a demo Unlocking marketing intelligence for over 2,500 customers Case study Case study The most complete marketing intelligence platform No more manual reports, broken data, or blind spots. Our platform cleans, unifies, and connects everything, giving you instant clarity and accurate attribution across every channel. The most complete marketing intelligence platform No more manual reports, broken data, or blind spots. Our platform cleans, unifies, and connects everything, giving you instant clarity and accurate attribution across every channel. Integrate Get clean, connected marketing data where it needs to go—any destination, zero ETL maintenance. Bring your data together Measure Understand true campaign impact with AI-powered Marketing Mix Modeling (MMM) and Multi-Touch Attribution (MTA). Get insights that pay off Report Save hours with automated reports built on real-time, accurate data without countless spreadsheets. Start automating reports Turn data into intelligence Unlock advanced insights for evergreen growth. Discover the platform Turn data into intelligence Unlock advanced insights for evergreen growth. Discover the platform Turn data into intelligence Unlock advanced insights for evergreen growth. Discover the platform FUNNEL AI The future of insights is conversational With Data Chat, you can communicate directly with your marketing data. Skip the manual reports and get instant answers, smart summaries, and actionable insights. Book a demo Powerful Integrations Unify data without limits Gather all your marketing data in one place with Funnel’s unmatched library of over 600 connectors. Skip the tech work — with everything always synced and ready to use. Browse connectors Browse destinations Made for teams who turn data into growth Why teams love Funnel Marketers Data Teams Agencies Turn scattered marketing data into clear, actionable insights Funnel connects your platforms and keeps reporting fresh, so you can see what’s working and prove impact without the manual effort. Connect with 600+ platforms and avoid gaps in reporting Uncover new opportunities and optimize spend Prove the true impact of your marketing with confidence -0% Limango reduced cost per lead by 20% with Funnel See how they did it Deliver analysis-ready marketing data to your warehouse Funnel handles the complexity of marketing APIs and keeps your data organized and up to date. Unify marketing, analytics, and sales data in one place Automate data workflows with no-code pipelines Apply advanced measurement to uncover performance opportunities 0% Shepora reduced data warehouse costs by 75% with Funnel See how they did it Scale",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps marketing teams like yours unlock the full potential of their data. I came across Funnel and was impressed with the work you're doing in marketing intelligence. Can you tell me a bit about your current data processing workflow?",
+      "word_count": 57,
+      "char_count": 330
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Alex, I'm John, the CTO here. We're actually pretty happy with our current setup, which is mostly custom-built. What makes you think we need a new solution?",
+      "word_count": 28,
+      "char_count": 159
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, many of our customers have seen significant improvements in data accuracy and processing time with DeepData AI. We've also seen a reduction in manual reporting and increased confidence in marketing performance. I'd love to discuss how our solution can help address any pain points you might be experiencing.",
+      "word_count": 49,
+      "char_count": 313
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, we're in the middle of a major product launch right now, and our resources are stretched thin. I'm not sure we have the bandwidth to evaluate a new solution, especially if it requires significant integration work.",
+      "word_count": 44,
+      "char_count": 255
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand the timing can be challenging, but our integration process is designed to be seamless and requires minimal technical lift. We've worked with similar companies in the past and have seen significant ROI even in the short term. Would you be open to a quick demo to see if our solution can help alleviate some of the pressure your team is under?",
+      "word_count": 64,
+      "char_count": 365
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm not convinced that this is something we need right now, and even if we did, I'd have to prioritize it against other initiatives. We're also exploring some other options, including building out our own data processing capabilities. Your solution sounds interesting, but it's not clear to me how it's significantly better than what we could do in-house or what our current vendors are offering.",
+      "word_count": 65,
+      "char_count": 396
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd be happy to provide a comparison of our solution against other vendors and in-house solutions. We've seen many companies try to build out their own data processing capabilities only to find it's more costly and time-consuming than anticipated. DeepData AI can offer a more cost-effective and efficient solution.",
+      "word_count": 54,
+      "char_count": 347
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on this for now. We just don't have the time or resources to devote to evaluating a new data processing solution, and frankly, it's not a priority for us at the moment. Maybe we can revisit this conversation in the future, but for now, I think we're going to have to decline.",
+      "word_count": 66,
+      "char_count": 352
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's initial concern about being busy with a product launch and explored potential quick wins or temporary solutions to help alleviate their current pressures. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's initial concern about being busy with a product launch and explored potential quick wins or temporary solutions to help alleviate their current pressures. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 224,
+    "total_buyer_words": 203,
+    "avg_seller_words_per_turn": 56.0,
+    "avg_buyer_words_per_turn": 50.75,
+    "word_ratio_seller_buyer": 1.1,
+    "total_conversation_length": 427
+  }
+}

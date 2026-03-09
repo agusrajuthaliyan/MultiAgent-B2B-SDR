@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9003fecb-eedb-46b7-9087-e1c0421feda0",
+  "timestamp": "2026-03-09T12:55:55.698847",
+  "target_url": "https://www.8x8.com",
+  "company_context": "8x8 CPaaS - Communications Platform as a Service Skip to content Search Search Login Jitsi As a Service 8x8 Connect My Services Express 8x8 Work For Web View all key portals Support For the integrated CX platform (Contact Center & Unified Communications), please visit 8x8.com > 8x8 Wins Best CPaaS Platform at the CX Awards 2025 Recognized for its composability, embedded AI, and seamless integration with various internal tools and UCaaS solutions, unifying internal and external communications on a modular platform. Find out more CX limits were meant to be shattered You don’t settle for the status quo. Ready to push some boundaries and make an impact? You’re in the right place. One platform, zero silos, infinite solutions. That’s 8x8®—the platform and partner powering your CX ambitions. Talk to an Expert Watch Video Trusted by more than 3 million business users. CX tools built for every role. Driving teams to win, together. Communication solutions that power every team, boost collaboration, and create standout customer experiences. Marketing & Communications Operations & Logistics Customer Support Security Developer Marketing & Communications Boost engagement and deliver seamless customer experiences with personalized, impactful messaging campaigns on channels like SMS and WhatsApp. Learn More Operations & Logistics Automate workflows, simplify processes, and get real-time updates, making teamwork smoother and more efficient. Learn More Customer Support Provide instant support via SMS, messaging, voice, and video. With 24/7 automation, handle inquiries effortlessly and deliver seamless service anytime. Learn More Security Protect user data, and block unauthorized access with enhanced security features like OTPs and 2FA, making it easy to automate secure interactions. Learn More Developer Save time and cut costs with easy-to-use APIs that streamline communication features – freeing up your teams to focus on delivering amazing user experiences. Learn More Marketing & Communications Boost engagement and deliver seamless customer experiences with personalized, impactful messaging campaigns on channels like SMS and WhatsApp. Learn More Operations & Logistics Automate workflows, simplify processes, and get real-time updates, making teamwork smoother and more efficient. Learn More Customer Support Provide instant support via SMS, messaging, voice, and video. With 24/7 automation, handle inquiries effortlessly and deliver seamless service anytime. Learn More Security Protect user data, and block unauthorized access with enhanced security features like OTPs and 2FA, making it easy to automate secure interactions. Learn More Developer Save time and cut costs with easy-to-use APIs that streamline communication features – freeing up your teams to focus on delivering amazing user experiences. Learn More Beyond APIs: 8x8® Contact Center ™ and Unified Communications 8×8® connects your employees and customers through one intelligent platform designed to deliver th",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. I came across 8x8 and was impressed with the work you're doing in CPaaS. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 54,
+      "char_count": 304
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We do have some data processing needs, but I'm not sure if it's something we're looking to address right now. We've been focused on integrating our communications platform and contact center. What makes DeepData AI unique compared to other solutions out there?",
+      "word_count": 44,
+      "char_count": 270
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution uses machine learning to provide real-time insights and automate data workflows, which can help reduce costs and increase efficiency. We've seen significant success with similar companies in the industry. I'd love to schedule a demo to show you how it works. Would you be open to that?",
+      "word_count": 53,
+      "char_count": 323
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We're currently in the middle of our budget cycle, and I'm not sure if we have the resources to allocate to a new tool right now. Plus, I'd need to discuss it with our procurement team. How does your pricing work, and what kind of integration would be required with our existing systems?",
+      "word_count": 56,
+      "char_count": 301
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the amount of data processed, and we offer tiered plans to fit different company sizes. As for integration, our solution is designed to be flexible and can integrate with a variety of systems, including CPaaS platforms like 8x8. We've had success with similar integrations in the past. I can provide you with some case studies if you'd like.",
+      "word_count": 63,
+      "char_count": 365
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but I think we'd need to prioritize our existing projects before taking on something new. We're also exploring some other solutions, including building something in-house. To be honest, I don't have the budget authority to approve new tools, and I don't think it would be feasible for us to move forward with DeepData AI at this time.",
+      "word_count": 60,
+      "char_count": 353
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Is there anything I can provide to help you reconsider or to potentially revisit the conversation in the future?",
+      "word_count": 28,
+      "char_count": 171
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I think we're set for now. We appreciate the outreach, but we need to focus on our internal projects and priorities. Thank you for your understanding, and I wish you the best with your sales efforts.",
+      "word_count": 37,
+      "char_count": 203
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to align the solution with the buyer's current priorities or budget cycle. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to align the solution with the buyer's current priorities or budget cycle. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 198,
+    "total_buyer_words": 197,
+    "avg_seller_words_per_turn": 49.5,
+    "avg_buyer_words_per_turn": 49.25,
+    "word_ratio_seller_buyer": 1.01,
+    "total_conversation_length": 395
+  }
+}

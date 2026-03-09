@@ -1,0 +1,82 @@
+{
+  "simulation_id": "82201c72-9c54-4c2d-8df7-ea3b459b3659",
+  "timestamp": "2026-03-09T12:48:22.808903",
+  "target_url": "https://www.appsmith.com",
+  "company_context": "Appsmith | Open-Source Low-Code Application Platform What’s new in Appsmith: Lambda improvements, smoother workflows, and Enterprise controls → Dismiss Login Sign up Request a demo MenuToClose 32px Save 100s of development hours and 1000s of development dollars Build custom applications more quickly and securely with the leader in open-source low-code development. Get a demo Support Apps AI Apps IT Apps Salesforce Apps Support Apps AI Apps IT Apps Salesforce Apps Create customer dashboards that supercharge agent productivity Explore Add AI interactions to internal apps using your data Explore Build UIs on top of workflow scripts for fast, secure execution Explore Develop enterprise app extensions that reduce seat license costs Explore Build custom apps 80% faster Broad data source connectivity. Drag-and-drop Ul building. Complete JS customization. CI/CD integration with Git. Appsmith makes it easy to build anything. Connect Build Customize Deploy Database 24px Connect Interact with any LLM, database, SaaS tool or REST/GraphQL API. Self host for secure access to internal data. Layout 24px Build Use drag-and-drop widgets to quickly assemble responsive UI. Prompt your own widgets in natural language, or code them in JS/HTML/CSS. JsConsole 24px Customize Automate workflows, manipulate appearance, and transform data with JS code or natural language prompts. Import your own JS libraries. JsConsole 24px Deploy and maintain Version control and merge updates with Git. Automatically deploy merged changes from designated environment branches. Explore the product Connect Build Customize Deploy Database 24px Connect Source data from any database, SaaS tool or REST/GraphQL API. Self host for secure access to internal data. Layout 24px Build Use drag-and-drop widgets to quickly assemble responsive UI. Create your own custom widgets in JS/HTML/CSS JsConsole 24px Customize Manipulate data, appearance and business logic in JS. Import and use external libraries in your apps. JsConsole 24px Deploy and Maintain Version control and merge updates with Git. Automatically deploy merged changes from designated environment branches. Explore the product Leading companies are innovating with Appsmith From startups to enterprises, businesses are improving operations and increasing efficiency by building custom apps on Appsmith. Automate manual processes GSK built an app to patch their fleet of 3,500 Linux servers in just one sprint. Streamline customer support Block processes new customer applications 50% faster. Reduce seat licenses F22 labs saved $1,200 a month by developing custom extensions to their project management platform. Modernize legacy applications HeyJobs adds new features to their campaign management and budgeting applications 90% faster. Appsmith is a leader in digital process automation and low-code development 4.7/5 4.9/5 5/5 Developer-first low-code development Whether you’re prompting or coding, Appsmith offers full transparency and code-level control over",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. I came across Appsmith and was impressed with the work you're doing in low-code application development. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 58,
+      "char_count": 357
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're doing alright, I suppose. We've got a few different tools and systems in place, but it's a bit of a patchwork. What makes you think we need a new data processing solution?",
+      "word_count": 35,
+      "char_count": 187
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from what I've seen, Appsmith is all about efficiency and speed in application development. I think our solution could really help you amplify those efforts by providing faster and more accurate data processing. Plus, our integration with popular data sources and APIs makes it easy to get up and running. We've seen companies like yours reduce their data processing time by up to 70%.",
+      "word_count": 65,
+      "char_count": 391
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we're in the middle of a big project right now and I'm not sure we have the bandwidth to take on something new. Plus, I'm not convinced that your solution is significantly better than what we're already using. How does your pricing compare to our current vendors?",
+      "word_count": 51,
+      "char_count": 292
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about timing and budget. Our pricing is competitive, and we offer a tiered system based on the volume of data being processed. For a company of your size, I think we could offer a significant cost savings compared to what you're currently paying. However, I want to make sure that our solution is a good fit for your needs. Can I ask, who else is involved in the decision-making process for data processing solutions?",
+      "word_count": 79,
+      "char_count": 455
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Yeah, our IT team would definitely need to be involved, and possibly our CFO as well. But like I said, we're just really busy right now and this isn't a priority for us. We've also been looking into some other solutions, like Apache Beam and Google Cloud Dataflow. How does your solution compare to those?",
+      "word_count": 55,
+      "char_count": 305
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I see. Well, our solution is more focused on ease of use and rapid deployment, whereas some of those other solutions can be more complex and require a lot of customization. That being said, I think we could still offer some significant benefits for your team. Would you be open to a demo or trial to see how our solution could work for you?",
+      "word_count": 64,
+      "char_count": 340
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're just going to have to pass on this for now. We've got too much on our plate and this isn't a priority for us at the moment. Maybe reach out in a few months and we can reassess, but for now, I think we're going to have to decline.",
+      "word_count": 57,
+      "char_count": 271
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions or compromises that could have allowed the conversation to move forward despite the buyer's current busyness. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions or compromises that could have allowed the conversation to move forward despite the buyer's current busyness. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 266,
+    "total_buyer_words": 198,
+    "avg_seller_words_per_turn": 66.5,
+    "avg_buyer_words_per_turn": 49.5,
+    "word_ratio_seller_buyer": 1.34,
+    "total_conversation_length": 464
+  }
+}

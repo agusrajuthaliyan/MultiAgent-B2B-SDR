@@ -1,0 +1,82 @@
+{
+  "simulation_id": "183a3b26-7504-461b-ad35-0dc906bc4b26",
+  "timestamp": "2026-03-09T12:53:02.215291",
+  "target_url": "https://www.tempo.io",
+  "company_context": "Project, Product, & Portfolio Management Software for Jira | Tempo Open Mobile Navigation Menu Menu 📅 Webinar: How TransUnion saved nearly $1m annually and unified everything in Jira Save your seat Strategic Portfolio Management Platform Plan smarter. Adapt faster. Deliver with confidence. Tempo unifies time, cost, capacity, and reporting inside Jira so plans, resources, and decisions stay aligned. From project accuracy to portfolio clarity – Tempo is designed to grow with your team and deliver ROI within days. Get Started Free Book Demo Tempo is trusted by 30,000+ global companies Our vision for Adaptive Strategic Portfolio Management Intelligent systems that surface bottlenecks early, balance resources dynamically, and help you adjust faster when priorities shift. Join Tempo CEO Vic Chynoweth and CRO Marie-Michèle Caron as they break down the future of portfolio management. Curated app collections. Proven playbooks. Made to scale. Project Program Portfolio Project Collection Track time. Maximize value. AI-powered time tracking, smarter planning, and audit-ready records – all inside Jira. Explore Collection REDSpace - Saved over $220,000 using Tempo “ Since implementing the Tempo suite, the REDspace team has estimated cost savings of over $220,000 CDN or $25,000 per Project Manager annually. ” Angela Campbell Project Management Office (PMO), REDspace Includes: Program Collection Clarity and control at scale. Manage complex Jira programs – hierarchy views, resource alignment, and governance. Explore Collection Škoda Auto - Increased efficiency by reducing the manual effort needed for time tracking and auditing “ We perform regular process audits on service performance. Tempo helps us gain insight into work progress and resource allocation to support operational decisions. ” Martin Sahula Expert Coordinator, Group Software Delivery, Škoda Auto Includes: Portfolio Collection Democratize data‑driven decisions. Govern portfolios in Jira, balance capacity and budgets, and publish executive-ready dashboards. Explore Collection intelliflo - With Custom Charts we were able to tell how far off the mark we were in our consolidation effort. “ I have seen the app go from strength to strength and actually solve a major issue within native functionality. While Jira is strong at searching data with all the custom fields, presenting that information back in a useful manner is a different matter. ” Dan Tombs Atlassian Administrator and Agile Lead, intelliflo Includes: Introducing Tempo's AI-Powered Adaptive SPM Platform Move at the speed of AI – faster cycles, smarter trade-offs, and stronger alignment – enabled by real-time Jira data and predictive insights. Get early access. Join the Waitlist All the building blocks. Always in sync. Spreadsheets and handoffs slow you down. Tempo's suite unifies time, cost, capacity, and reporting – right in Jira – to make scaling delivery easier than you think. Get Started Free Book Demo Structure PPM Visualize multiple Jira pr",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company and was impressed with the work you're doing with Jira. I'd love to introduce you to our data processing solution that can help you optimize your project management workflows.",
+      "word_count": 48,
+      "char_count": 281
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here. We're actually quite happy with our current setup, which includes Tempo for project and portfolio management. What makes you think we need another solution?",
+      "word_count": 35,
+      "char_count": 215
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you're using Tempo! Our solution, DeepData AI, can actually complement Tempo by providing more advanced data analytics and processing capabilities. It can help you uncover hidden insights and make more informed decisions. Would you like to hear more about it?",
+      "word_count": 45,
+      "char_count": 285
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we need more analytics capabilities. We've invested heavily in Tempo and are getting the insights we need. Plus, integrating another solution would require significant resources and budget. What's the pricing for DeepData AI, and how does it compare to what we're already paying for Tempo?",
+      "word_count": 48,
+      "char_count": 302
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the specific needs of each company. I'd be happy to discuss pricing in more detail if you're interested. However, I want to emphasize that our solution can provide a significant ROI by optimizing your workflows and reducing manual effort. Have you considered the potential benefits of having a more comprehensive data processing solution?",
+      "word_count": 64,
+      "char_count": 405
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "To be honest, Alex, we've looked at similar solutions in the past, and they've been too expensive or required too much customization. We're also concerned about the integration with our existing Jira setup. How do you handle integration with Jira, and what kind of support do you offer?",
+      "word_count": 48,
+      "char_count": 286
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "We have a dedicated integration team that can work closely with your IT department to ensure a seamless integration with Jira. We also offer 24/7 support and regular updates to ensure that our solution stays aligned with your evolving needs. I'd be happy to provide case studies and references from other companies that have successfully integrated DeepData AI with their Jira setup.",
+      "word_count": 62,
+      "char_count": 383
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI. We're happy with our current Tempo setup, and we don't see a compelling reason to add another solution to the mix. Our budget is already allocated for the year, and we don't have the resources to take on another integration project. Thanks for reaching out, but I think we'll stick with what we have.",
+      "word_count": 71,
+      "char_count": 386
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's concerns about integration and ROI earlier in the conversation to build a stronger case for why DeepData AI is worth considering despite the existing Tempo setup. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about integration and ROI earlier in the conversation to build a stronger case for why DeepData AI is worth considering despite the existing Tempo setup. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 219,
+    "total_buyer_words": 202,
+    "avg_seller_words_per_turn": 54.75,
+    "avg_buyer_words_per_turn": 50.5,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 421
+  }
+}

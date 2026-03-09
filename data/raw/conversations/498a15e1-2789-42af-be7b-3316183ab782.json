@@ -1,0 +1,82 @@
+{
+  "simulation_id": "498a15e1-2789-42af-be7b-3316183ab782",
+  "timestamp": "2026-03-09T12:54:37.196124",
+  "target_url": "https://www.zenduty.com",
+  "company_context": "End-to-end Incident Management and Response Orchestration | Xurrent IMR (Formerly Zenduty) Skip to main content Sign Up Navigation Menu Login Sign Up Great companies are | Your robust incident management and alerting platform. Organizations have experienced reduced alert fatigue with over 60% reductions in MTTA & MTTR while experiencing growth. 1000+ RELIABLE BUSINESSES ACROSS THE GLOBE Trusted by 1000+ businesses 4.6 out of 5 on G2 360° View of your Operational Health in Real-time Get a single pane of glass view of the health of all your production operations. Respond to incidents 90% faster and resolve them 60% faster. Learn About Optimization Incident Management, Powered by ZenAI ✨ Zenduty’s AI-driven tools are designed to reduce MTTR by up to 60%, eliminate manual tasks, and provide your team with real-time insights. Schedule a Demo Take a Demo Take a Demo Zenduty's support team was extremely helpful and was there to answer all of our questions during our trial. They even went the extra mile by connecting us with a dedicated developer resource to help us build on top of their offerings. Truly one of the easiest tooling migrations we have ever gone through. Mudassir Razvi Senior Engineering Manager - DevOps at Razorpay Build a Solid On-call Culture Deploy customized and data-driven on-call rotations to ensure 24x7 operational coverage for major incidents. Learn About Scheduling Be Prepared with Actionable Playbooks Bring your playbooks automatically into your incidents. Log incident tasks and action items for productive postmortems and future incidents. Explore Playbooks Incident Response on the Move Never miss a critical alert, download the Zenduty application on iOS and Android to receive critical incident alerts on your phone and smartwatches. Get a brief about the incident and acknowledge the incident directly from the push notification. Frictionless Incident Response Deploy industry-leading incident response procedures and resolve incidents faster through effective task delegation and collaborative triaging. Explore Incident Response The best Slack integration in the industry. Manage your incidents end-to-end right from the slack channel. Zenduty creates and syncs dedicated Jira Tickets across platforms when an incident is triggered. Receive critical incident alerts on Microsoft Teams. Coordinate with your teams in real-time with the best user experience in the industry. The best Slack integration in the industry. Manage your incidents end-to-end right from the slack channel. Zenduty creates and syncs dedicated Jira Tickets across platforms when an incident is triggered. Receive critical incident alerts on Microsoft Teams. Coordinate with your teams in real-time with the best user experience in the industry. IndiaMart currently has over 152,000 paying subscribers who make up 95% of the revenue. This makes it very important for the company to deliver an uninterrupted online experience as it directly impacts the subscriber experience and he",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their incident management and response orchestration. I came across your company and noticed you're using Xurrent IMR, formerly known as Zenduty. How's your experience been with them so far?",
+      "word_count": 52,
+      "char_count": 325
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, it's been great. We've seen significant reductions in our MTTA and MTTR, and the 360° view of our operational health has been really helpful. What makes you think we need something else?",
+      "word_count": 33,
+      "char_count": 196
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's fantastic to hear! However, our solution, DeepData AI, can further optimize your incident management by providing more advanced data analytics and machine learning capabilities. We've seen our clients achieve even faster response times and more efficient resolutions. I'd love to schedule a demo to show you how it can complement your existing setup.",
+      "word_count": 54,
+      "char_count": 357
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure we're looking to add another tool to our stack right now. We've just finished implementing Xurrent IMR and we're still getting comfortable with it. Plus, I'm not sure our budget can accommodate another expensive solution. What's the pricing like for DeepData AI?",
+      "word_count": 45,
+      "char_count": 275
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the size and needs of your organization. I can definitely provide you with a quote and discuss potential discounts for annual commitments. However, I understand that budget can be a concern. Can I ask, who else would be involved in the decision-making process for adopting a new solution like DeepData AI?",
+      "word_count": 62,
+      "char_count": 372
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "It would be our entire DevOps team, and we'd need to get approval from our CFO as well. To be honest, I'm not convinced we need to switch or add another solution right now. We're happy with Xurrent IMR, and I don't see a compelling reason to change. Our team is already familiar with their platform, and integrating a new solution would require significant time and resources.",
+      "word_count": 67,
+      "char_count": 376
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. I can offer a free trial or a pilot project to test DeepData AI with a small subset of your team to demonstrate its value without disrupting your current workflow.",
+      "word_count": 39,
+      "char_count": 222
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI for now. We're satisfied with our current solution, and we don't see a strong enough reason to invest time and resources into evaluating and potentially integrating another platform. Thank you for reaching out, but I think we'll stick with what we have.",
+      "word_count": 59,
+      "char_count": 338
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more effectively highlighted the unique benefits and potential return on investment of DeepData AI to overcome the buyer's satisfaction with their current solution and concerns about integrating a new platform. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more effectively highlighted the unique benefits and potential return on investment of DeepData AI to overcome the buyer's satisfaction with their current solution and concerns about integrating a new platform. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 207,
+    "total_buyer_words": 204,
+    "avg_seller_words_per_turn": 51.75,
+    "avg_buyer_words_per_turn": 51.0,
+    "word_ratio_seller_buyer": 1.01,
+    "total_conversation_length": 411
+  }
+}

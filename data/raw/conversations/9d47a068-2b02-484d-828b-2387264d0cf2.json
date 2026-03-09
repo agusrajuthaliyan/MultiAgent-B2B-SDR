@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9d47a068-2b02-484d-828b-2387264d0cf2",
+  "timestamp": "2026-03-09T12:51:07.878016",
+  "target_url": "https://www.plum.io",
+  "company_context": "Pre-Employment Assessment for Hiring Teams | Plum Hiring failures are quietly expensive. Because resumes and experience don't reliably predict performance. Plum is a pre-employment assessment that helps hiring teams predict job fit before a single interview is scheduled. Get Demo See the cost of quiet hiring failures Trusted by leading companies and humans everywhere Have you been asked to complete the Plum Assessment for an application? Learn what to expect When a hire fails, the damage is rarely obvious. Productivity drops Output declines as expectations go unmet and the role never fully ramps. Managers compensate Time shifts from leading and planning to coaching, correcting, and covering. Costs compound Lost productivity, delayed outcomes, and eventual turnover stack up across roles. Resumes and interviews do not predict performance Resumes show what someone has done. Interviews show how well they present. Neither tells you how someone will perform once the work begins. Performance depends on behavioral traits like decision-making, adaptability, and innovation. These traits are stable, measurable, and role-specific. If you do not measure them, you are guessing. That guess is expensive. It costs roughly 30% of an employee’s salary to correct a mis-hire , often far more in practice. See how costly hiring failures may be for your company Hiring works better when you hire for fit When job fit is measured early, fewer failures emerge later. Fewer early failures People ramp faster and meet expectations sooner. Less management time spent correcting mis-hires Managers spend less time compensating, coaching, and covering. More focused, fair interviews Interviews test real job requirements, not confidence or polish. Hiring improves when fit is measured early. Explore predictive hiring for fit Plum measures job fit before interviews Plum measures the behavioral traits and cognitive demands that drive performance in each role. We call these durable skills. We assess how people: Make decisions. Learn and adapt. Stay motivated by the work itself. Each role has a different profile. What predicts success in one job can predict failure in another. Plum maps these requirements before hiring begins, so interviews focus on fit, not first impressions. Explore Plum Science Plum data keeps paying off after the hire Hiring on fit works because it shows how a person will actually perform. That information does not disappear on day one. The same traits that predict success before hiring help managers onboard faster and avoid early mistakes. That is why teams continue using Plum long after the hire is made. Explore Plum for Employee Development Built on validated outcomes, not hype Plum’s models are trained and validated on real hiring outcomes across thousands of roles, including revenue, technical, operational, and frontline jobs. In repeated analyses, Plum predicts performance 4x better than a resume . Our models are continuously refined using real-world results, not",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily, and I'm a Sales Development Representative at DeepData AI. I came across your company, Plum, and was impressed by the work you're doing in pre-employment assessments. I'd like to introduce you to our data processing solution, which can help optimize your assessment data and improve hiring outcomes.",
+      "word_count": 52,
+      "char_count": 321
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Emily, I'm John, the CTO at Plum. We're always looking for ways to improve our assessments, but I have to say, we've got a pretty robust system in place already. What makes DeepData AI unique, and how do you think it can help us?",
+      "word_count": 45,
+      "char_count": 232
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Great question, John. Our solution uses AI-powered data processing to help you uncover deeper insights from your assessment data. This can help you identify top candidates more accurately and reduce the risk of mis-hires. We've seen significant success with other companies in the HR tech space, and I think we could bring similar value to Plum.",
+      "word_count": 56,
+      "char_count": 345
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but we've already invested heavily in our current data infrastructure. I'd need to see some pretty compelling evidence that your solution is worth the cost. Can you tell me more about the ROI I can expect, and how it compares to what we're currently using?",
+      "word_count": 48,
+      "char_count": 281
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our solution has been shown to increase hiring accuracy by up to 25% and reduce time-to-hire by up to 30%. In terms of cost, we typically see a payback period of around 6-12 months. However, I want to be upfront with you - our solution is a significant investment, and the cost is around $50,000 per year.",
+      "word_count": 58,
+      "char_count": 317
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. That's a pretty steep price tag. We're a growing company, and while I can see the potential value in your solution, I'm not sure we're ready to make that kind of investment right now. We're also considering other solutions from competitors like IBM and Google, and I need to weigh our options carefully.",
+      "word_count": 55,
+      "char_count": 310
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. However, I want to emphasize that our solution is highly customizable and can be integrated with your existing infrastructure. We've also had success with other companies in the HR tech space, and I believe we could bring similar value to Plum. Would you be open to a demo to see the solution in action and discuss how it can address your specific pain points?",
+      "word_count": 69,
+      "char_count": 394
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Emily, I appreciate the offer, but to be honest, the price is just too high for us right now. We're looking for solutions that can deliver similar value at a lower cost. I think we'll have to pass on DeepData AI for now. Thank you for reaching out, and I wish you the best of luck with your sales efforts.",
+      "word_count": 60,
+      "char_count": 305
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's cost concerns and potentially offer more flexible pricing options or a tiered pricing structure to make the solution more accessible. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's cost concerns and potentially offer more flexible pricing options or a tiered pricing structure to make the solution more accessible. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 235,
+    "total_buyer_words": 208,
+    "avg_seller_words_per_turn": 58.75,
+    "avg_buyer_words_per_turn": 52.0,
+    "word_ratio_seller_buyer": 1.13,
+    "total_conversation_length": 443
+  }
+}
