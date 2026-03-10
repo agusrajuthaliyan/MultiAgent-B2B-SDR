@@ -1,0 +1,82 @@
+{
+  "simulation_id": "1ac8a321-fde5-4392-9c50-45fa5a125ed8",
+  "timestamp": "2026-03-10T22:06:19.574090",
+  "target_url": "https://www.intacct.com",
+  "company_context": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access www.sage.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9da3bcc5aaa97f2b • Your IP: Click to reveal 103.141.56.210 • Performance & security by Cloudflare",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data operations and gain valuable insights. I came across your company, Sage, and noticed that you're currently using a combination of on-prem and cloud-based solutions. I'd love to explore how our solution can help you optimize your data workflow.",
+      "word_count": 63,
+      "char_count": 390
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We do have a complex data infrastructure in place. But I have to say, we've recently implemented some new security measures, including Cloudflare, to protect ourselves from online attacks. I'm not sure we're in the market for a new data processing solution right now. What makes you think we need DeepData AI?",
+      "word_count": 54,
+      "char_count": 318
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. Security is a top priority for any organization. Our solution is actually designed to work in tandem with existing security measures like Cloudflare. We've had success with similar companies in the past, helping them reduce data processing time by up to 50% and improving data quality. I'd love to discuss how our solution can complement your current setup.",
+      "word_count": 61,
+      "char_count": 391
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we're currently in the midst of a major IT overhaul. Our budget for this quarter is already allocated, and I'm not sure we can fit in a new solution like DeepData AI. Plus, I'd need to run this by our procurement team and get approval from our CFO. It's not just a technical decision, it's a financial one as well.",
+      "word_count": 65,
+      "char_count": 342
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand the budget constraints and the need for approval from multiple stakeholders. However, I'd like to propose a pilot project that would allow us to demonstrate the value of DeepData AI without requiring a large upfront investment. We've had success with similar pilot projects in the past, and it could be a low-risk way for you to evaluate our solution.",
+      "word_count": 62,
+      "char_count": 375
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the creative approach, but to be honest, we're already evaluating a few other solutions from competitors like AWS and Google Cloud. We need to make sure that any new solution integrates seamlessly with our existing infrastructure, and I'm not convinced that DeepData AI would be the best fit. I think it's best if you just send me an email with some more information, and we can revisit this conversation in the future.",
+      "word_count": 74,
+      "char_count": 432
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, I understand. I'll make sure to send you a follow-up email with more details about our solution and how it can address your specific pain points. Is there anything in particular you'd like me to include in the email?",
+      "word_count": 40,
+      "char_count": 228
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, that's okay. Just a brief overview of your solution and how it can help us. But I want to be clear, we're not moving forward with DeepData AI at this time. Please don't follow up with a phone call, just send the email and we'll take it from there. Thank you for your understanding.",
+      "word_count": 55,
+      "char_count": 285
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have asked more targeted questions to better understand the buyer's current evaluation process and how DeepData AI can differentiate itself from competitors like AWS and Google Cloud. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have asked more targeted questions to better understand the buyer's current evaluation process and how DeepData AI can differentiate itself from competitors like AWS and Google Cloud. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 226,
+    "total_buyer_words": 248,
+    "avg_seller_words_per_turn": 56.5,
+    "avg_buyer_words_per_turn": 62.0,
+    "word_ratio_seller_buyer": 0.91,
+    "total_conversation_length": 474
+  }
+}

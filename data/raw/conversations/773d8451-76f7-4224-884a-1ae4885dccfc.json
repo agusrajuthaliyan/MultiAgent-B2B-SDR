@@ -1,0 +1,82 @@
+{
+  "simulation_id": "773d8451-76f7-4224-884a-1ae4885dccfc",
+  "timestamp": "2026-03-10T22:07:02.477495",
+  "target_url": "https://www.komodohealth.com",
+  "company_context": "Comprehensive Patient Journey Data | Komodo Health Search For: Close The Komodo Platform Marmot Outpace conventional analytics with healthcare’s first true analytical AI co-pilot. Software Suite MapAI Scale insight generation across teams with MapLab’s NLP-based GenAI assistant. MapLab Use a unified healthcare analytics platform that drives collaboration, consistency, and efficiency. MapLab Enterprise Empower all users, from non-technical to seasoned data scientists — with no-code and high-code workflows. MapExplorer Use a no-code workflow to explore the breadth and depth of our patient journey data. MapView Access no-code dashboard templates for common use cases to accelerate insight generation. Drug Projections See observed and projected national or subnational data side-by-side, with confidence intervals. Custom Analytics Integrate your datasets with our Healthcare Map and export data analytics. Clinical Alerts Leverage prescriptive and AI-predictive alerts to pinpoint patient needs in real time. Field Sales Insights Obtain patient-centric HCP/HCO data insights for commercial strategies. KOL Profiling Use a multi-pronged, seven-signal approach to understand HCP influence. Medical Information Cloud Optimize inquiry management with omni-channel engagement and advanced analytics. Scientific Publications Cloud Automate, integrate, and accelerate every step of publication strategy and execution. Research & Grants Cloud Streamline the intake, review, and management of research and grant requests within one globally compliant interface. Healthcare Map Leverage the industry’s most comprehensive and complete source of deidentified patient-level data. MapEnhance Access specialty data such as lab, EHR, and genomics — and layer it onto our claims-based foundation. Who We Serve Life Sciences Optimize insights generation with highly curated data and a unified healthcare analytics platform. Clinical Development Improve every facet of clinical trials, from recruitment to diversity — to control arms. Commercial Understand the market landscape like never before with real-time Rx + Mx data. HEOR/RWE Leverage the industry’s most comprehensive and complete source of claims and specialty data. Medical Affairs Use real-time RWE to develop, execute, and measure your medical strategy. MedTech & Med Device View the patient journey in real time across providers, payers, and care settings. Patient Services Use RWE to remove barriers to therapy access, improve adherence, and improve health outcomes. Consultancies Deliver reliable data insights, faster, using our highly curated RWD and AI-enabled platform. Financial Services Gain a strategic edge with actionable healthcare and life sciences market intelligence. Government Leverage research-grade data to understand public health issues and track program/policy effectiveness. Partnerships Access the industry’s most complete and comprehensive RWD with streamlined linking of first- and third-party data. Risk-Bearing Entities I",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, Dr. Lee, I'm Alex from DeepData AI. We're a data processing solution that helps companies like Komodo Health optimize their patient journey data. I came across your company and was impressed with the work you're doing with the Komodo Platform. Can you tell me a little bit about your current data processing challenges?",
+      "word_count": 54,
+      "char_count": 323
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes, we're always looking for ways to improve our data analytics capabilities. But we've already invested heavily in our current infrastructure, including MapLab and MapExplorer. What makes DeepData AI unique, and how do you think it can help us?",
+      "word_count": 40,
+      "char_count": 250
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question, Dr. Lee. DeepData AI uses machine learning algorithms to process large datasets more efficiently and accurately than traditional methods. This can help you uncover new insights and make better decisions. For example, our solution can help you integrate your datasets with the Healthcare Map and export data analytics more seamlessly. We've seen significant ROI with our other clients in the life sciences industry.",
+      "word_count": 67,
+      "char_count": 439
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we're currently in the middle of a major project with our MapEnhance initiative, which involves layering specialty data onto our claims-based foundation. I'm not sure if we have the bandwidth to take on another project right now. Plus, I'd need to involve our procurement team and get approval from our CFO. How does your pricing work, and what kind of implementation timeline are we looking at?",
+      "word_count": 72,
+      "char_count": 431
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the size of the dataset and the level of customization required. For a company like Komodo Health, we'd be looking at around $200,000 per year, with a minimum 2-year commitment. As for implementation, we can usually get up and running within 6-8 weeks. I understand that procurement and approval processes can be lengthy, but I'd be happy to provide a custom demo and answer any questions your team may have.",
+      "word_count": 75,
+      "char_count": 432
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "$200,000 per year is a bit steep for us, especially considering we're already invested in our current infrastructure. I'm not sure if our CFO would approve that kind of expenditure. We've also been looking at other solutions, like Outpace, that seem to offer similar capabilities at a lower cost. Can you tell me what sets DeepData AI apart from the competition, and is there any flexibility on the pricing?",
+      "word_count": 69,
+      "char_count": 407
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, Dr. Lee. While Outpace is a good solution, our machine learning algorithms are more advanced and can handle larger, more complex datasets. We've also had success with other clients in the life sciences industry, and I believe our solution could bring significant value to Komodo Health. As for pricing, I can offer a 10% discount for a 3-year commitment, but that's as low as we can go.",
+      "word_count": 71,
+      "char_count": 414
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but I think we're going to have to pass on DeepData AI for now. The price is just too high, and we need to prioritize our existing investments. I appreciate the time you took to speak with me, but I think we'll explore other options that better fit our budget.",
+      "word_count": 55,
+      "char_count": 290
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more flexible with the pricing and explored potential customization options to better fit the buyer's budget and needs. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more flexible with the pricing and explored potential customization options to better fit the buyer's budget and needs. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 267,
+    "total_buyer_words": 236,
+    "avg_seller_words_per_turn": 66.75,
+    "avg_buyer_words_per_turn": 59.0,
+    "word_ratio_seller_buyer": 1.13,
+    "total_conversation_length": 503
+  }
+}

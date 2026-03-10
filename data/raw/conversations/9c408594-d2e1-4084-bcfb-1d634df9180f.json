@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9c408594-d2e1-4084-bcfb-1d634df9180f",
+  "timestamp": "2026-03-10T22:04:37.985931",
+  "target_url": "https://www.gitpod.io",
+  "company_context": "Ona · AI software engineers Platform Use cases Resources Blog Docs Pricing Sign in Request a demo Menu The AI software engineer you can rely on Ona works with and for your teams across the entire development lifecycle. Automatically setup with your code, secrets and policies. Start for free Request a demo 1 x 00:00 00:00 Shipping with Ona Since 2025 Since 2024 Since 2026 Since 2024 Since 2023 Since 2024 The AI engineering workforce. Set the direction. Ona runs the execution. Continuously and autonomously. Background agents Task in, pull request out. Ona executes end-to-end in the background. Keep momentum from any device. See how agents work → Automations Agent fleets at scale. Triggered across your codebase with repeatable workflows that run on PRs, schedules, or webhooks. Explore automations → Connected environments More than a sandbox. Each agent gets a full cloud environment with your tools, network access, and permissions. Explore environments → Governance with guarantees Runs in your VPC with complete network control. Audit trails, scoped credentials, and kernel-level policy enforcement. Learn about governance → Code migration & modernization Migrate hundreds of repos in parallel - COBOL, Java & framework upgrades, CI pipelines. Ona does the work. You review the PRs. Learn more about code migration → AI code review Ona doesn't just scan patterns - it compiles, runs tests, and reviews in a real environment. Learn more about code review → Automated CVE remediation Remediates what your scanner finds - across hundreds of repos, in isolated environments. Tested, with PRs ready for review. Learn more about CVE remediation → Top 100 global company “ 90-95% of migration work is done by Ona Automations. We just have to do the final push commands. ” Read more customer stories → 4x productivity increase 83% of PRs co-authored by Ona 400+ Python repos modernized in 6 months Enterprise-ready. Compliant, certified, and trusted by Fortune 500 companies. SOC 2 Fortune 500 Recent highlights from our blog Ona Automations: proactive background agents Background agents that write, test, and ship code on a schedule. Ona Automations handles the work that never makes the roadmap: backlog tickets, CVE remediation, large-scale migrations and delivers clean PRs by morning. Johannes Landgraf • February 19, 2026 AI The last year of localhost The companies winning with background agents didn't start with better models. They standardized their development environments years ago — and now those environments run agents at scale. Johannes Landgraf • February 13, 2026 AI Don't build a coding agent sandbox yourself Agents can run autonomously for long periods of time, executing test suites, compiling builds and iterating towards task completion entirely autonomously, without explicit human supervision Lou Bichard • January 13, 2026 AI Start shipping with Ona No commitment. No setup. Just start. Start for free Request a demo This website uses cookies to enhance the user exper",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. Can you tell me a little bit about your current data processing challenges?",
+      "word_count": 45,
+      "char_count": 279
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Look, we're actually pretty happy with our current setup. We've been using a combination of in-house tools and some external services to manage our data. What makes you think we need something like DeepData AI?",
+      "word_count": 36,
+      "char_count": 218
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. However, from what I've seen, many companies in your industry are struggling with data silos and inefficient processing. Our solution can help you integrate all your data sources and automate many of the manual tasks, freeing up your team to focus on higher-level tasks. Plus, our AI-powered engine can help you uncover hidden patterns and insights that might be missed with traditional methods.",
+      "word_count": 66,
+      "char_count": 429
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see what you're saying, but we've already invested heavily in our current infrastructure. I'm not sure we're ready to rip and replace everything just yet. Plus, I've heard that DeepData AI is pretty pricey. How do you justify the cost?",
+      "word_count": 41,
+      "char_count": 237
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about cost and infrastructure. However, our solution is designed to be modular and flexible, so you can start with a small pilot project and scale up as needed. As for the cost, we've had many customers see significant ROI within the first few months of implementation. We'd be happy to provide a customized quote and ROI analysis to help you understand the value proposition.",
+      "word_count": 69,
+      "char_count": 414
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(pauses) Okay, I appreciate that. But to be honest, we're in the middle of a major migration project right now, and I don't think we have the bandwidth to take on another new initiative. Plus, I'd need to check with our team and make sure that DeepData AI integrates with our existing tools and platforms.",
+      "word_count": 55,
+      "char_count": 305
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "That makes sense. Migration projects can be complex and time-consuming. However, our solution is designed to be compatible with a wide range of tools and platforms, and we've had success integrating with companies in similar situations. I'd be happy to provide some case studies and technical documentation to help address any concerns you may have.",
+      "word_count": 55,
+      "char_count": 349
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(firmly) Alex, I appreciate the pitch, but I think we're going to have to pass on DeepData AI for now. We've got too much on our plate already, and I don't see this as a priority for our team. Maybe check back in with us in 6-12 months and see if our needs have changed, but for now, I think we're good.",
+      "word_count": 62,
+      "char_count": 303
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to support their current migration project, rather than simply accepting the buyer's decision to pass. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to support their current migration project, rather than simply accepting the buyer's decision to pass. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 235,
+    "total_buyer_words": 194,
+    "avg_seller_words_per_turn": 58.75,
+    "avg_buyer_words_per_turn": 48.5,
+    "word_ratio_seller_buyer": 1.21,
+    "total_conversation_length": 429
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b9b0dc16-8662-4864-85bc-9d9544b95cfe",
+  "timestamp": "2026-03-10T22:02:26.834897",
+  "target_url": "https://www.draftbit.com",
+  "company_context": "Draftbit - Visually build native mobile apps Sign Up: Thank you! We'll let you know as soon as your spot is available. Oops! please check your email and try again. Features Why Draftbit Success Stories Pricing Experts Resources About Sign In Get Started → Home Features Success Stories Pricing Experts Claude and Codex agents available! What do YOU want to build today? Collaborate seamlessly with AI, your team, and human experts to build web and native apps faster Claude Code OpenAI Codex Build it! What is Draftbit? Build Fast, Collaborate Seamlessly, Export Clean Code Draftbit’s app building platform helps teams of all sizes move from idea to launch in record time Visual App Builder Drag, drop, and customize components without writing code. Human Expertise on Demand Get help from experienced app-building experts available 24/7 to help you build. AI-Powered Assistance Leverage AI to build faster and leap technical hurdles. One Click Publishing Deploy your project to the app stores in minutes. Full Code Export Export clean, production-ready code anytime. Integration Ready Add integrations with dozens of services like backend, analytics, monetization, and more. Trusted by innovative teams and developers worldwide Comparison Why Teams Choose Draftbit Over Other Platforms Teams choose Draftbit for fast, customizable no-code mobile app development Visual Development AI Assistants Expert human Support Exportable Source Code Launch Guarantee No-Code Tools Traditional Devs Gallery Apps Built with Draftbit Explore how teams have used Draftbit to: Features A Complete App Builder with All the Features You Need Draftbit combines everything you need to design, launch, and scale your mobile apps—all in one platform Visual Design Craft Stunning UIs with Draftbit’s Visual Design Tools Team Collaboration Build Together, Seamlessly in Draftbit Live Preview Instantly See Your App in Action Bits & Blocks Reusable Components for Faster Development Breakpoints Responsive Design Made Effortless Advanced Logic Powerful Workflows, No-Code Flexibility Navigation Smooth & Intuitive App Navigation Integrations Connect with Your Favorite Tools Easily REST APIs Seamless API Connections for Dynamic Apps Custom Code Extend & Customize Beyond Limits App Store Publishing Deploy Your App with Confidence Source Code Export Full Code Ownership, No Lock-Ins Testimonials Loved by Startups and Business Owners The experts team were amazing in dealing with unclear scopes and all the experimentation that goes into early stage ventures and have been fantastic at bringing our early idea to MVP Serj H. Having access to the app's source code is quite important because that means there's no \"platform lock-in\", which I think is one of Draftbit's main strengths Vance W. Draftbit's intuitive, low-code platform made building and refining our app a breeze. We could effortlessly weave in custom code and export it when needed! Alexander T. The standout feature for me was the invaluable assistance from ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflow and gain valuable insights. I came across Draftbit and was impressed with the work you're doing in the no-code mobile app development space. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 61,
+      "char_count": 364
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're doing alright, I suppose. We've got a few internal tools that help us manage our data, but it's not perfect. What makes you think we need a new solution?",
+      "word_count": 32,
+      "char_count": 169
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from what I've seen, Draftbit is growing rapidly, and with that growth comes an increasing amount of data to process. Our solution can help you scale more efficiently and make better decisions with your data. We've had success with similar companies in the past, and I think we could bring significant value to your team.",
+      "word_count": 56,
+      "char_count": 327
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's a priority for us right now. We're pretty busy with our current roadmap, and I'm not convinced that our current tools are holding us back. What's the pricing like for DeepData AI?",
+      "word_count": 36,
+      "char_count": 199
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing varies depending on the specific needs of the company, but we typically start at around $5,000 per month for our base package. We also offer custom packages for larger or more complex implementations.",
+      "word_count": 35,
+      "char_count": 212
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was expecting. We've also been looking at some of your competitors, like DataForge and Analytix, and they seem to offer similar functionality at a lower cost. What sets DeepData AI apart from them?",
+      "word_count": 39,
+      "char_count": 225
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "While our competitors may offer similar features, our AI-powered engine and expert support team set us apart. We've also had great success with integration into existing workflows, which can be a major challenge for companies. I'd be happy to set up a demo to show you the value we can bring.",
+      "word_count": 51,
+      "char_count": 292
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, this isn't a priority for us right now. We're in the middle of a major product launch, and our team is fully allocated. I don't think we'll be exploring new data processing solutions for at least the next 6-12 months. Thanks for reaching out, but I think we'll have to pass on DeepData AI for now.",
+      "word_count": 64,
+      "char_count": 338
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address pricing concerns and provide a stronger value proposition to differentiate DeepData AI from competitors. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address pricing concerns and provide a stronger value proposition to differentiate DeepData AI from competitors. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 203,
+    "total_buyer_words": 171,
+    "avg_seller_words_per_turn": 50.75,
+    "avg_buyer_words_per_turn": 42.75,
+    "word_ratio_seller_buyer": 1.19,
+    "total_conversation_length": 374
+  }
+}

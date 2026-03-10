@@ -1,0 +1,82 @@
+{
+  "simulation_id": "f7d86bb5-0a08-4f27-b806-7825f8fe0930",
+  "timestamp": "2026-03-10T22:03:35.079540",
+  "target_url": "https://www.expel.io",
+  "company_context": "Leading Managed Detection & Response (MDR) Security Services | Expel Skip to content ✕ Not modeled. Not theoretical. Real threat intel from the analysts who lived it. The 2026 Threat Report is here. Read it now Keep your tools (and your sanity). An MDR built for you. For operators by operators. Human-led, AI-supported, and built to work with your environment and team. Watch demo Explore MDR Trusted by top performing security teams RECOGNIZED BY INDUSTRY EXPERTS Leader. Rinse. Repeat. Expel is a Leader in the Forrester Wave™ MDR Services, Q1 2025. Achieved 5/5 in 15 of 21 criteria, including detection surface: cloud, detection surface: identity, dashboards and reporting, metrics, roadmap, and more. 1 Why choose Expel? WE GET YOU Cyber strain wasn’t in the job description. You’re chasing endless alerts, hunting threats, tuning tools (that promised to tune themselves), and fighting against your MDR vendor. WE’VE BEEN THERE So we built the MDR we always wanted. No agents to deploy. No forced tool swaps. Just experienced SOC analysts doing detection and response in your environment—whatever you’re running. Explore Expel MDR Humans + AI We believe that AI makes SOC analysts better, not obsolete. Fast & flexible We believe in complete coverage using tools you already have. Expertise & partnership We believe the best security requires partnership, not transactions. Transparency We believe transparency means direct SOC access, not sanitized updates. 142 Reviews (Feb 2026) REVIEWS ARE IN 99% of customers agree Expel is a vendor they trust. Trust isn’t built through sales decks. It’s earned by doing the work and not disappearing after the contract is signed. See customer stories 90 % Time savings containing incident and improved MTTR by 64% “Having Expel allowed us to beat our mean time to remediate (MTTR) by more than 60%. And more importantly, since Expel has eyes on alerts, our team had the flexibility to get out the alert queue and focus on maturing our security capabilities.” Lewis McIntyre Director, Global Security Services $180 K Saved in security FTE costs per year “Without Expel, we’d probably need another two or three people on the team. By keeping our team small, we can be better stewards of our donations.” Marcus Brown Infrastructure and security manager 50 % Fewer investigations “Our engineers manage 50% fewer investigations than they previously handled, allowing them to focus on higher-value work.” Drew Gallis Staff Security Engineer $1M + Saved annually “Numerous alerts are seen as a benefit, but those alerts come with a lot of false positives. With Expel MDR, we could reduce the alert noise and focus on those alerts that would reduce our risk and improve our security posture.” Michael Darling Former Senior Director of Information Security More resources from our team See more resources Forrester Wave Expel named a Leader in The Forrester Wave™: Managed Detection and Response Services, Q1 2025. Get the report to see how we stack up against 9 ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their security operations. I came across Expel and was impressed with your work in managed detection and response. Can you tell me a bit about your current security infrastructure and any challenges you're facing?",
+      "word_count": 57,
+      "char_count": 346
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're pretty set with our security tools, but I suppose we're always looking for ways to improve. What makes DeepData AI unique? We've got a lot of vendors coming to us with similar solutions.",
+      "word_count": 36,
+      "char_count": 202
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's fair. What sets us apart is our ability to integrate with existing tools and provide real-time insights. We've seen companies reduce their mean time to remediate by up to 70% with our solution. I'd love to schedule a demo to show you how it works. Would you be open to that?",
+      "word_count": 52,
+      "char_count": 281
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We're in the middle of budget planning right now, and I'm not sure we have the resources to take on a new tool. Plus, we've got a pretty complex environment – I'm not convinced you could integrate with all our systems seamlessly. How do you handle integrations with other security tools?",
+      "word_count": 54,
+      "char_count": 301
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns. We've worked with companies with similar complexity and have a robust integration framework that allows us to adapt to most security stacks. As for budget, I'd be happy to discuss pricing and see if we can work something out. We offer flexible pricing models to fit different needs. Can I ask, are you the primary decision-maker when it comes to new security tools?",
+      "word_count": 68,
+      "char_count": 404
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Honestly, no. I'm the CTO, but our CFO has the final say on budget approvals. And even if I were interested, which I'm not convinced I am, I'd need to get approval from them. We've had issues with vendors overpromising and underdelivering in the past, so we're being pretty cautious about new tools.",
+      "word_count": 53,
+      "char_count": 299
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the caution and the need for budget approval. Perhaps I could send over some information and case studies to help build a business case for our solution? Sometimes, having data on the potential ROI can help make a stronger argument to the CFO.",
+      "word_count": 45,
+      "char_count": 256
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Look, I appreciate the offer, but I think we're going to have to pass. We're not looking to add any new tools to our stack right now, and even if we were, I'm not convinced DeepData AI would be the right fit. I think we're going to stick with our current solutions and see how they continue to evolve. Thanks for reaching out, though.",
+      "word_count": 64,
+      "char_count": 334
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have more effectively addressed the buyer's concerns and asked more targeted questions to understand the buyer's needs and decision-making process earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns and asked more targeted questions to understand the buyer's needs and decision-making process earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 222,
+    "total_buyer_words": 207,
+    "avg_seller_words_per_turn": 55.5,
+    "avg_buyer_words_per_turn": 51.75,
+    "word_ratio_seller_buyer": 1.07,
+    "total_conversation_length": 429
+  }
+}

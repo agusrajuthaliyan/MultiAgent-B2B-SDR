@@ -1,0 +1,82 @@
+{
+  "simulation_id": "c94373bc-496f-42b2-b7a7-6f42c8de38e3",
+  "timestamp": "2026-03-10T22:03:22.443364",
+  "target_url": "https://www.emotive.io",
+  "company_context": "SMS Marketing Software, Text Messaging Services with 5X ROI- Emotive | Emotive One moment, please... Ready for your next best revenue channel with Emotive? 1 click set up 14 day free trial 5x SMS ROI guarantee Andres P. Digital Marketing Consultant Their support team will literally hold your hand, create automation and train you in anything you want on their platform. Craig M. Digital Marketing Manager The team at emotive is collaborative and has helped us execute in ways we did not think of, which is very uncommon in this space. Melody D. VP of Merchandising Emotive provides you with a lot of resources to help guide you through SMS marketing. They offer monthly calendars to inspire you... Talk to an SMS expert First Name Last Name Phone Number +1 Business Email Address Company Name Website Annual Online Sales Please choose... $0-$100K $100K-$250K $250K-$1M $1M-$5M $5M-$25M $25M+ Your eCommerce platform Please choose... I’m an agency Shopify Shopify Plus Magento WooCommerce BigCommerce I don't have an eCommerce store Other It looks like you might have an ad blocker enabled. Please disable your ad blocker to ensure this form submits correctly. If that's not the case, ignore this message. By checking this box, you agree to receive recurring automated marketing messages at the phone number and email provided. Consent is not a condition of purchase. Reply STOP to unsubscribe. Msg & data rates may apply. View our Terms of Service . By checking this box, you agree to receive marketing emails. View our Terms of Service . Privy acquires Emotive to supercharge conversational SMS marketing. Read more Sign in Book a demo Book a demo Switch to Emotive Products Our Products SMS Marketing Send the right message, to the right users, at the right time. Discover our G2 Awarded SMS channel. Attribution Understand where and how your users purchased. The perfect addition for any brand that spends online. CartAI™ Get 300% more acquired carts and 20% more revenue, in your sleep. Simple 3 click installation. Growth Achieve record sales for your eCommerce brand. TextPros™ With Emotive, you'll get an entire turnkey marketing team. For free. Integrations Integrate with any ad channel or eCommerce application. Compliance Keeping your store compliant with our automatic Emotive Litigator Filter. RealLink™ Increase your CTR by using YOUR domain, only on Emotive. Top Features True Multi-Touch-Attribution Ad Creative Insights Full-Suite SMS Management Integrate with any ad channel or eCommerce application. Explore integrations Resources SMS Marketing Checklist: 25 Dos & Don'ts of Text Message Marketing Get the Guide Wall of Love Hear from our fans and discover why they love us! Customer Stories See how our customers are powering their businesses with Emotive. Partner Program Let’s work together to help our ecommerce clients grow. Resource Hub Get going with our guides, best practices, and more. Blog Get the latest ecommerce marketing news, tips, and trends. SMS Template Library",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data infrastructure. I came across Emotive and was impressed with your work in SMS marketing. Can you tell me a bit about your current data processing setup?",
+      "word_count": 51,
+      "char_count": 296
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hi Alex. We're actually pretty happy with our current setup, to be honest. We've invested a lot in our in-house data team and they're doing a great job. What makes you think we need a new solution?",
+      "word_count": 38,
+      "char_count": 201
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you have a strong in-house team. However, our solution can help you scale more efficiently and reduce costs in the long run. We've seen companies like yours achieve up to 30% reduction in data processing costs. Would you be open to exploring how our solution can help?",
+      "word_count": 52,
+      "char_count": 294
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's a priority for us right now. We're in the middle of a big project and I don't think we have the bandwidth to evaluate a new vendor. Plus, I'm not sure our CEO would be on board with the cost. Your solution sounds expensive, and we're trying to keep costs down.",
+      "word_count": 55,
+      "char_count": 280
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Our solution can be customized to fit your needs and budget. We've worked with companies in similar situations and have been able to provide significant ROI. I'd be happy to provide a custom quote and case studies to share with your CEO. Can I schedule a follow-up call to discuss further?",
+      "word_count": 54,
+      "char_count": 314
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Look, Alex, I appreciate the offer, but I don't think we're a good fit for your solution right now. We're already working with a few other vendors and I don't think we can take on another integration project. It's not just about the cost, it's also about the time and resources required to implement a new system.",
+      "word_count": 57,
+      "char_count": 313
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but I think our solution could really help you optimize your data infrastructure. Can I at least send you an email with some more information and case studies to review at your convenience?",
+      "word_count": 37,
+      "char_count": 217
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Yeah, sure, you can send me an email. But to be honest, Alex, I don't think we'll be moving forward with your solution. We're just not in a position to take on a new vendor right now, and I don't see that changing in the near future. Thanks for reaching out, though.",
+      "word_count": 52,
+      "char_count": 266
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more effectively addressed the buyer's concerns about integration and resource allocation earlier in the conversation to potentially change the outcome. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns about integration and resource allocation earlier in the conversation to potentially change the outcome. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 194,
+    "total_buyer_words": 202,
+    "avg_seller_words_per_turn": 48.5,
+    "avg_buyer_words_per_turn": 50.5,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 396
+  }
+}

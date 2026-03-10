@@ -1,0 +1,82 @@
+{
+  "simulation_id": "17943651-cb6b-48ab-969f-7eceb04a116c",
+  "timestamp": "2026-03-10T22:01:49.276720",
+  "target_url": "https://www.cohesity.com",
+  "company_context": "AI-powered data security and management | Cohesity Loading Login MyCohesity Helios Alta Support Product Documentation Academy Cohesity Community Partners English Deutsch (Germany) Français (France) 日本語 (Japan) Português (Brazil) 한국어 (South Korea) Español (Spain) Free Trial MyCohesity Helios Alta Support Product Documentation Academy Cohesity Community Partners English Deutsch (Germany) Français (France) 日本語 (Japan) Português (Brazil) 한국어 (South Korea) Español (Spain) Platform Platform Cohesity Data Cloud Protect and secure your data from cyber attacks Data Cloud packaging Certified platforms Data Protection Backup & Recovery Cloud Data Protection SaaS Data Protection Unstructured Data Protection Cyber Resilience Zero Trust Security Archive & Long-Term Retention Disaster Recovery Data Security Identity Resilience Ransomware Anomaly Detection Threat Protection Data Security Posture Management Data Classification Cyber Vaulting Cyber Recovery Orchestration Digital Jump Bag Clean Room Solution Data Insights AI Conversational Search Reporting & IT Insights Global Search Why Cohesity Cohesity vs. Rubrik Cohesity vs. Commvault Solutions Solutions View all solutions The 5 Steps to Cyber Resilience Learn more Cloud & SaaS Microsoft 365 Protection AWS Azure Google Cloud Google Workspace Slack Active Directory & Entra ID Enterprise Hyper-V Kubernetes IBM MongoDB MS SQL Server NAS NoSQL & Hadoop Nutanix Oracle Red Hat SAP HANA VMware Industries Financial services Healthcare and life sciences Manufacturing and logistics Federal government State, local government, and education Retail and hospitality Legal Energy and utilities Telecom Technology Media and Entertainment Resources Resources Resources View all Corporate Overview Blogs Demos Events and Webinars Customer Stories Glossary Marketplace Podcast Support Support login How-to videos Cyber Event Response Team Cohesity Community Cohesity Academy Trust Center Partners Partners Partners Overview Login Channel Partners Global System Integrators Security Partners Cloud Alliances Technology Partners Managed Service Providers Data Security Alliance Login Company Company About Leadership Our values and code Newsroom Press releases News coverage Media resources Events and Webinars Awards Careers Open Positions Culture Fostering Belonging Cohesity Gives Back Data Security Alliance Executive Briefing Center Contact Us Free Trial Contact Us Join us at the data security and AI summit in NYC, Paris, or Singapore. Register now Join Cohesity at RSAC 2026 Moscone Center, San Francisco March 23 – 26 | Booth #N-6271 Learn more Because real resilience isn’t reactive—it’s built to protect, recover, and adapt no matter what comes next. BE RESILIENT 13,000 + Global customers 70 % of the Global 500 200 + Exabytes of data protected 2 x R&D of nearest competitor The latest news Press Release Cohesity Launches Enterprise AI Resilience Strategy to Power and Protect AI Initiatives Read the announcement Press Release Cohesity Strengthe",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a company that specializes in AI-powered data processing solutions. I came across your company and thought our solution could be a great fit. Can you tell me a little bit about your current data management setup?",
+      "word_count": 49,
+      "char_count": 277
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using Cohesity for our data security and management needs. It's been working out pretty well for us so far. What makes you think your solution is better?",
+      "word_count": 31,
+      "char_count": 179
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution uses advanced machine learning algorithms to optimize data processing and provide real-time insights. It's also highly scalable and can integrate with a variety of data sources. I'd love to schedule a demo to show you how it can benefit your organization.",
+      "word_count": 44,
+      "char_count": 274
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure if we're in the market for a new solution right now. We just implemented Cohesity a few months ago and we're still getting used to it. Plus, I'm not sure if our budget can accommodate another expensive data management tool. What's the pricing like for DeepData AI?",
+      "word_count": 50,
+      "char_count": 277
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive with other solutions on the market. We offer a tiered pricing model based on the amount of data being processed. I can give you a custom quote if you're interested. However, I want to emphasize that our solution can provide significant cost savings in the long run by optimizing data processing and reducing storage needs.",
+      "word_count": 59,
+      "char_count": 349
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm still not convinced. We've already invested a lot in Cohesity and I'm not sure if it's worth switching to a new solution. Have you worked with any other companies in our industry that have switched from Cohesity to DeepData AI? And how does your solution integrate with our existing infrastructure?",
+      "word_count": 51,
+      "char_count": 302
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Yes, we have worked with several companies in your industry that have made the switch. And our solution is designed to be highly interoperable, so integration shouldn't be a problem. However, I understand that switching to a new solution can be a big decision. Can I schedule a follow-up call to discuss this further and answer any additional questions you may have?",
+      "word_count": 62,
+      "char_count": 366
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. We're happy with our current Cohesity setup and don't see a compelling reason to switch. I appreciate your understanding, and I wish you the best of luck with your sales efforts.",
+      "word_count": 49,
+      "char_count": 266
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and provided more compelling reasons to reconsider their recent investment in Cohesity. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and provided more compelling reasons to reconsider their recent investment in Cohesity. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 214,
+    "total_buyer_words": 181,
+    "avg_seller_words_per_turn": 53.5,
+    "avg_buyer_words_per_turn": 45.25,
+    "word_ratio_seller_buyer": 1.18,
+    "total_conversation_length": 395
+  }
+}

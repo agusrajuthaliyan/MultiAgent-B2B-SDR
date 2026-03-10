@@ -1,0 +1,82 @@
+{
+  "simulation_id": "335f48ff-2c20-4b78-9319-904a4b50940d",
+  "timestamp": "2026-03-10T22:04:17.727481",
+  "target_url": "https://www.getguru.com",
+  "company_context": "AI Platform for Knowledge Work—Your AI Source of Truth Your AI Source of Truth Ask , chat , and research , using verified company knowledge. ‍ Then automate the upkeep. Always cited. Always secure. SOC 2 | GDPR | SSO | Encryption | Zero data retention | Data Masking (DLP) | Learn more 100+ more Talk to sales Watch an overview Trusted by thousands of teams 4.7 /5 9.3 /10 4.8 /5 4.8 /5 4.6 /5 4.7 /5 4.7 /5 4.8 /5 4.8 rating from thousands of users Workplace AI Chat & Research AI insights grounded in your knowledge Knowledge Management Automation Keep knowledge accurate automatically Enterprise AI Search Verified answers across all systems Build your own AI Knowledge Agents HR Buddy Regulatory Advisor Sales Optimizer Product Expert Support Superhero AI Knowledge Agents Information Technology Mid-Market | 51–1000 employees \"Guru is a top-notch knowledge management platform...seamless integration, efficient search functionality, robust security measures, and exceptional support make it a must-have.” Information Technology Mid-Market | 51–200 employees \"Guru's content verification process ensures the reliability and accuracy of knowledge, a crucial aspect for organizations in industries with compliance or accuracy requirements.\" Head of Operations Mid-Market | 51–1000 employees \"Guru has helped solve problems with our Engineering section, our IT & Operations, Product Management, Security Policies and many more benefits. It also helped with organizing our problems so it makes the solving easier to manage.\" Information Technology and Services Mid-Market | 51–1000 employees “Guru prioritizes data security, offering features like access controls, encryption, and audit logs to safeguard sensitive information and provide peace of mind.\" Sathish K. Mid-Market | 51–1000 employees \"It integrates with all of the tools you could ever need, from HR to Slack.” Human Resources / Compliance Mid-Market | 51-200 employees “As a company that deals with compliance in over 150 countries, Guru is our main source of truth for managing knowledge.” Customer Service / Internal Comms Mid-Market | 51–200 employees “It streamlines information access, boosting efficiency by eliminating time wasted searching for answers...Verification intervals keep knowledge current and permission controls ensure content security.\" Connect all knowledge Unify docs, chats, and apps Continuously improve trust Auto-verify content with AI Access everywhere work happens Trusted answers in every workflow Permission-aware governance for every AI answer Permission-Aware Governance AI Agent Center Explore all features See how it works Ready to try AI built on your knowledge? SOC 2 | GDPR | SSO | Encryption | Zero data retention | Data Masking (DLP) | Learn more 100+ more Talk to sales Watch an overview",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm a Sales Development Representative at DeepData AI. I came across your company while researching innovative tech firms, and I was impressed by your work in knowledge management. I'd love to introduce you to our AI-powered data processing solution, which can help streamline your data workflows and improve decision-making.",
+      "word_count": 55,
+      "char_count": 350
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here. We're always looking for ways to improve our data management, but I have to say, our plate is pretty full right now. What makes DeepData AI unique compared to other solutions out there?",
+      "word_count": 44,
+      "char_count": 244
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question, John. Our AI engine is specifically designed to handle complex data sets and provide actionable insights in real-time. We've seen significant ROI for our clients in terms of reduced manual processing time and improved data accuracy. Plus, our solution is highly scalable and integrates seamlessly with existing systems. I'd be happy to set up a demo to show you how it works.",
+      "word_count": 66,
+      "char_count": 400
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but integration is a big concern for me. We've got a lot of custom-built tools and legacy systems that would need to be compatible with any new solution. How do you handle integration with non-standard systems, and what kind of support do you offer for implementation?",
+      "word_count": 50,
+      "char_count": 292
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "We've got a dedicated implementation team that works closely with our clients to ensure smooth integration with their existing infrastructure. We also provide extensive documentation and API access to facilitate custom integrations. As for support, we offer 24/7 customer service and regular software updates to ensure our clients are always getting the most out of our solution.",
+      "word_count": 57,
+      "char_count": 379
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds good, but I'm still concerned about the cost. We're in the middle of budget planning right now, and I'm not sure if we can justify the expense of a new data processing solution. Can you give me a rough estimate of what we're looking at in terms of pricing?",
+      "word_count": 51,
+      "char_count": 268
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Our pricing is tiered based on the scope of the project and the level of support required. For a company of your size, we'd likely be looking at a customized package in the range of $50,000 to $100,000 per year. However, I want to emphasize that our solution can help you save significant amounts of money in the long run by reducing manual processing time and improving data accuracy.",
+      "word_count": 69,
+      "char_count": 385
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your honesty, Alex, but to be frank, this just isn't a priority for us right now. We've got too many other projects on our plate, and I don't see us being able to allocate the time and resources to implement a new data processing solution in the near future. I appreciate the pitch, but I think we're going to have to pass on DeepData AI for now.",
+      "word_count": 69,
+      "char_count": 359
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to prioritize the implementation of DeepData AI's solution despite the company's current busy schedule. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to prioritize the implementation of DeepData AI's solution despite the company's current busy schedule. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 247,
+    "total_buyer_words": 214,
+    "avg_seller_words_per_turn": 61.75,
+    "avg_buyer_words_per_turn": 53.5,
+    "word_ratio_seller_buyer": 1.15,
+    "total_conversation_length": 461
+  }
+}

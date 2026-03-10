@@ -1,0 +1,82 @@
+{
+  "simulation_id": "60f991cb-b633-4c85-a032-2250a0146dcd",
+  "timestamp": "2026-03-10T22:02:12.259943",
+  "target_url": "https://www.datarobot.com",
+  "company_context": "DataRobot | Unified Agent Workforce Platform for Enterprise Skip to content Location us jp Why DataRobot Why DataRobot Discover the benefits and impact of DataRobot. Discover AI Leaders AI Practitioners Validation Awards and Recognition Customers Enterprise AI Suite AI Apps & Agents Agentic AI Platform Agents Agents Our agents are engineered to drive innovation, scale effortlessly, and deliver meaningful impact across departments and industries. Department Finance Supply Chain & Operations Purpose-Built Oil and Gas Financial Services Government Healthcare Manufacturing Co-Engineered NVIDIA SAP Platform Platform Our platform and solutions integrate into core business processes so teams can build, operate and govern AI at scale. AI Platform Agentic AI Generative AI Predictive AI AI Governance AI Observability AI Foundation Open Source Covalent syftr Learn More Integrations Services Resources Resources Explore all resources to learn more about DataRobot. Watch Demo Center Webinars Connect Events Agents in the AM NVIDIA GTC Read Analyst Reports Blog Customer Stories Data Sheets eBooks White Papers Support Documentation Support Learn More All Resources About About Explore the latest news, partnerships, and open positions at DataRobot. Company Who We Are Careers Open Positions Contact Us Press Newsroom Partners Find a Partner Partner Portal Log In Try DataRobot Request a Demo You’ve staffed up. You’ve bought the GPUs. The hard part? Making agentic AI work in the enterprise. That’s where we come in. Try it Request a demo Meet the only agent workforce platform built for outcomes — not endless pilots. Replace 50+ AI tools. Launch your first agent in days, not quarters. Run anywhere. On-prem. Hybrid. Cross-cloud. Deliberately designed to unify complex enterprise environments Foundational agents Agents that are easy to stand up to and infuse into your organization’s specific processes and systems. Business agents Integrations, data models and UIs that make it easy to build and integrate your own agents into your SAP tools. Co-developed for SAP The exclusive agentic AI partner fully certified to run inside the SAP ecosystem. Purpose-built agents Service-led delivery of agents, built and managed by DataRobot, to help you quickly create a full agentic workforce. Agent Workforce Platform The only end-to-end agent workforce platform for secure, scalable, production-grade agents. Co-engineered with NVIDIA The Agent Workforce Platform fully validated and embedded in the NVIDIA Enterprise AI. With DataRobot, your agents go beyond the demo. One agent platform. For every team. Built to power each phase of your agent lifecycle. Teams that build agents Build enterprise-grade agents on your terms. Build faster with customizable blueprints and built-in integrations — in your dev environment or ours. From LLMs to embeddings, select the right components for your data and use case to build agents that are purpose-built, not pieced together. Find the optimal balance between ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, I'm calling from DeepData AI. We're a leading provider of data processing solutions, and I came across your company while researching potential partners. I understand you're currently using DataRobot for your AI needs. Can you tell me a bit about your current data processing workflow and how it's working for you?",
+      "word_count": 52,
+      "char_count": 318
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're using DataRobot for some of our AI applications, but we're always looking for ways to improve our data processing efficiency. What makes DeepData AI unique, and how do you think it can help us?",
+      "word_count": 37,
+      "char_count": 208
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large amounts of data quickly and accurately, which can help you make better decisions faster. We've seen significant improvements in processing time and accuracy with our current clients. I'd love to discuss how we can help you achieve similar results.",
+      "word_count": 47,
+      "char_count": 294
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I have to say, we've invested heavily in DataRobot, and I'm not sure if we're ready to switch to a new platform. How does your pricing compare to what we're currently paying, and what kind of integration would be required to get your solution up and running?",
+      "word_count": 51,
+      "char_count": 287
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, but I understand it may be a bit higher than what you're used to. However, our solution is designed to provide long-term cost savings and efficiency gains. As for integration, our team can work with your IT department to ensure a seamless transition. We've had success with similar implementations in the past.",
+      "word_count": 56,
+      "char_count": 338
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, I'm concerned about the cost, to be honest. We're on a tight budget, and I'm not sure if we can justify the expense. Can you give me a rough estimate of what we'd be looking at in terms of implementation costs and ongoing fees?",
+      "word_count": 47,
+      "char_count": 240
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Let me see...based on your company size and data needs, I'd estimate the implementation cost to be around $50,000, with ongoing fees of $10,000 per month. However, as I mentioned earlier, our solution can provide significant long-term cost savings and efficiency gains.",
+      "word_count": 42,
+      "char_count": 269
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your honesty, but I'm afraid that's out of our budget. We're looking for more cost-effective solutions, and your pricing is just too high for us to consider. I appreciate the call, but I think we'll have to pass on DeepData AI for now.",
+      "word_count": 45,
+      "char_count": 248
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's budget concerns and potentially offer more flexible pricing options or a cost-benefit analysis to justify the investment in DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's budget concerns and potentially offer more flexible pricing options or a cost-benefit analysis to justify the investment in DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 197,
+    "total_buyer_words": 180,
+    "avg_seller_words_per_turn": 49.25,
+    "avg_buyer_words_per_turn": 45.0,
+    "word_ratio_seller_buyer": 1.09,
+    "total_conversation_length": 377
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "f160a7c9-4ddf-405e-bd9b-3c9f315ffd89",
+  "timestamp": "2026-03-10T22:05:29.088329",
+  "target_url": "https://www.iceberg.co",
+  "company_context": "ICEBERG Investment Group — Secure",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 39,
+      "char_count": 227
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a competitor's solution, OmniData, and it's been working alright for us so far. What makes DeepData AI different from them?",
+      "word_count": 25,
+      "char_count": 155
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our AI-powered engine allows for faster and more accurate data processing, which can lead to significant cost savings and improved decision-making. We've had success with similar companies in the finance sector, such as investment groups like yours. I'd love to schedule a demo to show you how it works.",
+      "word_count": 53,
+      "char_count": 328
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We just renewed our contract with OmniData last quarter, and I'm not sure we're ready to switch vendors right now. Plus, I've heard that DeepData AI is pretty pricey. How does your pricing compare to what we're currently paying?",
+      "word_count": 44,
+      "char_count": 259
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about timing and cost. Our pricing is competitive, and we offer customized plans to fit each company's specific needs. However, I'd like to highlight that our solution can provide long-term benefits that outweigh the initial investment. Can I ask, who else would be involved in the decision-making process if we were to discuss further?",
+      "word_count": 58,
+      "char_count": 363
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "It would be our entire IT team, and we'd need to get approval from our CFO as well. To be honest, I'm not sure we have the bandwidth to integrate a new system right now, especially with our current contract still in place. We're pretty locked into OmniData for the next two years.",
+      "word_count": 53,
+      "char_count": 280
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the challenge of integrating a new system, but I'd like to discuss potential solutions that could make the transition smoother. Perhaps we could offer a trial or a pilot project to test our solution without fully committing to a switch?",
+      "word_count": 42,
+      "char_count": 249
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Emily, but I think we're going to have to pass on DeepData AI for now. Our contract with OmniData is non-negotiable for the next two years, and we can't justify the cost and resources required to switch vendors at this time. Thank you for reaching out, but I think we'll stick with what we have.",
+      "word_count": 59,
+      "char_count": 319
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or opportunities to revisit the conversation after the current contract expires. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or opportunities to revisit the conversation after the current contract expires. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 192,
+    "total_buyer_words": 181,
+    "avg_seller_words_per_turn": 48.0,
+    "avg_buyer_words_per_turn": 45.25,
+    "word_ratio_seller_buyer": 1.06,
+    "total_conversation_length": 373
+  }
+}

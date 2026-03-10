@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9d5e974f-e500-4c0b-902e-ca97bf691113",
+  "timestamp": "2026-03-10T22:04:44.964282",
+  "target_url": "https://www.gopuff.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data infrastructure?",
+      "word_count": 40,
+      "char_count": 231
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party solutions. But to be honest, we're pretty happy with what we have right now. What makes DeepData AI so special?",
+      "word_count": 33,
+      "char_count": 196
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered solution can help you process and analyze large amounts of data much faster and more accurately than traditional methods. We've seen companies like yours reduce their data processing time by up to 70%. Would you be interested in learning more about how we can help you achieve similar results?",
+      "word_count": 52,
+      "char_count": 314
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We're in the middle of a big project right now and I'm not sure we have the budget to take on a new solution. Plus, I've heard that solutions like yours can be pretty pricey. How does your pricing work?",
+      "word_count": 43,
+      "char_count": 216
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the amount of data you're processing, so it can vary depending on the scope of the project. But I can tell you that we've worked with companies in similar industries to yours and seen a significant ROI. I'd be happy to set up a demo to show you how it works and discuss pricing in more detail.",
+      "word_count": 62,
+      "char_count": 317
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're pretty busy right now and I'm not sure we have the resources to devote to a new solution. We're also exploring some other options, including a competitor of yours that I've heard good things about. Can you send me some more information about DeepData AI via email? Maybe we can revisit this conversation in a few months.",
+      "word_count": 66,
+      "char_count": 367
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely, I'd be happy to send over some more information. But before I do, can I ask what specifically is giving you pause about implementing a new solution like ours? Is it the cost, the timing, or something else?",
+      "word_count": 39,
+      "char_count": 217
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Honestly, it's a combination of everything. We just don't have the bandwidth to take on something new right now, and I'm not convinced that your solution is the right fit for us. Please do send me that email, but I think we're going to have to pass on DeepData AI for now.",
+      "word_count": 52,
+      "char_count": 272
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions to help the buyer overcome their current bandwidth limitations. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential solutions to help the buyer overcome their current bandwidth limitations. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 193,
+    "total_buyer_words": 194,
+    "avg_seller_words_per_turn": 48.25,
+    "avg_buyer_words_per_turn": 48.5,
+    "word_ratio_seller_buyer": 0.99,
+    "total_conversation_length": 387
+  }
+}

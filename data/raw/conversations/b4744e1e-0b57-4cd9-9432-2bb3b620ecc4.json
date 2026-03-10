@@ -1,0 +1,82 @@
+{
+  "simulation_id": "b4744e1e-0b57-4cd9-9432-2bb3b620ecc4",
+  "timestamp": "2026-03-10T22:05:53.996201",
+  "target_url": "https://www.infracost.io",
+  "company_context": "Shift FinOps Left with Infracost Skip to content Get a demo Sign up / Log in Search Toggle Menu Shift FinOps Left Enable engineers to proactively find and fix cloud cost issues Infracost shifts cloud costs left and transforms FinOps from reactive to proactive. It sits in the engineering workflow (e.g. GitHub, Azure Repos) and shows the cost impact of code changes before deployment — preventing expensive mistakes. Start Free Trial Request Live Demo Play For FinOps Teams: Cost Prevention & Governance at Scale Stop chasing cloud bills after the money is spent. Infracost enables proactive FinOps by embedding cost visibility and governance directly into engineering workflows before resources are deployed. Pre-Deployment Visibility Engineers see the cost impact of their changes and can make better decisions before shipping their code. Cost Guardrails Proactive alerts prevent budget overruns before deployment, keeping cloud bills predictable and ensuring cost control from the start. Automated Policy Enforcement Infracost enforces your FinOps best practices across all engineering teams, so you can scale FinOps standards without constant intervention. For Engineering Teams: Time Savings & Streamlined Workflows Transform how your engineers handle cloud cost optimization — from hours of post-deployment remediation to seconds of prevention during code review. Prevent New Issues Addressing issues during code review takes seconds versus hours of remediation in production — making developers more productive while enforcing best practices. Streamlined Remediation Infracost AutoFix generates pull requests directly in GitHub, eliminating coordination overhead. Engineers can review and deploy fixes without leaving their familiar workflow. Immediate Feedback Cost increases, policy violations, and tagging issues are caught instantly in pull requests with direct links to fix them. How It Works 1. Integrate with your engineering workflow Connect Infracost to GitHub, GitLab, or Azure DevOps repos. No cloud provider credentials required — start optimizing immediately, directly in the code. 2. Scan your current codebase for optimization opportunities Infracost will automatically scan your current codebase, and show code optimizations that can be made right now, as well as tagging issues (capitalizations, typos, or missing tags in the key and the value). 3. Get cost impact before deployment Every time engineers make infrastructure code changes, Infracost automatically posts a review comment showing: Monthly cost estimates and breakdowns of the change FinOps policy violations with fix recommendations Missing or incorrect tags with suggested values 4. Prevent issues before they hit production Engineers can fix cost, policy, and tagging issues in seconds during code review, preventing expensive mistakes and hours of rework later. Supported Clouds Supported Integrations Azure Repos (Azure DevOps Services) Supported IaC Providers Coming soon: Why Teams Choose Infracost Alexey S",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across your company and was impressed with the work you're doing in FinOps. I'd love to discuss how our data processing solution can help you optimize your cloud costs.",
+      "word_count": 45,
+      "char_count": 254
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're actually in the process of implementing a new cost management system, Infracost. It seems to be doing the job so far. What makes DeepData AI different from what we already have?",
+      "word_count": 34,
+      "char_count": 193
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you're proactive about cost management. DeepData AI can actually complement Infracost by providing more in-depth analytics and machine learning capabilities to predict and prevent cost overruns. We've seen our clients reduce their cloud costs by up to 30% with our solution.",
+      "word_count": 46,
+      "char_count": 300
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I'm not sure if we're ready to invest in another tool right now. Our budget for this quarter is already allocated, and I'd need to get approval from our finance team to consider any new expenses. Plus, I'm not sure how well DeepData AI would integrate with our existing workflows, especially with Infracost already in place.",
+      "word_count": 60,
+      "char_count": 353
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about budget and integration. We've worked with several companies that use Infracost, and our solution can actually enhance their existing workflows. We also offer a free trial, so you can test our solution without committing to a purchase. As for integration, our team can work closely with yours to ensure a seamless setup.",
+      "word_count": 58,
+      "char_count": 363
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, our budget is tight, and we're not looking to add any new vendors at this time. We're also exploring other options, such as using more open-source solutions or developing something in-house. I'd need to discuss this with our team and see if it's something we'd even consider in the future.",
+      "word_count": 58,
+      "char_count": 330
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you have to consider all your options. However, I'd like to emphasize that our solution can provide a significant return on investment in the long run. Would you be open to a follow-up conversation in a few months to reassess your needs and see if DeepData AI might be a good fit then?",
+      "word_count": 56,
+      "char_count": 303
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, Alex, but I think we're going to have to pass on DeepData AI for now. We've got our hands full with implementing Infracost and other priorities, and I don't see us revisiting this conversation anytime soon. Thank you for reaching out, though.",
+      "word_count": 46,
+      "char_count": 273
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Budget/Timing\nFeedback: The seller should have more aggressively addressed the buyer's budget and timing concerns earlier in the conversation to potentially alter the outcome. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Budget/Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's budget and timing concerns earlier in the conversation to potentially alter the outcome. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 205,
+    "total_buyer_words": 198,
+    "avg_seller_words_per_turn": 51.25,
+    "avg_buyer_words_per_turn": 49.5,
+    "word_ratio_seller_buyer": 1.04,
+    "total_conversation_length": 403
+  }
+}

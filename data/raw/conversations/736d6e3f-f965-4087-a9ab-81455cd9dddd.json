@@ -1,0 +1,82 @@
+{
+  "simulation_id": "736d6e3f-f965-4087-a9ab-81455cd9dddd",
+  "timestamp": "2026-03-10T22:04:29.270883",
+  "target_url": "https://www.getwise.io",
+  "company_context": "Home - Staffwise Skip to content Request a Demo Staffwise The Staffing & Reporting Platform Like No Other A unified enterprise ecosystem for staffing, job management, and reporting – designed for shift-based businesses that demand efficiency and scale. With all the tools you need to streamline workflows, it’s like having a supercharged operations team at your fingertips. Request a Demo Services Enable Your Staffing Business With Real Time Data & Automation The most powerful, user-friendly system packed with smart features to simplify your workflow, automate tasks, and save you time, money, and sanity. STAFFWISE Workforce Management Schedule and manage your staff from across your staffing business to understand what is happening right now. Read More SURVEYWISE Surveys and Reporting Track measurements, metrics and feedback with our powerful and comprehensive survey system. Read More DATAWISE Insights from Real-Time Data Arm your business stakeholders with real-time reports and dashboards to inform their “next best action”. Read More RETAILWISE Connected Retail Ecosystem Assign, track and prove execution across locations, so nothing slips and performance stays consistent. Read More GAMEWISE Consumer Gamification Turn routine data collection into a fun, industry-wide gamified experience that keeps consumers hooked. Read More Success Stories What People Are Saying Don’t just take our word for it - see what our clients say when the cameras are rolling (and when they forget they’re on). “It’s the first time we’ve felt like someone actually gave a damn.” Hit play on any of the videos to hear how we’ve helped businesses like yours move faster, smarter, and with way less stress. Scale The Business Seamlessly Win market share, increase revenue and drive cost reduction through insights that lead to higher business performance. Improve The Employee Experience Improve and personalise the employee experience by monitoring for situations and driving the personalised next best action. Increase The Business Efficiency Operate more efficiently by automating processes and gaining real time insight into how your business is operating. Key Features 6 Strategic Steps to Successful Staffing Achieve seamless staffing success with Staffwise: automate scheduling and time tracking, manage candidates effortlessly, access real-time insights, integrate with your existing systems, and stay compliant - all from one intuitive platform. Dashboard & Job Management Real time visibility as to how the business is operating and performing end to end. Communication & Reporting Prompt with regards to their next best action or with situations they need to be aware of. Staff Onboarding & Compliance Ensure smooth onboarding and adherence to compliance standards. Scheduling & Shift Management Book & monitor for events and situations of interest and be notified instantly as they arise. Payroll & Expense Tracking Handle payroll & expenses like a pro with custom outputs that fit your system. Ad",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps businesses like yours streamline their operations and gain valuable insights. I came across Staffwise and was impressed with the work you're doing in the staffing and reporting space. Can you tell me a bit about your current data management setup?",
+      "word_count": 59,
+      "char_count": 350
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a competitor's solution, and to be honest, we're pretty locked into a contract with them. What makes DeepData AI think you can offer something better?",
+      "word_count": 30,
+      "char_count": 181
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered platform can handle large volumes of data and provide real-time analytics, which can help you optimize your staffing and reporting processes. We've seen significant cost savings and efficiency gains with our other clients in the industry. I'd love to schedule a demo to show you how it works.",
+      "word_count": 51,
+      "char_count": 313
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but as I mentioned, we're in a contract with another provider. Even if I was interested, I'm not sure we could afford to switch right now. Your competitor is offering us a pretty competitive pricing model, and I'd need to see some significant cost savings to justify a change.",
+      "word_count": 53,
+      "char_count": 300
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost, but our solution can actually help you reduce costs in the long run by automating manual processes and providing more accurate forecasting. We've also had success integrating with other systems, so I think we could work with your existing infrastructure. Can I ask, when does your current contract expire?",
+      "word_count": 55,
+      "char_count": 344
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "It's still got about 18 months left to run. To be honest, even if we were interested in switching, I'm not sure we'd be able to get approval from our procurement team to add another vendor to our roster. We're trying to simplify our tech stack, not add to it.",
+      "word_count": 50,
+      "char_count": 259
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the challenges of working with procurement teams. Perhaps we could discuss a pilot project or a trial to test our solution and demonstrate the value we can bring? That way, you could see the benefits firsthand without having to commit to a full rollout.",
+      "word_count": 46,
+      "char_count": 266
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the suggestion, but I think we're going to have to pass. We're committed to seeing out our current contract, and I don't think it would be fair to our existing provider to start exploring other options while we're still under agreement. Thanks for reaching out, but I think we'll have to decline.",
+      "word_count": 54,
+      "char_count": 309
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's contractual timeline and explored potential workarounds or incentives for switching earlier, rather than accepting the 18-month contract as an insurmountable barrier. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's contractual timeline and explored potential workarounds or incentives for switching earlier, rather than accepting the 18-month contract as an insurmountable barrier. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 211,
+    "total_buyer_words": 187,
+    "avg_seller_words_per_turn": 52.75,
+    "avg_buyer_words_per_turn": 46.75,
+    "word_ratio_seller_buyer": 1.13,
+    "total_conversation_length": 398
+  }
+}

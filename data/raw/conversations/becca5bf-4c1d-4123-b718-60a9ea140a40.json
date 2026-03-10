@@ -1,0 +1,82 @@
+{
+  "simulation_id": "becca5bf-4c1d-4123-b718-60a9ea140a40",
+  "timestamp": "2026-03-10T22:01:41.052655",
+  "target_url": "https://www.bluBracket.com",
+  "company_context": "What is Vault Radar? | HashiCorp Cloud Platform | HashiCorp Developer HashiConf 2025 Don't miss the live stream of HashiConf Day 2 happening now View live stream HashiCorp Cloud Platform Search ⌘/ctrl Command or control key K K key Sign in Sign up Theme HashiCorp Cloud Platform Home What is Vault Radar? Vault Radar is a product that automates the detection and identification of unmanaged secrets in your code so that security teams can take appropriate actions to remediate issues. It continuously scans in real-time for the following types of information: Secrets Personally identifiable information (PII) Non-inclusive language (NIL) Once the scanning completes, you can view the detected risks in your code by categories and ranks. Who is Vault Radar for? Vault Radar is for development teams and application security (AppSec) teams of all sizes, as well as enterprise information security (InfoSec) teams. How Vault Radar works Vault Radar scans connected data sources when initially added, when there is a new commit, and for new pull requests. Use cases Vault Radar identifies risks in code, who has access, and where it goes: Secrets Personally identifiable information (PII) Non-inclusive language (NIL) Secrets Passwords, keys, and other secrets in code are no longer secret when someone shares the code across teams, repositories are public, or when employees leave with copies of the code. Vault Radar identifies and helps remove leaked secrets throughout the development workflow. It scans pull requests, alerts on commits to monitored repositories, and helps triage and mitigate secrets already committed. Vault Radar’s deep scans identify secrets in git history, and can even identify active secrets so you know which ones are most important. Personally identifiable information (PII) Unlike secrets, you can not change or rotate personally identifiable information. As companies face growing liability for mishandling PII, finding, and excising it from code is becoming a growing need. Vault Radar’s deep scans identify PII in git history, show teams the PII risk across their codebase, and help remediate. Just as with Vault Radar’s secret detection tools, Vault Radar can block pull requests with PII, and alert teams any time commits contain PII in monitored repositories. Non-inclusive language (NIL) Companies and open source communities are both increasingly aware of the role inclusive language plays in attracting and retaining team members in all roles. Non-inclusive language creates both significant brand risks, as well as retention risks. Vault Radar’s tools help identify non-inclusive language throughout the development process, and guide teams to continuous improvement over time. Edit this page on GitHub",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative with DeepData AI. I came across your company while researching innovative tech firms, and I was impressed by the work you're doing with HashiCorp Cloud Platform. I'd love to discuss how our data processing solution can help you streamline your operations.",
+      "word_count": 52,
+      "char_count": 318
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Alex, thanks for reaching out. I'm John, the CTO here. We're always looking for ways to improve our processes, but I have to say, our plate is pretty full with our current initiatives, including implementing Vault Radar for secret detection. What makes you think DeepData AI is a good fit for us?",
+      "word_count": 53,
+      "char_count": 299
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great point, John. I understand you're busy, but our solution can actually complement Vault Radar by providing more efficient data processing capabilities. This can help your teams focus on higher-level tasks and reduce the noise in your systems. We've seen significant ROI for our clients in similar industries.",
+      "word_count": 50,
+      "char_count": 321
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see what you're saying, but we've already invested in some data processing tools, and I'm not sure we're looking to add another vendor to the mix. Plus, our budget for new initiatives is pretty tight this quarter. Can you tell me more about what sets DeepData AI apart from the competition, and what kind of pricing we're looking at?",
+      "word_count": 60,
+      "char_count": 335
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely, John. DeepData AI offers advanced machine learning capabilities that can handle complex data sets with high accuracy. As for pricing, we offer a tiered model based on the volume of data being processed. I'd be happy to provide a custom quote for your organization. However, I can tell you that we're competitive with other solutions on the market, and our clients have seen significant cost savings in the long run.",
+      "word_count": 71,
+      "char_count": 427
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the information, Alex, but I'm still not convinced that this is the right time for us to bring in another solution. We're in the middle of a major project rollout, and our team is fully allocated. I'm also concerned about the integration effort required to get DeepData AI up and running. Can you send me some more information about your product, and we can discuss it further at a later time?",
+      "word_count": 73,
+      "char_count": 406
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand, John. I can definitely send over some case studies and a product overview. I'd also be happy to set up a follow-up call to answer any additional questions you may have. Would you be available for a call next week?",
+      "word_count": 43,
+      "char_count": 238
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "That's okay, Alex. Just send me an email with the information, and I'll make sure to review it. I appreciate your time, but I think we're going to have to pass on DeepData AI for now. We've got our priorities set for the next quarter, and this isn't something we can realistically consider at this time. Thanks again for reaching out.",
+      "word_count": 61,
+      "char_count": 334
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and integration effort to potentially overcome the objection and keep the conversation moving forward. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and integration effort to potentially overcome the objection and keep the conversation moving forward. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 247,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 61.75,
+    "word_ratio_seller_buyer": 0.87,
+    "total_conversation_length": 463
+  }
+}

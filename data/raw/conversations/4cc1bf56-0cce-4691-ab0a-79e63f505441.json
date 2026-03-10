@@ -1,0 +1,82 @@
+{
+  "simulation_id": "4cc1bf56-0cce-4691-ab0a-79e63f505441",
+  "timestamp": "2026-03-10T22:07:28.958221",
+  "target_url": "https://www.lincolnloop.com",
+  "company_context": "Perfect-fit software. Designed for ambition. Built to last. | Lincoln Loop Perfect-fit software. Designed for ambition. Built to last. Let’s connect How we help We build web products from strategy to results . Custom application development Build perfect-fit applications that power the heart of your organization. Data and AI systems Unlock AI-powered automation and drive faster decision-making with structured data solutions. CMS Replatforming Reimagine your CMS for greater engagement, faster publishing, and bulletproof performance. DevOps and Support Maximize reliability and performance with expert infrastructure management and white-glove support. Measurable results for industry leaders We partner with industry leaders, from world-class universities, international non-profits, Fortune 500s, and more. Case Study Multi-site CMS migration for Planned Parenthood Read the case study Case Study Simulation-based learning platform for Wharton Case Study Green tech web app development for GBI See our work We wrote the book on Django performance. AppPack.io AppPack.io simplifies AWS infrastructure, CI, and deployment, letting developers focus on shipping code. Visit AppPack.io High Performance Django We wrote the book on building and deploying fast, scalable Django applications. View book website Recent Insights Blog #django Serving Private Files with Django and S3 Blog Allowing Intentionally Blank Translations In Wagtail Blog #django Django 6 Tasks: Background Processing Without the Infrastructure All articles Let’s build something great Our work has helped over 1 billion people, delivering solutions that make a difference. 15+ years of working together, expertise you can rely on — no revolving doors. 5 STAR CLIENT REVIEWS in the fields of friendliness, communication, and knowledge. Name * Email * Message * Honeypot * Send message By submitting this form, you acknowledge our Privacy Notice .",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours unlock the full potential of their data. I came across Lincoln Loop and was impressed with the work you're doing in custom application development and data systems. Can you tell me a bit about your current data processing setup?",
+      "word_count": 61,
+      "char_count": 352
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We do have a few tools in place for data processing, but I'm not sure if they're the best fit for our needs. We're a relatively small team, and our data needs are pretty specific. What makes DeepData AI unique, and how do you think it could help us?",
+      "word_count": 51,
+      "char_count": 258
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large volumes of data and provide real-time insights. We've had success with similar companies in the past, and I think we could really help you streamline your data processing. We also offer a free trial, so you could test it out and see the benefits for yourself. Would you be open to discussing pricing and implementation?",
+      "word_count": 63,
+      "char_count": 366
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's something we'd be looking to implement right now. We're in the middle of a big project, and our budget is pretty locked in for the next quarter. Plus, I'd need to run any new tool purchases by our CFO, and I'm not sure if we'd have the authority to approve something like this. Can you tell me more about the cost and what kind of ROI we could expect?",
+      "word_count": 73,
+      "char_count": 371
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is competitive, and we've seen companies like yours achieve an average ROI of 3-6 months. However, I understand that budget can be a concern. We do offer flexible pricing plans and discounts for long-term commitments. As for authority, I'd be happy to provide any information you need to present to your CFO. We've had success with similar companies in the past, and I think we could really make a strong case for implementation.",
+      "word_count": 76,
+      "char_count": 453
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but I think we'd need to prioritize our existing projects and tools before bringing in something new. We're also looking at some other solutions from competitors, and I'd need to compare those before making any decisions. To be honest, even if I wanted to move forward, I don't have the authority to approve new tools or purchases. Our CFO handles all of that, and I'm not sure if they'd be on board with something like this.",
+      "word_count": 79,
+      "char_count": 444
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Can I provide you with some case studies and whitepapers that might help make a stronger case for DeepData AI? Sometimes, having more information can help when presenting to decision-makers.",
+      "word_count": 39,
+      "char_count": 249
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Thank you for the offer, Alex, but I think we're going to have to pass on DeepData AI for now. As I mentioned, we don't have the budget or authority to move forward with new tools, and we need to focus on our existing projects. I appreciate your time, and I wish you the best of luck with your sales efforts, but this isn't something we'll be pursuing at this time.",
+      "word_count": 71,
+      "char_count": 365
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Authority\nFeedback: The seller should have more aggressively pursued identifying and involving the key decision-maker, in this case the CFO, earlier in the conversation to address the authority objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Authority",
+      "feedback": "The seller should have more aggressively pursued identifying and involving the key decision-maker, in this case the CFO, earlier in the conversation to address the authority objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 239,
+    "total_buyer_words": 274,
+    "avg_seller_words_per_turn": 59.75,
+    "avg_buyer_words_per_turn": 68.5,
+    "word_ratio_seller_buyer": 0.87,
+    "total_conversation_length": 513
+  }
+}

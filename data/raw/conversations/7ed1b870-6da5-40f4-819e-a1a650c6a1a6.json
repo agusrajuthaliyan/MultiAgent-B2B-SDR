@@ -1,0 +1,82 @@
+{
+  "simulation_id": "7ed1b870-6da5-40f4-819e-a1a650c6a1a6",
+  "timestamp": "2026-03-10T22:06:10.629646",
+  "target_url": "https://www.instruqt.com",
+  "company_context": "Instruqt: The leading solution for GTM product adoption [Feature launch] Announcing the new Instruqt Integration with Salesforce Learn more [Feature launch] Announcing the new Instruqt Integration with Salesforce Learn more [Feature launch] Announcing the new Instruqt Integration with Salesforce Learn more Request Demo Get a demo Log in Showcase the real capabilities of your software at every step in the customer journey Get a demo Take a Tour Get users hands-on with your software–no installs, no infrastructure–just an instant, browser-based, and guided experience. See how instruqt works for: Marketing Pre-sales Education Drive more qualified leads through hands-on product experiences More qualified leads Higher conversion Clearer intent signals Learn more Get to value and close deals faster with higher-quality demos and POCs Tailored demos Instant provisioning Faster validation Learn more Improve retention with real-world, scalable experiences Scalable content Insightful analytics Reduced churn Learn more Trusted by leading software Go-To-Market teams Case study Case study Case study Case study Case study Case study Case study Case study View all You’ve built amazing tech—so why’s it so hard to drive adoption? Static docs, complicated demos, and clunky onboarding slow everything down. Imagine a world where complex technology feels simple and powerful—because developers experience it firsthand. 22% of go-to-market teams cite product complexity and budget constraints as top blockers Source: State of Developer Adoption 2025 Report Meet Instruqt: The best way to show, sell, and scale software With labs right in your browser and a flexible design, developers can get hands-on—fast. Make it easy to learn—and love—your software. Real text. Real Context. Real Results With Instruqt, you’ll empower learning by doing, speed up time-to-value, and drive impact through every stage of the customer journey. 225% ROI achieved using Instruqt’s hands-on labs Source: State of Developer Adoption 2025 Report See it for yourself Your tech deserves to shine. Make it happen with Instruqt. Get a demo",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and gain valuable insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 255
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hi Alex. I'm the CTO here. We're actually using a combination of in-house tools and a third-party solution from Instruqt. It's been working well for us so far. What makes DeepData AI think you can offer something better?",
+      "word_count": 39,
+      "char_count": 224
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large volumes of data and provide real-time analytics. We've seen significant ROI for our customers, and I think we could help you optimize your data processing. I'd love to schedule a demo to show you what we can do. Would you be available for a call next week?",
+      "word_count": 55,
+      "char_count": 303
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure we're in the market for a new solution right now. We just implemented Instruqt's integration with Salesforce, and it's been a big investment for us. I'm not sure we're ready to rip and replace what we have. Plus, I've heard that DeepData AI can be pretty pricey. How do you plan to compete with Instruqt on price?",
+      "word_count": 65,
+      "char_count": 354
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost, but I think our solution can offer significant long-term savings. We've had customers see up to 30% reduction in data processing costs. And while Instruqt is a great solution, I think we can offer more customization and flexibility. As for pricing, we can work with you to find a package that fits your needs. But I'd like to ask, are you the sole decision-maker for this kind of purchase, or would you need to involve other stakeholders?",
+      "word_count": 83,
+      "char_count": 477
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm the main technical decision-maker, but I would need to get buy-in from our CFO and a few other teams. And to be honest, I'm not sure we have the bandwidth to evaluate a new solution right now. We're in the middle of a big product launch, and our resources are pretty stretched thin. I appreciate the pitch, Alex, but I think we're going to have to pass on DeepData AI for now.",
+      "word_count": 73,
+      "char_count": 380
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand, and I appreciate your honesty. If I could just ask, what would it take for you to reconsider DeepData AI in the future? Is there a specific pain point or challenge that we could help address?",
+      "word_count": 39,
+      "char_count": 216
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I think we're just not a good fit for DeepData AI at this time. We're happy with our current solution, and we don't see a compelling reason to switch. I appreciate the follow-up, but I think it's best if we just close the loop on this one. Thanks for your time, and I wish you the best of luck with your sales efforts.",
+      "word_count": 64,
+      "char_count": 324
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more thoroughly assessed the buyer's current priorities and potential future needs before pushing for a demo or next step. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more thoroughly assessed the buyer's current priorities and potential future needs before pushing for a demo or next step. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 220,
+    "total_buyer_words": 241,
+    "avg_seller_words_per_turn": 55.0,
+    "avg_buyer_words_per_turn": 60.25,
+    "word_ratio_seller_buyer": 0.91,
+    "total_conversation_length": 461
+  }
+}
