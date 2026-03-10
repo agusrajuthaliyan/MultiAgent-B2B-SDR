@@ -1,0 +1,82 @@
+{
+  "simulation_id": "fd36cc0e-c421-44af-941d-d90a5e361a17",
+  "timestamp": "2026-03-10T22:59:56.517527",
+  "target_url": "https://www.edgenetworks.com",
+  "company_context": "Computer Repair IT Company, Server / Workstation Support, Virus Removal, Computer Backup Provider Skip to main content  # Edge Networks site map contact Home IT Solutions Disaster Recovery Solutions Website Solutions Remote Help Contact Small Business Turn-Key Solutions. It's What We Do. What can Cloud 9 Network Solutions Do for Your Business? We provide you with competitive technology solutions so you are able to excel in the business environment. We were founded to provide technology support for small to medium sized businesses that did not have the budget to employ a full time IT specialist. Our bottom line is your bottom line, so we focus on the issue and find a solution. So please take a moment to learn more about what we can offer to your business, and if you have any questions, or would like to know more, please feel free to contact us 24/7. Big Solutions for Small Business Small Business IT Support With Cloud 9 Network Solutions you have the benefit of a fully staffed IT department, at a fraction of the cost. We are at your your service. Even small businesses need well designed-management and systems. We are here to help you make the systems and applications, that are unique to your business model the absolute best they can be. Disaster Recovery Solutions Cloud 9 Network Solutions offers three Disaster Recovery Systems (DRS) to ensure your business will continue to function seamlessly with minimal revenue loss. Website Design & Development Making your business stand out among the millions of sites is a tough task. From simple and effective to full blown E-Commerce capabilities, Cloud 9 Network Solutions can handle all of your website design needs. Cloud 9 Network Solutions Consulting Cloud 9 Network Solutions managed network services include a broad range of offerings and from our staff of highly-competent designers, programmers, and technicians. Our consulting services include upgrades, e-mail services, security planning, network services, migration, remote services, virtualization and much much more. Home IT Solutions Disaster Recovery Solutions Website Solutions Remote Help Contact OFFICIAL PARTNERS: Cloud 9 Network Solutions • 713-396-0046 • info @cloud9networksolutions.net Site Powered By eDirectHost - Info & ecommerce website builder",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management and gain valuable insights. I came across Edge Networks and was impressed with the work you're doing in IT solutions and disaster recovery. Can you tell me a bit about your current data processing challenges?",
+      "word_count": 61,
+      "char_count": 363
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We do have some data management needs, but we're pretty set with our current systems. We've been using a combination of in-house tools and some third-party software to handle our data processing. What makes DeepData AI unique?",
+      "word_count": 39,
+      "char_count": 236
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear that you have a system in place, but I'd like to highlight that DeepData AI can help you streamline your data processing, reduce costs, and improve decision-making with our AI-powered analytics. We've seen significant returns for our clients in the IT industry. I'd love to discuss how we can help Edge Networks specifically.",
+      "word_count": 57,
+      "char_count": 346
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. Well, we're always looking for ways to improve, but I have to be honest with you, our budget for new tools and software is pretty tight right now. We've just invested in some new disaster recovery systems and we're still getting a return on that investment. How does your pricing compare to what we're currently using?",
+      "word_count": 58,
+      "char_count": 325
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand budget constraints. Our pricing is competitive, and we offer customized plans based on the specific needs of our clients. For a company of your size, we typically see a cost savings of around 20-30% compared to other data processing solutions on the market. Would you be open to discussing a potential pilot or trial to see how DeepData AI can benefit Edge Networks?",
+      "word_count": 66,
+      "char_count": 390
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, our budget is limited, and we can't just take on new expenses without a thorough review. Moreover, I'm not the one who makes the final decisions on new tool implementations. I'd need to discuss this with our CFO and possibly our CEO. Even then, we have to consider the integration costs and ensure that any new system aligns with our existing infrastructure.",
+      "word_count": 70,
+      "char_count": 399
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand the process and the need for alignment. Perhaps I could provide some case studies or a detailed proposal outlining the benefits and how DeepData AI can integrate with your current systems? Sometimes, seeing the potential return on investment and how it can align with your goals can help in making a decision.",
+      "word_count": 54,
+      "char_count": 322
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. As I mentioned, we don't have the budget for new tools, and without being the decision-maker, I couldn't approve even if I wanted to. I appreciate the information, but we'll have to decline your offer.",
+      "word_count": 54,
+      "char_count": 302
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have provided a more detailed and personalized cost-benefit analysis earlier in the conversation to better address the buyer's budget concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have provided a more detailed and personalized cost-benefit analysis earlier in the conversation to better address the buyer's budget concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 238,
+    "total_buyer_words": 221,
+    "avg_seller_words_per_turn": 59.5,
+    "avg_buyer_words_per_turn": 55.25,
+    "word_ratio_seller_buyer": 1.08,
+    "total_conversation_length": 459
+  }
+}

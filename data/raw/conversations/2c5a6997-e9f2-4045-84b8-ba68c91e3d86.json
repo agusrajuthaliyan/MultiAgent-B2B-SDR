@@ -1,0 +1,61 @@
+{
+  "simulation_id": "2c5a6997-e9f2-4045-84b8-ba68c91e3d86",
+  "timestamp": "2026-03-10T23:00:06.104948",
+  "target_url": "https://www.elevate.com",
+  "company_context": "Elevate | Leading the way to better borrowing Good Today, Better Tomorrow Elevate was founded on a legacy of data and innovation coupled with a customer-first approach. That’s why we’re committed to providing solutions for non-prime customers today, and have never lost sight of our purpose of helping them on their way to a better financial future. We call our approach “Good Today, Better Tomorrow.” About Us Our Solutions Our innovative, online tech-enabled credit solutions are built based on our simple mission: “Good Today, Better Tomorrow.” They provide immediate relief to customers today and can help them build a brighter financial future. By utilizing technology and advanced analytics, we are able to provide customers with access to competitively priced credit when they need it. And we offer a number of financial wellness and consumer-friendly features that are unmatched in the non-prime lending market. Our Corporate Values Elevate is guided by a set of corporate values to ensure we provide quality lending solutions that fit the needs of our customers. Every Elevate Employee is held accountable to these 4 core values: Elevate is guided by a set of corporate values to ensure we provide quality lending solutions that fit the needs of our customers. Every Elevate Employee is held accountable to these 4 core values: Think Big As industry innovators, creative thinking is our competitive advantage. Together we share a responsibility to think outside the box and embrace change. Do the right thing Do the right thing is not optional. We hold each other to the highest standards and earn our reputation every day. Raise the Bar Excellence isn't a skill, it's a habit, born for a continuous drive to do better. We embrace this as a company and as individuals, by building on successes and learning from failures. Win together Our goals are too big to achieve as individuals. Collaboration isn't a byproduct of our work, it is our primary focus. It's also more fun.",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "This is John, the CTO. What can I do for you, Alex? We're pretty busy with our current projects.",
+      "word_count": 19,
+      "char_count": 96
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm not sure we're in the market for a new data processing solution right now. We've already invested heavily in our current system and I'm not convinced that DeepData AI would be a good fit. Plus, I've heard that your solution is pretty pricey.",
+      "word_count": 44,
+      "char_count": 245
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Okay, I'm listening. But how does your solution handle integration with our existing systems? We have a lot of custom-built technology and I don't want to have to start from scratch.",
+      "word_count": 31,
+      "char_count": 182
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo. I'm willing to take a closer look at DeepData AI and see if it's a good fit for our company. When were you thinking?",
+      "word_count": 29,
+      "char_count": 151
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Okay, that works for me. I'll give you 30 minutes next week.",
+      "word_count": 12,
+      "char_count": 60
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Integration\nFeedback: The seller could have more effectively addressed the buyer's initial concerns about cost and existing investment by providing more specific examples or case studies earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Integration",
+      "feedback": "The seller could have more effectively addressed the buyer's initial concerns about cost and existing investment by providing more specific examples or case studies earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 2,
+    "total_seller_words": 0,
+    "total_buyer_words": 135,
+    "avg_seller_words_per_turn": 0.0,
+    "avg_buyer_words_per_turn": 27.0,
+    "word_ratio_seller_buyer": 0.0,
+    "total_conversation_length": 135
+  }
+}

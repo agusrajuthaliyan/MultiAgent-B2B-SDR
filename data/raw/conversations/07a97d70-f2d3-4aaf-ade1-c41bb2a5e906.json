@@ -1,0 +1,82 @@
+{
+  "simulation_id": "07a97d70-f2d3-4aaf-ade1-c41bb2a5e906",
+  "timestamp": "2026-03-10T23:02:58.518714",
+  "target_url": "https://www.mambu.com",
+  "company_context": "SaaS cloud banking platform | Mambu It looks like you have have Javascript disabled. Some parts of the site may not work as expected. Enable javascript for the full experience Back to top Open menu Back to top Core banking, born in the cloud Unleash true change by building the modern banking and financial experiences your customers want and need. Deliver distinctive CX. With Mambu at the core of your banking or lending architecture, you gain the agility and scalability needed to build customer-centric experiences that you fully control. Our extensive partner ecosystem connects you to independent services and solutions for the creation of differentiated financial offerings. Outpace the market. To stay competitive, you need the true SaaS composable approach only made possible with Mambu. With go lives measured in days and weeks, not years, Mambu's low-code, single code base, public APIs and regular releases have you future-proofed, so you continuously iterate with zero disruption. Realise new economics. With services born in the cloud , we help you scale in numbers or across borders. Costs are aligned to growth, opening up new possibilities with no heavy upfront investment, vendor lock-in or expensive professional service engagements. Digital transformation that’s cost-effective. Mambu by the numbers Global Customers End users API calls per day Reduction in carbon footprint vs on-prem Countries Higher NPS score than other providers Composable Lending Deposits Payments A composable approach Composable banking started here at Mambu. We founded the company when we realised that legacy and inflexible core banking systems were a barrier to true financial innovation. With Mambu’s composable approach you can combine independent components and services to build exactly what you need, when you need it. Learn more Lending engine Mambu’s cloud-native lending engine enables banks, fintechs, retailers, corporates and others to build a variety of loan offerings tailored to customer needs. From embedded finance, buy now pay later and mortgages to SME lending and purchase financing. Explore lending Deposits engine With Mambu, you get a dynamic deposits engine that can power a wide variety of deposit-based offerings. Build a bank from scratch or take existing offerings digital-first, From banks of all sizes, building societies and credit unions, to digital wallets, prepaid cards and more. Discover deposits Payments With Mambu, you get a flexible payments engine that enables seamless money movement with real-time capabilities. Support a wide variety of payment types including domestic, cross-border, instant and batch payments. From banks of all sizes, building societies and credit unions, to fintechs, digital wallets and payment service providers. Integrate with your preferred payment providers and schemes, and tailor workflows to meet regulatory requirements and customer expectations. Discover payments Friends with everyone you know Explore our partner ecosystem “M",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like Mambu optimize their data management and gain deeper insights. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 43,
+      "char_count": 251
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hello Alex. I'm the CTO here at Mambu. We're actually pretty happy with our current data infrastructure, and we've invested heavily in building out our own proprietary systems. What makes you think we need a third-party solution like DeepData AI?",
+      "word_count": 41,
+      "char_count": 250
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. However, our solution is designed to be highly complementary to existing infrastructure, and we've seen significant ROI for our clients in the financial services space. We can help you streamline your data workflows, reduce latency, and improve overall decision-making. Would you be open to exploring how DeepData AI could integrate with your current setup?",
+      "word_count": 57,
+      "char_count": 391
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but integration is actually a major concern for us. We've had issues with third-party vendors in the past, and it's taken us months to get everything working seamlessly. How do you ensure that your solution would integrate smoothly with our existing systems, and what kind of support do you offer in case things go wrong?",
+      "word_count": 59,
+      "char_count": 345
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely valid concerns. We have a dedicated integration team that works closely with our clients to ensure a smooth onboarding process, and we offer 24/7 support to address any issues that may arise. We also have a number of pre-built connectors for popular systems, which can significantly reduce the integration timeline. In terms of cost, we offer a tiered pricing model that's based on data volume, so you only pay for what you use.",
+      "word_count": 74,
+      "char_count": 439
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I see. Well, cost is another factor we'd need to consider. We're a cloud-native company, and we're very mindful of our operational expenses. I'm not sure we'd be willing to take on additional costs, especially if we're not sure about the ROI. And to be honest, we're currently evaluating a few other solutions that are more tightly integrated with our existing tech stack.",
+      "word_count": 63,
+      "char_count": 372
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand. Can I ask, what's the timeline looking like for your evaluation process? Are you looking to make a decision in the next quarter, or is this something that's further out on the horizon?",
+      "word_count": 36,
+      "char_count": 209
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "We're not looking to make any major decisions in the near term, and to be frank, I think we've got our hands full with some other priorities right now. Why don't you send me an email with some more information about DeepData AI, and we can revisit this conversation in a few months if it's still relevant? But for now, I think we're going to have to pass on exploring this further.",
+      "word_count": 72,
+      "char_count": 381
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have provided more specific examples or case studies of successful integrations with similar companies to alleviate the buyer's concerns about integration. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have provided more specific examples or case studies of successful integrations with similar companies to alleviate the buyer's concerns about integration. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 210,
+    "total_buyer_words": 235,
+    "avg_seller_words_per_turn": 52.5,
+    "avg_buyer_words_per_turn": 58.75,
+    "word_ratio_seller_buyer": 0.89,
+    "total_conversation_length": 445
+  }
+}

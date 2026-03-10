@@ -1,0 +1,96 @@
+{
+  "simulation_id": "c8c0eda0-681d-4641-9418-7c2f2166bf69",
+  "timestamp": "2026-03-10T22:58:50.310159",
+  "target_url": "https://www.cloud66.com",
+  "company_context": "Cloud 66 - Deploy Your Applications to Any Cloud Heroku Moving off Heroku? We can help. Everything you need to deploy any code on any cloud Cloud 66 gives you everything you need to build, deploy and scale your applications on your servers. Get your free account Beyond \"Hello World!\" From 1 to 0 Servers There are many ways to deploy 'Hello World!' to a server. We take care of much more, from security to monitoring to scaling. Any Cloud or No Cloud Deploy Anywhere. No Lock-In Deploy your applications to any cloud provider or even your own servers. All major cloud providers are supported and you can even deploy to a hybrid set of cloud and your own servers. Bring Everything You Love No need to change your architecture because your PaaS doesn't support it Vector Databases AI Agents Time Series Databases Postgres with Custom Extensions Legacy Software Machine Learning Models Event Streaming Platforms Graph Databases Blockchain Applications IoT Data Processing Message Queue Systems Vector Databases AI Agents Time Series Databases Postgres with Custom Extensions Legacy Software Machine Learning Models Event Streaming Platforms Graph Databases Blockchain Applications IoT Data Processing Message Queue Systems Infinite Possibilities Deploy Anything, Anywhere Bring licensed or open source software to any cloud or your own servers Get Started Day 1 is Easy Getting your application to a server is not difficult. But that is only Day 1. Step 1 Connect Your Git Connect your Git repository to Cloud 66. Step 2 Connect Your Cloud Connect your cloud provider to Cloud 66. Step 3 Deploy Your Application See your application deployed. Cloud 66 eliminated the need for DevOps altogether and allowed us for focus on building new stuff! We never had to worry about the servers again. Alan Downie CEO of BugHerd Keep Going Day 2 is What Matters Many tools will get you to Day 1. We help you with the rest of your journey. Complex Deployments Zero downtime deployments, blue/green deployments, canary deployments, and other advanced deployment strategies. Build Servers Hosted build servers for your Docker images, with support for multiple architectures and integrated Container Registry. Auto Scaling Scale your servers and services based on real application metrics, from CPU and Memory to queue backlog and Nginx response time. Teams and Permissions Teams and permissions for your application, with support for multiple teams and users and fine-grained access control. Preview Deployments Preview deployments for your git branches, tags and pull requests, with automatic setup and teardown. Managed Databases Managed databases on your own servers with off-site backups, replication and monitoring. Server Hardening Automatic firewall rules, WAF and continous OS updates and security patches. SSL Certificates Support for Let's Encrypt, wildcard and Bring Your Own certificates. Monitoring Hosted CPU, Memory, Disk monitoring and alerts for all servers, plus logs and metrics for your application",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows. I came across Cloud 66 and was impressed with your work in deploying applications to any cloud. I thought our solution could be a great fit for your team.",
+      "word_count": 55,
+      "char_count": 311
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, hello Alex. I'm John, the CTO here at Cloud 66. We're always looking for ways to improve our data processing, but I have to say, we're pretty happy with our current setup. What makes DeepData AI unique?",
+      "word_count": 38,
+      "char_count": 206
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, John, our solution uses AI to automate data processing tasks, reducing the need for manual intervention and increasing efficiency. We've seen significant cost savings and productivity gains with our existing clients. I'd love to schedule a demo to show you how it works.",
+      "word_count": 44,
+      "char_count": 276
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but we're in the middle of a major deployment right now, and our team is fully engaged. I'm not sure we have the bandwidth to take on a new project. Plus, I'm concerned about the cost – we're on a tight budget this quarter.",
+      "word_count": 49,
+      "char_count": 253
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand, John. We've worked with companies in similar situations, and our solution can actually help reduce costs in the long run. As for the cost, we offer a tiered pricing model, and I think we could find a plan that fits your budget. Would you be open to discussing pricing and seeing if we can find a mutually beneficial agreement?",
+      "word_count": 62,
+      "char_count": 351
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your flexibility, Alex, but I'm still not convinced. We've had issues with integration in the past, and I'm worried about how DeepData AI would fit in with our existing infrastructure. We use a lot of custom tools and legacy software – I'm not sure your solution would be compatible.",
+      "word_count": 51,
+      "char_count": 296
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. We've integrated with a wide range of systems, including custom and legacy software. I'd be happy to provide some case studies and references from similar companies. Perhaps we could also discuss a trial or pilot project to test our integration and see how it works for your team?",
+      "word_count": 53,
+      "char_count": 314
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate the effort, but I think we're going to have to pass for now. It's not a bad solution, but it's just not the right fit for us at this time. Could you send me an email with some more information, and we can revisit this conversation in the future? I'm afraid that's all the time I have for today.",
+      "word_count": 62,
+      "char_count": 313
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely, John. I'll send over some information, and we can touch base in a few months to see if anything has changed. Thank you for your time, and I wish you all the best with your current deployment.",
+      "word_count": 38,
+      "char_count": 203
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Thank you, Alex. I appreciate your understanding, and I wish you and DeepData AI all the best as well.",
+      "word_count": 19,
+      "char_count": 102
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's integration concerns earlier in the conversation by providing specific examples or case studies of successful integrations with similar companies. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's integration concerns earlier in the conversation by providing specific examples or case studies of successful integrations with similar companies. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 252,
+    "total_buyer_words": 219,
+    "avg_seller_words_per_turn": 50.4,
+    "avg_buyer_words_per_turn": 43.8,
+    "word_ratio_seller_buyer": 1.15,
+    "total_conversation_length": 471
+  }
+}

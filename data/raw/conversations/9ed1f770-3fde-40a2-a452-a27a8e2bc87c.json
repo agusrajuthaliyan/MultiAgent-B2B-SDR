@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9ed1f770-3fde-40a2-a452-a27a8e2bc87c",
+  "timestamp": "2026-03-10T23:02:06.048901",
+  "target_url": "https://www.idwall.co",
+  "company_context": "Verificação de documentos & Background Check",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their document verification and background check processes. How are you today?",
+      "word_count": 34,
+      "char_count": 213
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "I'm doing well, thanks. We're always looking for ways to improve our processes, but I have to say, we've already got a few solutions in place. What makes DeepData AI different from what we're currently using?",
+      "word_count": 36,
+      "char_count": 208
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our AI-powered platform can process documents up to 5 times faster than traditional methods, and our accuracy rate is over 99%. We've also had great success with similar companies in your industry, such as XYZ Corp and ABC Inc.",
+      "word_count": 43,
+      "char_count": 252
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm intrigued, but I have to consider the cost. We're on a tight budget this quarter, and I'm not sure if we can justify the expense of implementing a new solution. What kind of pricing are we looking at?",
+      "word_count": 39,
+      "char_count": 204
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing varies depending on the size of the company and the scope of the project. For a company of your size, we're looking at around $50,000 per year, with a one-time implementation fee of $10,000.",
+      "word_count": 36,
+      "char_count": 202
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was expecting. We're currently paying around $20,000 per year for our existing solution, and I'm not sure if the benefits of DeepData AI outweigh the additional cost. Plus, I'd need to get approval from our CFO, and I'm not sure if she'd be on board with the expense.",
+      "word_count": 54,
+      "char_count": 295
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd be happy to provide a customized demo to show you the value that DeepData AI can bring to your company. We've also had success with similar companies in reducing their overall costs in the long run. Would you be open to a demo next week?",
+      "word_count": 51,
+      "char_count": 273
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass. The price is just too high, and I don't think we can justify the cost. We'll stick with our current solution for now. Thank you for reaching out, though.",
+      "word_count": 42,
+      "char_count": 218
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's cost concerns and potentially offered a more flexible pricing structure or a pilot project to mitigate the risk. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's cost concerns and potentially offered a more flexible pricing structure or a pilot project to mitigate the risk. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 164,
+    "total_buyer_words": 171,
+    "avg_seller_words_per_turn": 41.0,
+    "avg_buyer_words_per_turn": 42.75,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 335
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "13f61147-f3c9-4fd0-b55f-390f43a6585d",
+  "timestamp": "2026-03-10T23:02:23.831792",
+  "target_url": "https://www.justworks.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 39,
+      "char_count": 226
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a combination of in-house tools and some third-party software. But to be honest, we're pretty happy with what we have right now. What makes DeepData AI so special that I should consider switching?",
+      "word_count": 38,
+      "char_count": 228
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered solution can help you process data up to 5 times faster and reduce costs by up to 30%. We've seen some great success with similar companies in your industry. I'd love to set up a demo to show you how it works.",
+      "word_count": 45,
+      "char_count": 230
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We're in the middle of a big project right now and I don't have the bandwidth to take on something new. Plus, I've heard that AI solutions like yours can be pretty pricey. What kind of investment are we talking about?",
+      "word_count": 46,
+      "char_count": 248
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive with other solutions on the market. We offer a tiered pricing model based on the amount of data you're processing. But I can tell you that our average customer sees a return on investment within 6-12 months.",
+      "word_count": 41,
+      "char_count": 234
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That sounds like a pretty long payoff period. And what about integration with our existing systems? We've got a lot of custom-built tools that would need to work seamlessly with your solution. I'm not sure I want to take on that kind of risk.",
+      "word_count": 44,
+      "char_count": 242
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but our solution is designed to be highly adaptable and we've had success integrating with a wide range of systems. I'd be happy to put you in touch with one of our technical experts to discuss the specifics of your setup.",
+      "word_count": 45,
+      "char_count": 250
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Look, I appreciate the pitch, but I think we're going to have to pass for now. If you'd like to send me an email with some more information, I'll take a look, but I don't think we're in a position to move forward at this time. Thanks for reaching out, though.",
+      "word_count": 51,
+      "char_count": 259
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have addressed the buyer's integration concerns more effectively by providing specific examples or case studies of successful integrations with similar custom-built systems. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have addressed the buyer's integration concerns more effectively by providing specific examples or case studies of successful integrations with similar custom-built systems. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 170,
+    "total_buyer_words": 179,
+    "avg_seller_words_per_turn": 42.5,
+    "avg_buyer_words_per_turn": 44.75,
+    "word_ratio_seller_buyer": 0.95,
+    "total_conversation_length": 349
+  }
+}

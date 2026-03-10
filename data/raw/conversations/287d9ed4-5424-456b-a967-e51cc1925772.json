@@ -1,0 +1,82 @@
+{
+  "simulation_id": "287d9ed4-5424-456b-a967-e51cc1925772",
+  "timestamp": "2026-03-10T22:56:34.136560",
+  "target_url": "https://www.trellis.co",
+  "company_context": "Customer Experience-Led. Delivered through AI Workflows. ServiceNow Ecosystem Ventures invests in Zaelab to scale AI-powered, connected customer experiences. Read the press release Request a Proposal ServiceNow Ecosystem Ventures invests in Zaelab to scale AI-powered, connected customer experiences. Read the press release Home What We Do Who We Work With Our Clients Resources Request a Proposal Transform Technology Visions into Modern Customer Experiences You see the potential in enterprise technology to transform your business. Bold ideas need a partner who innovates at the highest level—designing, building, and operating modern solutions. At Zaelab, we think like you do. Let’s align teams, execute your vision, and make technology the driving force for growth you know it can be. Turn Your Roadmap Into Results ServiceNow Sellers Explore the B2B Commerce Spectrum — Your roadmap to modernization Explore the B2B Commerce Spectrum — Your roadmap to modernization Explore the B2B Commerce Spectrum — Your roadmap to modernization Trusted by Leading Brands Transform How You Sell and Serve in B2B Zaelab partners with B2B enterprises to build connected, intelligent customer experiences that make selling simpler. We align strategy, operations, and technology to move faster and sell smarter. Solutions for Manufacturing Solutions for Distribution All Industry-Specific Solutions Your Roadmap, Our Expertise: Delivering B2B Experience Wins Together Zaelab is the digital partner B2B technology leaders trust to bring their roadmaps to life. We solve complex business challenges, turn vision into results, and put technology leaders at the center of business growth. Simplify Complexities Break Endless Customization Cycles Endless customizations and complex integrations can stall progress and drain resources. As an extension of your team, Zaelab streamlines workflows, freeing up your teams to focus on innovation and smarter, faster, and more purposeful operations. Accelerate Innovation Think Bold, Deliver Fast Bold ideas often get stuck somewhere between vision and execution. Zaelab bridges that gap by aligning with your roadmap and providing the expertise to deliver results—fast. When you’re ready to act decisively, we’re the partner that gets it done. Enterprise-Wide Growth Power Strategy With Technology Aligning technology with business outcomes requires more than tools. From day one, the Zaelab team immerses ourselves in your business—asking the right questions, understanding your unique challenges, and delivering sharp, strategic solutions. Request a Proposal Your Advantage Isn’t Technology — It’s How You See the Customer Technology doesn’t create competitive advantage on its own—perspective does. The enterprises that win are the ones that see through the customer lens and build experiences around real buyer needs. Learn why the front office is the next frontier of transformation—and why connected workflows will define the leaders of tomorrow. Read More See What ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflows and make more informed decisions. Can you tell me a little bit about your current data processing challenges?",
+      "word_count": 44,
+      "char_count": 266
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah, we're always looking for ways to improve our data processing. But to be honest, we've got a pretty complex ecosystem already, and I'm not sure we're looking to add any new tools to the mix right now. What makes DeepData AI different from what's already out there?",
+      "word_count": 49,
+      "char_count": 273
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question. Our solution uses AI-powered algorithms to automate data processing, which can help reduce manual errors and increase efficiency. We've seen companies like yours achieve significant cost savings and productivity gains by implementing our solution. I'd love to schedule a demo to show you how it works.",
+      "word_count": 50,
+      "char_count": 326
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure we have the budget for a new tool like this right now. We're in the middle of a major IT overhaul, and all of our budget is allocated for the next quarter. Plus, I'd need to get approval from our procurement team, and that's always a lengthy process.",
+      "word_count": 56,
+      "char_count": 291
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that budget can be a concern, but I'd argue that our solution can actually help you save money in the long run by reducing manual errors and increasing efficiency. And we do have a flexible pricing model that can accommodate different budget cycles. As for integration, our solution is designed to be plug-and-play, so it should be relatively easy to get up and running.",
+      "word_count": 66,
+      "char_count": 383
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your pitch, but like I said, we're not really in a position to take on new tools right now. And even if we were, I'm not the one who makes the purchasing decisions around here. Our CFO is the one who handles all of our budget approvals, and I know they're pretty strict about what we can and can't spend money on.",
+      "word_count": 64,
+      "char_count": 326
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Okay, I understand. Well, would it be possible to get an introduction to your CFO, or maybe schedule a follow-up conversation to discuss this further when your budget cycle opens up?",
+      "word_count": 31,
+      "char_count": 182
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I don't think that would be necessary, thanks. We're just not in a position to consider new tools like this right now, and I don't see that changing in the near future. I appreciate your time, but I think we're going to have to pass on DeepData AI.",
+      "word_count": 48,
+      "char_count": 248
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or temporary solutions to keep the conversation alive. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential workarounds or temporary solutions to keep the conversation alive. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 191,
+    "total_buyer_words": 217,
+    "avg_seller_words_per_turn": 47.75,
+    "avg_buyer_words_per_turn": 54.25,
+    "word_ratio_seller_buyer": 0.88,
+    "total_conversation_length": 408
+  }
+}

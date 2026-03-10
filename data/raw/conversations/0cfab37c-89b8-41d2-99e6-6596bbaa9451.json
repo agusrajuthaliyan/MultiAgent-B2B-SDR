@@ -1,0 +1,82 @@
+{
+  "simulation_id": "0cfab37c-89b8-41d2-99e6-6596bbaa9451",
+  "timestamp": "2026-03-10T22:57:17.163033",
+  "target_url": "https://www.arcules.com",
+  "company_context": "Arcules video surveillance as a service | Milestone Systems The functionality you wish to access depends on JavaScript, which is not enabled in your browser. Please enable Javascript and try again. Get in touch Log in Partner Portal Customer Portal Arcules login English français español italiano Deutsch 日本語 | Video surveillance as a service Simplify security, the cloud way Manage security with cloud-based video surveillance software that’s there when you need it, secure and can grow with your business. Book a demo ▶ Quick tour Please accept marketing cookies to watch videos on our website. Update Cookie Settings Surveillance without the complexity Some organizations need a security system that’s easy to use and affordable to deploy. Arcules meets this need with cloud-based video surveillance as a service (VSaaS). The ease of installation and accessibility of Arcules is ideal for remotely monitoring sites with minimal staff and IT resources. Ensure simple, secure coverage Access live and recorded video 24/7 through a web browser or mobile app. Hosted in Google Cloud, Arcules guarantees 99.5% service uptime. And automatic updates keep everything cyber-resilient. Avoid hardware lock-in With support for ONVIF devices when paired with a gateway, Arcules lets you keep using the cameras you already have. Your cameras and your footage remain yours. Minimize up-front costs Spread your security costs with a subscription-based model. Skip the servers, reduce the IT workload and only pay for what you need as your organization grows. For operations of any scale Whether you're protecting a single site or distributed sites across regions, Arcules VSaaS offers enterprise-grade security that anyone can use. Please accept marketing cookies to watch videos on our website. Update Cookie Settings What’s possible with Arcules Core security features Arcules is for security teams who want core functionality and don’t require niche customizations. Here’s what they get: Live and recorded video playback from any camera, any time Forensic search to speed up investigations (e.g., by object, person, motion) Smart alerts based on AI rules, such as loitering or crossing a virtual boundary Footage export and sharing tools that simplify collaboration Role-based access for operations, IT and executive stakeholders Essential analytics Use cloud-based or camera-side analytics—or a combination of both. Cloud-based analytics (no additional cost): People detection with customizable zones to monitor entrances, restricted areas or exits Occupancy tracking and heat maps for understanding foot traffic and usage patterns Line crossing to detect when a person or vehicle crosses in a specified direction Parked vehicle counts for loading zones, driveways or unauthorized areas Camera-based analytics (depend on your hardware): AXIS: AXIS Object Analytics (AOA), Fence/Loitering/Motion Guard, Object Analytics, People Count BOSCH: People Count, Occupancy iPro (Panasonic): Cross line detection, Intr",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their video surveillance systems. I came across Arcules and noticed you're using a cloud-based video surveillance software. I'd love to explore how our solution can help enhance your security operations.",
+      "word_count": 53,
+      "char_count": 336
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We've been using Arcules for a while now. What makes you think your solution is a good fit for us? We're pretty happy with what we have in place.",
+      "word_count": 31,
+      "char_count": 154
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear! However, I've worked with similar companies in the past, and we've been able to help them reduce storage costs and improve video analytics capabilities. Our AI-powered solution can help you gain more insights from your video footage and make your security team's job easier. Would you be open to discussing this further?",
+      "word_count": 56,
+      "char_count": 342
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We've just implemented Arcules and are still getting used to it. I'm not sure if we're ready to add another layer of complexity to our system. Plus, I'd need to get buy-in from our IT team, and they're already swamped with other projects.",
+      "word_count": 46,
+      "char_count": 252
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. Our solution is actually designed to be easy to integrate and can work seamlessly with your existing Arcules setup. We've had success with other companies who were in similar situations, and we can provide a customized demo to show you how it would work. As for the cost, we offer a flexible pricing model that can be tailored to your specific needs.",
+      "word_count": 65,
+      "char_count": 375
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but to be honest, our budget for this quarter is already allocated, and I'm not sure if we can fit in another expense. We're also evaluating other solutions from competitors, so I'd need to compare your pricing and features to what they're offering.",
+      "word_count": 47,
+      "char_count": 273
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I'd be happy to provide a detailed comparison of our solution to others in the market. However, I want to emphasize that our solution can provide a significant return on investment in the long run. Would you be available for a quick call next week to discuss this further and answer any questions you may have?",
+      "word_count": 61,
+      "char_count": 342
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but to be frank, this isn't a priority for us right now. We're in the middle of a major project, and my team is stretched thin. I don't see us having the bandwidth to evaluate and implement a new solution like DeepData AI in the near future. I think we'll have to pass on this for now.",
+      "word_count": 62,
+      "char_count": 322
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to prioritize the implementation of DeepData AI's solution despite the current project workload. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's timing concerns and explored potential ways to prioritize the implementation of DeepData AI's solution despite the current project workload. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 235,
+    "total_buyer_words": 186,
+    "avg_seller_words_per_turn": 58.75,
+    "avg_buyer_words_per_turn": 46.5,
+    "word_ratio_seller_buyer": 1.26,
+    "total_conversation_length": 421
+  }
+}

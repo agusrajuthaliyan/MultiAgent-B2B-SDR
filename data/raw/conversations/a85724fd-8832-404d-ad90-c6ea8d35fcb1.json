@@ -1,0 +1,96 @@
+{
+  "simulation_id": "a85724fd-8832-404d-ad90-c6ea8d35fcb1",
+  "timestamp": "2026-03-10T23:02:32.376431",
+  "target_url": "https://www.komodo.com",
+  "company_context": "Welcome to KOMODO Inc. Previous Next Find the perfect Komodo products for you. Create your ultimate entertainment system today! SHOP NOW",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, is this John, the CTO at KOMODO Inc.? I'm Alex from DeepData AI. We help companies like yours process and analyze large amounts of data to gain valuable insights and improve their operations.",
+      "word_count": 34,
+      "char_count": 195
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(sighs) Ah, yes. That's me. What can I do for you, Alex? We're pretty busy right now, trying to scale our entertainment systems.",
+      "word_count": 23,
+      "char_count": 128
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand, John. I've done my research on KOMODO Inc. and I believe our solution can help you streamline your data processing, reducing costs and increasing efficiency. Can I ask, are you currently using any data processing solutions, and if so, what are some of the challenges you're facing with them?",
+      "word_count": 52,
+      "char_count": 316
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(skeptical) Honestly, we've looked into a few options, but nothing that's really impressed us. The ones we've seen are either too expensive or don't integrate well with our existing infrastructure. And to be frank, we're not sure if we have the budget for this right now.",
+      "word_count": 46,
+      "char_count": 271
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. Pricing and integration are common pain points for many of our clients. However, our solution is designed to be scalable and adaptable, with a modular pricing model that can fit your budget. We've also had success integrating with similar systems in the entertainment industry. I'd love to show you a demo and discuss how we can address your specific needs.",
+      "word_count": 65,
+      "char_count": 391
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(still hesitant) I'm not sure...we're in the middle of a big project right now, and I don't know if we have the bandwidth to take on something new. And what about competitors? I've heard of similar solutions from other companies.",
+      "word_count": 40,
+      "char_count": 229
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I completely understand, John. Timing is crucial, and I appreciate your honesty. However, I'd argue that our solution can actually help you complete your current project more efficiently, and set you up for long-term success. As for competitors, we've done extensive research and benchmarking, and our solution has consistently outperformed others in terms of speed, accuracy, and cost. I'd be happy to provide case studies and references from similar companies.",
+      "word_count": 70,
+      "char_count": 462
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(thoughtful pause) Alright, I'll admit, you've addressed some of my concerns. But I still need to see it in action to believe it. Can you show me a demo, and maybe we can discuss a trial or pilot project to test it out?",
+      "word_count": 43,
+      "char_count": 219
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Absolutely, John. I'd be happy to schedule a demo at your convenience. We can also discuss a trial or pilot project to ensure our solution meets your needs. Would you be available for a 30-minute demo next week?",
+      "word_count": 38,
+      "char_count": 211
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo for Wednesday at 2 PM. I'll give you 30 minutes to show me what DeepData AI can do.",
+      "word_count": 23,
+      "char_count": 117
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Price\nFeedback: The seller could have further emphasized the potential cost savings and return on investment of their solution to more effectively address the buyer's budget concerns. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Price",
+      "feedback": "The seller could have further emphasized the potential cost savings and return on investment of their solution to more effectively address the buyer's budget concerns. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 259,
+    "total_buyer_words": 175,
+    "avg_seller_words_per_turn": 51.8,
+    "avg_buyer_words_per_turn": 35.0,
+    "word_ratio_seller_buyer": 1.48,
+    "total_conversation_length": 434
+  }
+}

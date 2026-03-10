@@ -1,0 +1,82 @@
+{
+  "simulation_id": "5bb01536-af13-4406-9f96-7cfc6908a015",
+  "timestamp": "2026-03-10T23:01:36.358791",
+  "target_url": "https://www.flywheel.io",
+  "company_context": "Flywheel | Medical Image Analysis Software Skip to content Support Schedule Demo Search To search this site, enter a search term Hit enter to search or ESC to close Submit The Medical Imaging Data Management and Analysis Platform Maximize the Value of Your Medical Imaging Leading researchers and healthcare organizations turn to Flywheel to accelerate their work and unlock innovation. The Flywheel platform streamlines imaging data management, automates research workflows, enables AI development and scales for your needs. What is Flywheel? PLAY VIDEO Who is Flywheel For? Pharmaceutical and Biotech Researchers Accelerate drug development and innovation with a data-driven R&D strategy. Our platform helps you aggregate imaging data, streamline workflows, collaborate efficiently and develop analysis-ready datasets for research and AI development. View Solution Clinical Researchers More than just a data repository, Flywheel is a scalable medical image management system and research workflow solution. We help you securely access, process, analyze and collaborate on your data for research and AI development. View Solution Medical Device Developers For medical device companies who want to meet R&D objectives and accelerate regulatory submissions, our platform is a scalable, cloud-based medical image analysis software for ingesting data from multiple sources and unlocking it for device development. View Solution What is Flywheel? Maybe you’ve heard that 80% of a data scientist’s time is spent finding, curating and organizing data. We’re changing that. Flywheel is the revolutionary imaging data management platform that lets you realize optimum value out of your imaging data. Scalable by design, Flywheel gives you tools to securely discover, manage, curate and compute large amounts of data, either within your organization or with collaborators across the world. What is Flywheel? Maybe you’ve heard that 80% of a data scientist’s time is spent finding, curating and organizing data. We’re changing that. Flywheel is a medical imaging platform for data management and AI. We automate time-consuming processes so scientists and researchers can focus on making discoveries. Extensible by design, Flywheel gives you tools to securely discover, manage, curate, and compute large amounts of data, either within your organization or with collaborators across the world. Cohort Discovery Dataset Curation Project Validation Complex Analysis Algorithm Exchange Model Training Expert Guidance Our customers don’t go it alone. Flywheel’s Scientific Solutions Engineers are professionals with real-world research experience. They are uniquely qualified to consult with and train your team so you can optimize your research. Success Stories Clinical Care: Stanford Psychiatry and Behavioral Sciences Automating Workflows in Stanford’s Brain Stimulation Lab Flywheel is the medical image analysis software for a life-changing therapeutic for treatment-resistant depression – a type of magnetic b",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps medical imaging companies like yours streamline their workflows and unlock innovation. I came across Flywheel and was impressed with the work you're doing in medical image analysis. Can you tell me a bit about your current data management challenges?",
+      "word_count": 58,
+      "char_count": 353
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're doing okay, I suppose. We've got a lot on our plate right now, and to be honest, data management is just one of many things we're trying to tackle. What makes you think we need a new data processing solution?",
+      "word_count": 43,
+      "char_count": 224
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from what I've researched, it seems like Flywheel is handling a large volume of medical imaging data, and our solution can help you process that data more efficiently. We've had success with similar companies in the past, and I think we could really help you accelerate your research and development.",
+      "word_count": 51,
+      "char_count": 306
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's a priority for us right now. We've got a lot of competing demands on our resources, and I'm not convinced that a new data processing solution is going to be the best use of our time and money. Plus, we're already invested in some other tools and platforms - how would your solution integrate with what we're already using?",
+      "word_count": 63,
+      "char_count": 342
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand your concerns about integration. Our solution is designed to be flexible and compatible with a wide range of tools and platforms. We've had success integrating with companies that use similar systems to yours, and I'd be happy to provide some case studies or references if that would be helpful. As for the cost, I think we could offer a competitive pricing structure that would fit within your budget.",
+      "word_count": 71,
+      "char_count": 426
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, this just isn't a priority for us right now. We're in the middle of a major project and we can't afford to take on anything new. Plus, I'm not sure our team has the bandwidth to implement a new solution even if we wanted to. And to be honest, I'm not convinced that your solution is significantly better than what we're already using or what our competitors are offering.",
+      "word_count": 77,
+      "char_count": 412
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you're busy, and I respect that. Can I at least schedule a follow-up call for a few months from now to check in and see if your priorities have shifted? Maybe we could also discuss a pilot project or a trial to demonstrate the value of our solution?",
+      "word_count": 51,
+      "char_count": 267
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the persistence, but I think it's best if we just focus on our current priorities. We've got a lot on our plate and I don't see this as something we'll be able to tackle in the near future. I think it's best if we just table this discussion for now and focus on our existing projects. Thanks for reaching out, but I think we'll have to pass on DeepData AI for the time being.",
+      "word_count": 76,
+      "char_count": 388
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and prioritization earlier in the conversation to potentially shift their perspective. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and prioritization earlier in the conversation to potentially shift their perspective. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 231,
+    "total_buyer_words": 259,
+    "avg_seller_words_per_turn": 57.75,
+    "avg_buyer_words_per_turn": 64.75,
+    "word_ratio_seller_buyer": 0.89,
+    "total_conversation_length": 490
+  }
+}

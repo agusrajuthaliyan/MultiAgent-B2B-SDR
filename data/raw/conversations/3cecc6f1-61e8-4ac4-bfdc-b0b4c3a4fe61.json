@@ -1,0 +1,82 @@
+{
+  "simulation_id": "3cecc6f1-61e8-4ac4-bfdc-b0b4c3a4fe61",
+  "timestamp": "2026-03-10T23:00:13.259059",
+  "target_url": "https://www.elasticpath.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data processing workflow?",
+      "word_count": 41,
+      "char_count": 236
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Honestly, we're pretty set with our current solution. We've been using a competitor's product for a while now and it's been working out okay for us. What makes DeepData AI so special that I should consider switching?",
+      "word_count": 37,
+      "char_count": 216
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle much larger datasets and provide more accurate insights than traditional solutions. We've also had great success with companies in your industry, such as XYZ Corporation, who saw a 25% increase in efficiency after implementing our solution.",
+      "word_count": 42,
+      "char_count": 279
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "That sounds interesting, but I'm not sure if we're ready to invest in a new solution right now. Our budget for this quarter is already allocated, and I'm not sure if our team has the bandwidth to integrate a new system. Plus, I've heard that your solution can be pretty pricey - how does your pricing compare to what we're currently paying?",
+      "word_count": 62,
+      "char_count": 340
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about budget and integration. Our pricing is competitive with other solutions on the market, and we offer flexible plans to fit different company sizes and needs. We also have a dedicated support team to help with the integration process, which typically takes only a few weeks.",
+      "word_count": 50,
+      "char_count": 305
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, but like I said, we're already invested in our current solution and it's working for us. I'm not sure if the benefits of switching to DeepData AI would outweigh the costs and hassle of implementation. And to be honest, our current vendor has been doing a good job of keeping up with our needs and providing regular updates and support.",
+      "word_count": 63,
+      "char_count": 354
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that you have a existing relationship with your current vendor, but I'd like to offer you a trial or demo of our solution to see how it can specifically address your company's needs and provide more value than what you're currently getting.",
+      "word_count": 44,
+      "char_count": 253
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass on DeepData AI for now. We're happy with our current solution and don't see a compelling reason to switch. Thank you for reaching out, but I think we'll stick with what we have.",
+      "word_count": 46,
+      "char_count": 241
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's concerns about integration and provided more specific examples or case studies to alleviate these concerns and build a stronger case for switching to DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about integration and provided more specific examples or case studies to alleviate these concerns and build a stronger case for switching to DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 177,
+    "total_buyer_words": 208,
+    "avg_seller_words_per_turn": 44.25,
+    "avg_buyer_words_per_turn": 52.0,
+    "word_ratio_seller_buyer": 0.85,
+    "total_conversation_length": 385
+  }
+}
