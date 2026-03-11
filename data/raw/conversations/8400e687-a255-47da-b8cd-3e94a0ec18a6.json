@@ -1,0 +1,82 @@
+{
+  "simulation_id": "8400e687-a255-47da-b8cd-3e94a0ec18a6",
+  "timestamp": "2026-03-11T21:48:02.551699",
+  "target_url": "https://www.pangiam.com",
+  "company_context": "PANGIAM - Security Experts. Technologists. Problem Solvers. Skip to main content Hit enter to search or ESC to close Close Search search Menu A World in Perfect Motion Revolutionize your operations anywhere there’s a need to facilitate the secure and efficient flow of people and goods. Learn More Play Video BigBear.ai Completes Pangiam Acquisition, Establishing Leading Position in Vision AI for the Combined Company READ PRESS RELEASE Who is Pangiam? Security Experts. Technologists. Innovators. Problem Solvers. Pangiam, a BigBear.ai Company, was founded by a team of customs and security professionals with decades of collective senior-level executive experience. Through innovation, emerging technologies and the power of data, we solve the security, facilitation and operational challenges you face today — to get your world moving. Meet the Team Why Pangiam? Visionary Expertise on Your Side. We Understand Your Vision We understand today’s operational challenges, but we also understand the deep urge to create something altogether new and better, be it frictionless experiences for travelers or the secure, smooth movement of cargo across borders. We Innovate for What’s Possible As a team of experts and technologists from both the private and public sectors, we solve challenges by reimagining what’s possible and designing and delivering solutions to achieve that vision. We Play Well with Others The Pangiam team represents expertise from all over government and industry, and the world. We value collaboration and shared successes. And our products also play well with others. They are device and vendor agnostic and integrate easily with existing equipment, systems and processes. We Make it Easy We understand the ins and outs of complex processes and systems and can propose singular products or fully integrated solutions to meet your objectives — whether you’re seeking seamless identity verification or the ability to identify concealed threats in stowed luggage or carry-on bags. We Have Specialized Expertise and Insight We built some of the U.S. federal government’s most complex identity verification systems. We apply this unique firsthand experience to benefit both our government and commercial customers. Solutions for Real-World Operational Challenges Revolutionize your operations through emerging technologies, cloud-based applications and data-driven solutions. Streamline security through facial recognition technologies Apply Artificial Intelligence (AI)/Machine Learning (ML) for improved threat detection and response Add capabilities to existing infrastructure Deliver frictionless, personalized customer experiences Increase operational resilience and continuity “Future proof” operations and facilitate quick technology adoption with open architecture systems that will accommodate tomorrow’s innovation Easily comply with government regulations Deploy “at the edge” solutions for less strain on the network Modular. Device/Vendor Agnostic. Easy to Deploy. Big",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their operations and gain valuable insights from their data. I came across Pangiam and was impressed with the work you're doing in security and facilitation. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 61,
+      "char_count": 363
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We actually already have a solution in place that's working well for us. We've invested a significant amount of time and resources into implementing it, and I'm not sure we're looking to change it up right now. What makes you think DeepData AI would be a better fit for us?",
+      "word_count": 52,
+      "char_count": 282
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I understand that you have a current solution, but I'd like to highlight that DeepData AI has some unique features that set it apart from other data processing solutions. For example, our AI-powered engine can handle large volumes of data in real-time, and our customizable dashboards provide actionable insights that can help inform business decisions. I'd love to schedule a demo to show you how it works.",
+      "word_count": 67,
+      "char_count": 407
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I'm not sure we have the budget to take on a new solution right now. We've got a lot of other priorities that we're focusing on, and our current solution is meeting our needs. Plus, I'd need to get buy-in from our IT department, and that's always a challenge. Can you tell me more about the cost and how it would integrate with our existing systems?",
+      "word_count": 71,
+      "char_count": 377
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Absolutely. Our pricing is competitive, and we offer flexible plans to fit different business needs. As for integration, our solution is designed to be vendor-agnostic, so it can easily integrate with your existing systems and equipment. We've had success with similar companies in the security and facilitation space, and I think we could bring significant value to Pangiam.",
+      "word_count": 58,
+      "char_count": 375
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm still not convinced that it's worth the investment. We've got a lot of other priorities that are more pressing, and I'm not sure that DeepData AI would be a good use of our resources right now. Plus, I've heard that one of your competitors, DataCorp, is offering a similar solution at a lower price point. How do you respond to that?",
+      "word_count": 62,
+      "char_count": 337
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand that budget is a concern, and I'd be happy to discuss pricing in more detail. As for DataCorp, we've actually done a side-by-side comparison with their solution, and ours comes out on top in terms of features and performance. I'd love to share that comparison with you and show you why DeepData AI is the better choice.",
+      "word_count": 59,
+      "char_count": 332
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, Alex, but I think we're going to have to pass on DeepData AI. We're happy with our current solution, and I don't see a compelling reason to switch. I appreciate the time you took to reach out and discuss your product, but I think we'll have to decline.",
+      "word_count": 52,
+      "char_count": 283
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have more effectively addressed the buyer's budget concerns and provided a clearer value proposition to overcome the price objection and differentiate DeepData AI from competitors. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have more effectively addressed the buyer's budget concerns and provided a clearer value proposition to overcome the price objection and differentiate DeepData AI from competitors. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 245,
+    "total_buyer_words": 237,
+    "avg_seller_words_per_turn": 61.25,
+    "avg_buyer_words_per_turn": 59.25,
+    "word_ratio_seller_buyer": 1.03,
+    "total_conversation_length": 482
+  }
+}

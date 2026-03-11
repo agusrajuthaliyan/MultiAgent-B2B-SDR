@@ -1,0 +1,82 @@
+{
+  "simulation_id": "00b21313-a7f2-4f11-9a48-f77703450a24",
+  "timestamp": "2026-03-11T21:45:45.352566",
+  "target_url": "https://www.cloudskiff.com",
+  "company_context": "Accelerating the Snyk infrastructure as code vision with the addition of CloudSkiff | Snyk You need to enable JavaScript to run this app. Skip to main content Snyk Blog In this article Accelerating the Snyk infrastructure as code vision with the addition of CloudSkiff Written by Guy Podjarny October 29, 2021 0 mins read We are thrilled to welcome the team at CloudSkiff to Snyk ! Many of you may be more familiar with driftctl , the open source project started by the CloudSkiff team. I wanted to share with you why we’re excited about the addition of this fantastic group of people to Snyk, and our plans for the future of Snyk Infrastructure as Code (Snyk IaC), as well as our commitment to keeping driftctl open source. Editor’s note: The acquisition of Cloudskiff closed on October 29, 2021. Cloudskiff is now a part of Snyk. Who is CloudSkiff? CloudSkiff started up in July 2019 in Paris, France with ideas about how they could help users manage their infrastructure as code (IaC) projects. The team were all experienced cloud infrastructure managers, either as developers deploying to cloud resources or as part of a larger DevOps oriented organization managing large production systems. So they were all too familiar with the “emergency” changes and tweaked settings that led the true state of their infrastructure to differ from the desired state. A tweet shared by the CloudSkiff team pointed out the impact of fast versus slow-moving broken things. IaC drift might be one of those slow-moving broken things, but as the tweet states, “The only thing more terrifying than a fast-moving broken thing is a slow-moving broken thing that you can't get anyone to pay attention to because what harm could that iceberg do…” The CloudSkiff team talked to over 100 IaC users, they quickly realized that drift — the changes that occur outside the IaC workflow after an environment is running — was a major source of pain for many people. The team decided developing driftctl in the open was the best way to continue gathering feedback, prioritizing their focus, and iterating on the problem. The CloudSkiff team has continued working with the growing community of driftctl users to learn about the problems of IaC drift and unmanaged resources, and how best to address those issues. driftctl has continued to expand in usage and capabilities over the past year and along the way, the CloudSkiff team gained a great deal of expertise in the drift management domain. Our commitment to keeping driftctl open source We want to make it clear that we have no intention to disrupt driftctl. Snyk strongly believes in open source and we are committed to backing the driftctl project and the community surrounding and participating in it. The goal of driftctl is to provide drift detection for all major public clouds and popular IaC tools, and that goal remains the same. To that end, development of driftctl will continue in the open with the belief that value in driftctl as a standalone, open source, comm",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. I came across your company, Snyk, and was impressed with the recent acquisition of CloudSkiff. I'd love to explore how our data processing solution can help you accelerate your infrastructure as code vision.",
+      "word_count": 45,
+      "char_count": 266
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes, the CloudSkiff acquisition. That's been a big focus for us lately. But I'm not sure how a data processing solution like DeepData AI fits into our priorities right now. Can you tell me more about what you do and why you think it's relevant to us?",
+      "word_count": 48,
+      "char_count": 254
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Absolutely. DeepData AI helps companies like yours process and analyze large amounts of data from their infrastructure as code projects. This can help identify potential security vulnerabilities and optimize resource utilization. I think our solution could complement your existing tools, like driftctl, and provide more insights into your IaC workflows.",
+      "word_count": 50,
+      "char_count": 354
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we're already invested in developing our own tools and integrating them with our existing systems. I'm not sure we'd be willing to take on another vendor and integrate another solution. Plus, I'd need to evaluate the cost-benefit analysis of implementing DeepData AI. What kind of pricing are we talking about?",
+      "word_count": 56,
+      "char_count": 346
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer customized plans based on the specific needs of each company. However, I can tell you that our average customer sees a significant return on investment within the first year. As for integration, we've had success integrating with other tools in the DevOps space, and I'm confident we could work with your team to make it seamless.",
+      "word_count": 63,
+      "char_count": 371
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the confidence, but I still have concerns about the timing. We're in the middle of a major rollout of our Snyk IaC platform, and I don't think we have the bandwidth to take on another project right now. Not to mention, we're also evaluating other solutions from competitors like Datadog and Splunk. Can you tell me what sets DeepData AI apart from them?",
+      "word_count": 65,
+      "char_count": 366
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine provides more accurate and real-time insights into data patterns, and our customer support team is highly rated. However, I understand that you have a lot on your plate, and I'd be happy to schedule a follow-up conversation for when you're further along with your rollout.",
+      "word_count": 49,
+      "char_count": 300
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but to be honest, I don't think DeepData AI is a priority for us right now. We're too busy with our current initiatives, and I don't see us having the resources to devote to evaluating and implementing another solution in the near future. I think we'll have to pass on this opportunity for now.",
+      "word_count": 59,
+      "char_count": 324
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about timing and provided a more compelling reason to prioritize the conversation despite their current initiatives. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about timing and provided a more compelling reason to prioritize the conversation despite their current initiatives. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 207,
+    "total_buyer_words": 228,
+    "avg_seller_words_per_turn": 51.75,
+    "avg_buyer_words_per_turn": 57.0,
+    "word_ratio_seller_buyer": 0.91,
+    "total_conversation_length": 435
+  }
+}

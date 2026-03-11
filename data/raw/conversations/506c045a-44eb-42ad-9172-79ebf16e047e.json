@@ -1,0 +1,82 @@
+{
+  "simulation_id": "506c045a-44eb-42ad-9172-79ebf16e047e",
+  "timestamp": "2026-03-11T21:46:36.903452",
+  "target_url": "https://www.quivr.com",
+  "company_context": "Quivr - Customer Support Automation Quivr Kelly Michael Steven Joana Lily Dan YOUR CUSTOMER SUPPORT TEAM. ALWAYS ON. Let six AI agents handle your support 24/7, while you focus on what matters. “ Kelly Book a Demo Meet the Team Trusted by Leading Brands The Context The Tuesday Morning Meltdown. I t is 9:02 AM. You open your laptop to find a notification badge that looks like a high score in a video game you didn't want to play: 847 unread tickets. Most are complaints: refund requests, exchanges, pressure from customers. Some are threatening to cancel, others demand immediate answers. My coffee is already cold. Normally, this is where you panic. This is where you start typing furious, copy-pasted replies until your fingers cramp. “ But today is different. Today, you don't type a single thing. “ I've already drafted responses to all of these. Just check them and hit approve. Kelly You watch the number of tickets drop in seconds. You sip your cold coffee and reply to your manager: \"Handled.\" A new kind of workday. 09:30 AM Angry Customer \"I ordered this last week and it's still not here! Refund me immediately!\" “ Refund processed. $49 back to card ending 4521. Confirmation sent. Michael 14:00 PM “ Top Enterprise client hasn't logged in for 12 days. I drafted a check-in email. Joana You You didn't even notice they were gone. Joana did. Crisis averted. 23:00 PM You are fast asleep. 🌙 Meanwhile, your agents... Steven routed 42 tickets Dan updated 3 help articles The Receipts. Numbers don't lie. But ours are exceptionally good looking. 2.8M+ Tickets Handled Autonomously resolved while you focus on the big stuff. 63% Faster Resolution Instant data retrieval means zero wait times. 94.7% CSAT Score Customers love getting answers. Who knew? Your New Dream Team Draft Composer Kelly 1 Smart Drafts 2 Instant Translation 3 Knowledge Retrieval “ I write the replies. You take the credit. We both know how this works. ” View Action Executor Michael 1 Account Updates 2 Auto-Refunds 3 Workflow Execution “ You want to chat? Call your therapist. You want a refund? I got you. ” View Ticket Router Steven 1 Instant Routing 2 Smart Tagging 3 Metadata Enrichment “ Chaos is just organization that hasn't met me yet. ” View Engagement Agent Joana 1 Interactive Chatbots 2 Conversion Optimization 3 Visitor Engagement “ Your website visitors want to talk. I make sure they can. I make sure they convert. ” View Insight Analyzer Lily 1 Process Mining 2 Topic Clustering 3 Sentiment Analysis “ Everyone has opinions. I have receipts. ” View Knowledge Manager Dan 1 Auto-Documentation 2 Knowledge Sync 3 Content Accuracy “ That help article from 2019? Yeah, I updated it. You're welcome. ” View Enterprise Grade Need something special? Build your own. The other agents do their jobs. I become the job you haven't defined yet. Build Your Agent The Toolbox Plugs into your existing helpdesk. Connect to your ticketing system. No migrations, no downtime, just instant intelligence. Intercom Zendesk",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that can help companies like yours streamline their customer support operations. I came across Quivr and was impressed with the work you're doing in automated customer support. Can you tell me a bit more about your current data processing infrastructure?",
+      "word_count": 57,
+      "char_count": 346
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're doing alright, I suppose. We've got a few different tools in place to manage our customer support data, but it's not perfect. What makes DeepData AI think they can help us?",
+      "word_count": 34,
+      "char_count": 188
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution can help you process and analyze large amounts of customer support data in real-time, giving you valuable insights to improve your operations. We've seen significant reductions in resolution times and increases in customer satisfaction scores with our previous clients. I'd love to schedule a demo to show you how it works.",
+      "word_count": 54,
+      "char_count": 342
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary. We're actually in the middle of implementing some new tools right now, and I'm not sure we have the budget for another solution. Plus, I'm not even sure I'm the right person to be talking to about this. I'm just the CTO, I don't have final say over purchasing decisions.",
+      "word_count": 55,
+      "char_count": 301
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I completely understand. However, I'd like to discuss how DeepData AI can help you optimize your current tools and processes. Perhaps we can even help you reduce costs in the long run. Can you tell me more about the tools you're currently implementing and how they're going to address your customer support data processing needs?",
+      "word_count": 55,
+      "char_count": 329
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Honestly, we're looking at a few different options, but nothing that I think would integrate well with what you're offering. And like I said, budget is a big concern for us right now. We're trying to prioritize our spending and make sure we're getting the most bang for our buck. I'm not sure DeepData AI fits into that picture.",
+      "word_count": 59,
+      "char_count": 328
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, but I believe our solution can bring significant value to your organization. Would you be open to discussing this further with our team and exploring potential integration options? We've had success with similar companies in the past.",
+      "word_count": 41,
+      "char_count": 262
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I don't think it's going to work out. We just don't have the budget or the bandwidth to take on a new tool right now, and even if we did, I'm not sure I'd be able to convince our purchasing team to approve it. I think we're just going to have to pass on DeepData AI for now.",
+      "word_count": 63,
+      "char_count": 302
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Budget\nFeedback: The seller should have more aggressively addressed the buyer's budget concerns and explored potential cost-saving opportunities earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Budget",
+      "feedback": "The seller should have more aggressively addressed the buyer's budget concerns and explored potential cost-saving opportunities earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 207,
+    "total_buyer_words": 211,
+    "avg_seller_words_per_turn": 51.75,
+    "avg_buyer_words_per_turn": 52.75,
+    "word_ratio_seller_buyer": 0.98,
+    "total_conversation_length": 418
+  }
+}
