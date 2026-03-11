@@ -718,3 +718,5 @@ a85724fd-8832-404d-ad90-c6ea8d35fcb1,2026-03-10T23:02:32.376431,https://www.komo
 f17b4bd4-d921-46d9-8eb8-b2a821b16784,2026-03-10T23:02:39.669598,https://www.litmus.com,3000,4,211,229,52.75,57.25,59,88,48,38,0.92,440,4,0,Failure,Integration,dynamic_batch
 9c28706c-1359-42a1-80d0-ce6b4954fba2,2026-03-10T23:02:47.823557,https://www.loadbalancer.org,3000,4,247,194,61.75,48.5,75,57,53,37,1.27,441,4,0,Failure,Timing,dynamic_batch
 07a97d70-f2d3-4aaf-ade1-c41bb2a5e906,2026-03-10T23:02:58.518714,https://www.mambu.com,3000,4,210,235,52.5,58.75,74,72,36,41,0.89,445,4,0,Failure,Integration,dynamic_batch
+61882ab8-b6f3-46da-91a2-bf6547a101bf,2026-03-11T11:53:16.177372,https://rajagiri.edu/,3000,4,21,0,5.25,0.0,21,0,0,0,21.0,21,0,0,Error,Unknown,interactive
+21971b02-fe93-4a64-b83a-8b6a5bdd2977,2026-03-11T11:54:48.636293,https://www.nalashaa.com/,3000,4,252,311,63.0,77.75,81,98,21,61,0.81,563,4,0,Failure,Price,interactive

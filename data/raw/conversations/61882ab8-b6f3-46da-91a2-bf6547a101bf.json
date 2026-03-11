@@ -1,0 +1,82 @@
+{
+  "simulation_id": "61882ab8-b6f3-46da-91a2-bf6547a101bf",
+  "timestamp": "2026-03-11T11:53:16.177372",
+  "target_url": "https://rajagiri.edu/",
+  "company_context": "Rajagiri College of Social Sciences | RCSS Virtual Tour × RCSS RCBS Phone: 91 - 484 - 2660601 Fax: 91 - 484 - 2426578 Executive Programs Virtual Tour Rajagiri SDG NIRF AICTE Careers Quick Links Moodle RCBS RBS Campus Connect Grievance Redressal Portal Virtual Tour - RCSS Virtual Tour - RCBS e-Contents Amenities ROLE Divyangan Facilities Rajagiri Blogs Alumni Certificate Verification Fedena ODTracker Portal Student feedback portal Mandatory Disclosure - MBA IIC IEDC Contact Us Admissions 2026 ICSWHMH conference '27 Rajagiri NIRF 2025 News Updates : Vacancies for Research Assistant and Field Investigator for the ICSSR funded project Click here Important Notice: Admission at Rajagiri is managed by the college itself. We have not entrusted any agency/middlemen for our admissions. Online interviews are conducted by our faculty. There will be NO consideration (Donation / Capitation) for Management Seats at Rajagiri College of Social Sciences (Autonomous). Welcome to Rajagiri Drawing inspiration from the founder, St. Kuriakose Elias Chavara, a great visionary, reformer and religious leader of the 19th century, the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation for men in India, dedicated themselves to education at all levels Know More Upcoming Events upcoming education events to feed your brain View All 05 Jan 2027 9.00 AM - 5.00 PM 11th International Conference on Social Work in Health and Mental Health (ICSWHMH) RBS, Rajagiri Valley Campus Rajagiri Highlights Illuminating Excellence, Inspiring Tomorrow View All Venture vesta commerce expo . Read More KPMA Environmental Award 2025 . Read More KERALA STATE ENERGY CONSERVATION AWARD 2025 . Read More Institution of Happiness (IOH) 2025–26 Institution of Happiness (IOH) 2025–26 recognition by QS I-GAUGE Read More Nurturing Holistic Well-Being at Rajagiri Rajagiri's Well-Being Read More Green Initiatives Rajagiri's Green Initiatives Read More Rajagiri Centre for Indian Knowledge Systems Rajagiri’s IKS Read More Empower Society: Rajagiri’s Holistic Vision Rajagiri’s Holistic Vision Read More Finance Museum Rajagiri’s Finance Museum Read More Rajagiri Research and Development Cell (RRDC) RRDC Read More Achievements A++ Grade NAAC - Reaccreditation of A++ level in 2021 with CGPA of 3.83/4 12th Rajagiri has been ranked 12th best college in the country by NIRF 2025, MHRD, Gov. of India 01st For admission and Placement in the state by AIMA. Our Stories Have a look at the Ambience of Rajagiri Academics B.Com Integrated with the Association of Chartered Certified Accountants (ACCA, UK) Ph.D Computer Science MBA MSc Counselling Psychology PGDM MSc CS (DA) CS (DA) B.Com with Chartered Accountancy (CA) BCA (Hons.) BCA (Hons.) Ph.D Social Work M.Sc Psychology BSW B.Sc Psychology B.Sc Psychology M.Lib.IS.c. Lateral M.Lib.IS.c. Lateral IMBA Integrated MBA B.Com (Hons.) with CIMA-UK B.Com B.Com FPM BBA WITH CIMA (UK) BBA (Hons.) Finance and Banking with CIMA (UK) | Fintech | and Business ",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, this is Alex from DeepData AI. I noticed your company is scaling fast—are you currently struggling with data processing costs?",
+      "word_count": 21,
+      "char_count": 130
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "",
+      "word_count": 0,
+      "char_count": 0
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 0\nOutcome: Error",
+    "parsed": {
+      "score": 0,
+      "outcome": "Error",
+      "key_objection": "Unknown",
+      "feedback": ""
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 21,
+    "total_buyer_words": 0,
+    "avg_seller_words_per_turn": 5.25,
+    "avg_buyer_words_per_turn": 0.0,
+    "word_ratio_seller_buyer": 21.0,
+    "total_conversation_length": 21
+  }
+}
