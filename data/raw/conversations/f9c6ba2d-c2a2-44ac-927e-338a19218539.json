@@ -1,0 +1,96 @@
+{
+  "simulation_id": "f9c6ba2d-c2a2-44ac-927e-338a19218539",
+  "timestamp": "2026-03-11T21:58:28.895738",
+  "target_url": "https://www.gravitee.io",
+  "company_context": "Gravitee: API Management Platform for APIs, Events & Agents Menu ✅ Unified API, event, agent management platform ✅ Event-native, streaming-first API gateway ✅ Multi-gateway, multi-broker governance ✅ Unified API, event, agent management platform ✅ Event-native, streaming-first API gateway ✅ Multi-gateway, multi-broker governance 🚀 AI Agents Are Moving to Production. Security Models Lag Behind. View the State of AI Agent Security → Any API. Any event. Any agent. Hold nothing back. API Management API Gateway Event Management AI Agent Management Manage APIs, event streams, and agentic AI systems. Every gateway & broker. Enterprise security. 4x faster API gateway. Unlimited events & API calls for one monthly price. Get a Demo Get Pricing 4.6 (35 reviews) 4.6 (56 reviews) Trusted to run APIs at the world’s top enterprises Case study Case study Case study Case study Case study Case study Case study Case study The State of AI Agent Security 2026 AI agent adoption has accelerated, but security models have not evolved at the same pace. Our survey of 919 executives and practitioners reveals the structural gaps in identity, authorization, and runtime governance as AI agents move into production. Read the Report Gravitee named a Leader in the Gartner® 2025 Magic Quadrant™ for API Management Discover why Gravitee has been named a leader for the second consecutive year and learn more about how our flexible, innovative platform can support your strategy. Read the Report Comprehensive API Management software so you can finally hold nothing back 3+ platforms to manage APIs Finding APIs is hard for devs Event streams cannot be exposed securely Event streams can only be exposed in one way API access is opaque. You don't know who is using the API and how. Non-technical users can't create APIs Costs increase with usage, causing budgeting uncertainty One platform for every API, broker, and gateway One developer portal for all APIs Enterprise security for event streams. Policies, auth, and more Expose event streams via REST, SOAP, WebSocket, HTTP, and more API analytics for usage, traffic, performance, and more Drag-and-drop API designer Unlimited API calls & events for one monthly price Every API, Event and Agent on one platform API Management Manage every API across gateways & brokers. Event-native Gateway. Explore API Management Capabilities > Kafka Gateway Expose Kafka streams natively. Secure & govern streams like traditional APIs. See How Kafka Gateway Works > AI Agent Management Consolidate, secure, and manage every AI agent. Eliminate agent sprawl. Discover AI Agent Management Solutions > Full lifecycle API Management Comprehensive API & agentic system management Manage APIs, event streams, and agentic AI systems. 4x faster API gateway. Policies for rate limiting, traffic shaping, and more. API designer. Full federation Manage APIs across every broker and gateway. AWS, Azure, Apigee, IBM, Confluent, and Solace. Native Kafka support Expose Kafka to Kafka clients",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data management and gain valuable insights. I came across your company, Gravitee, and was impressed with the work you're doing in API management. I'd love to explore how our solution can help you optimize your data processing.",
+      "word_count": 61,
+      "char_count": 367
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here at Gravitee. We're actually pretty happy with our current data management setup. What makes you think we need a new solution?",
+      "word_count": 32,
+      "char_count": 183
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, from what I've researched, it seems like Gravitee is dealing with a large volume of APIs, events, and agents. Our solution can help you process that data more efficiently and provide real-time insights. Plus, our pricing model is very competitive, and we've had great success with similar companies in the industry.",
+      "word_count": 52,
+      "char_count": 321
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. We do have a lot of data to manage, but we've invested heavily in our current infrastructure. I'm not sure we're looking to rip and replace it right now. Plus, I'm concerned about the integration costs and potential downtime. How do you address those concerns?",
+      "word_count": 47,
+      "char_count": 267
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's completely understandable, John. We've had experience with similar integrations in the past, and our team can work closely with yours to ensure a smooth transition. We also offer a phased implementation approach to minimize downtime. As for the cost, I'd be happy to provide a customized quote and ROI analysis to demonstrate the value of our solution.",
+      "word_count": 58,
+      "char_count": 359
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate that, Alex, but we've also been looking at other solutions, like Apache Kafka and Amazon Kinesis. How does DeepData AI differentiate itself from those established players? And what kind of support and resources do you offer to ensure we're getting the most out of the platform?",
+      "word_count": 48,
+      "char_count": 290
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Great question, John. While those solutions are certainly popular, our platform is more tailored to the specific needs of API management companies like Gravitee. We offer a more intuitive interface, real-time processing, and advanced security features. As for support, we have a dedicated team of experts who can provide ongoing training, consulting, and maintenance to ensure our customers are getting the most out of our platform.",
+      "word_count": 66,
+      "char_count": 432
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I understand where you're coming from, Alex, but to be honest, we've already evaluated several solutions, including DeepData AI, and we've decided to stick with our current provider. They're meeting our needs, and we don't see a compelling reason to switch. I appreciate the pitch, but I think we're going to have to pass on DeepData AI for now.",
+      "word_count": 59,
+      "char_count": 345
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "I completely understand, John. I appreciate your honesty and the time you took to speak with me today. If you're ever re-evaluating your data processing needs in the future, I'd be happy to reconnect and see if DeepData AI can be a better fit.",
+      "word_count": 44,
+      "char_count": 243
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Thank you, Alex. I appreciate that. Please don't follow up unless we reach out to you directly. We're happy with our current solution, and I don't want to waste anyone's time.",
+      "word_count": 31,
+      "char_count": 175
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more effectively differentiated DeepData AI from established competitors like Apache Kafka and Amazon Kinesis to address the buyer's concerns and demonstrate unique value. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more effectively differentiated DeepData AI from established competitors like Apache Kafka and Amazon Kinesis to address the buyer's concerns and demonstrate unique value. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 281,
+    "total_buyer_words": 217,
+    "avg_seller_words_per_turn": 56.2,
+    "avg_buyer_words_per_turn": 43.4,
+    "word_ratio_seller_buyer": 1.29,
+    "total_conversation_length": 498
+  }
+}

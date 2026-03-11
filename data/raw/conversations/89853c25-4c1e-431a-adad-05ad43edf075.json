@@ -1,0 +1,82 @@
+{
+  "simulation_id": "89853c25-4c1e-431a-adad-05ad43edf075",
+  "timestamp": "2026-03-11T21:56:39.754264",
+  "target_url": "https://www.azion.com",
+  "company_context": "Azion Web Platform | Azion Contact Sign In Start Free The distributed infrastructure layer for modern workloads Networking, compute, AI, data, and security that autonomously scale up and down instantly. And it stays up when others go down. Start Free Talk to a Specialist AI-Native Primitives for Autonomous Workloads Compute Functions Run code globally, low latency Rules Control traffic routing Load Balancer High availability across origins Image Processor Optimize and mofify Images AI AI Inference Low-latency distributed inference AI Gateway Govern and route LLMs Data Object Storage Store and deliver globally SQL Database Distributed SQL with low latency KV Store Keep state close, fast Cache Accelerate delivery, boost reliability Security Web Application Firewall (WAF) Smart way to block threats API Gateway Authenticate and protect APIs Bot Management Stop bots, prevent abuse DNS Resilient DNS with performance The most reliable infrastructure The most reliable infrastructure 100+ datacenters 100+ Tbps throughput High availability 30 ms median latency PCI and SOC 2/3 compliant 7x faster pages 90% lower cloud cost 40x more simultaneous access 100% OWASP Top 10 mitigation From Local Dev to Mission Critical Automatic deploy via Git or CLI Compatibility with modern web frameworks APIs for automation and integration Infrastructure as code with Terraform Metrics and events via GraphQL API Learn More azion.config.js 1 import { defineConfig } from 'azion' 2 3 export default defineConfig ( { 4 build : { 5 entry : 'src/index.ts' , 6 worker : true , 7 preset : 'typescript' 8 } 9 } ) Recognized as a Market Leader Recognized as a Leader in CDN and a High Performer in Web Security, DDoS Protection, WAF, Bot Detection and Mitigation, SSL & TLS Certificate Tools, and DNS Security Solution. G2 Winter 2026 Reports Recognized as a Strong Performer and a good choice for large enterprises seeking to accelerate edge innovation with full‑stack serverless applications. The Forrester Wave™: Edge Development Platforms Named a Leader and the only edge platform built specifically for that purpose, whose capabilities meet all key criteria in the report. GigaOm Radar for Edge Platforms Awarded in the Edge Serverless Computing category and recognized for consistently exceeding its customers' performance expectations. 2023 North American New Product Innovation Award Netshoes automatically blocks more than 4 million threats in six months learn more See how Magalu ensures high availability for hundreds of global‑scale applications learn more Grupo Pão de Açúcar (GPA) solves a cyberattack and reduces costs by 30% learn more Access to all products. US$300 in free credits. Start building for free Start Free",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a representative from DeepData AI. I came across your company, Azion, and was impressed by your work in distributed infrastructure and edge computing. I'd like to introduce our data processing solution, which can help optimize your data workflow and improve overall efficiency.",
+      "word_count": 49,
+      "char_count": 305
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, thanks for reaching out, Alex. I'm John, the CTO here at Azion. We're always looking for ways to improve our infrastructure, but I have to say, we've already invested heavily in our current setup. What makes DeepData AI different from what we're already using?",
+      "word_count": 45,
+      "char_count": 264
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's a great question, John. Our solution utilizes AI-native primitives to autonomously scale up and down, providing low-latency and high availability. We've seen significant improvements in data processing times and cost savings for our clients. I'd love to schedule a demo to show you how it can benefit Azion.",
+      "word_count": 49,
+      "char_count": 314
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm interested in learning more, but I have to consider the cost. We're in the middle of budget planning for the next quarter, and I'm not sure if we have the resources to invest in a new solution right now. Can you give me an idea of the pricing for DeepData AI?",
+      "word_count": 52,
+      "char_count": 263
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is based on the volume of data being processed, and we offer tiered plans to fit different business needs. For a company of your size, I'd estimate the cost to be around $50,000 per year. However, I'd like to emphasize that our solution can help you reduce costs in the long run by improving efficiency and reducing the need for manual intervention.",
+      "word_count": 64,
+      "char_count": 361
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "That's a bit steeper than I was expecting. We're already working with a few other vendors, including AWS and Google Cloud, and their pricing is more competitive. I'm not sure if our team would be willing to switch to a new platform, especially with the integration costs and potential downtime.",
+      "word_count": 50,
+      "char_count": 294
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. However, our solution is designed to be compatible with existing infrastructure, and we offer support for integration with major cloud providers. We've also had success with similar companies in the past, and I'd be happy to provide case studies and references.",
+      "word_count": 46,
+      "char_count": 295
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but after considering the costs and potential integration challenges, I'm afraid we're going to have to pass on DeepData AI for now. The price point is just too high for us, and we need to prioritize our budget for more pressing initiatives. Thank you for reaching out, and I wish you the best of luck with your product.",
+      "word_count": 63,
+      "char_count": 350
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Price\nFeedback: The seller should have been more prepared to address the buyer's concerns about pricing and integration costs, and potentially offered more flexible pricing options or a pilot project to mitigate the perceived risks. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Price",
+      "feedback": "The seller should have been more prepared to address the buyer's concerns about pricing and integration costs, and potentially offered more flexible pricing options or a pilot project to mitigate the perceived risks. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 208,
+    "total_buyer_words": 210,
+    "avg_seller_words_per_turn": 52.0,
+    "avg_buyer_words_per_turn": 52.5,
+    "word_ratio_seller_buyer": 0.99,
+    "total_conversation_length": 418
+  }
+}

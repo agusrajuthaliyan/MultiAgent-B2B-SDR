@@ -1,0 +1,96 @@
+{
+  "simulation_id": "ea332481-9483-43f5-91ff-e9437834f254",
+  "timestamp": "2026-03-11T21:57:43.279700",
+  "target_url": "https://www.deepmostai.com",
+  "company_context": "DeepMost Perseus | AI Sales Coach Zero-Exposure AI Architecture Your AI Sales Tool Could Be a Lawsuit. We built AI that helps during the call, without creating legal exposure after it. Request Demo Download The Hidden Risk. Every AI sales tool uploads your conversations to someone else's server. Subpoena received for sales conversation recordings... The Subpoena. What exists on their servers can be requested in court. DeepMost Architecture Nothing uploaded. Nothing stored remotely. Nothing to subpoena. The DeepMost Way. AI assistance without the legal exposure. By design. 100% Offline Hardware-Bound No Voiceprints BIPA Safe Zero Exposure. The safest AI architecture for sales conversations. ↓ Scroll to explore Zero Exposure by Design. Not through policies. Not through promises. Through architecture. 100% Offline Nothing leaves your machine. Ever. No cloud endpoints, no external APIs, no uploads. Hardware-Bound Cryptographically tied to your device. Non-transferable. No Voiceprints Zero biometric identifiers created or stored. BIPA-safe. Non-Subpoenable What doesn't exist on someone else's server can't be subpoenaed. Your conversations stay yours. Built for Decision Makers. CIO / IT No cloud risk Hardware-bound IT-approved Legal No biometrics BIPA/GDPR safe Non-subpoenable Sales Real-time AI assist Post-call insights Zero liability Ready to Eliminate AI Risk? If you're evaluating AI tools, this is a conversation worth having before it becomes a problem. Contact Sales Download for Windows",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex from DeepData AI. I came across your company and was impressed with the work you're doing in the industry. I'd love to introduce you to our data processing solution that can help streamline your operations and improve efficiency.",
+      "word_count": 43,
+      "char_count": 249
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "(skeptical) Ah, another AI sales tool. We've looked at a few of those before, and to be honest, we're not convinced. What makes yours different?",
+      "word_count": 25,
+      "char_count": 144
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand your skepticism. Many AI tools on the market do pose significant risks, especially when it comes to data storage and potential legal exposure. However, our solution, DeepData AI, is designed with a zero-exposure architecture, meaning nothing is uploaded to external servers, and all data processing happens locally on your device.",
+      "word_count": 53,
+      "char_count": 354
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "(still hesitant) That sounds interesting, but how does it compare to what we're currently using? We've invested a lot in our current system, and I'm not sure we're ready to switch.",
+      "word_count": 31,
+      "char_count": 180
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the investment you've made, but our solution can actually complement your existing system. We've had clients who were in similar situations, and they've seen significant improvements in data processing speed and accuracy. Plus, with our zero-exposure architecture, you'll be reducing the risk of potential lawsuits and data breaches.",
+      "word_count": 50,
+      "char_count": 346
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "(concerned about cost) I see. But what's the cost of implementing this solution? We're on a tight budget, and I'm not sure we can afford another expensive software.",
+      "word_count": 28,
+      "char_count": 164
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand budget constraints are always a concern. Our pricing is competitive, and we offer flexible plans to fit different business needs. We've also seen that our solution can help companies like yours save money in the long run by reducing manual labor and improving operational efficiency. I'd be happy to provide a customized quote and discuss how we can work together to fit your budget.",
+      "word_count": 66,
+      "char_count": 396
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "(slightly more open) Okay, I'm willing to listen. But how does this work in terms of integration with our current systems? We can't afford to have our team spend months integrating a new tool.",
+      "word_count": 34,
+      "char_count": 192
+    },
+    {
+      "turn": 5,
+      "speaker": "Seller",
+      "message": "Our solution is designed to be easy to integrate, and we provide full support to ensure a smooth transition. We've worked with companies with similar systems to yours, and we've been able to integrate our solution in a matter of weeks. I'd like to schedule a demo to show you exactly how it works and answer any questions you may have.",
+      "word_count": 61,
+      "char_count": 335
+    },
+    {
+      "turn": 5,
+      "speaker": "Buyer",
+      "message": "Alright, let's schedule that demo. I'm interested in seeing how this can work for us, and I appreciate your willingness to address my concerns. Next Wednesday at 2 PM works for me.",
+      "word_count": 32,
+      "char_count": 180
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 8\nOutcome: Success\nKey_Objection: Integration\nFeedback: The seller could have provided more specific examples or case studies to strengthen their claims and build trust with the buyer earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 8,
+      "outcome": "Success",
+      "key_objection": "Integration",
+      "feedback": "The seller could have provided more specific examples or case studies to strengthen their claims and build trust with the buyer earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 5,
+    "total_seller_words": 273,
+    "total_buyer_words": 150,
+    "avg_seller_words_per_turn": 54.6,
+    "avg_buyer_words_per_turn": 30.0,
+    "word_ratio_seller_buyer": 1.82,
+    "total_conversation_length": 423
+  }
+}

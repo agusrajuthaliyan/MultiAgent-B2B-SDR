@@ -1,0 +1,82 @@
+{
+  "simulation_id": "a8bf5216-372a-49f5-ae7f-04c685e7bafe",
+  "timestamp": "2026-03-11T21:57:08.939058",
+  "target_url": "https://www.coda.io",
+  "company_context": "Coda: Your all-in-one collaborative workspace. Skip to content Product Product Explore Docs & team hubs Trackers & apps See all → AI & integrations Coda AI Integrate your tools Consolidate your tools More What's new FEATURED Packs Publishing Compare vs Notion vs Confluence vs Quip vs Airtable See all → Solutions Solutions By role Product Marketing Sales See all → By scenario Planning & OKRs Meetings Project management See all → By team size Enterprise Startups Small business See all → Case studies How Qualtrics saves money with Coda. See all → Resources Resources Learn Guides Interactive sessions Webinars FEATURED Connect Help center Coda community Hire a Services Partner Partner with us Extend Pack Studio Formula list API Featured guide How to build a team hub on Coda See all → Gallery Blog Pricing Request a demo Get started Mobile menu Your all-in-one collaborative workspace. Coda brings teams and tools together for a more organized work day. Get started for free Contact sales A few of the 50,000+ teams collaborating on Coda. \"It’s more powerful than Google Docs and more flexible than Airtable or Notion.\" - Fast Company Compare Coda 4 ways 50,000+ teams use Coda to supercharge their work days. Writeups Coda is familiar like a doc and engaging like an app, so your team can jump in quickly, collaborate effectively, and make decisions that stick. Explore Zoom’s decision doc Replaces Hubs Teams move quicker together. So give them a place to get on the same page while centralizing everything from strategy to schedules. Explore Coda's team hub Replaces Trackers Tables talk to each other, edits sync everywhere, views are personalized—and you can ditch the hacky spreadsheets. Explore Figma’s product roadmap Replaces Applications With Coda, anyone can design a time-saving solution with a formula, button, or automation. And replace niche apps in your tool stack. Explore Google's LaunchCal Replaces Want to see more? Our Gallery is full of solutions published by teams who use Coda to supercharge their work, create a feeling of organization, and foster collaborative workflows. Explore the Gallery Take the busywork out of your work with Coda AI. The connected work assistant that knows your team—and can take action for you. Get answers faster with AI chat. Spark dynamic dialogue with Coda AI to brainstorm, create content, or ask questions. Create more with AI assistant. Let Coda AI start from scratch, summarize, or generate tables, so you can share your work—faster. Save time with AI column. Turn data into insights, or tedious tasks into auto-generated content with the ability to use AI at scale. Create workflows across your must-have tools. Pull Google Calendars into the team wiki, push updates into Slack automatically, embed Figma files into a project brief, create Jira tickets from feedback tables, and more with our 600+ integrations. Browse And getting started is easy. With customizable solutions and templates for every team. Product Sales Engineering Des",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflow and gain valuable insights. I came across your company and noticed that you're using a variety of tools to manage your data. I'd love to learn more about your current setup and see if we can help you optimize it.",
+      "word_count": 66,
+      "char_count": 367
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're actually pretty set with our current data processing solution. We've invested a lot in getting it up and running, and I'm not sure we're looking to switch anytime soon. What makes DeepData AI so special that we should consider it?",
+      "word_count": 43,
+      "char_count": 246
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's completely understandable. We've worked with several companies who were hesitant to switch, but ultimately found that our solution saved them a significant amount of time and money. Our AI-powered engine can handle large datasets with ease, and our integrations with popular tools like Coda make it easy to get started. We've also seen companies like Qualtrics save money by using Coda in conjunction with our solution.",
+      "word_count": 67,
+      "char_count": 426
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm familiar with Coda, we actually use it for some of our team collaboration. But I'm not sure how DeepData AI would fit into our existing workflow. We're currently contracted with a competitor, and to be honest, I'm not sure we can afford to take on another solution right now. Our budget for this quarter is already allocated, and we can't justify the cost of switching.",
+      "word_count": 66,
+      "char_count": 373
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about budget and contract. However, I'd like to discuss how DeepData AI can help you save money in the long run. Our solution can automate many of the manual tasks that your team is currently doing, freeing up time for more strategic work. And while I understand that you're contracted with a competitor, I'd like to explore potential options for transitioning to our solution when your contract is up for renewal.",
+      "word_count": 75,
+      "char_count": 441
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate your persistence, but our contract with the competitor is a multi-year deal, and we're only halfway through it. We've also invested a lot in customizing their solution to fit our needs, so switching would require a significant amount of work and resources. I think we're going to have to pass on DeepData AI for now.",
+      "word_count": 57,
+      "char_count": 329
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your position, and I appreciate your honesty. If I could provide you with some case studies or whitepapers that demonstrate the value of DeepData AI, would you be open to revisiting the conversation in the future?",
+      "word_count": 38,
+      "char_count": 226
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to decline. We're not looking to add any new solutions to our stack at this time, and we're committed to seeing our current contract through to the end. Thank you for reaching out, but I think we'll have to pass on DeepData AI.",
+      "word_count": 54,
+      "char_count": 283
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more aggressively addressed the buyer's existing contract and customization investment with the competitor to provide a more compelling reason to consider switching to DeepData AI. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more aggressively addressed the buyer's existing contract and customization investment with the competitor to provide a more compelling reason to consider switching to DeepData AI. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 246,
+    "total_buyer_words": 220,
+    "avg_seller_words_per_turn": 61.5,
+    "avg_buyer_words_per_turn": 55.0,
+    "word_ratio_seller_buyer": 1.12,
+    "total_conversation_length": 466
+  }
+}

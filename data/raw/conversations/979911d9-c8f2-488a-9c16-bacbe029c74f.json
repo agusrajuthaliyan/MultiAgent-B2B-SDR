@@ -1,0 +1,82 @@
+{
+  "simulation_id": "979911d9-c8f2-488a-9c16-bacbe029c74f",
+  "timestamp": "2026-03-11T21:59:45.615678",
+  "target_url": "https://www.inflect.com",
+  "company_context": "Just a moment... Enable JavaScript and cookies to continue",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Emily and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better decisions with their data. Can you tell me a little bit about your current data processing setup?",
+      "word_count": 41,
+      "char_count": 234
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yeah. We're currently using a competitor's solution, DataMax. It's been...adequate. But I have to say, I'm not really looking to switch anything right now. We just renewed our contract with them a few months ago.",
+      "word_count": 36,
+      "char_count": 216
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "I completely understand. Contracts can be a big commitment. However, I'd like to discuss how DeepData AI can offer more advanced features and better scalability than DataMax. For example, our AI-powered processing can handle large volumes of data much faster and more accurately. Would you be open to hearing more about how we can help?",
+      "word_count": 55,
+      "char_count": 336
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the pitch, but to be honest, I'm not sure we can afford to make a change like that right now. Our budget for this year is already allocated, and switching to a new solution would require a significant investment in integration and training. Plus, I'm not convinced that your solution would be worth the cost.",
+      "word_count": 57,
+      "char_count": 321
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand your concerns about cost and integration. However, I'd like to offer a customized demo to show you how DeepData AI can meet your specific needs and provide a strong ROI. We've worked with similar companies in the past and have seen significant improvements in their data processing efficiency. Would you be willing to consider a demo?",
+      "word_count": 58,
+      "char_count": 347
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but like I said, we're locked into a contract with DataMax for the next two years. Even if I was interested in switching, which I'm not saying I am, I don't think we could get out of our contract without incurring some pretty significant penalties. I think we're just going to have to stick with what we have for now.",
+      "word_count": 64,
+      "char_count": 341
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your situation, and I respect your commitment to your current contract. If you're willing, I'd like to send you some information about DeepData AI and check in with you in a year or so to see if your needs have changed.",
+      "word_count": 43,
+      "char_count": 232
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "That's okay, Emily. I appreciate your understanding, but I think we're all set. We're not going to be making any changes to our data processing setup for the foreseeable future, so I'd rather not take up any more of your time or ours. Thank you for reaching out, though.",
+      "word_count": 49,
+      "char_count": 270
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's contract situation and explored potential exit strategies or alternatives to wait out the contract period. Sentiment: Neutral",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's contract situation and explored potential exit strategies or alternatives to wait out the contract period. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 197,
+    "total_buyer_words": 206,
+    "avg_seller_words_per_turn": 49.25,
+    "avg_buyer_words_per_turn": 51.5,
+    "word_ratio_seller_buyer": 0.96,
+    "total_conversation_length": 403
+  }
+}

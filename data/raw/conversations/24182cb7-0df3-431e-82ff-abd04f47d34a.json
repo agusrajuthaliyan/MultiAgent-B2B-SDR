@@ -1,0 +1,82 @@
+{
+  "simulation_id": "24182cb7-0df3-431e-82ff-abd04f47d34a",
+  "timestamp": "2026-03-11T21:59:11.860446",
+  "target_url": "https://www.henrik.io",
+  "company_context": "Henrik Lissner Mastodon < henrik.io > The quick brown fox jumped over absolutely nothing. (The site wasn't done) But in the meantime, find Henrik on:",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi Henrik, thanks for taking my call. My name is Alex, and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours optimize their data management and gain valuable insights. How are you today?",
+      "word_count": 40,
+      "char_count": 236
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, I'm doing alright, thanks. Though, I have to say, our data processing is currently handled by another vendor, and we're pretty satisfied with their service. What makes DeepData AI think you can offer something better?",
+      "word_count": 36,
+      "char_count": 221
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "That's great to hear you're currently satisfied, Henrik. However, our AI-powered solution can provide more advanced analytics and scalability, which can be a significant upgrade from traditional data processing methods. We've seen our clients achieve up to 30% reduction in data processing time and a 25% increase in data-driven decision-making. Would you be open to exploring how DeepData AI can specifically benefit your organization?",
+      "word_count": 64,
+      "char_count": 436
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but we've just renewed our contract with our current vendor, and we're locked in for the next two years. Changing vendors now would not only be costly but also disrupt our operations. Plus, I'm not sure our team is ready for another integration process so soon.",
+      "word_count": 50,
+      "char_count": 285
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand the concerns about contract and integration, Henrik. But let me ask, are you completely satisfied with the pricing of your current contract? Sometimes, even with a contract in place, it can be more cost-effective in the long run to transition to a more efficient and scalable solution like DeepData AI. We could discuss potential savings and how we can support a smoother transition.",
+      "word_count": 65,
+      "char_count": 396
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Pricing is always a concern, but our current contract is pretty comprehensive, and we've negotiated a good deal. As for transitioning, I think the risk and effort outweigh any potential benefits at this point. We have a lot on our plate with ongoing projects, and introducing a new system would just add to our workload. Not to mention, our team would need significant training on your platform.",
+      "word_count": 67,
+      "char_count": 395
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your reservations, Henrik. Perhaps we could schedule a follow-up conversation in a year or so, closer to the end of your contract, to reassess your data processing needs and see if DeepData AI might be a better fit at that time?",
+      "word_count": 43,
+      "char_count": 241
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think it's best we focus on maximizing the potential of our current solution. We've invested a lot in our current vendor, and it's in our best interest to see that through. I'm afraid DeepData AI isn't something we can consider at this time or in the near future. Thank you for your understanding.",
+      "word_count": 60,
+      "char_count": 340
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more aggressively addressed the buyer's concerns about contract timing and integration efforts earlier in the conversation to potentially overcome these objections. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about contract timing and integration efforts earlier in the conversation to potentially overcome these objections. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 212,
+    "total_buyer_words": 213,
+    "avg_seller_words_per_turn": 53.0,
+    "avg_buyer_words_per_turn": 53.25,
+    "word_ratio_seller_buyer": 1.0,
+    "total_conversation_length": 425
+  }
+}

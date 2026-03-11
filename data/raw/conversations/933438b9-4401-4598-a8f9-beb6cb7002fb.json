@@ -1,0 +1,82 @@
+{
+  "simulation_id": "933438b9-4401-4598-a8f9-beb6cb7002fb",
+  "timestamp": "2026-03-11T21:56:29.146238",
+  "target_url": "https://www.astro.io",
+  "company_context": "Astro | Start Investing Wisely. Make Your Money Wiser . Start investing with foresight. Before buying stocks, see your money move. See your investments ’ risk & f uture value right before buying. Try Smart Risk ® Grow wealth wiser . Discover your next best investment by swiping personalized stocks. Try Money Feed ® Start learning & comparing stocks by the ease of animated visuals. Try Visual Learning Anywhere . Anytime . One App — Everything You Need To Invest Looking for inspiration to begin a portfolio ? Swipe Money Feed ® to discover personalized stocks. Like to know the strengths of a stock ? Animated visuals help you compare similar stocks. Curious about your investments' future ? Check Smart Risk ® to see your money’s possible movements. Want to grow wealth wisely ? Spread risk, buy slices of Tesla, Bitcoin & thousands of assets from €1. Get the App Already Own Stocks ? Try Astro to see your portfolio risk , health & likely future value. Exclusive Portfolio Insights Pick Your Perfect Wealth Plan Start growing your money wiser. No commitments. Cancel anytime, and go Light. Benefits Investments' Risk & Future Value Personalized Asset Discovery Animated & Visual Learning Asset Classes Asset Coverage Monthly Saving Plan Commission Fee per Trade Zero Fee Rolling Trading Limit Other Fees The Small Print Light € 0 /month Limited Limited Limited Stocks, ETFs & Cryptocurrencies Worldwide Portfolio/Individual Assets 0.25% — No Try Light for Free No subscription, but you pay a flat 0.25% commission fee per trade. 1 Month Free Premium € 9 /month Stocks, ETFs & Cryptocurrencies Worldwide Portfolio/Individual Assets *0.00% *€50,000/month No Get 1 Free Month Free for 1 month, then €7 per month after. *A 0.25% commission fee applies per trade after reaching your rolling monthly limit. 3 Months Free Student € 4 /month Stocks, ETFs & Cryptocurrencies Worldwide Portfolio/Individual Assets *0.00% *€20,000/month No Get 3 Free Months Free for 1 month, then €3 per month after. *A 0.25% commission fee applies per trade after reaching your rolling monthly limit. Your money & assets are safekept with top - tier European custodian bank . See It . Get It . Grow It . Shopping. Technology. Health. Whatever you're into, Astro is designed to help you succeed in buying stocks, ETFs and cryptocurrencies. Once for the ultra-rich, Astro personalizes eye-opening wealth tools for everyone. Try Astro ' s Smart Risk ® , Money Feed ® and visual learning today to stay one step ahead as you invest. Get Started Make Your Money Wiser . Start investing with foresight. Before buying stocks, see your money move. Get the App See your investments ’ risk & f uture value right before buying. Try Smart Risk ® Grow wealth wiser . Discover your next best investment by swiping personalized stocks. Try Money Feed ® Anywhere . Anytime . Start learning & comparing stocks by the ease of animated visuals. Try Visual Learning One App — Everything You Need To Invest Looking for inspiration to begin a p",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours make better investment decisions. I came across Astro and was impressed with your innovative approach to investing. Can you tell me a little bit about your current data processing infrastructure?",
+      "word_count": 52,
+      "char_count": 319
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Hi Alex, I'm John, the CTO here at Astro. We're actually using a competitor's solution right now, and it's been working okay for us. What makes DeepData AI different from what we're currently using?",
+      "word_count": 34,
+      "char_count": 198
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, John, our solution uses machine learning algorithms to analyze large datasets and provide more accurate predictions. We've seen our clients achieve a significant increase in returns on investment. I'd love to schedule a demo to show you how it works.",
+      "word_count": 41,
+      "char_count": 256
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure that's necessary, Alex. We're pretty happy with our current provider, and we've just renewed our contract with them for the next two years. I'm not sure it would be worth the cost to switch over to a new system right now.",
+      "word_count": 44,
+      "char_count": 234
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "I understand that switching can be a hassle, but I'd like to discuss how our solution can help you achieve your business goals. We've had success with other companies in the finance industry, and I think we could bring significant value to Astro. Would you be open to exploring a potential partnership or pilot project?",
+      "word_count": 55,
+      "char_count": 319
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, Alex, but to be honest, our contract with the competitor is pretty comprehensive, and we've got a good relationship with their team. I'm not sure our CEO would be willing to consider a change right now, especially with the costs associated with integrating a new system. Plus, we're in the middle of a big development cycle, so our resources are pretty stretched thin.",
+      "word_count": 67,
+      "char_count": 392
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, John. Perhaps we could discuss a potential integration with your existing system, or explore a phased implementation to minimize disruption to your development cycle. We've had success with similar integrations in the past.",
+      "word_count": 37,
+      "char_count": 251
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "Alex, I appreciate your persistence, but I think we're going to have to pass on DeepData AI for now. Our contract with the competitor is just too comprehensive, and we can't justify the cost and effort to switch over to a new system at this time. Thank you for reaching out, but I think we'll have to decline your offer.",
+      "word_count": 60,
+      "char_count": 320
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Competitors\nFeedback: The seller should have more aggressively addressed the buyer's existing contract and relationship with the competitor earlier in the conversation to potentially overcome this objection. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Competitors",
+      "feedback": "The seller should have more aggressively addressed the buyer's existing contract and relationship with the competitor earlier in the conversation to potentially overcome this objection. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 185,
+    "total_buyer_words": 205,
+    "avg_seller_words_per_turn": 46.25,
+    "avg_buyer_words_per_turn": 51.25,
+    "word_ratio_seller_buyer": 0.9,
+    "total_conversation_length": 390
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "simulation_id": "d0be48b8-ea29-4be7-949e-a05b46ced248",
+  "timestamp": "2026-03-11T22:00:11.902895",
+  "target_url": "https://www.invopop.com",
+  "company_context": "Simplify E-Invoicing: Issue compliant invoices, globally | Invopop Product Resources Customers Pricing Log in Schedule demo Countries Expand globally, comply locally Tax tools Go beyond invoice compliance Workflows Customize your invoicing Console Manage invoices from one place New country Send and Receive KSeF invoices in Poland Read New feature Sandbox mode Read Invoicing guides The state of e-invoicing regulation Blog Regulation news, updates and ideas Changelog The latest updates from Invopop products Developers API documentation Featured post What is an electronic invoice? Read Last post What is the TicketBAI regulation in Euskadi? Read Product Countries Tax tools Workflows Console Resources Invoicing guides Blog Changelog Developers Customers Pricing Schedule demo Issue compliant invoices, globally One API to automate compliance with any invoice format around the world. Schedule demo Try for free Console 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 { \"$schema\" : \"https://gobl.org/draft-0/bill/invoice\" , \"currency\" : \"EUR\" , \"issue_date\" : \"2022-11-14\" , \"supplier\" : { \"tax_id\" : { \"country\" : \"ES\" , \"code\" : \"B28774008\" }, \"name\" : \" Invopop S.L.\" , \"emails\" : [ { \"addr\" : \"billing+es@invopop.com\" } ], \"addresses\" : [ { \"num\" : \"42\" , \"street\" : \"Calle Pradillo\" , \"locality\": \"Madrid\", \"region\": \"Madrid\", Book a demo It all starts here Meet our customers More coming soon 20 countries. Just 1 product. Forget about local invoice requirements. Invopop converts sales into locally-compliant invoices, and reports them to the appropriate tax authority in the right format. See all countries North America United States PDF · See all countries Europe Spain TicketBAI · PDF · See all countries North America Mexico CFDI · See all countries Europe Portugal ATCUD/QR · See all countries Europe Germany Xrechnung · ZUGFerd · See all countries North America Canada PDF · See all countries Europe Belgium PDF · Peppol BIS 3.0 · See all countries South America Colombia DIAN · See all countries Europe Italy FatturaPA · Scontrino · See all countries Oceania Australia Peppol PINT A-NZ · Made for all industries Wether you operate in several jurisdictions or want to offer invoicing to your customers, Invopop can help. Global software Determine VAT, issue compliant invoices, credit notes and e-reports in all jurisdictions Sunday, Cobee... Billing solutions Expand your billing, POS, or payments product globally with one single integration. SumUp, Hyperline Marketplaces Determine VAT, invoice on behalf of merchants and comply with marketplace reporting requirements. Fever Vertical SaaS Offer compliant invoicing within solutions Amenitiz, Avantio... A complete tax tool More than just invoices. Invopop is the only solution you need to comply with your VAT, GST and Sales Tax requirements around the world. Sync your sales data Sync your sales into Invopop via our API or our ever-growing list of integrations. Validate invoice information",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm a Sales Development Representative at DeepData AI. I came across Invopop and noticed you're using a custom solution for e-invoicing. I'd love to explore how our data processing solution, DeepData AI, can help streamline your operations and reduce costs.",
+      "word_count": 46,
+      "char_count": 281
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We've actually been pretty happy with our current setup. We've invested a lot of time and resources into developing our own solution, and it's been working well for us so far. What makes you think DeepData AI would be a better fit for us?",
+      "word_count": 46,
+      "char_count": 247
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our solution is designed to handle large volumes of data and can integrate with a variety of systems. We've seen significant cost savings and efficiency gains with our other clients. Plus, our AI-powered engine can help identify and prevent errors in your invoicing process.",
+      "word_count": 45,
+      "char_count": 280
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I see. That sounds interesting, but we've already got a team in place that handles our invoicing. I'm not sure we'd be willing to switch to a new system, especially if it's going to require a lot of integration work. How much would this solution cost, and what kind of support do you offer?",
+      "word_count": 54,
+      "char_count": 290
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "Our pricing is competitive, and we offer tiered plans based on the volume of data you're processing. As for support, we have a dedicated team that's available 24/7 to help with any issues. We also offer customized onboarding and training to ensure a smooth transition.",
+      "word_count": 45,
+      "char_count": 268
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "I'm still not convinced. We've had issues with other third-party solutions in the past, and I'm hesitant to bring in another vendor. Can you tell me about any other companies similar to ours that you've worked with, and how you've helped them?",
+      "word_count": 42,
+      "char_count": 243
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "Absolutely. We've worked with several companies in the e-invoicing space, and we've seen some great success stories. However, I understand your concerns, and I'd be happy to provide some case studies and references if you're interested.",
+      "word_count": 36,
+      "char_count": 236
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "I appreciate the offer, but I think we're going to have to pass. We're happy with our current solution, and we don't see a compelling reason to switch. We've got a lot on our plate right now, and I don't think it's the right time for us to be evaluating new vendors. Thanks for reaching out, though.",
+      "word_count": 57,
+      "char_count": 299
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 4\nOutcome: Failure\nKey_Objection: Integration\nFeedback: The seller should have more aggressively addressed the buyer's concerns about integration and the potential disruption to their current workflow earlier in the conversation. Sentiment: Neutral",
+    "parsed": {
+      "score": 4,
+      "outcome": "Failure",
+      "key_objection": "Integration",
+      "feedback": "The seller should have more aggressively addressed the buyer's concerns about integration and the potential disruption to their current workflow earlier in the conversation. Sentiment: Neutral"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 172,
+    "total_buyer_words": 199,
+    "avg_seller_words_per_turn": 43.0,
+    "avg_buyer_words_per_turn": 49.75,
+    "word_ratio_seller_buyer": 0.86,
+    "total_conversation_length": 371
+  }
+}

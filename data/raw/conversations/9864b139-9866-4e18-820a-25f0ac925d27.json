@@ -1,0 +1,82 @@
+{
+  "simulation_id": "9864b139-9866-4e18-820a-25f0ac925d27",
+  "timestamp": "2026-03-11T21:56:59.543175",
+  "target_url": "https://www.bubble.io",
+  "company_context": "Bubble: Build web & mobile apps with the only no-code AI app builder Built on Bubble",
+  "conversation": [
+    {
+      "turn": 1,
+      "speaker": "Seller",
+      "message": "Hi, my name is Alex and I'm reaching out from DeepData AI. We're a data processing solution that helps companies like yours streamline their data workflow and gain valuable insights. I came across your company, Bubble, and was impressed with the work you're doing in the no-code app building space. Can you tell me a bit about your current data processing setup?",
+      "word_count": 62,
+      "char_count": 362
+    },
+    {
+      "turn": 1,
+      "speaker": "Buyer",
+      "message": "Ah, yes. We're currently using a solution from DataForge, and it's been working okay for us so far. What makes DeepData AI think they can do better?",
+      "word_count": 27,
+      "char_count": 148
+    },
+    {
+      "turn": 2,
+      "speaker": "Seller",
+      "message": "Well, our AI-powered engine can handle large volumes of data much more efficiently than traditional solutions. We've seen companies like yours reduce their data processing time by up to 70%. I'd love to schedule a demo to show you exactly how it works. Would you be open to that?",
+      "word_count": 49,
+      "char_count": 279
+    },
+    {
+      "turn": 2,
+      "speaker": "Buyer",
+      "message": "I'm not sure. We just renewed our contract with DataForge a few months ago, and I'm not sure we're ready to make a switch. Plus, I've heard that implementing a new data processing solution can be a real headache. How do you handle integration with existing systems?",
+      "word_count": 47,
+      "char_count": 265
+    },
+    {
+      "turn": 3,
+      "speaker": "Seller",
+      "message": "That's a great question. Our team has a lot of experience with integrating DeepData AI into existing infrastructures, and we have a number of pre-built connectors for popular systems. We also offer dedicated support to ensure a smooth transition. As for the cost, we offer a competitive pricing model that can actually help you save money in the long run. Would you like me to send over some case studies and pricing information?",
+      "word_count": 73,
+      "char_count": 429
+    },
+    {
+      "turn": 3,
+      "speaker": "Buyer",
+      "message": "Honestly, I'm not convinced that the potential benefits are worth the risk and cost of switching. We've already invested a lot of time and money into our current setup, and I'm not sure our team is ready to take on another big project right now. And like I said, we just renewed our contract with DataForge, so we're locked in for at least another year.",
+      "word_count": 65,
+      "char_count": 353
+    },
+    {
+      "turn": 4,
+      "speaker": "Seller",
+      "message": "I understand your concerns, and I appreciate your honesty. Can I at least send over some information and follow up with you in a few months to see if anything has changed?",
+      "word_count": 32,
+      "char_count": 171
+    },
+    {
+      "turn": 4,
+      "speaker": "Buyer",
+      "message": "No, I think we're all set. We'll stick with DataForge for now, and I don't see us making any changes to our data processing setup in the near future. Thank you for reaching out, but I think we'll have to pass on DeepData AI for now.",
+      "word_count": 46,
+      "char_count": 232
+    }
+  ],
+  "analysis": {
+    "raw": "Score: 2\nOutcome: Failure\nKey_Objection: Timing\nFeedback: The seller should have more effectively addressed the buyer's concerns about switching costs and timing by providing more tailored solutions or incentives to mitigate the risk of changing data processing solutions. Sentiment: Negative",
+    "parsed": {
+      "score": 2,
+      "outcome": "Failure",
+      "key_objection": "Timing",
+      "feedback": "The seller should have more effectively addressed the buyer's concerns about switching costs and timing by providing more tailored solutions or incentives to mitigate the risk of changing data processing solutions. Sentiment: Negative"
+    }
+  },
+  "metrics": {
+    "num_turns": 4,
+    "total_seller_words": 216,
+    "total_buyer_words": 185,
+    "avg_seller_words_per_turn": 54.0,
+    "avg_buyer_words_per_turn": 46.25,
+    "word_ratio_seller_buyer": 1.17,
+    "total_conversation_length": 401
+  }
+}
