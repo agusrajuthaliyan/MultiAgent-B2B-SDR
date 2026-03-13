@@ -47,6 +47,7 @@ from src.dashboard_components import (
     create_feature_importance,
     create_comprehensive_dashboard,
     create_outcome_sunburst,
+    create_correlation_heatmap,
     generate_insights_html,
     create_empty_figure
 )
@@ -436,12 +437,14 @@ def refresh_analytics_dashboard():
     score_dist = create_score_distribution(df)
     trend_chart = create_performance_trend(df)
     
-    # Feature importance from model training
+    # Feature importance and correlation heatmap
     model_info = portfolio_insights.get('model_training', {})
     if 'feature_importance' in model_info:
         importance_chart = create_feature_importance(model_info['feature_importance'])
     else:
         importance_chart = create_empty_figure("Train model with more data")
+        
+    heatmap_chart = create_correlation_heatmap(df)
     
     # Summary text
     summary = portfolio_insights.get('summary_metrics', {})
@@ -460,7 +463,7 @@ def refresh_analytics_dashboard():
 {format_trend_insights(portfolio_insights.get('performance_trends', {}))}
     """
     
-    return main_dashboard, score_dist, trend_chart, importance_chart, summary_text
+    return main_dashboard, score_dist, trend_chart, importance_chart, heatmap_chart, summary_text
 
 
 def format_objection_insights(obj_patterns: dict) -> str:
@@ -648,7 +651,10 @@ with gr.Blocks(
                     trend_plot = gr.Plot(label="Performance Trend")
             
             with gr.Row():
-                importance_plot = gr.Plot(label="ML Feature Importance")
+                with gr.Column():
+                    importance_plot = gr.Plot(label="ML Feature Importance")
+                with gr.Column():
+                    heatmap_plot = gr.Plot(label="Feature Correlation")
         
         # =====================================================================
         # TAB 3: DATA EXPORT
@@ -750,6 +756,7 @@ with gr.Blocks(
             score_dist_plot,
             trend_plot,
             importance_plot,
+            heatmap_plot,
             analytics_summary
         ]
     )

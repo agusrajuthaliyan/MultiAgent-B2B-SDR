@@ -203,66 +203,61 @@ def create_outcome_sunburst(df: pd.DataFrame) -> go.Figure:
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# 4. SCORE DISTRIBUTION — "Most calls scored X–Y / 10"
+# 4. SCORE DISTRIBUTION — "Score distribution by outcome"
 # ═══════════════════════════════════════════════════════════════════════
 
 def create_score_distribution(df: pd.DataFrame) -> go.Figure:
-    if df.empty or 'score' not in df.columns:
+    if df.empty or 'score' not in df.columns or 'outcome_label' not in df.columns:
         return create_empty_figure("No score data yet")
-
-    scores = df['score']
-    mean_s = scores.mean()
-    median_s = scores.median()
 
     fig = go.Figure()
 
-    # Histogram with clear bins
-    fig.add_trace(go.Histogram(
-        x=scores,
-        nbinsx=10,
-        marker=dict(
-            color=T.ACCENT,
-            line=dict(color=T.BG, width=1),
-            opacity=0.85,
-        ),
-        hovertemplate='Score %{x}<br>%{y} calls<extra></extra>'
-    ))
-
-    # Mean line
-    fig.add_vline(
-        x=mean_s, line_width=2, line_dash="dash", line_color=T.WARN,
-        annotation_text=f"Mean: {mean_s:.1f}",
-        annotation_position="top",
-        annotation_font=dict(size=12, color=T.WARN)
-    )
-
-    # Median line
-    fig.add_vline(
-        x=median_s, line_width=2, line_dash="dot", line_color=T.INFO,
-        annotation_text=f"Median: {median_s:.1f}",
-        annotation_position="top left",
-        annotation_font=dict(size=12, color=T.INFO)
-    )
+    # Create box plots separated by outcome
+    outcomes = df['outcome_label'].unique()
+    
+    for outcome in outcomes:
+        outcome_data = df[df['outcome_label'] == outcome]['score']
+        
+        # Color based on outcome type
+        oc_lower = str(outcome).lower()
+        if 'success' in oc_lower or 'win' in oc_lower:
+            color = T.WIN
+        elif 'fail' in oc_lower or 'loss' in oc_lower:
+            color = T.LOSS
+        else:
+            color = T.WARN
+            
+        fig.add_trace(go.Box(
+            x=outcome_data,
+            name=outcome,
+            marker_color=color,
+            boxpoints='all',  # show all points
+            jitter=0.3,       # spread them out
+            pointpos=-1.8,    # put points next to box
+            hovertemplate='Score: %{x}<br>Outcome: %{y}<extra></extra>'
+        ))
 
     # Quality zones
     fig.add_vrect(x0=0.5, x1=4.5, fillcolor=T.LOSS_BG, line_width=0,
-                  annotation_text="Weak", annotation_position="bottom left",
-                  annotation_font=dict(size=10, color=T.LOSS))
+                  annotation_text="Weak", annotation_position="top left",
+                  annotation_font=dict(size=10, color=T.LOSS), layer="below")
     fig.add_vrect(x0=4.5, x1=7.5, fillcolor=T.WARN_BG, line_width=0,
-                  annotation_text="Average", annotation_position="bottom left",
-                  annotation_font=dict(size=10, color=T.WARN))
+                  annotation_text="Average", annotation_position="top left",
+                  annotation_font=dict(size=10, color=T.WARN), layer="below")
     fig.add_vrect(x0=7.5, x1=10.5, fillcolor=T.WIN_BG, line_width=0,
-                  annotation_text="Strong", annotation_position="bottom left",
-                  annotation_font=dict(size=10, color=T.WIN))
+                  annotation_text="Strong", annotation_position="top left",
+                  annotation_font=dict(size=10, color=T.WIN), layer="below")
+
+    median_s = df['score'].median()
 
     return _base(fig, height=370,
                  title=_title(
-                     f"Most calls scored around {median_s:.0f}/10",
-                     f"{len(df)} simulations · Mean {mean_s:.1f} · Median {median_s:.1f}"
+                     f"Score Distribution by Call Outcome",
+                     f"Overall Median: {median_s:.1f}/10"
                  ),
                  xaxis_title="Call Quality Score (1 = poor → 10 = excellent)",
-                 yaxis_title="Number of Calls",
-                 bargap=0.06, showlegend=False)
+                 yaxis_title="",
+                 showlegend=False)
 
 
 # ═══════════════════════════════════════════════════════════════════════
@@ -330,53 +325,72 @@ def create_sentiment_trajectory(sentiment_data: Dict[str, Any]) -> go.Figure:
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# 6. OBJECTION ANALYSIS — Clear horizontal bars (not radar)
+# 6. OBJECTION ANALYSIS — Dual Chart (Win Rate + Volume)
 # ═══════════════════════════════════════════════════════════════════════
 
 def create_objection_radar(objections: Dict[str, Any]) -> go.Figure:
     """
-    Horizontal bar chart showing objection frequency.
-    Replaced radar (hard to read) with simple, clear bars.
+    Subplots showing Win Rate by Objection AND Objection Volume.
     """
     if not objections or 'objections' not in objections or not objections['objections']:
         return create_empty_figure("No objections detected in this call")
 
+    # In a real scenario, this gets a dataframe or dict of objections
+    # For now, adapting the existing single-dict format to mock the subplots
     categories = list(objections['objections'].keys())
     values = [objections['objections'][cat]['count'] for cat in categories]
-
+    
     # Sort by count descending
     paired = sorted(zip(categories, values), key=lambda p: p[1])
     categories = [p[0] for p in paired]
     values = [p[1] for p in paired]
 
-    # Color the top objection differently
+    fig = make_subplots(
+        rows=1, cols=2,
+        subplot_titles=("<b>Win Rate by Objection</b>", "<b>Frequency (Volume)</b>"),
+        horizontal_spacing=0.1
+    )
+
+    # Left: Mock Win Rate (if data doesn't have it, we use a placeholder or neutral color)
+    fig.add_trace(go.Bar(
+        y=categories, x=[50]*len(categories), # Placeholder 50% since dict only has counts
+        orientation='h',
+        marker=dict(color=T.BORDER, line=dict(color=T.BG, width=1)),
+        text=[f"N/A"] * len(categories),
+        textposition='inside',
+        textfont=dict(size=11, color=T.TEXT3),
+        hovertemplate='%{y}: Win rate N/A for individual call<extra></extra>'
+    ), row=1, col=1)
+
+    # Right: Volume
     max_val = max(values) if values else 1
     bar_colors = [T.LOSS if v == max_val else T.ACCENT for v in values]
-
-    fig = go.Figure(go.Bar(
+    
+    fig.add_trace(go.Bar(
         y=categories, x=values,
         orientation='h',
         marker=dict(color=bar_colors, line=dict(color=T.BG, width=1)),
         text=[f"  {v}×" for v in values],
         textposition='outside',
-        textfont=dict(size=13, color=T.TEXT),
+        textfont=dict(size=12, color=T.TEXT),
         hovertemplate='%{y}: raised %{x} time(s)<extra></extra>'
-    ))
+    ), row=1, col=2)
 
-    # Highlight worst objection
+    # Turn off Y axis labels for the second subplot (they share categories)
+    fig.update_yaxes(showticklabels=False, row=1, col=2)
+    fig.update_xaxes(title_text="Win Rate (%)", row=1, col=1)
+    fig.update_xaxes(title_text="Occurrences", row=1, col=2)
+
     top_obj = categories[-1] if categories else "N/A"
     fig.add_annotation(
-        x=0.5, y=-0.15, xref='paper', yref='paper', showarrow=False,
-        text=f"⚠️ <b>{top_obj}</b> was the hardest objection to overcome",
+        x=0.5, y=-0.2, xref='paper', yref='paper', showarrow=False,
+        text=f"⚠️ <b>{top_obj}</b> was the hardest objection",
         font=dict(size=12, color=T.WARN)
     )
 
-    return _base(fig, height=320,
-                 margin=dict(l=120, r=50, t=80, b=55),
-                 title=_title("Objections the buyer raised",
-                              "How many times each concern came up · "
-                              "Red = most frequent"),
-                 xaxis_title="Times Raised",
+    return _base(fig, height=340,
+                 margin=dict(l=120, r=40, t=80, b=60),
+                 title=_title("Objections Analysis", "Impact and Frequency"),
                  showlegend=False)
 
 
@@ -553,7 +567,63 @@ def create_performance_trend(df: pd.DataFrame) -> go.Figure:
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# 10. FEATURE IMPORTANCE — "What drives a successful deal?"
+# 10. FEATURE IMPACT HEATMAP — "Correlation between features"
+# ═══════════════════════════════════════════════════════════════════════
+
+def create_correlation_heatmap(df: pd.DataFrame) -> go.Figure:
+    """
+    Creates a correlation heatmap of key metrics.
+    """
+    if df.empty:
+        return create_empty_figure("Not enough data to matrix correlations")
+
+    corr_cols = ['score', 'outcome_binary', 'word_ratio_seller_buyer', 
+                 'total_conversation_length', 'seller_speaking_time_seconds']
+    
+    existing_cols = [c for c in corr_cols if c in df.columns]
+    
+    if len(existing_cols) < 2:
+        return create_empty_figure("Missing required columns for heatmap")
+
+    # Calculate correlation matrix
+    corr_matrix = df[existing_cols].corr().round(2)
+    
+    friendly_names = {
+        'score': 'Quality Score',
+        'outcome_binary': 'Win/Loss',
+        'word_ratio_seller_buyer': 'Talk Ratio',
+        'total_conversation_length': 'Total Words',
+        'seller_speaking_time_seconds': 'Seller Time (s)'
+    }
+    
+    labels = [friendly_names.get(c, c) for c in corr_matrix.columns]
+
+    fig = go.Figure(data=go.Heatmap(
+        z=corr_matrix.values,
+        x=labels,
+        y=labels,
+        colorscale=[[0, T.LOSS], [0.5, T.SURFACE], [1, T.WIN]], # Custom diverging colorscale
+        zmin=-1, zmax=1,
+        text=corr_matrix.values,
+        texttemplate="%{text}",
+        textfont={"size": 12, "family": T.FONT},
+        hoverongaps=False,
+        hovertemplate='%{y} vs %{x}<br>Correlation: %{z:.2f}<extra></extra>'
+    ))
+
+    # Match background
+    fig.update_layout(
+        plot_bgcolor=T.SURFACE,
+        paper_bgcolor=T.SURFACE,
+    )
+
+    return _base(fig, height=380,
+                 margin=dict(l=120, r=40, t=80, b=100), showlegend=False,
+                 title=_title("Feature Correlation Heatmap",
+                              "How conversational traits relate to outcomes and scores"))
+
+# ═══════════════════════════════════════════════════════════════════════
+# 10.5. FEATURE IMPORTANCE — "What drives a successful deal?"
 # ═══════════════════════════════════════════════════════════════════════
 
 def create_feature_importance(importance: Dict[str, float]) -> go.Figure:
@@ -647,28 +717,31 @@ def create_comprehensive_dashboard(df: pd.DataFrame, insights: Dict[str, Any]) -
         number={'suffix': '%', 'font': {'size': 56, 'color': wr_color, 'family': T.FONT}},
     ), row=1, col=1)
 
-    # 2. Outcome Pie
+    # 2. Outcome Breakdown (Horizontal Bar replaces Pie)
     if 'outcome_label' in df.columns:
         oc = df['outcome_label'].value_counts()
-        pie_colors = []
+        bar_colors = []
         for label in oc.index:
             l = label.lower()
-            if 'success' in l:
-                pie_colors.append(T.WIN)
-            elif 'fail' in l:
-                pie_colors.append(T.LOSS)
+            if 'success' in l or 'win' in l:
+                bar_colors.append(T.WIN)
+            elif 'fail' in l or 'loss' in l:
+                bar_colors.append(T.LOSS)
             else:
-                pie_colors.append(T.WARN)
+                bar_colors.append(T.WARN)
 
-        fig.add_trace(go.Pie(
-            labels=oc.index.tolist(),
-            values=oc.values.tolist(),
-            marker=dict(colors=pie_colors, line=dict(color=T.BG, width=2)),
-            textinfo='percent+label',
+        fig.add_trace(go.Bar(
+            y=oc.index.tolist(),
+            x=oc.values.tolist(),
+            orientation='h',
+            marker=dict(color=bar_colors, line=dict(color=T.BG, width=1)),
+            text=[str(v) for v in oc.values.tolist()],
+            textposition='outside',
             textfont=dict(size=12, color=T.TEXT),
-            hovertemplate='%{label}: %{value} calls (%{percent})<extra></extra>',
-            hole=0.4,  # donut for clarity
+            hovertemplate='%{y}: %{x} calls<extra></extra>',
         ), row=1, col=2)
+        fig.update_xaxes(title_text="Number of Calls", row=1, col=2)
+        fig.update_yaxes(categoryorder='total ascending', row=1, col=2)
 
     # 3. Score Trend
     if 'timestamp' in df.columns and 'score' in df.columns:
